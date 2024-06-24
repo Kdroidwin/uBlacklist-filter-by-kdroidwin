@@ -5,6 +5,7 @@ uBlacklist 用のフィルター　
 # フィルター購読
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt
 
+https://iorate.github.io/ublacklist/subscribe?name= uBlacklist-filter-by-kdroidwinl&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt
 
 # 対象サイト
 
