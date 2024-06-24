@@ -1,4 +1,4 @@
-# uBlacklist-filter-by-kdroidwin-
+# uBlacklist-filter-by-kdroidwin
 uBlacklist 用のフィルター　
 主に、詐欺サイトや偽サイトを除外することが目的です。
 
