@@ -2,6 +2,10 @@
 uBlacklist 用のフィルター　
 主に、詐欺サイトや偽サイトを除外することが目的です。
 
+# フィルター購読
+https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin-/main/uBlacklist.txt
+
+
 # 対象サイト
 
 いかがでしたかサイト
