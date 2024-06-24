@@ -25,3 +25,8 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 技術系スパムサイト
 
+
+# 効果をテスト
+
+[検索](https://www.google.com/search?q=Google+site%3Acn&ie=UTF-8#ip=1)
+
