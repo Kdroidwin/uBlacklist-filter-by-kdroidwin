@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 一部ランキングサイト(mybestなど)
 
+
 偽サイト(偽revancedや偽Githubリポジトリなど)
 
 一部SNS(Tiktok Instagram はてなブックマーク pinterest等)
@@ -30,3 +31,8 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 [検索](https://www.google.com/search?q=Google+site%3Acn&ie=UTF-8#ip=1)
 
+
+# 貢献
+
+URLの追加やミスの削除に協力していだける方は、レポジトリをForkして編集していただき、pull requestを送ってください。
+issueでも構いませんが、できるならpull requestのほうが良いです。
