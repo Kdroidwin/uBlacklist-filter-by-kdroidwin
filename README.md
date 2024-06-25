@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 # 効果をテスト
 
-[検索](https://www.google.com/search?q=Google+site%3Acn&ie=UTF-8#ip=1)
+[検索](https://www.google.com/search?q=%E5%85%AC%E5%BC%8F+site%3Aonline+OR+site%3Acn+OR+site%3Ashop+OR+site%3Atop+OR+site%3Asite+OR+site%3Aapp+OR+site%3Acfd+OR+site%3Axyz+OR+site%3Ame+OR+site%3Ame+OR+site%3Aru+OR+site%3Auk+OR+site%3Apl+OR+site%3Aonline+OR+site%3Ashop&sca_upv=1#ip=1)
 
 
 # 貢献
