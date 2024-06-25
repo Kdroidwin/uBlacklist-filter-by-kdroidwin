@@ -1,6 +1,6 @@
 # uBlacklist-filter-by-kdroidwin
 uBlacklist 用のフィルター　
-主に、詐欺サイトや偽サイトを除外することが目的です。
+- 主に、詐欺サイトや偽サイトを除外することが目的です。
 
 # フィルター購読
 
@@ -13,20 +13,19 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 # 対象サイト
 
-いかがでしたかサイト
+- いかがでしたかサイト
 
-芸能ゴシップ記事
+- 芸能ゴシップ記事
 
-詐欺サイト(ショッピングなど)
+- 詐欺サイト(ショッピングなど)
 
-一部ランキングサイト(mybestなど)
+- 一部ランキングサイト(mybestなど)
 
+- 偽サイト(偽revancedや偽Githubリポジトリなど)
 
-偽サイト(偽revancedや偽Githubリポジトリなど)
+- 一部SNS(Tiktok Instagram はてなブックマーク pinterest等)
 
-一部SNS(Tiktok Instagram はてなブックマーク pinterest等)
-
-技術系スパムサイト
+- 技術系スパムサイト
 
 
 # 効果をテスト
