@@ -2,6 +2,9 @@
 uBlacklist 用のフィルター　
 - 主に、詐欺サイトや偽サイトを除外することが目的です。
 
+- Filters for uBlacklist　
+- The main purpose is to exclude fraudulent or fake sites.
+
 # フィルター購読
 
 下の購読を押してください。
@@ -13,15 +16,15 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 # 対象サイト
 
-- いかがでしたかサイト
+- いかがでしたかサイト(UNEXTアフィリエイトやNordアフィリエイト含む)
 
-- 芸能ゴシップ記事
+- 芸能ゴシップ記事(元カノとか)
 
 - 詐欺サイト(ショッピングなど)
 
 - 一部ランキングサイト(mybestなど)
 
-- 偽サイト(偽revancedや偽Githubリポジトリなど)
+- 偽サイト(偽revanced、偽Githubリポジトリ、偽Googleなど)
 
 - 一部SNS(Tiktok Instagram はてなブックマーク pinterest等)
 
