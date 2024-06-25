@@ -4298,7 +4298,6 @@ title/結婚して子供がいる？/
 *://www.dsk-cloud.com/*
 *://web-camp.io/*
 *://www.enigmasoftware.jp/*
-*://atmarkit.itmedia.co.jp/*
 *://labo.webis.co.jp/*
 *://www.vektor-inc.co.jp/*
 *://aytechlab.com/*
@@ -4316,7 +4315,6 @@ title/結婚して子供がいる？/
 *://d-engineer.com/*
 *://www.kagoya.jp/*
 *://ic-solution.jp/*
-*://doda.jp/*
 *://programmercollege.jp/*
 *://pleasanter.org/*
 *://school.dhw.co.jp/*
