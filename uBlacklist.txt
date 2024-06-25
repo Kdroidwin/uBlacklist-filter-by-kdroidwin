@@ -4293,7 +4293,6 @@ title/結婚して子供がいる？/
 *://wp-load.in/*
 *://blog.codecamp.jp/*
 *://web.lingual-ninja.com/*
-*://www.lifehacker.jp/*
 *://blogcake.net/*
 *://benrideotoku.com/*
 *://www.dsk-cloud.com/*
@@ -4423,15 +4422,11 @@ title/結婚して子供がいる？/
 *://yoncoichi.com/*
 *://webukatu.com/*
 *://hitodeblog.com/*
-*://jp.indeed.com/*
 *://jitera.com/*
 *://sufanblog.com/*
-*://tenshoku.mynavi.jp/*
 *://offers.jp/*
 *://outputenglish.com/*
-*://apple-geeks.com/*
 *://www.yu-eki.com/*
-*://appli-world.jp/*
 *://ipadworkers.substack.com/*
 *://watchmono.com/*
 *://rockinon.com/*
@@ -4473,7 +4468,6 @@ title/結婚して子供がいる？/
 *://www.sisia.or.jp/*
 *://pinkant.usachannel.info/*
 *://www.wantedly.com/*
-*://townwork.net/*
 *://gakusei-machikon.com/*
 *://gadgettasu.com/*
 *://zisalog.com/*
