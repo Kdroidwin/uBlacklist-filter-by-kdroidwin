@@ -2,7 +2,7 @@
 uBlacklist 用のフィルター　
 - 主に、詐欺サイトや偽サイトを除外することが目的です。
 
-- Filters for uBlacklist　
+Filters for uBlacklist　
 - The main purpose is to exclude fraudulent or fake sites.
 
 # フィルター購読
