@@ -85,6 +85,7 @@
 *://*.az/*
 *://*.pn/*
 *://*.mx/*
+*://*.hu/*
 *://*.com.cn/*
 *://*.edu.cn/*
 *://*.gov.cn/*
@@ -93,6 +94,25 @@
 *://*.gov.uk/*
 *://*.ac.uk/*
 *://*.org.uk/*
+*://*.ac.id/*
+*://*.gov.krd/*
+*://*.gov.ng/*
+*://*.edu.ar/*
+*://*.edu.pe/*
+*://*.sch.id/*
+*://*.ac.in/*
+*://*.edu.kz/*
+*://*.icrt.cu/*
+*://*.co.za/*
+*://*.edu.ph/*
+*://*.com.my/*
+*://*.edu.co/*
+*://*.gov.my/*
+*://*.edu.br/*
+*://*.edu.vn/*
+*://*.edu.co/*
+*://*.edu.in/*
+*://*.uprrp.edu/*
 title/^無題$/
 title/Sign in - Google Accounts/
 title/- Apps on Google Play/
