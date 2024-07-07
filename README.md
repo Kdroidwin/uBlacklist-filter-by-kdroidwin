@@ -20,12 +20,12 @@ Filters for uBlacklist　
 
 
 下記はrawURL
-- フィルター1 URL
+- uBlacklistフィルター1 by Kdroidwin URL
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt
 ```
 
-- フィルター2 URL
+- uBlacklistフィルター2 by Kdroidwin URL
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist2.txt
 ```
