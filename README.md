@@ -1,4 +1,7 @@
 # uBlacklist-filter-by-kdroidwin
+
+[English Readme](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/blob/main/README-EN.md)
+
 uBlacklist 用のフィルター　
 - 主に、詐欺サイトや偽サイトを除外することが目的です。
 
