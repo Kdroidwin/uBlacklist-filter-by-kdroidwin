@@ -8,15 +8,8 @@
 
  # Filter subscription
  
- - press subscribe.
+ - Press button of 購読 in japanese Readme.
  - The second filter is for those who can tolerate some mistakes.  Please use it in conjunction with the first filter.
-
-
- [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/ main/uBlacklist.txt)
-
-
- [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin2&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/ main/uBlacklist2.txt)
-
 
 
  rawURL
