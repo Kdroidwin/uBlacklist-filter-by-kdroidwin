@@ -12,7 +12,10 @@ Filters for uBlacklist　
 
 - 下の購読を押してください。
 - 2つ目の購読の方は多少の誤爆が許せる方向けです。1つ目のフィルターと併用して使ってください。
-- Firefoxユーザーのかたは購読が押せないことがあります。uBlacklistのオプション＞購読＞購読を追加するからrawURLと適当な名前を入力してください。
+
+> [!NOTE]
+>Firefoxユーザーは購読が押せないことがあります。uBlacklistのオプション＞購読＞購読を追加するからrawURLと適当な名前を入力してください。
+
 
 [購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt)
 
