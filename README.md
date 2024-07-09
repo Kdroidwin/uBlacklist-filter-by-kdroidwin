@@ -1,5 +1,9 @@
 # uBlacklist-filter-by-kdroidwin
 
+<a alt="MIT License" href="https://kawakawaritsuki.mit-license.org/">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+</a>
+
 [English Readme](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/blob/main/README-EN.md)
 
 uBlacklist 用のフィルター　
