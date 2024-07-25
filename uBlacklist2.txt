@@ -14,3 +14,6 @@
 *://*.site/*
 *://*.tech/*
 title/超激安/
+title/スーパー激安/
+title/100%正規品/
+title/完全正規品/
