@@ -496,7 +496,6 @@ title/\u0600-\u06FF]+/
 *://www.cyberowl.co.jp/*
 *://oggi.jp/*
 *://www.fujiya-avic.co.jp/*
-*://www.nojima.co.jp/*
 *://nexer.co.jp/*
 *://tobuy.jp/*
 *://smartlog.jp/*
@@ -517,7 +516,6 @@ title/\u0600-\u06FF]+/
 *://komono.me/*
 *://www.doorkeeper.jp/*
 *://www.biscuit-online.com/*
-*://www.excite.co.jp/*
 *://trustcellar.com/*
 *://popteen.co.jp/*
 *://bp-guide.jp/*
@@ -1387,12 +1385,6 @@ title/\u0600-\u06FF]+/
 *://news.ganma.jp/*
 *://game.boom-app.com/*
 *://lifehacktivist.com/*
-@*://lifehack2ch.livedoor.biz/*
-@*://world-fusigi.net/*
-@*://sfgidf.blog.jp/*
-@*://vip.5chmap.com/*
-@*://hattatu-matome.ldblog.jp/*
-@*://mylife.2chblog.jp/*
 *://www.heromotors.com/*
 *://satobayashi.net/*
 *://www.softwareskills.eu/*
@@ -1526,13 +1518,6 @@ title/\u0600-\u06FF]+/
 *://cluster-paca-logistique.com/*
 *://filmora.wondershare.jp/*
 *://dojingame.net/*
-@*://matome-new.com/*
-@*://yaraon-blog.com/*
-@*://w.atwiki.jp/*
-@*://getnews.jp/*
-@*://2soku.2chblog.jp/*
-@*://news.matomegamer.com/*
-@*://vtuber-matomeblog.com/*
 *://www.kenmori.jp/*
 *://eiga-mylife.com/*
 *://www.bl-n.com/*
