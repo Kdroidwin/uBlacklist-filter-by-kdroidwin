@@ -230,9 +230,7 @@ title/正規品販促激安/
 *://butter-delimmo.jp/*
 *://e-service.jpdm.edu.bd/*
 *://gaspa-web.jp/*
-*://ototoy.jp/*
 *://aasc.or.jp/*
-*://musicstore.auone.jp/*
 *://www.pinterest.com/*
 *://qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net/*
 *://www.tiktok.com/*
@@ -275,18 +273,12 @@ title/正規品販促激安/
 *://aspaen.edu.co/*
 *://itssicani.it/*
 *://comic.book.mynavi.jp/*
-*://www.e-onkyo.com/*
-*://recochoku.jp/*
-*://dmusic.docomo.ne.jp/*
-*://soundcloud.com/*
-*://books.google.co.jp/*
 *://telegra.ph/*
 *://roman-so-words.bandcamp.com/*
 *://sonix8.rssing.com/*
 *://www.recordshopbase.com/*
 *://blog.livedoor.jp/kumakazu1207/*
 *://www.acgjc.com/*
-*://augma.fandom.com/*
 *://moonkoradjirecords.bandcamp.com/*
 *://huzurumsi.online/*
 *://atlasmasonrycontractors.com/*
@@ -441,7 +433,6 @@ title/正規品販促激安/
 *://jp.ldplayer.net/*
 *://apkdownloadforwindows.com/*
 *://ak.akhbara24.news/*
-title/\u0600-\u06FF]+/
 *://774neet.com/*
 *://dream.jp/*
 *://www.ldplayer.net/*
@@ -1561,7 +1552,6 @@ title/\u0600-\u06FF]+/
 *://anincline.com/*
 *://magi.camp/*
 *://geinouwadai.com/*
-title/結婚して子供がいる？/
 *://ree-ma.com/*
 *://quality-of-life-ryoblog.com/*
 *://suzured.com/*
@@ -2835,7 +2825,6 @@ title/結婚して子供がいる？/
 *://support.amzdata.cn/*
 *://md.hellokit.com.cn/*
 *://stor.cdn.dfyun.com.cn/*
-*://t.cn/*
 *://lib.ia.ac.cn/*
 *://hid.cftest6.cn/*
 *://japan.zdnet.ex1.https.443.ipv6.faw.com.cn/*
