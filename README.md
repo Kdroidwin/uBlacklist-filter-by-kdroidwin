@@ -1,9 +1,5 @@
 # uBlacklist-filter-by-kdroidwin
 
-<a alt="MIT License" href="https://kawakawaritsuki.mit-license.org/">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
-</a>
-
 
 uBlacklist 用のフィルター　
 - 主に、詐欺サイトや偽サイトを除外することが目的です。
