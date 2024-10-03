@@ -6627,4 +6627,5 @@ title/正規品販促激安/
 *://6686com2326.app/*
 *://my-site-102068-108917.square.site/*
 *://rere.jp/beginners/249062/*
-*://app.famitsu.com/category/android-apps/android-recommend/page/*
+*://app.famitsu.com/category/android-apps/android-recommend/*
+*://wepli-dot2.hatenablog.com/*
