@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 # 対象サイト
 
 - いかがでしたかサイト(UNEXTアフィリエイトやNordアフィリエイト含む)
+- DMMの紹介文コピペしてアフィリンク挿入しただけの記事
 
 - 芸能ゴシップ記事(元カノとか)
 
