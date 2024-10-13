@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 - 芸能ゴシップ記事(元カノとか)
 
-- 詐欺サイト(ショッピングなど)
+- 詐欺サイト(詐欺ショッピングサイトなど)
 
 - 一部ランキングサイト(mybestなど)
 
