@@ -6211,6 +6211,7 @@ title/正規品販促激安/
 *://one-carat.com/*
 *://sourceforge.net/projects/revanced-extended-byie/*
 *://www.1377x.to/*
+*://1377x.to/*
 *://13377x.io/*
 *://igg-games.com/*
 *://oceanofgames.com/*
@@ -6808,3 +6809,5 @@ title/正規品販促激安/
 *://eromanga-house.com/*
 *://douer.jinpit.com/*
 *://doujin-eromanga.adult-h.com/*
+*://rargb.to/*
+*://therarbg.com/*
