@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 - DMMの紹介文コピペしてアフィリンク挿入しただけの記事
 
-- 芸能ゴシップ記事(元カノ、元カレとか)
+- 芸能ゴシップ記事(元カノ、元カレ、学歴とか)
 
 - 詐欺サイト(詐欺ショッピングサイトなど)
 
