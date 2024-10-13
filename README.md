@@ -35,23 +35,24 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 # 対象サイト
 
-- いかがでしたかサイト(UNEXTアフィリエイトやNordアフィリエイト含む)
+- いかがでしたかサイト
+- UNEXTアフィリエイトやNordアフィリエイトなどお金をもらってランキング上げているサイト
 
 - DMMの紹介文コピペしてアフィリンク挿入しただけの記事
 
-- 芸能ゴシップ記事(元カノとか)
+- 芸能ゴシップ記事(元カノ、元カレとか)
 
 - 詐欺サイト(詐欺ショッピングサイトなど)
 
-- 一部ランキングサイト(mybestなど)
+- 一部ランキングサイト(mybestなどランキングになっていないもの)
 
 - 偽サイト(偽revanced、偽Githubリポジトリ、偽Z-Libなど)
 
 - 一部SNS(Tiktok Instagram はてなブックマーク pinterest等)
 
-- 技術系スパムサイト
+- 技術系スパムサイト(間違った情報)
 
-- 危険なソフトウェアダウンロードサイト(igggamesなど)
+- 危険なソフトウェアダウンロードサイト(igggamesなどマルウェア)
 
 
 # 効果をテスト
