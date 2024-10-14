@@ -6967,3 +6967,5 @@ title/正規品販促激安/
 *://nen-syu.com/*
 *://tailuck.com/*
 *://hoshi-hitomi.marouge.jp/*
+*://*.filkhabr.com/*
+*://genshin.matome-place.com/*
