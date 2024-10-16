@@ -37,6 +37,8 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 - いかがでしたかサイト
 - UNEXTアフィリエイトやNordアフィリエイトなどお金をもらってランキング上げているサイト
+- avast LINE opera Gmail とかをおすすめソフト 紹介している見る価値のない記事(多くのサイトは自社の有料ソフトを紹介)※条件厳しめに
+- LINE タウンWifi Lemon08 Tiktok とかを神アプリと紹介している明らかにアフィリエイト系の記事
 
 - DMMの紹介文コピペしてアフィリンク挿入しただけの記事
 
