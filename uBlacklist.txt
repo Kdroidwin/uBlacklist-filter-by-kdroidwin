@@ -4322,8 +4322,6 @@ title/正規品販促激安/
 *://camp.trainocate.co.jp/*
 *://wp-load.in/*
 *://blog.codecamp.jp/*
-*://web.lingual-ninja.com/*
-*://blogcake.net/*
 *://benrideotoku.com/*
 *://www.dsk-cloud.com/*
 *://web-camp.io/*
@@ -4331,7 +4329,6 @@ title/正規品販促激安/
 *://labo.webis.co.jp/*
 *://www.vektor-inc.co.jp/*
 *://aytechlab.com/*
-*://kentiku-kouzou.jp/*
 *://www.kerenor.jp/*
 *://www.fukulow.info/*
 *://continew.fun/*
@@ -4350,12 +4347,10 @@ title/正規品販促激安/
 *://school.dhw.co.jp/*
 *://ashradar.com/*
 *://misc-log.com/*
-*://www.watch.impress.co.jp/*
 *://taikutsu-breaking.com/*
 *://medishirube.com/*
 *://illustshikou.com/*
 *://fuyutsuki.net/*
-*://itc.tokyo/*
 *://dekiru.net/*
 *://www.kikagaku.co.jp/*
 *://vanilla-ice.info/*
@@ -4416,7 +4411,6 @@ title/正規品販促激安/
 *://minamolab.com/*
 *://ailearn.biz/*
 *://avilen.co.jp/*
-*://ukatta.jp/*
 *://life-analyze24.com/*
 *://nekonotezemi.com/*
 *://usedoor.jp/*
@@ -4427,9 +4421,6 @@ title/正規品販促激安/
 *://lab4ict.com/*
 *://note.affi-sapo-sv.com/*
 *://www.bizyou.jp/*
-*://tenink.net/*
-*://www.alteil.jp/*
-*://detail.chiebukuro.yahoo.co.jp/*
 *://it-biz.online/*
 *://malaylog.com/*
 *://www.itscom.co.jp/*
