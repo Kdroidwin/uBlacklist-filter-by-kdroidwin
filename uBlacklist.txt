@@ -230,6 +230,7 @@ title/全品新品未開封/
 title/販売割引商品/
 title/感謝価格/
 title/正規品販促激安/
+title/【顔画像】/
 *://sikiroom.com/*
 *://millelog.com/*
 *://rhythmcreate.com/*
