@@ -7109,3 +7109,6 @@ title/の顔画像や住所は/
 *://daily-trendy.com/*
 *://blogmura.com/*
 *://torendosokuhou.com/*
+*://itzmysnow.com/*
+*://impression-life.com/*
+*://lifeinfo.tokyo/*
