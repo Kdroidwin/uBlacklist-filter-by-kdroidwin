@@ -7106,3 +7106,6 @@ title/の顔画像や住所は/
 *://hirodaiken.jp/*
 *://daigaku-hyoban.jp/*
 *://www.jaic-college.jp/*
+*://daily-trendy.com/*
+*://blogmura.com/*
+*://torendosokuhou.com/*
