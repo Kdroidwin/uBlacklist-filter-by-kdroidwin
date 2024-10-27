@@ -7112,3 +7112,6 @@ title/の顔画像や住所は/
 *://itzmysnow.com/*
 *://impression-life.com/*
 *://lifeinfo.tokyo/*
+*://caradel.portal.auone.jp/*
+*://*.a3erf.com/*
+*://vt.tiktok.com/*
