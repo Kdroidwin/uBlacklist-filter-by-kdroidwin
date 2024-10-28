@@ -2830,8 +2830,6 @@ title/の顔画像や住所は/
 *://app-games-casmanuus.xyz/*
 *://anonim.xyz/*
 *://app-games-outrundersele.xyz/*
-*://www.google.cn/*
-*://policies.google.cn/*
 *://support.amzdata.cn/*
 *://md.hellokit.com.cn/*
 *://stor.cdn.dfyun.com.cn/*
