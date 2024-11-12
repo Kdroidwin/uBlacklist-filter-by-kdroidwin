@@ -9,7 +9,7 @@ Filters for uBlacklist　
 
 # フィルター購読
 
-- uBlacklistをインストールしてください。
+- [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
 - その後、下の購読を押してください。
 - 2つ目の購読の方は多少の誤爆が許せる方向けです。1つ目のフィルターと併用して使ってください。
 
