@@ -66,3 +66,5 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 URLの追加やミスの削除に協力していだける方は、レポジトリをForkして編集していただき、pull requestを送ってください。
 issueでも構いませんが、できるならpull requestのほうが良いです。
+このフィルターと別のフィルターをコードエディターなどにコピーし
+ファイル名をuBlacklist.txtにし、pyファイルを使うと、アルファベット順に並べられ重複を削除できます。
