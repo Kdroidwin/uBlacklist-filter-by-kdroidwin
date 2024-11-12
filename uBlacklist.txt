@@ -1,4 +1,3 @@
-# Shorter redirections
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
