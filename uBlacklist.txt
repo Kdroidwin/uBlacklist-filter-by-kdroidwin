@@ -7303,10 +7303,7 @@
 *://zx32.xyz/*
 *://zyupodotyu.com/*
 /.*(tomoyoafuta).*/
-/^https:\/\/www\.qinterest\./
-@*://cores-ec.site/*
-@*://jysk.de/*
-@*://studyflix.de/*
+/^https:\/\/www\.pinterest\./
 title/- App Store/
 title/- Apps on Google Play/
 title/OFFでまとめ買/
