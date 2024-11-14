@@ -56,6 +56,9 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 
 - 危険なソフトウェアダウンロードサイト(igggamesなどマルウェア)
 
+> [!NOTE]
+>5chまとめサイトは評価が人によって分かれるのと、数が多いので含めていません。しかし、◯的ゲーム速報やは◯ま寄稿などのサイトはwikiに迷惑サイトとあるように、捏造や誹謗中傷が多く誰の目から見ても不要なので特例でリストインしています。
+
 
 # 効果をテスト
 
