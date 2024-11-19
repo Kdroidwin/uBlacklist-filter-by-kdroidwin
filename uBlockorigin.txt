@@ -1,6 +1,6 @@
-! Title: Filters to Safeguard Against Threats by Kdroidwin
+! Title: "Filters by Kdroidwin to Safeguard Against Threats
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
-!実験的
+!実験的 uBlacklistのルールの一部を改変したもの
 ||000webhostapp.com^
 ||a3erf.com^
 ||ac.id^
