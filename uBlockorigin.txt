@@ -11,6 +11,7 @@
 ||af^
 ||ai^
 ||akhbara24.news^
+||am^
 ||ar^
 ||az^
 ||ba^
@@ -33,7 +34,6 @@
 ||cm^
 ||co.uk^
 ||co.za^
-||co^
 ||com.cn^
 ||com.my^
 ||com.uk^
