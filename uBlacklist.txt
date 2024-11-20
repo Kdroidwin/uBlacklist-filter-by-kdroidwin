@@ -8,6 +8,7 @@
 *://*.af/*
 *://*.ai/*
 *://*.akhbara24.news/*
+*://*.am/*
 *://*.ar/*
 *://*.az/*
 *://*.ba/*
@@ -28,9 +29,9 @@
 *://*.cl/*
 *://*.click/*
 *://*.cm/*
+*://*.co/*
 *://*.co.uk/*
 *://*.co.za/*
-*://*.co/*
 *://*.com.cn/*
 *://*.com.my/*
 *://*.com.uk/*
@@ -6488,7 +6489,6 @@
 *://www.okichizuru.com/*
 *://www.olioclemente.shop/*
 *://www.olympichp.com/*
-*://www.onamae.com/*
 *://www.oncologysquadllc.com/*
 *://www.onebreath.fr/*
 *://www.onetrickpony.jp/*
