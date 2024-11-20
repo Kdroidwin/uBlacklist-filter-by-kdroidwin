@@ -985,7 +985,6 @@
 *://belmont-online.shop/*
 *://belogorie.jp/*
 *://belotusmart.com/*
-*://benrideotoku.com/*
 *://berbagisarapan.com/*
 *://bernd-room.com/*
 *://berrymoca.com/*
@@ -1373,7 +1372,6 @@
 *://conponx2.com/*
 *://conservaves.redlac.org/*
 *://contact.xyz/*
-*://continew.fun/*
 *://conunestilodiferente.com/*
 *://conwaystewart.cn/*
 *://coochanenjoyblog.com/*
@@ -1444,7 +1442,6 @@
 *://cyoppaya.com/*
 *://cyteka.com/*
 *://czumtabim.blog72.fc2.com/*
-*://d-engineer.com/*
 *://d-tv.shop/*
 *://d315.cn/*
 *://d4d.online/*
@@ -1493,7 +1490,6 @@
 *://deepcoder.online/*
 *://deeya.sn/*
 *://degistiraltindag.com/*
-*://dekiru.net/*
 *://delicious-info.com/*
 *://delishkitchen.tv/*
 *://dellasanta.ch/*
@@ -2065,7 +2061,6 @@
 *://fuwachan.com/*
 *://fuyoyose.com/*
 *://fuyuhanabi.com/*
-*://fuyutsuki.net/*
 *://fvte.pskgu.ru/*
 *://fvxdpbpv.r.us-east-1.awstrack.me/*
 *://fxqqoijt.lumiscreen.de/*
@@ -2097,7 +2092,6 @@
 *://games.hnt.co.jp/*
 *://gamesblog0.blog63.fc2.com/*
 *://gaming-select.com/*
-*://gamingpc-esports-info.com/*
 *://garantpost.ru/*
 *://gardabhayangkara.online/*
 *://gascumuapa.com/*
@@ -3048,7 +3042,6 @@
 *://lab.astamuse.co.jp/*
 *://lab4g.net/*
 *://lab4ict.com/*
-*://labo.webis.co.jp/*
 *://laboomny.com/*
 *://laborica.jp/*
 *://lac-ker.com/*
@@ -3491,7 +3484,6 @@
 *://mirandazrealtor.com/*
 *://mirimari.net/*
 *://miro2022.jp/*
-*://misc-log.com/*
 *://miss-saigon-movie-25.jp/*
 *://mitemiruno.com/*
 *://mitene-gps.onelink.me/*
@@ -3844,7 +3836,6 @@
 *://nufu.online/*
 *://numaota.jp/*
 *://nunnun-father.hatenablog.com/*
-*://nunogameblog.com/*
 *://nutrizionisti-online.com/*
 *://nuxyanblog.com/*
 *://nvolanp07de43.xn--d1aby4ah.xn--p1ai/*
@@ -4057,7 +4048,6 @@
 *://peavyuai.styr.solutions/*
 *://pelulog.com/*
 *://penghuothgroup.com/*
-*://pengi-n.co.jp/*
 *://penguinblog.work/*
 *://pentagonpapers-movie.jp/*
 *://pentanews.net/*
@@ -4440,7 +4430,6 @@
 *://rueproductions.com/*
 *://rukulife.com/*
 *://rumah-pulsa.shop/*
-*://rumappe.net/*
 *://rumbiz.ru/*
 *://runachi2021.com/*
 *://runaruna-blog.com/*
@@ -4931,7 +4920,6 @@
 *://taggypunkblog.com/*
 *://tai-gee.com/*
 *://taikoblog.site/*
-*://taikutsu-breaking.com/*
 *://tailuck.com/*
 *://taiofam.com/*
 *://taisan.blog/*
@@ -4963,7 +4951,6 @@
 *://tanita.g.kuroco-front.app/*
 *://tanoshikoto.net/*
 *://tanosiiseikatu.com/*
-*://tanweb.net/*
 *://taosfoundationrepair.com/*
 *://tapedv6a.proremedyphysio.com/*
 *://tardosk4.odonline.co.il/*
@@ -5348,7 +5335,6 @@
 *://vancedyoutube.org/*
 *://vancouver-wp-3ekxbwgmwq-an.a.run.app/*
 *://vanilla-boy.com/*
-*://vanilla-ice.info/*
 *://vasenuja.xyz/*
 *://vashifinancy.ru/*
 *://vazmedicalsos.com/*
@@ -5783,7 +5769,6 @@
 *://www.bumblebeebight.ca/*
 *://www.bunny789pg.com/*
 *://www.burrianateve.com/*
-*://www.businessinsider.jp/*
 *://www.busuu.com/*
 *://www.butcheron84.co.bw/*
 *://www.buzz-celebrity.com/*
@@ -5923,7 +5908,6 @@
 *://www.drewmidpvenda.tk/*
 *://www.drmohamedelhaw.com/*
 *://www.drmweb.jp/*
-*://www.dsk-cloud.com/*
 *://www.dsptoolkit.nhs.uk/*
 *://www.dtnld9x.cn/*
 *://www.dulbea.org/*
@@ -6015,11 +5999,9 @@
 *://www.freee.co.jp/*
 *://www.fromjapan.co.jp/*
 *://www.frostwire.com/*
-*://www.fuji-blo.com/*
 *://www.fujifilm.ru/*
 *://www.fujiya-avic.co.jp/*
 *://www.fukkou-nebuta.jp/*
-*://www.fukulow.info/*
 *://www.fukuoka-fa.com/*
 *://www.fukuokash.com.cn/*
 *://www.fulgor.com.au/*
@@ -6224,7 +6206,6 @@
 *://www.kaalcosmetic.com/*
 *://www.kabe.xyz/*
 *://www.kabushikigaisya-rigakubody.co.jp/*
-*://www.kagoya.jp/*
 *://www.kalamhor.online/*
 *://www.kanesk.cn/*
 *://www.kanjicafe.jp/*
@@ -6240,10 +6221,8 @@
 *://www.kenblog2.com/*
 *://www.kenmori.jp/*
 *://www.kenn-primary.devon.sch.uk/*
-*://www.kerenor.jp/*
 *://www.ketochow.xyz/*
 *://www.kidscollegeindore.in/*
-*://www.kikagaku.co.jp/*
 *://www.kilkareraceway.com/*
 *://www.kina-recipe.com/*
 *://www.kippis.online/*
@@ -6359,7 +6338,6 @@
 *://www.mediaclip.jp/*
 *://www.medicalzonemangohill.com.au/*
 *://www.medicellarcm.com/*
-*://www.mediocrity-blog.com/*
 *://www.medsci.cn/*
 *://www.medsight.uk/*
 *://www.medtranslation.cn/*
@@ -6914,7 +6892,6 @@
 *://www.vandyfxmw.net/*
 *://www.varietynews.info/*
 *://www.vastatalent.com/*
-*://www.vektor-inc.co.jp/*
 *://www.verdy.club/*
 *://www.vetahotel.com/*
 *://www.vevinciartwork.com/*
