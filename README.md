@@ -15,7 +15,7 @@ Filters for uBlacklist　
 - 3つ目のはuBlock Origin用です。実験的で、ほとんどのユーザーには推奨しません。
 
 > [!NOTE]
->Firefoxユーザーは購読が押せないことがあります。uBlacklistのオプション＞購読＞購読を追加する からURLと適当な名前を入力してください。
+>Firefoxユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からURLと適当な名前を入力してください。
 
 
 [購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin&url=https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt)
