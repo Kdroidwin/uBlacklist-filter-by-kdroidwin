@@ -15,7 +15,7 @@ Filters for uBlacklist　
 - 3つ目のはuBlock Origin用です。実験的で、ほとんどのユーザーには推奨しません。
 
 > [!NOTE]
->Firefoxユーザーは購読が押せないことがあります。uBlacklistのオプション＞購読＞購読を追加する からrawURLと適当な名前を入力してください。
+>Firefoxユーザーは購読が押せないことがあります。uBlacklistのオプション＞購読＞購読を追加する からURLと適当な名前を入力してください。
 
 
 [購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin&url=https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt)
@@ -23,7 +23,7 @@ Filters for uBlacklist　
 [購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin2&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist2.txt)
 
 
-下記はrawURL
+下記はURL
 - uBlacklistフィルター1 by Kdroidwin URL
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt
@@ -64,7 +64,7 @@ uBlock Origin用はメールアプリやSNSなどのアプリからリンクし�
 - 危険なソフトウェアダウンロードサイト(igggamesなどマルウェア)
 
 > [!NOTE]
->5chまとめサイトは評価が人によって分かれるのと、数が多いので含めていません。しかし、◯的ゲーム速報、は◯ま寄稿、や◯おんなどのサイトはwikiに迷惑サイトとあるように、捏造や誹謗中傷が多く誰の目から見ても不要なので特例でリストインしています。[参照](https://togetter.com/t/%E3%82%B2%E3%83%BC%E3%83%A0%E7%B3%BB%E8%BF%B7%E6%83%91%E3%82%B5%E3%82%A4%E3%83%88)
+>5chまとめサイトは評価が人によって分かれるのと、数が多いので含めていません。しかし、◯的ゲーム速報、は◯ま寄稿、や◯おん、稲◯速報などのサイトはwikiに迷惑サイトやtwitterでの評判が悪いので、捏造や誹謗中傷が多く誰の目から見ても不要なので特例でリストインしています。[参照](https://togetter.com/t/%E3%82%B2%E3%83%BC%E3%83%A0%E7%B3%BB%E8%BF%B7%E6%83%91%E3%82%B5%E3%82%A4%E3%83%88)
 
 
 # 効果をテスト
