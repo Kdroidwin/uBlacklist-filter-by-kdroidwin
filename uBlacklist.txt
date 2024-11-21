@@ -787,7 +787,6 @@
 *://appante7.info/*
 *://apple.me/*
 *://applepayer.net/*
-*://appleshinja.com/*
 *://appli-world.jp/posts/15380*
 *://appli-world.jp/posts/18197*
 *://applibito.com/*
@@ -3106,7 +3105,6 @@
 *://lifeis55.com/*
 *://lifeplus-up.com/*
 *://liff.line.me/*
-*://lifrell.co.jp/*
 *://liguelabatt.com/*
 *://lily-new.com/*
 *://lilys-cafe.net/*
@@ -3736,7 +3734,6 @@
 *://niji.e-r-o-anime.xyz/*
 *://nijihorosokuvtubermatome.com/*
 *://nijiironosakana.com/*
-*://nijitoraware.com/*
 *://nijtbsupply.com/*
 *://nikkantyomeijin.com/*
 *://nikke.onelink.me/*
@@ -3861,7 +3858,6 @@
 *://ojisan-gyakushu.com/*
 *://okachi.xyz/*
 *://okannoyomeiri-stage.jp/*
-*://okayama-univ.com/*
 *://okiam-02.com/*
 *://okigourmet.com/*
 *://okuraya.shop/*
@@ -6139,7 +6135,6 @@
 *://www.itd-lab.com/*
 *://www.itochujp.xyz/*
 *://www.itreview.jp/categories/vpn*
-*://www.itscom.co.jp/*
 *://www.itunes.co.uk/*
 *://www.ivlim.ru/*
 *://www.iwachu.info/*
