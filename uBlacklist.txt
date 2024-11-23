@@ -6077,7 +6077,6 @@
 *://www.imrisk.com/*
 *://www.indiegogo.jp/*
 *://www.innocentcapitaltax.com/*
-*://www.inside-games.jp/*
 *://www.insta360.cn/*
 *://www.instagram.cn/*
 *://www.instagram.com/*
