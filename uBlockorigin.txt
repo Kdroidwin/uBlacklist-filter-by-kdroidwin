@@ -408,7 +408,6 @@
 ||amaken.top^
 ||amanioil.com^
 ||amberdeer6769896.com^
-||ameblo.jp^
 ||amekhorshid.ir^
 ||amoebafile.blog.fc2.com^
 ||amorcos.ocnk.net^
@@ -535,7 +534,6 @@
 ||araou.jp^
 ||arasa-mama.com^
 ||archivando.jp^
-||archive.org^
 ||archiveofficial.uk^
 ||arecorelog.com^
 ||areealanzbind.xyz^
@@ -648,7 +646,6 @@
 ||azukisanchi.xsrv.jp^
 ||b-corsairs.bl.kuroco-img.app^
 ||b-us.liuhe36.cn^
-||b.hatena.ne.jp^
 ||b1a4fc.jp^
 ||b2bherbs.com^
 ||b4vdie.support^
@@ -792,7 +789,6 @@
 ||blog.himaka-trip.com^
 ||blog.kanpan.info^
 ||blog.kyanny.me^
-||blog.livedoor.jp^
 ||blog.lorentzca.me^
 ||blog.myplace-events.com^
 ||blog.stardream.online^
@@ -1046,7 +1042,6 @@
 ||chordal-modal.com^
 ||chouchou.jp^
 ||christinacooks.com^
-||chrome.google.com^
 ||chrome.zzzmh.cn^
 ||chubushoji.shop-pro.jp^
 ||churchfront.me^
@@ -1313,7 +1308,6 @@
 ||destinationdothan.com^
 ||destruction-movie.com^
 ||detail-news.com^
-||detail.chiebukuro.yahoo.co.jp^
 ||detective-blog.com^
 ||detektive-profi.online^
 ||dethein.net^
@@ -3881,7 +3875,6 @@
 ||northernrfa.com^
 ||nortonshoresmichigan.com^
 ||nostalghia11.com^
-||note.com^
 ||notsu08.com^
 ||noureldin-lawfirm.com^
 ||novel-device-166659.framer.app^
