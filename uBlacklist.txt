@@ -747,7 +747,6 @@
 *://animate-group.info/*
 *://anime-comic100.jp/*
 *://anime-kinjito.com/*
-*://animeanime.jp/*
 *://animeanime.jp/entertainment/vpn-recommend/*
 *://animefirst.ru/*
 *://animegaphone.jp/*
@@ -3952,7 +3951,6 @@
 *://naruhodo-wifi.co.jp/vpn-app/*
 *://nasubigfarm.com/*
 *://nasupapa.com/*
-*://natalie.mu/*
 *://natbjohn.com/*
 *://natchy.jp/*
 *://nate-hospital.com/*
@@ -5480,7 +5478,6 @@
 *://tiendinhnamviet.com/*
 *://tiktokrevanced.com/*
 *://timbersinneugene.com/*
-*://times.abema.tv/*
 *://tims-fuku.work/*
 *://tingogtang.shop/*
 *://tipsforlifestyles.com/*
@@ -6582,7 +6579,6 @@
 *://www.hjpnznv.cn/*
 *://www.hksgxw.cn/*
 *://www.hlj.co.jp/*
-*://www.hmv.co.jp/*
 *://www.hoalanfoods.vn/*
 *://www.hokkaido-edge.jp/*
 *://www.hokurikugas.co.jp.2519796247.proxy.kjj.lf.gov.cn/*
