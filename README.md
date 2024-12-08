@@ -12,7 +12,7 @@ Filters for uBlacklist　
 - [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
 - その後、下の購読を押してください。
 - 2つ目の購読の方は多少の誤爆が許せる方向けです。1つ目のフィルターと併用して使ってください。
-- 3つ目のはuBlock Origin用です。実験的で、ほとんどのユーザーには推奨しません。
+- 3つ目のはuBlock Origin用です。実験的です。フィルターリストのインポートから追加できます。
 
 > [!IMPORTANT]
 >Firefoxユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からURLと適当な名前を入力してください。
