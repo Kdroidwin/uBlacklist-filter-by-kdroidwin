@@ -7128,7 +7128,6 @@
 *://www.sandvik.coromant.cn/*
 *://www.sanko-metal.cn/*
 *://www.sanqasst.info/*
-*://www.sanspo.com/*
 *://www.sanspo.com/article/20240723-VEGX4L3HHJOP3CWOBOTAWMWYVM/*
 *://www.santamaria-hotel.com/*
 *://www.santodomingovalparaiso.cl/*
