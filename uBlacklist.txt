@@ -4388,7 +4388,6 @@
 *://news-hunter.net/*
 *://news-news-news.net/*
 *://news-wakaru.com/*
-*://news.biglobe.ne.jp/*
 *://news.careerconnection.jp/*
 *://news.cube-soft.jp/*
 *://news.eeany.cn/*
