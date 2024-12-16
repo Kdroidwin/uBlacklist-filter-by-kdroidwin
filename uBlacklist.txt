@@ -996,6 +996,7 @@
 *://akasofa.hatenablog.com/*
 *://akayoshisite.com/*
 *://akhbar-tibiya.shop/*
+*://akibablog.blog.jp/*
 *://akihirog.net/*
 *://akikaipp.com/*
 *://akiko-fukuoka.com/*
@@ -1082,6 +1083,7 @@
 *://ananta-systems.com/*
 *://and-ace.com/*
 *://anderbot.com/*
+*://andoroidoi.spaziotecnoweb.com/*
 *://andreashenricy.com/*
 *://android-games.freewebgames.xyz/*
 *://android.hehezhou.cn/*
@@ -1367,6 +1369,7 @@
 *://bddy.me/*
 *://be-3679.about.gitlab-review.app/*
 *://be-marry.com/*
+*://beadsxbeads.com/*
 *://beasyouareramana.com/*
 *://beatriceinsurance.com/*
 *://beaver-global.com/*
@@ -1925,6 +1928,7 @@
 *://ddnavi.com/*
 *://deai-wakare.tokyo/*
 *://deaino-onayami.com/*
+*://dearteenme.com/*
 *://deatonhospital.com/*
 *://decopachi.com/*
 *://dedat.xyz/*
@@ -2047,6 +2051,7 @@
 *://dojin-asedaku.cyou/*
 *://dojingame.net/*
 *://dojinmanga.net/*
+*://dojinparadiso.jp/*
 *://dokusyoka2narou.com/*
 *://dolarkacpara.xyz/*
 *://dolcevitaminebe.com/*
@@ -2063,6 +2068,7 @@
 *://doraraku.com/*
 *://dorischasen.com/*
 *://dorukoma.online/*
+*://dotapps.jp/*
 *://double-t.club/*
 *://doucolle.net/*
 *://doudoujin.blog.jp/*
@@ -2117,6 +2123,7 @@
 *://dwz.365tol.top/*
 *://dx.meiriyixue.cn/*
 *://dy.zyufl.edu.cn/*
+*://dyakata.com/*
 *://dylanblush.xyz/*
 *://dylanduan.xyz/*
 *://dylanjames.online/*
@@ -2224,6 +2231,7 @@
 *://en1.savefrom.net/*
 *://enazoapps.com/*
 *://encar.id/*
+*://enchantmedia.co.jp/*
 *://endia.net/*
 *://endlesstripgoo.com/*
 *://endride.jp/*
@@ -2305,6 +2313,7 @@
 *://erogetorrent2.blog.fc2.com/*
 *://eromancomi.com/*
 *://eromanga-group.com/*
+*://eromanga-guts.com/*
 *://eromanga-house.com/*
 *://eromanga-island.com/*
 *://eromanga-mangacoo.com/*
@@ -2312,6 +2321,8 @@
 *://eromanga-navi.net/*
 *://eromanga-rainbow.com/*
 *://eromanga-storage.jp/*
+*://eromanga-vision.com/*
+*://eromanga-yomitai.work/*
 *://eromanga.dl-ero-news.site/*
 *://eromanganoshiro.com/*
 *://eromangapicture.com/*
@@ -2514,6 +2525,7 @@
 *://freak-cafe.com/*
 *://freak71l.cvs.com.my/*
 *://free-and-natural.com/*
+*://free-erobooks.com/*
 *://free-humanlife23.com/*
 *://free-learn.info/*
 *://free-workstyle.com/*
@@ -2663,6 +2675,7 @@
 *://genkithings.jp/*
 *://genovasmma.com/*
 *://genremag.com/*
+*://genroku.jp/*
 *://genshin.matome-place.com/*
 *://genso-koryu.jp/*
 *://gentillesse.net/*
@@ -2979,6 +2992,7 @@
 *://hirosroom.com/*
 *://hiroteru.info/*
 *://hitomi-comic.com/*
+*://hitomila.blog/*
 *://hitorisanfan.com/*
 *://hitoshitorendo.blog.ss-blog.jp/*
 *://hitoyoshi-hp.jp/*
@@ -2992,6 +3006,7 @@
 *://hmd.site/*
 *://hmoeta.com/*
 *://hngez.dottoremiascolti.it/*
+*://hnt.co.jp/*
 *://hoalanfoods.vn/*
 *://hobby-band-association.com/*
 *://hochi.news/*
@@ -3344,6 +3359,7 @@
 *://jp.ldplayer.net/*
 *://jp.mobile.japex.ru/*
 *://jp.news.gree.net/*
+*://jp.soft57.com/*
 *://jp.visit-japan.cn/*
 *://jp.winxmac.com/*
 *://jpkanon.com/*
@@ -3543,6 +3559,7 @@
 *://kms-full.com/*
 *://kmspico.io/*
 *://knocknockblog.com/*
+*://knotyet.jp/*
 *://ko-ima.com/*
 *://ko-pu.com/*
 *://kochubeymedia.ru/*
@@ -4945,6 +4962,7 @@
 *://qqlink.ru/*
 *://qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net/*
 *://qte.me/*
+*://qualist.jp/*
 *://quality-of-life-ryoblog.com/*
 *://quareclare.ie/*
 *://quick-timez.com/*
@@ -7003,6 +7021,7 @@
 *://www.imrisk.com/*
 *://www.indiegogo.jp/*
 *://www.innocentcapitaltax.com/*
+*://www.inspiracionkohler.com/*
 *://www.insta360.cn/*
 *://www.instagram.cn/*
 *://www.instagram.com/*
@@ -7590,6 +7609,7 @@
 *://www.smiletech360.com/*
 *://www.smis.info/*
 *://www.sms-datatech.co.jp/*
+*://www.soft222.com/*
 *://www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml*
 *://www.softproinnovations.com/*
 *://www.softwareskills.eu/*
@@ -7793,6 +7813,7 @@
 *://www.wallop.tv/*
 *://www.wandoutv.cn/*
 *://www.warorince.com/*
+*://www.wastemanagers.africa/*
 *://www.wdf122333.online/*
 *://www.wearemoroccotravel.com/*
 *://www.webtorrent.app/*
@@ -7863,6 +7884,13 @@
 *://wwwjp.jorudan.com.cn/*
 *://wyiiden.com/*
 *://x-border.co.jp/*
+*://x.com/comic_checker*
+*://x.com/indiegogojp*
+*://x.com/kdroidwin15*
+*://x.com/mangarawrun*
+*://x.com/natsukifjngero5*
+*://x.com/yuugafas*
+*://x.com/zlib_official/*
 *://x68000.q-e-d.net/*
 *://xdqern.dentist-24.de/*
 *://xera.jp/*
