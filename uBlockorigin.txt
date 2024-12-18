@@ -5563,7 +5563,6 @@
 ||twemix.xyz^
 ||twhite.me^
 ||twik.xxasj.cn^
-||twitter.com^
 ||twitter.nuxt.xyz^
 ||twn-rt.onelink.me^
 ||twtwmatome.hatenablog.com^
@@ -6538,7 +6537,6 @@
 ||www.innocentcapitaltax.com^
 ||www.insta360.cn^
 ||www.instagram.cn^
-||www.instagram.com^
 ||www.intel.cn^
 ||www.intel.ru^
 ||www.interface.ru^
@@ -7214,7 +7212,6 @@
 ||www.thousandsmiles.uk^
 ||www.threescoops.shop^
 ||www.tienkenandassociates.com^
-||www.tiktok.com^
 ||www.timbukdo.in^
 ||www.tm-robot.com.cn^
 ||www.tnfinskills.com^
