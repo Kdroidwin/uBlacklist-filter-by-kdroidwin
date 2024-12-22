@@ -15,7 +15,6 @@
 *://*.site/*
 *://*.tech/*
 *://*.tn/*
-*://*.top/*
 *://kunitohyouban.com/*
 title/100%正規品/
 title/スーパー激安/
