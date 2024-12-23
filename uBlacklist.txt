@@ -1306,6 +1306,7 @@
 *://aya2018.net/*
 *://ayakablog11525.com/*
 *://ayatorendo.com/*
+*://ayesha.systelligence.com/*
 *://aytechlab.com/*
 *://ayu-channel.com/*
 *://ayvlvkut3.rallye-photo-avord.fr/*
@@ -1478,6 +1479,7 @@
 *://blue.tokyo/*
 *://blueblood.shop/*
 *://bluehawke.com/*
+*://bluehorizon-yachting.com/*
 *://bluehornettheband.com/*
 *://bluelement.in/*
 *://bluesea0925.com/*
@@ -2888,6 +2890,7 @@
 *://hanesokunews.net/*
 *://hannibal.jp/*
 *://hanqq.xyz/*
+*://hans-juergen-fretwurst.com/*
 *://hapicys.com/*
 *://hapiee.com/*
 *://happinesswords.com/*
@@ -3519,6 +3522,7 @@
 *://kijitora-chan.com/*
 *://kikichannel.com/*
 *://kikiki-fps.com/*
+*://kikikom.com/*
 *://kikkakeblog40.com/*
 *://kikomas.online/*
 *://kilimas.online/*
@@ -3586,6 +3590,7 @@
 *://kokohorenyann.com/*
 *://kokopyon.net/*
 *://kokoza.com/*
+*://koku-byakunews.com/*
 *://kolibrifood.com/*
 *://kolpul.com/*
 *://komachanel.work/*
@@ -4868,6 +4873,7 @@
 *://plumblossombakery.com/*
 *://plus.news.gree.net/*
 *://pluscolorn.sub.jp/*
+*://pluswood.jp/*
 *://pmprofi.ru/*
 *://poap.xyz/*
 *://pocop0c0.blog.fc2.com/*
@@ -5057,6 +5063,7 @@
 *://regalaccoutre.online/*
 *://regame0628.com/*
 *://registrations.habanos.com/*
+*://reglisse.jp/*
 *://regmah95.redeagle-security.com/*
 *://reicherumama.com/*
 *://rekisiru.com/*
@@ -6468,6 +6475,7 @@
 *://www.8mart.jp/*
 *://www.8web.cc/*
 *://www.aalhoyr.cn/*
+*://www.abcguam.jp/*
 *://www.abchotel.ph/*
 *://www.abdwap.online/*
 *://www.abemame.com/*
@@ -6704,6 +6712,7 @@
 *://www.clickcount.info/*
 *://www.clicsoledade.online/*
 *://www.clivespash.org/*
+*://www.closx.com/*
 *://www.cloudandproud.info/*
 *://www.cloudskills.io/*
 *://www.clubcio.ru/*
@@ -7108,6 +7117,7 @@
 *://www.kaalcosmetic.com/*
 *://www.kabe.xyz/*
 *://www.kabushikigaisya-rigakubody.co.jp/*
+*://www.kagi-kinkyutai119.com/*
 *://www.kalamhor.online/*
 *://www.kalamisadalaristanbul.com/*
 *://www.kanesk.cn/*
@@ -8206,6 +8216,7 @@
 *://zakeru.com/*
 *://zaki-tore.com/*
 *://zakki-saito.com/*
+*://zakoshacho.jp/*
 *://zandfine.com/*
 *://zao.slot60.online/*
 *://zatsugaku111.com/*
