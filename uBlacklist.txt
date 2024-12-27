@@ -1307,6 +1307,7 @@
 *://ayakablog11525.com/*
 *://ayatorendo.com/*
 *://ayesha.systelligence.com/*
+*://aymcontent.com/*
 *://aytechlab.com/*
 *://ayu-channel.com/*
 *://ayvlvkut3.rallye-photo-avord.fr/*
@@ -1737,6 +1738,7 @@
 *://ckba.ru/*
 *://ckcdnhm.cn/*
 *://ckfamily4649.com/*
+*://clarkmobilehomes.com/*
 *://clashofkings.jp/*
 *://classic-game.site/*
 *://classicboatbeachbash.com/*
@@ -2981,6 +2983,7 @@
 *://hikitasan-gokainin.com/*
 *://hikiyosesmith.hatenablog.com/*
 *://hikohikoblog.com/*
+*://hikoukigumo2024.com/*
 *://hill-challenge.jp/*
 *://hilokume.jp/*
 *://himalayas.app/*
@@ -3030,6 +3033,7 @@
 *://hollyhappy.com/*
 *://hollyhock-ss.com/*
 *://hololive.livedoor.biz/*
+*://holotame.com/*
 *://home-medical.online/*
 *://home.kingsoft.jp/*
 *://homeloanteam.com.au/*
@@ -3129,6 +3133,7 @@
 *://iiro-news.com/*
 *://iitdgroup.ru/*
 *://ijcnaxf.xyz/*
+*://ikagakun.hatenablog.com/*
 *://ikeda-yoshitaka.jp/*
 *://ikemenjiten.com/*
 *://ikesuto.com/*
@@ -4198,6 +4203,7 @@
 *://mo-mo-town.com/*
 *://moans759.malaysiainternationalschools.com/*
 *://mobile-yoox.catalogi.ru/*
+*://moca0313blog.com/*
 *://mochiomochi-life.com/*
 *://mochiyuru-life.com/*
 *://modcombo.io/revanced-extended.html*
@@ -6073,6 +6079,7 @@
 *://tsuru.top/*
 *://tsurumatsu-shoten.com/*
 *://ttf--koubo-jp.m17n.cn/*
+*://tube-navi.jp/*
 *://tubestation.site/*
 *://tuespaciomusical.com/*
 *://tuinglesonline.net/*
@@ -6284,6 +6291,7 @@
 *://vstorrent.org/*
 *://vt.tiktok.com/*
 *://vtuberinfo.net/*
+*://vtubermatome.com/*
 *://vtubermatomerevival.com/*
 *://vvindows.com/*
 *://vyoutuber.com/*
@@ -6299,6 +6307,7 @@
 *://wadainomori.net/*
 *://wadifa-lakom.online/*
 *://wafumona.blog.fc2.com/*
+*://wagby.com/*
 *://wagonnavi.click/*
 *://wagtechblog.com/*
 *://waido.fi/*
@@ -6641,11 +6650,13 @@
 *://www.bomberosbello.org/*
 *://www.bon-holding.nl/*
 *://www.bondsthlm.se/*
+*://www.bouenzai.com/*
 *://www.boxh0d2lu.xyz/*
 *://www.boyard-str.ru/*
 *://www.brandnew-amy.com/*
 *://www.brandycampcrew.com/*
 *://www.breguet.cn/*
+*://www.brighteazy.com/*
 *://www.broadcom.cn/*
 *://www.browsercam.com/*
 *://www.bsfuji.shop/*
@@ -7259,6 +7270,7 @@
 *://www.medtranslation.cn/*
 *://www.meerkatinspace.com/*
 *://www.megane-shufu.com/*
+*://www.megase.ru/*
 *://www.meister-stylist.jp/*
 *://www.mekan0.com/*
 *://www.menuguildsystem.com/*
@@ -7389,6 +7401,7 @@
 *://www.onetrickpony.jp/*
 *://www.opp.ftcgroup.com.ph/*
 *://www.optadvocats.com/*
+*://www.orbitxtechnologiesllc.com/*
 *://www.orchidlifestyle.com/*
 *://www.oreilly.co.jp/*
 *://www.oritwolf.com/*
