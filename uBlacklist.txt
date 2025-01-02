@@ -711,6 +711,7 @@
 *://202238231237.slot15.online/*
 *://2023-romeoandjuliet.com/*
 *://2023start.punyu.jp/*
+*://204.152.132.23/*
 *://2101734081.slot19.online/*
 *://210237148191.cidr.jtidc.jp/*
 *://22.fivestarapp.com/*
@@ -1213,6 +1214,7 @@
 *://areealanzbind.xyz/*
 *://arekore-nikki.com/*
 *://arekoreshiritai.com/*
+*://arfadevelopers.com/*
 *://argentinianpoker.com/*
 *://ariamedical.ir/*
 *://arigatoday.com/*
@@ -1439,6 +1441,7 @@
 *://bitwave.showcase-tv.com/*
 *://biyoudaisukijyoshi.com/*
 *://biz.moneyforward.com/*
+*://bizdatainsights.com/*
 *://bizx.chatwork.com/*
 *://bizzapps.ru/*
 *://bjnnlxx.cn/*
@@ -1474,6 +1477,7 @@
 *://blogmura.com/*
 *://blogs.ergotron.com/*
 *://blogs.esri-cis.ru/*
+*://blogs.mcafee.jp/*
 *://blogs2bn.styr.live/*
 *://blue-38.com/*
 *://blue-thermal.jp/*
@@ -1622,6 +1626,7 @@
 *://canva.me/*
 *://capacitasalud.com/*
 *://capitalhomeco.com/*
+*://capitalizeonconfidence.com/*
 *://car-buzz.biz/*
 *://caradel.portal.auone.jp/*
 *://carbestone.com/*
@@ -1761,6 +1766,7 @@
 *://cmlife2015.com/*
 *://cmmhw.taobao.com/*
 *://cndl.synology.cn/*
+*://coachlovey.com/*
 *://coca-book.com/*
 *://coccomama.com/*
 *://coco-diary.com/*
@@ -1819,6 +1825,7 @@
 *://conpapelesenusa.com/*
 *://conponx2.com/*
 *://conservaves.redlac.org/*
+*://construcclean.com/*
 *://contact.xyz/*
 *://continue-healthy.com/*
 *://conunestilodiferente.com/*
@@ -2530,6 +2537,7 @@
 *://forums.goha.ru/*
 *://foux3ut3.rallye-photo-avord.fr/*
 *://franchiseconnect.us/*
+*://fratermusic.com/*
 *://fratitude.in/*
 *://frchisworks.jp/*
 *://freak-cafe.com/*
@@ -2557,6 +2565,7 @@
 *://ftp.irbis.su/*
 *://ftrc.me/*
 *://fufeng.xincun666.cn/*
+*://fuji-ink-japan.jp/*
 *://fujifilm.ru/*
 *://fujito.info/*
 *://fujiwara2100.sakura.ne.jp/*
@@ -2590,6 +2599,7 @@
 *://futaba05.com/*
 *://futae.hungry.jp/*
 *://futamato.blog.jp/*
+*://futboltactix.com/*
 *://future-sparkling.com/*
 *://futurepark.team-lab.cn/*
 *://futurerobot.online/*
@@ -2710,6 +2720,7 @@
 *://gineco.ru/*
 *://gingin.biz/*
 *://gintachan.com/*
+*://giorgiotruffleshop.com/*
 *://girl-express.com/*
 *://girl-movie.com/*
 *://girls-movie.com/*
@@ -2751,6 +2762,7 @@
 *://glintgizmo.com/*
 *://globalpop-trend.com/*
 *://globaxiscorp.com/*
+*://globeflightdeals.com/*
 *://gmeetmeat.xyz/*
 *://gmk.be/*
 *://gmmfprc.cn/*
@@ -2804,6 +2816,7 @@
 *://gossip1.net/*
 *://gossipanything.com/*
 *://gotcha.hatenablog.jp/*
+*://goto-heaven.com/*
 *://gotomochin.com/*
 *://gotothebeds.com/*
 *://gotyanga.xyz/*
@@ -3125,6 +3138,7 @@
 *://ifuxicif.bhp-leszczynski.pl/*
 *://igabifo.obentreprendre.fr/*
 *://igadhsx.cn/*
+*://igbasanfoodsllc.com/*
 *://igetintopc.com/*
 *://igg-games.cc/*
 *://igg-games.com/*
@@ -3189,6 +3203,7 @@
 *://infotourbureau.ru/*
 *://ingramlithub.com/*
 *://ink.mfwt.xyz/*
+*://inkdreamsdigital.com/*
 *://inkya-botti.com/*
 *://innovation-weekend.jp/*
 *://inove-vannes.fr/*
@@ -3545,6 +3560,7 @@
 *://kingdom10.jp/*
 *://kingdomlegacyministries.org/*
 *://kingky.site/*
+*://kingsasd.com/*
 *://kininaru-journal.info/*
 *://kininaru-koto.com/*
 *://kininaru-saishin-news.com/*
@@ -3887,6 +3903,7 @@
 *://maco-25.com/*
 *://madacarpets.com/*
 *://madam-nyanko.com/*
+*://madanuon.horizondm.com/*
 *://madaraschool.org/*
 *://madewith.cn/*
 *://madokazakki.com/*
@@ -3983,6 +4000,7 @@
 *://mapikotan.com/*
 *://mapimark.com/*
 *://mappifyerapp.com/*
+*://maqamemansoor.com/*
 *://mariaugusto.com/*
 *://mariayuri28.com/*
 *://marina-school.ru/*
@@ -4110,6 +4128,7 @@
 *://meteoriteman.shop/*
 *://methartenziel.eu/*
 *://metropoleshoppingcenter.com/*
+*://mexicomagicoinc.com/*
 *://mfasting.net/*
 *://mfui.ru/*
 *://mgfdm.taobao.com/*
@@ -4274,6 +4293,7 @@
 *://mtn-world.com/*
 *://mtnusers.rootduee.top/*
 *://mtrl.tokyo/*
+*://mubaohiemxin.com/*
 *://mudawanat-tibiya-sa.shop/*
 *://mufufu-comic.com/*
 *://muggywsy.thepines-melaka.com/*
@@ -4494,6 +4514,7 @@
 *://nizipro.com/*
 *://njforeclosurelist.com/*
 *://nkjk.xxasj.cn/*
+*://nkuzistem.org/*
 *://nlpr.ia.ac.cn/*
 *://nmqf-policy.org/*
 *://nnews.top/*
@@ -5270,6 +5291,7 @@
 *://sakidori.co/*
 *://sakshay.com/*
 *://saku-saku-a.com/*
+*://sakujijikamu.com/*
 *://sakumi39.com/*
 *://sakupanjouhou.com/*
 *://sakura-anpan.net/*
@@ -5862,6 +5884,7 @@
 *://theboutique.org/*
 *://theboxvalley.com/*
 *://thebreakdown.xyz/*
+*://thechatterboxradio.com/*
 *://thecircusplace.com/*
 *://thecurrentreport.com/*
 *://thedieiscast4.com/*
@@ -5889,6 +5912,7 @@
 *://thesummitfilm.com/*
 *://thetopics1010.com/*
 *://thetote.jp/*
+*://thetrueworshipcentrejinja.com/*
 *://thetv.jp/*
 *://thewifi.co.jp/*
 *://thewifi.co.jp/colum/shirayukikun/*
@@ -6148,6 +6172,7 @@
 *://univntdo.shop/*
 *://unixmailserver.com/*
 *://unlockunleashcontrol.com/*
+*://unseenadventures.africa/*
 *://unzen-amakusa.jp/*
 *://uofmalumnipoker.com/*
 *://up-date.ne.jp/*
@@ -6219,6 +6244,7 @@
 *://vcchristianchurch.com/*
 *://veeam.ru/*
 *://vefund.io/*
+*://veganfoodphoto.com/*
 *://vegascreativesoftware.cn/*
 *://vemcogroup.cn/*
 *://venturegroupsom.com/*
@@ -6249,6 +6275,7 @@
 *://virtualmeetingsolutions.online/*
 *://virtualviasa.top/*
 *://virtusan.xyz/*
+*://vision-digital.co/*
 *://visionvinylflooring.com/*
 *://visitlink.me/*
 *://vitabase.jp/*
@@ -6791,6 +6818,7 @@
 *://www.dentalassistanttraininginlasvegasnv.com/*
 *://www.depossbangunan.com/*
 *://www.desejoviajar.com/*
+*://www.designqueenpapia.com/*
 *://www.deusmgu.cn/*
 *://www.deutsche-bank.com.cn/*
 *://www.devrecruit.org/*
@@ -7003,6 +7031,7 @@
 *://www.hallaron.com/*
 *://www.hamayurigakuen.jp/*
 *://www.hammock-cafe.jp/*
+*://www.hanaranurseries.com/*
 *://www.haoyue.xyz/*
 *://www.happyfootstep.dk/*
 *://www.happylife40.com/*
@@ -7746,6 +7775,7 @@
 *://www.thenewlifehospitals.com/*
 *://www.thepeninsula.com.cn/*
 *://www.theprospectvilla.com/*
+*://www.thequietlist.com.au/*
 *://www.therealbeefbuddies.com/*
 *://www.thermocursos.com/*
 *://www.thermofisher.cn/*
@@ -7948,6 +7978,7 @@
 *://xiordiagonalbesos.com/*
 *://xis2p9rqc.wydawnictwopbb.pl/*
 *://xiywa.info/*
+*://xn-----7kcbimcshalibxwklcikjm0j9a9gqa.xn--p1ai/*
 *://xn----38t5a3hwaai9exc5960ewf9f.akhbara24.news/*
 *://xn----48t2a3iraai7f5b9360fwf9f.akhbara24.news/*
 *://xn----fbu3m1a9ht54z82i5kp2u4g.nogomi.ru/*
