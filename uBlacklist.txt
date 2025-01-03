@@ -340,6 +340,7 @@
 *://*.microsoft.com.vn/*
 *://*.mk/*
 *://*.ml/*
+*://*.mn/*
 *://*.mw/*
 *://*.mx/*
 *://*.my/*
@@ -2306,6 +2307,7 @@
 *://enxgeki.com/*
 *://epicgames.co.uk/*
 *://epicmaterialdays.com/*
+*://eposexperts.com/*
 *://epson.ru/*
 *://eqon.app/*
 *://eraption.com/*
@@ -2632,6 +2634,7 @@
 *://gakufu.gakki.me/*
 *://galaxydesign.site/*
 *://galeriaorquideas.online/*
+*://galilexpress.com/*
 *://game-creators.camp/*
 *://game.boom-app.com/*
 *://gameappli555.com/*
@@ -2760,6 +2763,7 @@
 *://glaceon812.com/*
 *://glaciermicro.com/*
 *://gladent-med.online/*
+*://glaube-hoffnung-liebe.com/*
 *://glblctzn.me/*
 *://glintgizmo.com/*
 *://globalpop-trend.com/*
@@ -2851,6 +2855,7 @@
 *://guguloo.xyz/*
 *://guidesinzion.online/*
 *://gulftestinglab.com/*
+*://gunjikikou.com/*
 *://gunosy.com/*
 *://gurigetfree.com/*
 *://gurimu-blog.com/*
@@ -3734,6 +3739,7 @@
 *://lcconcreteproduct.com/*
 *://ldlemthm.r.eu-west-1.awstrack.me/*
 *://le-domaine-de-lepiniere.fr/*
+*://leadzhunt.com/*
 *://leancrete.com/*
 *://learn-lens.com/*
 *://learn.corporate.ef.com/*
@@ -3787,6 +3793,7 @@
 *://lifestyle1030.com/*
 *://liff.line.me/*
 *://lifunas.com/*
+*://lightofhopealliance.org/*
 *://liguelabatt.com/*
 *://lilla-flower.com/*
 *://lily-new.com/*
@@ -3867,6 +3874,7 @@
 *://luupy.net/*
 *://luxury-biz.com/*
 *://luxurymacdirect.com/*
+*://luxweavecarpets.com/*
 *://lvyou168.cn/*
 *://lynxinst.com/*
 *://lysaeqisk.melanie-reinecke.de/*
@@ -5695,6 +5703,7 @@
 *://sunny-idea.com/*
 *://sunoharablog.com/*
 *://sunscreendirect.com/*
+*://suntekai.com/*
 *://suntoranosuke.com/*
 *://suo.su/*
 *://supadou.blogism.jp/*
@@ -6247,6 +6256,7 @@
 *://veeam.ru/*
 *://vefund.io/*
 *://veganfoodphoto.com/*
+*://veganlifestyleblog.nl/*
 *://vegascreativesoftware.cn/*
 *://vemcogroup.cn/*
 *://venturegroupsom.com/*
@@ -6536,6 +6546,7 @@
 *://www.afoagheo.net/*
 *://www.afrohealth.care/*
 *://www.agaroot.jp/*
+*://www.agarunited.mn/*
 *://www.agenciamktlab.com/*
 *://www.agenziaseal.com/*
 *://www.agogoaeto.net/*
@@ -6741,6 +6752,7 @@
 *://www.churaumi.net/*
 *://www.cilocala.cn/*
 *://www.cima.com.py/*
+*://www.cinartesisatsuteknolojileri.com/*
 *://www.cinematoday.jp/*
 *://www.cinnamon-hotel.com/*
 *://www.citinteriors.com/*
@@ -6766,6 +6778,7 @@
 *://www.community-one.jp/*
 *://www.comparitech.com/*
 *://www.compassionatebehaviourcare.com/*
+*://www.comuniarte.com/*
 *://www.conceptbrands.net/*
 *://www.construction-turkey.com/*
 *://www.coolpreschool.com/*
@@ -6879,6 +6892,7 @@
 *://www.ellasgenetica.com/*
 *://www.elog-ch.net/*
 *://www.elora.com/*
+*://www.elsabtiya.com/*
 *://www.emetry.io/*
 *://www.enavmshop.com/*
 *://www.endocrincentr.ru/*
@@ -6895,6 +6909,7 @@
 *://www.espacesarana.fr/*
 *://www.espacioagro.com/*
 *://www.esquire.com/*
+*://www.etsabdelmoula.com/*
 *://www.eurorvvv.org/*
 *://www.evsol.com.au/*
 *://www.excite.co.jp/*
@@ -7084,6 +7099,7 @@
 *://www.idobata.online/*
 *://www.iggy.tokyo/*
 *://www.ihg.com.cn/*
+*://www.ihomegypt.com/*
 *://www.iid.co.jp/*
 *://www.ijuin.info/*
 *://www.ikegami-hihuka.xyz/*
@@ -7100,6 +7116,7 @@
 *://www.insta360.cn/*
 *://www.instagram.cn/*
 *://www.instagram.com/*
+*://www.intambwemedia.com/*
 *://www.intel.cn/*
 *://www.intel.ru/*
 *://www.interface.ru/*
@@ -7127,6 +7144,7 @@
 *://www.jaic-college.jp/*
 *://www.jana-atur.com/*
 *://www.japan-osaka.cn/*
+*://www.japanartscraft.com/*
 *://www.japex.ru/*
 *://www.jassdf.info/*
 *://www.jcd56.com.cn/*
@@ -7522,6 +7540,7 @@
 *://www.pwc.co.uk/*
 *://www.pxxfpdv.cn/*
 *://www.q-englishacademy.com/*
+*://www.qarshibotanist.com/*
 *://www.qimdcsg.cn/*
 *://www.qjukvpc.cn/*
 *://www.qqszz.net/*
@@ -7581,6 +7600,7 @@
 *://www.rnb.co.jp/*
 *://www.roboticsafrica.com/*
 *://www.rockajaponica.com/*
+*://www.rocketflush.vip/*
 *://www.rockmods.net/2022/06/YouTubeReVanced.html*
 *://www.rockmods.net/2022/06/YouTubeReVanced.html?m=1*
 *://www.rocs-project.org/*
@@ -7711,6 +7731,7 @@
 *://www.st-johnfisher.ealing.sch.uk/*
 *://www.stapletechinc.com/*
 *://www.starblog.jp/*
+*://www.statewaterheatersme.com/*
 *://www.stc.rarait.com/*
 *://www.stonebenchtopsnewcastle.com.au/*
 *://www.stradvert.com/*
