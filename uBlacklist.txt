@@ -1009,6 +1009,7 @@
 *://akikorea.com/*
 *://akimikogawaaar.blogspot.com/*
 *://akinhairtransplant.com/*
+*://akinokora.directory/*
 *://akiraion.com/*
 *://akita-hachimantai.jp/*
 *://akitakaoru.com/*
@@ -1113,6 +1114,7 @@
 *://animate-group.info/*
 *://anime-comic100.jp/*
 *://anime-kinjito.com/*
+*://animeanime.jp/*
 *://animeanime.jp/entertainment/vpn-recommend/*
 *://animefirst.ru/*
 *://animegaphone.jp/*
@@ -1401,6 +1403,7 @@
 *://belmont-online.shop/*
 *://belogorie.jp/*
 *://belotusmart.com/*
+*://benri.tabitoseikatsu.com/*
 *://berbagisarapan.com/*
 *://bernd-room.com/*
 *://berrymoca.com/*
@@ -1482,6 +1485,7 @@
 *://blogs.esri-cis.ru/*
 *://blogs.mcafee.jp/*
 *://blogs2bn.styr.live/*
+*://bloodworm.food/*
 *://blue-38.com/*
 *://blue-thermal.jp/*
 *://blue.tokyo/*
@@ -1595,6 +1599,7 @@
 *://buukosensei.com/*
 *://buy-prescription-prepayment-certificate.nhsbsa.nhs.uk/*
 *://buyee.jp/*
+*://buyrealprice.com/*
 *://buzz-plus.com/*
 *://buzz-press.com/*
 *://buzzcreateofficial.com/*
@@ -2204,6 +2209,7 @@
 *://egaomama.com/*
 *://egkhpno.cn/*
 *://ego-event.fr/*
+*://egtspl.com/*
 *://ehabghoniem.com/*
 *://eienno-zero.jp/*
 *://eiga-mylife.com/*
@@ -2561,6 +2567,7 @@
 *://froebel-kan.tameshiyo.me/*
 *://from0to1.jp/*
 *://from48to100-lifeplan.com/*
+*://frostshaper.solutions/*
 *://fruit727.com/*
 *://fstec.ru/*
 *://ft.unsoed.ac.id/*
@@ -2648,11 +2655,13 @@
 *://ganbariyasan.com/*
 *://garantpost.ru/*
 *://gardabhayangkara.online/*
+*://gardasar.guru/*
 *://gascumuapa.com/*
 *://gaspa-web.jp/*
 *://gastrolife.net/*
 *://gatwk.uk/*
 *://gausu.net/*
+*://gavillador.uno/*
 *://gawagon.net/*
 *://gaxntbrklmxyz.xyz/*
 *://gaxpbkmrnlxyz.xyz/*
@@ -2714,6 +2723,7 @@
 *://geumsz31.gabrans.com/*
 *://gezumi.jp/*
 *://gf-01.com/*
+*://gfjapan2022.jp/*
 *://ggdata1.cnr.cn/*
 *://ghaderipro.com/*
 *://gi-o.com/*
@@ -3626,6 +3636,7 @@
 *://komeko.club/*
 *://kominamiyasuha.jp/*
 *://komono.me/*
+*://komugi-web.site/*
 *://konbun.jp/*
 *://konf.me/*
 *://kongodo.online/*
@@ -5368,6 +5379,7 @@
 *://scrap-shop.online/*
 *://screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android/*
 *://scspuc.in/*
+*://sdouga.com/*
 *://se.fc-review.com/*
 *://sea358mm25.com/*
 *://seacpac.com/*
@@ -5862,6 +5874,7 @@
 *://tensei-shinai.com/*
 *://terakoya.sejuku.net/*
 *://teratail.com/*
+*://teshicage.today/*
 *://test.crunch.is/*
 *://test.dimax.ru/*
 *://test.test-ccrm.philips.ru/*
@@ -5911,6 +5924,7 @@
 *://themagisk.com/*
 *://thenewlifehospitals.com/*
 *://thenhawk.xyz/*
+*://thepickup1010.com/*
 *://thepizzapig.com.hk/*
 *://thepowerofostrich.com/*
 *://theprogs.ru/*
@@ -5961,6 +5975,7 @@
 *://tmepros.com/*
 *://to-komaru.com/*
 *://tobacco.jp/*
+*://tobaichiro.net/*
 *://tobanaibuta.com/*
 *://tobe-life.com/*
 *://tobitateshizuoka.com/*
@@ -7177,6 +7192,7 @@
 *://www.kabe.xyz/*
 *://www.kabushikigaisya-rigakubody.co.jp/*
 *://www.kagi-kinkyutai119.com/*
+*://www.kagoshima-gourmet.jp/*
 *://www.kalamhor.online/*
 *://www.kalamisadalaristanbul.com/*
 *://www.kanesk.cn/*
@@ -7877,6 +7893,7 @@
 *://www.uwasa-suki.com/*
 *://www.uwasabanashi.com/*
 *://www.v81entertainment.com/*
+*://www.vaas-lt.com/*
 *://www.vacheron-constantin.cn/*
 *://www.vaisala.cn/*
 *://www.val-de-cognac.com/*
@@ -7906,6 +7923,7 @@
 *://www.vodafone.uk/*
 *://www.voice-actors.jp/*
 *://www.voiceofcharity.org/*
+*://www.voila.lt/*
 *://www.votelouann.com/*
 *://www.vrarworld.cn/*
 *://www.vubfvubf.xyz/*
