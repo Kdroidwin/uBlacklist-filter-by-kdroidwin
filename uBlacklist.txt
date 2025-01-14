@@ -1,3 +1,4 @@
+
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
@@ -1114,7 +1115,6 @@
 *://animate-group.info/*
 *://anime-comic100.jp/*
 *://anime-kinjito.com/*
-*://animeanime.jp/*
 *://animeanime.jp/entertainment/vpn-recommend/*
 *://animefirst.ru/*
 *://animegaphone.jp/*
