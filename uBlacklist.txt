@@ -1783,6 +1783,7 @@
 *://cocol.co.jp/*
 *://cocone.app/*
 *://cocoppa.com/*
+*://codeacademyug.org/*
 *://codevia.io/*
 *://cogl3d.org/*
 *://coldlab.cn/*
@@ -3679,6 +3680,7 @@
 *://kr.koreanskl.co.ua/*
 *://kraalvxb.jiwasihat.com/*
 *://krasnoturinsk.ru/*
+*://kre8ivmindzcolab.com/*
 *://kresgeeye.org/*
 *://krjlaw.com/*
 *://krownews.jp/*
@@ -4211,6 +4213,7 @@
 *://miro2022.jp/*
 *://miruku.fun/*
 *://miss-saigon-movie-25.jp/*
+*://missav.com/*
 *://misuteri-enblog.com/*
 *://mitemiruno.com/*
 *://mitene-gps.onelink.me/*
@@ -5946,6 +5949,7 @@
 *://theylive30.com/*
 *://thijsvandenhaak.com/*
 *://thirdeye24.com/*
+*://thisav.com/*
 *://thuexethanhnhan.com/*
 *://ti-blg-02.com/*
 *://tiara-inc.jp/*
@@ -6123,6 +6127,7 @@
 *://trustcellar.com/*
 *://trx-mkt.com/*
 *://tsukae.ru/*
+*://tsuki-ai.co.jp/*
 *://tsumuji-kosodate.com/*
 *://tsup-eis.ru/*
 *://tsuru.top/*
@@ -7174,6 +7179,7 @@
 *://www.jiyuunablog.com/*
 *://www.jma2-jp.org/*
 *://www.jobs4u.pro/*
+*://www.jocels.com/*
 *://www.joeadol.com/*
 *://www.johnchanceretail.com/*
 *://www.johnsweldingandtowing.com/*
