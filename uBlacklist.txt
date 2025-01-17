@@ -1783,6 +1783,7 @@
 *://cocol.co.jp/*
 *://cocone.app/*
 *://cocoppa.com/*
+*://code.ooaks.co.jp/*
 *://codeacademyug.org/*
 *://codevia.io/*
 *://cogl3d.org/*
@@ -2647,6 +2648,7 @@
 *://gameappli555.com/*
 *://gamebiz.jp/*
 *://gamefabrique.com/*
+*://gamegadget.jp/*
 *://gamerom.blog129.fc2.com/*
 *://games.hnt.co.jp/*
 *://gamesblog0.blog63.fc2.com/*
