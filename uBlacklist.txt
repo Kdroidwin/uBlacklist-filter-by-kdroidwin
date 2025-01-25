@@ -1884,6 +1884,7 @@
 *://cspa79c.jp/*
 *://cspsacademy.com/*
 *://css-diner.netlify.app/*
+*://cswinternal.osu.edu/*
 *://cubesolution.pk/*
 *://cuebic.co.jp/*
 *://cuigoulai.xyz/*
@@ -3161,6 +3162,7 @@
 *://igetintopc.com/*
 *://igg-games.cc/*
 *://igg-games.com/*
+*://ihst.csd.auth.gr/*
 *://ihtiyacisoa.online/*
 *://iibc.me/*
 *://iiro-news.com/*
@@ -3419,6 +3421,8 @@
 *://jpsecengineer.com/*
 *://jsca-member--jp.proxy.shstvc.com.cn/*
 *://jsmjapan.com/*
+*://jtb-hotspringtickets.vip/*
+*://jtb-hotspringtickets.xyz/*
 *://jtbmusic.jp/*
 *://judymzungu.com/*
 *://jufusion.com/*
@@ -3883,6 +3887,7 @@
 *://luckystar2010.com/*
 *://lumogumu.xyz/*
 *://lunahapi.com/*
+*://lunch.orders.lfs.bg/*
 *://lusogamer.com/*
 *://luuhoo.cn/*
 *://luupy.net/*
@@ -4819,6 +4824,7 @@
 *://patinajesobrehielo.org.co/*
 *://patrainc.jp/*
 *://patrol.ru/*
+*://patty.yetile.fit/*
 *://pauleetmikevape.fr/*
 *://paultodd.com/*
 *://pay.line.me/*
@@ -4873,6 +4879,7 @@
 *://picky-s.jp/*
 *://picky-s.jp/college-student-laptop/*
 *://pico.inc/*
+*://pictureframeshub.com/*
 *://pigeon.info/*
 *://pignon.co.jp/*
 *://pikamama.com/*
@@ -6659,10 +6666,12 @@
 *://www.avantiegypt.com/*
 *://www.avanza-events.com/*
 *://www.avg.com/*
+*://www.aviatorgamess.com/*
 *://www.avtokomissar12.ru/*
 *://www.awebstudy.com/*
 *://www.axina.cn/*
 *://www.azbil.co.uk/*
+*://www.azen-o.com/*
 *://www.azure.cn/*
 *://www.baawamusicfestival.com/*
 *://www.babulilm.ie/*
@@ -7246,6 +7255,7 @@
 *://www.laddertechnologies.com/*
 *://www.lafioaee.net/*
 *://www.lakesideretreats.uk/*
+*://www.lamaoeditions.com/*
 *://www.launaycouverture.fr/*
 *://www.laveille.jp/*
 *://www.laxminarayanexpert.com/*
@@ -8315,6 +8325,7 @@
 *://zboykom.com/*
 *://zdcspzvg.r.us-east-1.awstrack.me/*
 *://zedpalindia.com/*
+*://zellijj.com/*
 *://zenipawer.com/*
 *://zensyaren.net/*
 *://zenterret.com/*
