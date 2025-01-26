@@ -1,3 +1,10 @@
+*://*/*index.php*
+*://*/*product_info*
+*://*/*email=*
+*://*/*user=*
+*://*/*sale.php*
+*://*/*deal*
+*://*/*?abc*
 *://*.asia/*
 *://*.au/*
 *://*.be/*
@@ -20,3 +27,10 @@ title/100%正規品/
 title/スーパー激安/
 title/完全正規品/
 title/超激安/
+title/正品/
+title/超便宜/
+title/特价/
+
+
+
+
