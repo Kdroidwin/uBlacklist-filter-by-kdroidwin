@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist2.txt
 ```
 
-- uBlacklist除外用フィルター by Kdroidwin URL
+- uBlacklist exclusionフィルター by Kdroidwin URL
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/Exclusion.txt
 ```
