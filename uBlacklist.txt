@@ -659,6 +659,7 @@
 *://*.zhouni.net/*
 *://*.zip/*
 *://*.zweryfikowac.pl/*
+*://*/*index.php?main_page=product_info&products_id=*
 *://0-scholar-google-com.brum.beds.ac.uk/*
 *://009933.xyz/*
 *://01.futako.info/*
@@ -1076,6 +1077,7 @@
 *://ameblo.jp/kashima1564*
 *://ameblo.jp/keepstreams/*
 *://ameblo.jp/kimetu-manga*
+*://ameblo.jp/kusowii*
 *://ameblo.jp/mangarawzip/*
 *://ameblo.jp/moju0304/*
 *://ameblo.jp/nianian0401*
@@ -1321,6 +1323,7 @@
 *://az-photo.myu-dot.com/*
 *://azdfaeuohuhdfifd.xyz/*
 *://azigzyy.cn/*
+*://azisan.com/*
 *://azmc.ru/*
 *://azukimama.com/*
 *://azukisanchi.xsrv.jp/*
@@ -1383,6 +1386,7 @@
 *://be-3679.about.gitlab-review.app/*
 *://be-marry.com/*
 *://beadsxbeads.com/*
+*://beararms.gr/*
 *://beasyouareramana.com/*
 *://beatriceinsurance.com/*
 *://beaver-global.com/*
@@ -2560,6 +2564,7 @@
 *://free-learn.info/*
 *://free-workstyle.com/*
 *://free-your-iphone.co.uk/*
+*://freeconsul.co.jp/*
 *://freehentaitorrent.jp/*
 *://freelife55.net/*
 *://freelifeofkite.com/*
@@ -2601,6 +2606,7 @@
 *://fumi2019.com/*
 *://funbid.com.hk/*
 *://funbox.wpx.jp/*
+*://fund.lifeplay.co.jp/*
 *://fundacionbuenasemilla.org/*
 *://funnews-cafe.com/*
 *://funtcase.tv/*
@@ -2808,6 +2814,7 @@
 *://goldflamingocasino.com/*
 *://goldfortune.jp/*
 *://goldmedalbody.com/*
+*://goldmedalget.com/*
 *://golfclinic.jp/*
 *://golfgimon.info/*
 *://gomagoma-blog.com/*
@@ -2875,6 +2882,7 @@
 *://guruffin.com/*
 *://gvv1.ru/*
 *://gwkzccabinet.com/*
+*://gxh.sweetbuy.shop/*
 *://gxt1831.com/*
 *://gyoukaijin-log.com/*
 *://gyouza-yamatani.jp/*
@@ -2901,6 +2909,7 @@
 *://hairandthere.frontwp.no/*
 *://haiyu-dorama.com/*
 *://hajime-angler.com/*
+*://hajimegallery.jp/*
 *://hak5.com.cn/*
 *://hakkan-gakkai.com/*
 *://haku.blue/*
@@ -2967,6 +2976,7 @@
 *://hasegen.com/*
 *://hasihirocap.com/*
 *://haskey.xyz/*
+*://hatima.doorblog.jp/*
 *://haxnode.net/*
 *://hayamablog.org/*
 *://hayaohirune.com/*
@@ -3061,6 +3071,7 @@
 *://hochi.news/*
 *://hodacieus.com/*
 *://hodgkinvzw.be/*
+*://hokanko-alt.com/*
 *://holabeauty.center/*
 *://holidaymelon.com/*
 *://hollyhappy.com/*
@@ -4036,6 +4047,7 @@
 *://marketplacetec.com/*
 *://marmarton.com/*
 *://marog01.com/*
+*://marounghorayeb.com/*
 *://maroup.net/*
 *://marsred-pj.net/*
 *://marucco-lino.com/*
@@ -4365,6 +4377,7 @@
 *://mykkb.kkb.kg/*
 *://mypage.sorotouch.cn/*
 *://mytrend.info/*
+*://n-yu.com/*
 *://n2-ch.com/*
 *://nabe03.net/*
 *://nabeaffiliate.com/*
@@ -4498,6 +4511,7 @@
 *://newsmatomedia.com/*
 *://newspo24.com/*
 *://newsrecently.com/*
+*://newssharing.net/*
 *://newsteam.livedoor.biz/*
 *://newsthegeino.blog.fc2.com/*
 *://newstora.com/*
@@ -4538,6 +4552,7 @@
 *://nipponnowadai.com/*
 *://niravselection.com/*
 *://nisanakadar.online/*
+*://nishichibayk-dc.com/*
 *://nishinono.com/*
 *://nithraplywoodandhardware.com/*
 *://niziero.net/*
@@ -4581,6 +4596,7 @@
 *://nortonshoresmichigan.com/*
 *://nostalghia11.com/*
 *://note.com/0219toton/n/n010fc309fe3e*
+*://note.com/dapper_boar1528*
 *://note.com/dream1004*
 *://note.com/f00b4r/n/n1fe7afacadd7*
 *://note.com/gominogomidame/*
@@ -4588,12 +4604,16 @@
 *://note.com/kimetsu_mania/*
 *://note.com/mangach/*
 *://note.com/moeuhane22*
+*://note.com/monetking0209*
 *://note.com/muryoudouga*
 *://note.com/open_hare4661/*
 *://note.com/powertanishi*
+*://note.com/rabirabi1*
 *://note.com/sknet_sougou*
 *://note.com/teamo_kidzania/n/nb60ef983e453
 *://note.com/techdaichi/*
+*://note.com/uber_tantan02*
+*://note.com/yamaguchi3forza*
 *://notsu08.com/*
 *://noureldin-lawfirm.com/*
 *://novel-device-166659.framer.app/*
@@ -4827,6 +4847,7 @@
 *://patty.yetile.fit/*
 *://pauleetmikevape.fr/*
 *://paultodd.com/*
+*://pawsandpower.hatenablog.com/*
 *://pay.line.me/*
 *://payment.on.your.account.rangdeindia.jp/*
 *://pblc.me/*
@@ -4883,6 +4904,7 @@
 *://pigeon.info/*
 *://pignon.co.jp/*
 *://pikamama.com/*
+*://pikaonline.com/*
 *://pikeplacedesign.com/*
 *://piku-home.com/*
 *://pilas-maths.com/*
@@ -4940,6 +4962,7 @@
 *://poire122.com/*
 *://poke-m.com/*
 *://poke0418hobbyblog.com/*
+*://pokebras.jp/*
 *://polarusso.com/*
 *://polimats.com/*
 *://pollux555.com/*
@@ -5526,6 +5549,7 @@
 *://sirohigedan.xyz/*
 *://sirokumama-ikuji.com/*
 *://siryou.jp/*
+*://sivbp.moonarama.za.com/*
 *://sixany.com/*
 *://sizaroyl.afibrake.com/*
 *://sj78z1oq.azura-menage.fr/*
@@ -5599,8 +5623,10 @@
 *://sonohanasi.com/*
 *://sonopol.com/*
 *://sootythq.redeagle-security.com/*
+*://sorahime.com/*
 *://soramugiblog.com/*
 *://sorano-mado.com/*
+*://soratake1107.com/*
 *://soratoburin.com/*
 *://sorteplus.net/*
 *://sota-001.com/*
@@ -5815,6 +5841,7 @@
 *://taka20218.com/*
 *://takamaru1219.net/*
 *://takanome.blog/*
+*://takara3.com/*
 *://takataka.jp/*
 *://takatarou.xyz/*
 *://takeo-datsusara.net/*
@@ -5883,6 +5910,7 @@
 *://tennisblog.org/*
 *://tennisevery.com/*
 *://tensei-shinai.com/*
+*://tenshoku-antenna.com/*
 *://terakoya.sejuku.net/*
 *://teratail.com/*
 *://teshicage.today/*
@@ -6154,6 +6182,7 @@
 *://tuyetthevolam.vn/*
 *://tv-watch.net/*
 *://tv.360.cn/*
+*://tvbundleshubonline.com/*
 *://tver.app/*
 *://tvreview.tokyo/*
 *://tw.daigobang.com/*
@@ -6772,6 +6801,7 @@
 *://www.chanelal.com/*
 *://www.chelsea-fc.ru/*
 *://www.chemours.cn/*
+*://www.chenarco.com/*
 *://www.chiark.greenend.org.uk/*
 *://www.chibamarathon.jp/*
 *://www.chibasanf.online/*
@@ -6823,6 +6853,7 @@
 *://www.coslemon.jp/*
 *://www.cosmeticprocedures.uk/*
 *://www.cosmo21.org/*
+*://www.cosmoya.shop/*
 *://www.cosnet.jp/*
 *://www.cpdportal.net/*
 *://www.crank-in.net/*
@@ -7245,6 +7276,7 @@
 *://www.kpshop.jp/*
 *://www.krph.jp/*
 *://www.kumamero.net/*
+*://www.kurakurakurarin.com/*
 *://www.kurashiru.com/*
 *://www.kurisu.me/*
 *://www.kwkoeey.cn/*
@@ -7529,6 +7561,7 @@
 *://www.physiotherapie-trudering.com/*
 *://www.piala.co.jp/*
 *://www.pilutkiewicz.pl/*
+*://www.pincenter.com/*
 *://www.pinterest.co.uk/*
 *://www.pinterest.com/*
 *://www.pinterest.jp/*
@@ -7817,6 +7850,7 @@
 *://www.teluru.jp/*
 *://www.temu.com/*
 *://www.tenews.org.ua/*
+*://www.tenshoku-antenna.com/*
 *://www.teppan-tachibana.jp/*
 *://www.tesla.cn/*
 *://www.tesonline.ru/*
@@ -7993,6 +8027,7 @@
 *://www.yoshi-mizumaki.jp/*
 *://www.yoshimasa-hosoya.com/*
 *://www.youki8322.com/*
+*://www.youtube.com/user/hatimaki73*
 *://www.youtube.com/watch?v=PMw5r4-4lhc*
 *://www.ysrcp.info/*
 *://www.yugoten.jp/*
@@ -8327,6 +8362,7 @@
 *://zedpalindia.com/*
 *://zellijj.com/*
 *://zenipawer.com/*
+*://zennnews.com/*
 *://zensyaren.net/*
 *://zenterret.com/*
 *://zephyreden.com/*
