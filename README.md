@@ -7,16 +7,16 @@ uBlacklist 用のフィルター　
 Filters for uBlacklist　
 - The main purpose is to exclude fraudulent or fake sites.
 
-# フィルター購読
+# フィルター購読 やり方
 
 - [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
-- その後、下の購読を押してください。
-- 2つ目の購読の方は多少の誤爆が許せる方向けです。1つ目のフィルターに加えて使ってください。(必ず１つ目のフィルターも購読する必要がある)
+- その後、chromeユーザーは下の購読を押してください。Firefoxユーザーはhttps://rawから始まるURLをコピー
+- 2つ目の購読の方は多少の誤爆が許せる方向けです。1つ目のフィルターに加えて使ってください。(必ず１つ目のフィルターも購読する必要があります。)
 - 3つ目の除外用は購読必須です。
 - 4つ目のはuBlock Origin用です。実験的です。フィルターリストのインポートから追加できます。
 
 > [!IMPORTANT]
->Firefoxユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からURLと適当な名前を入力してください。
+>Firefoxユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からhttps://rawから始まるURLと適当な名前を入力してください。
 
 
 [購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin&url=https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt)
