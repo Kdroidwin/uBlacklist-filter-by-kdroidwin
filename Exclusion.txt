@@ -21,3 +21,8 @@
 @*://www.melonbooks.info/*
 @*://www.katoiin.info/*
 @*://play.google.com/*
+@*://business.qiita.com/*
+@*://tver.jp/*
+@*://contest.japias.jp/*
+@*://apps.apple.com/*
+@*://www.money-press.info/*
