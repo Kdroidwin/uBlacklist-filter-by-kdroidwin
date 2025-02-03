@@ -8,7 +8,6 @@
 *://*.ae/*
 *://*.af/*
 *://*.agency/*
-*://*.ai/*
 *://*.akhbara24.news/*
 *://*.am/*
 *://*.amazon.com.vn/*
