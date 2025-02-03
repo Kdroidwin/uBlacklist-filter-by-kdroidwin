@@ -179,6 +179,7 @@
 *://*.dz/*
 *://*.ebay.com.vn/*
 *://*.edu.af/*
+*://*.edu.ai/*
 *://*.edu.al/*
 *://*.edu.ar/*
 *://*.edu.at/*
@@ -405,6 +406,7 @@
 *://*.nogomi.ru/*
 *://*.om/*
 *://*.org.af/*
+*://*.org.ai/*
 *://*.org.al/*
 *://*.org.ar/*
 *://*.org.at/*
