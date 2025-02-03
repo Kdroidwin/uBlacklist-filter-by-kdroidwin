@@ -20,3 +20,4 @@
 @*://kyokugen.info/*
 @*://www.melonbooks.info/*
 @*://www.katoiin.info/*
+@*://play.google.com/*
