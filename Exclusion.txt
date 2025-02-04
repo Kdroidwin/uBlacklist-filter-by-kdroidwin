@@ -26,3 +26,5 @@
 @*://contest.japias.jp/*
 @*://apps.apple.com/*
 @*://www.money-press.info/*
+@*://azurlane.wikiru.jp/*
+@*://blueprotocol.swiki.jp/*
