@@ -3782,7 +3782,6 @@
 ||news.guideme.jp^
 ||news.mynavi.jp^
 ||news.nifty.com^
-||news.yahoo.co.jp^
 ||newscomic.net^
 ||newsee-media.com^
 ||newsfantv.com^
