@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/Exclusion.txt
 ```
 
-
+uBlock origin 、Cromite ユーザー向け
 
 - uBlock origin 用フィルター URL（実験的）
 ```
