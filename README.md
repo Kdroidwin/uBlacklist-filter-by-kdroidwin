@@ -12,7 +12,9 @@ Filters for uBlacklist　
  1. [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
  2. chromeユーザーは下の購読を押してください。FirefoxユーザーはURLをコピーボタンを押してコピーしてください。
 
-※uBlock origin用のフィルターは
+※uBlock origin用のフィルターはuBlacklistには使えません。
+ABP形式のコンテンツブロッカーの機能があるブラウザ(cromiteや1dmブラウザなど)にも対応しています。
+
 # フィルターの種類
 -１つ目のは基本的にインストール推奨です。
 - 2つ目の購読の方は多少の誤爆が許せる方向けです。1つ目のフィルターに加えて使ってください。(必ず１つ目のフィルターも購読する必要があります。)
@@ -56,13 +58,13 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
-uBlock Origin用はメールアプリやSNSなどのアプリからリンクしたときなどに使えるがまだ実験的です。⚠検索結果には表示されます。
+uBlock Origin用はメールアプリやSNSなどのアプリからリンクしたときなどに使えるがまだ実験的です。⚠検索結果には表示されますがリンククリックするとuBlock originのポップアップが出ます。
 
 - uBlock origin 用フィルター URL 検索結果非表示
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt
 ```
-
+SearXNGにしか対応していません。
 
 
 # 対象サイト
@@ -81,11 +83,6 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 
 > [!NOTE]
 >まとめサイトは評価が人によって分かれるのと、数が多いので含めていません。しかし、◯的ゲーム速報、は◯ま寄稿、や◯おん、稲妻◯報などのサイトはwikiに迷惑サイトとあることやtwitterでの評判が悪い上に、捏造や誹謗中傷が多く、誰の目から見ても不要なので特例でリストインしています。
-
-
-# 効果をテスト
-
-[検索](https://www.google.com/search?q=%E5%85%AC%E5%BC%8F+site%3Aonline+OR+site%3Acn+OR+site%3Ashop+OR+site%3Atop+OR+site%3Asite+OR+site%3Aapp+OR+site%3Acfd+OR+site%3Axyz+OR+site%3Ame+OR+site%3Ame+OR+site%3Aru+OR+site%3Auk+OR+site%3Apl+OR+site%3Aonline+OR+site%3Ashop&sca_upv=1#ip=1)
 
 
 # 貢献
