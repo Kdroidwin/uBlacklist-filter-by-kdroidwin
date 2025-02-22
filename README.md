@@ -9,8 +9,12 @@ Filters for uBlacklist　
 
 # フィルター購読 やり方
 
-- [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
-- その後、chromeユーザーは下の購読を押してください。FirefoxユーザーはURLをコピーボタンを押してコピーしてください。
+ 1. [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
+ 2. chromeユーザーは下の購読を押してください。FirefoxユーザーはURLをコピーボタンを押してコピーしてください。
+
+※uBlock origin用のフィルターは
+# フィルターの種類
+-１つ目のは基本的にインストール推奨です。
 - 2つ目の購読の方は多少の誤爆が許せる方向けです。1つ目のフィルターに加えて使ってください。(必ず１つ目のフィルターも購読する必要があります。)
 - 3つ目の除外用は購読必須です。
 - 4つ目のはuBlock Origin用です。実験的です。フィルターリストのインポートから追加できます。検索結果には表示されますので注意⚠️
@@ -56,7 +60,7 @@ uBlock Origin用はメールアプリやSNSなどのアプリからリンクし�
 
 - uBlock origin 用フィルター URL 検索結果非表示
 ```
-https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/blob/main/uBlacklist_converted-foruBo.txt
+https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt
 ```
 
 
