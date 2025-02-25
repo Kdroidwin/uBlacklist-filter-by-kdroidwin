@@ -4529,8 +4529,6 @@
 *://news.mynavi.jp/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
 *://news.nifty.com/*
-*://news.yahoo.co.jp/articles/ed5a0c8c5b84b6bc2e095737777592fe0d5be93a*
-*://news.yahoo.co.jp/articles/f6f02cc72cbc94a2c2e75412f5cc2bd09fd5a543*
 *://newscomic.net/*
 *://newsee-media.com/*
 *://newsfantv.com/*
