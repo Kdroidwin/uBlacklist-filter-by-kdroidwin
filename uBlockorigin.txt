@@ -269,7 +269,6 @@
 *.instagram.com.vn$document
 *.iq$document
 *.ir$document
-*.is$document
 *.it$document
 *.jo$document
 *.jp.af$document
@@ -8497,6 +8496,4 @@ zyupodotyu.com$document
 @@||shellshockers.xyz^$document
 @@||xn--dbh-cj4e260f.xyz^$document
 @@||dtman.info^$document
-@@||frdl.is^$document
-
 
