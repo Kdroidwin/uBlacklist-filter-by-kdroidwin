@@ -8497,3 +8497,6 @@ zyupodotyu.com$document
 @@||shellshockers.xyz^$document
 @@||xn--dbh-cj4e260f.xyz^$document
 @@||dtman.info^$document
+@@||frdl.is^$document
+
+
