@@ -8503,9 +8503,6 @@ zuzukuntrend.com$document
 zwly9k6z.r.us-east-1.awstrack.me$document
 zx32.xyz$document
 zyupodotyu.com$document
-/.*(tomoyoafuta).*/$document
-/^https:\/\/www\.pinterest\./$document
-/^https:\/\/www\.qinterest\./$document
 /^https?:\/\/[^/]+\/.*(R(URL|EDIRECT)|FILE(?:NAME)?|UR[LI]|DEST(?:INATION)?|LINK)=.*\//i$document
 ! 除外
 @@||genspark.ai^$document
@@ -8545,8 +8542,8 @@ zyupodotyu.com$document
 @@||shellshockers.xyz^$document
 @@||xn--dbh-cj4e260f.xyz^$document
 @@||dtman.info^$document
-@*://k3su.xyz$document
-@*://keromakura.shop$document
-@*://kotyanlife.info$document
-@*://shellshockers.xyz$document
-@*://xn--dbh-cj4e260f.xyz$document
+@@||k3su.xyz^$document  
+@@||keromakura.shop^$document  
+@@||kotyanlife.info^$document  
+@@||shellshockers.xyz^$document  
+@@||xn--dbh-cj4e260f.xyz^$document
