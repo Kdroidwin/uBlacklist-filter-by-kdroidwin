@@ -15,12 +15,11 @@ Filters for uBlacklist　
 ※uBlock origin用のフィルターはuBlacklistには使えません。
 ABP形式のコンテンツブロッカーの機能があるブラウザ(cromiteなど)にも対応しています。
 
-# フィルターの種類
+# uBlacklist用 フィルターの種類
 - １つ目のは基本的にインストール推奨です。
 - 2つ目の購読の方は多少の誤爆が許せる方向けです。1つ目のフィルターに加えて使ってください。(必ず１つ目のフィルターも購読する必要があります。)
 - 3つ目の除外用は購読必須です。1つめと2つめのフィルターの誤爆を減らすためのものです。
-- 4つ目のはuBlock Origin用です。実験的です。フィルターリストのインポートから追加できます。検索結果には表示されますがアクセスを防ぐことができます。
-- 5つめはuBlock origin 用です。Cromiteなどを使用していてuBlacklistが使えない人向け、もしくはuBlock origin以外の拡張機能をインストールしたくない人向け SearXNGから非表示にします。SearXNG以外は対応していません。
+
 
 > [!IMPORTANT]
 >Firefoxユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。
@@ -52,7 +51,11 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/Exclusion.txt
 ```
 
-uBlock origin 、Cromite ユーザー向け
+# uBlock origin 、Cromite ユーザー向け
+
+
+- フィルターリストのインポートから追加できます。検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
+- 2つめはCromiteなどを使用していてuBlacklistが使えない人向け、もしくはuBlock origin以外の拡張機能をインストールしたくない人向け SearXNGの検索結果から非表示にします。SearXNG以外は対応していません。
 
 - uBlock origin 用フィルター URL（実験的）
 ```
