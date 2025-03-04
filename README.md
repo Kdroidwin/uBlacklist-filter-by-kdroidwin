@@ -4,8 +4,6 @@
 uBlacklist 用のフィルター　
 - 主に、詐欺サイトや偽サイト、悪質なアフィリエイトサイトを除外することが目的です。
 
-Filters for uBlacklist　
-- The main purpose is to exclude fraudulent or fake sites.
 
 # フィルター購読 やり方
 
@@ -51,7 +49,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/Exclusion.txt
 ```
 
-# uBlock origin 、Cromite ユーザー向け
+# uBlock origin 、Cromite フィルターの種類
 
 
 - フィルターリストのインポートから追加できます。検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
