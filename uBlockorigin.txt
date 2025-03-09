@@ -331,7 +331,6 @@
 /^https?:\/\/[^\/]+\.kz\/?$/$document
 /^https?:\/\/[^\/]+\.lat\/?$/$document
 /^https?:\/\/[^\/]+\.lb\/?$/$document
-/^https?:\/\/[^\/]+\.link\/?$/$document
 /^https?:\/\/[^\/]+\.linkedin\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.loan\/?$/$document
 /^https?:\/\/[^\/]+\.lol\/?$/$document
@@ -565,6 +564,7 @@
 /^https?:\/\/[^\/]+\.sch\.id\/?$/$document
 /^https?:\/\/[^\/]+\.schoenheitsklinik\-berlin\.com\/?$/$document
 /^https?:\/\/[^\/]+\.sd\/?$/$document
+/^https?:\/\/[^\/]+\.shabakngy\.com\/?$/$document
 /^https?:\/\/[^\/]+\.siwib\.org\/?$/$document
 /^https?:\/\/[^\/]+\.sk\/?$/$document
 /^https?:\/\/[^\/]+\.sl\/?$/$document
@@ -808,6 +808,7 @@
 5min-break.com$document
 5qlm1wg.h-arlt-fotografie.de$document
 5qlz1d8h.r.us-east-1.awstrack.me$document
+5sonsmama.com$document
 5w1h-jp.com$document
 60gisen.happo-ski.info$document
 612056938.slot47.online$document
@@ -1053,6 +1054,7 @@ alltube.online$document
 allwarrior.site$document
 almadinaalmonwra.com$document
 almoosahomehealthcare.org$document
+alnaimistudios.com$document
 alpinearagon.com$document
 alprazolamfaq.com$document
 alqaedtranslation.com$document
@@ -1062,6 +1064,7 @@ alternative-tibetaine.org$document
 alternative.me$document
 altontownfc.com$document
 alunsun.cn$document
+alurem.by$document
 alvarezconstructionllcco.com$document
 alvinaturizm.com$document
 always-from-here.net$document
@@ -1090,6 +1093,7 @@ ameblo.jp/monsukehbc*$document
 ameblo.jp/nianian0401*$document
 ameblo.jp/unarigoe$document
 ameblo.jp/zylp7dut$document
+ameeendt.com$document
 amekhorshid.ir$document
 amoebafile.blog.fc2.com$document
 amorcos.ocnk.net$document
@@ -1147,6 +1151,7 @@ anohito.xyz$document
 anomura.jp$document
 anonim.xyz$document
 anooblog.com$document
+anotherstorysign.com$document
 answers.microsoft.com$document
 answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn$document
 antenatarou.warotamaker2.com$document
@@ -1232,6 +1237,7 @@ argentinianpoker.com$document
 ariamedical.ir$document
 arigatoday.com$document
 arincoroom.com$document
+ario-matsumoto.jp$document
 aritai.jp$document
 arizonite.com$document
 arkofrefuge.org$document
@@ -1268,6 +1274,7 @@ asdproject.jp$document
 asesoreslinra.com$document
 asesoriainvima.com$document
 ashine-gr.com$document
+ashitamohare.com$document
 ashradar.com$document
 asifkhanshakir.com$document
 asigau.com.pg$document
@@ -1309,6 +1316,7 @@ augma.fandom.com$document
 aurora-village.com.au$document
 autocosmeticsny.com$document
 autodesk.me$document
+av1.manga119.com$document
 avaerocapital.com$document
 avantiegypt.com$document
 avasam.ir$document
@@ -1340,6 +1348,7 @@ b-corsairs.bl.kuroco-img.app$document
 b-us.liuhe36.cn$document
 b.hatena.ne.jp$document
 b1a4fc.jp$document
+b2b.bohrer.ru$document
 b2bherbs.com$document
 b4vdie.support$document
 babaabaa.blog.fc2.com$document
@@ -1383,6 +1392,7 @@ baumann-disputes.de$document
 baynewser.com$document
 bazaraj.com$document
 bazu-word.com$document
+bazuyomi.com$document
 bbb2infap002-it.labo.sbb-sys.info$document
 bbhylife.com$document
 bbitto.com$document
@@ -1408,6 +1418,7 @@ begood.solutions$document
 behappy-lifeblog.com$document
 beko-diary417.com$document
 bela-movie.com$document
+belcy.jp$document
 bellavista.club$document
 bellblo.com$document
 bellcurve.jp$document
@@ -1417,6 +1428,7 @@ belogorie.jp$document
 belotusmart.com$document
 benri.tabitoseikatsu.com$document
 berbagisarapan.com$document
+berlindentalct.com$document
 bernd-room.com$document
 berrymoca.com$document
 bert-bert.com$document
@@ -1437,9 +1449,11 @@ bibi-star.jp$document
 bibitobleague.club$document
 bibri.com$document
 big-celeb.jp$document
+big-name.blog.ss-blog.jp$document
 bignews77.com$document
 bigwing.shop$document
 bijyomato.com$document
+bikefixup.com$document
 bikehub.app$document
 bikuchan.com$document
 bilkey.me$document
@@ -1599,6 +1613,7 @@ bundle.app$document
 bungakuseinen.com$document
 bunkumo99.com$document
 bunpone.com$document
+bunt.boku.ac.at$document
 bunudagoruyor.online$document
 burgundy-movie.jp$document
 burly3qm.amisha.co.uk$document
@@ -1656,6 +1671,7 @@ care-telecom.com$document
 careandglory.uk$document
 careerintern.jp$document
 caribbeancomn.jp$document
+carobnibreg.rs$document
 carpenterlifts.online$document
 carscanvas.com$document
 cart.yonekichi.online$document
@@ -1664,6 +1680,7 @@ casamentodayejuh.life$document
 casico.me$document
 castamusic.fr$document
 castle.xyz$document
+catch-up-net.com$document
 catchmove.net$document
 cbsllc.me$document
 cccrecord.com$document
@@ -1915,7 +1932,9 @@ curiouschannel.com$document
 curta.online$document
 curtain-damashii.shop$document
 cuskst9p.ganis.co.uk$document
+cuty.jp$document
 cuzzell.com$document
+cva.unecon.ru$document
 cvkidkq.mediations-punkt.de$document
 cxio.thesum.xyz$document
 cyacyacyan.com$document
@@ -1930,6 +1949,7 @@ czumtabim.blog72.fc2.com$document
 d-tv.shop$document
 d315.cn$document
 d4d.online$document
+da-shinta.hatenablog.com$document
 dab2c848.xyz$document
 daigaku-hyoban.jp$document
 daigakuyabai.com$document
@@ -1950,6 +1970,7 @@ dakimax.com$document
 damablog.com$document
 damako42.com$document
 damigoe.com$document
+danaracakeryandevents.com$document
 dancevocal.fun$document
 dannadaisuki.com$document
 danpei.blog.ss-blog.jp$document
@@ -2121,6 +2142,7 @@ douga-man.hatenablog.com$document
 douga-sabusuku.com$document
 dougaguild.xsrv.jp$document
 doujin-eromanga.adult-h.com$document
+doujin-share.com$document
 doujin-yakata.com$document
 doujincco-ero.com$document
 doujinfree.com$document
@@ -2128,6 +2150,7 @@ doujinnews.com$document
 doujinrepublic.com$document
 doujinshiblog.com$document
 doujinshiman.com$document
+douzinnsi-eromannga.com$document
 download.capcutvip.top$document
 download.cnet.com$document
 download.cnet.com/ccleaner/3000-18512_4-10315544.html*$document
@@ -2221,6 +2244,7 @@ edobryggan.se$document
 educacion.fecolsog.org$document
 educationworlddirector.com$document
 edutec.edu.do$document
+edwardsbike.com$document
 effectivedutchlessons.nl$document
 efuyuiblog.com$document
 egachannel.shop$document
@@ -2268,6 +2292,7 @@ emangablog.com$document
 emery.me.uk$document
 emiki-a.com$document
 emilyklopotekangelfoundation.com$document
+emirinsblog.com$document
 emivehu.veterinatt.sk$document
 emoshare.web.app$document
 emuaikeiai.com$document
@@ -2293,6 +2318,7 @@ enhoko.com$document
 enimiron.com$document
 enishi-izumo.com$document
 enjoy-blog07.com$document
+enjoymediabox.com$document
 enne-trends.com$document
 ennuiner.sghscdhaka.edu.bd$document
 enta-nikki.jp$document
@@ -2302,6 +2328,7 @@ entame-info.work$document
 entame-info1.com$document
 entame-library.com$document
 entame-line.biz$document
+entame-mania.com$document
 entame-mania55.com$document
 entame-punch.com$document
 entame-sokuho.com$document
@@ -2311,6 +2338,7 @@ entame000ss.seesaa.net$document
 entame0510.xyz$document
 entame1000.com$document
 entame888.com$document
+entamebu.com$document
 entamefamily.com$document
 entamehack.com$document
 entamejoker.com$document
@@ -2345,6 +2373,7 @@ eritreaembassy.ch$document
 ero-comic.jp$document
 ero-ny.cfbx.jp$document
 ero-ny.com$document
+eroanimelist.com$document
 eroazu.com$document
 erobooker.com$document
 erocate.com$document
@@ -2359,6 +2388,7 @@ erodoujinview.com$document
 eroepub.com$document
 eroero-manga.jp$document
 eroero-manga.net$document
+eroge-maso.com$document
 eroge.dldshare.net$document
 erogetorrent2.blog.fc2.com$document
 eromancomi.com$document
@@ -2409,6 +2439,7 @@ eveninsight.com/safety-checker/website/infinitytweet.me*$document
 event4info.com$document
 eventobrasil.com$document
 eventoscqcr.com$document
+everfree01.com$document
 evergreenwoodhouse.hu$document
 everyday-entertainment77.com$document
 everyday-wadai.net$document
@@ -2676,9 +2707,11 @@ gameappli555.com$document
 gamebiz.jp$document
 gamefabrique.com$document
 gamegadget.jp$document
+gamenexus.jp/wutheringwaves/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9Se$document
 gamerom.blog129.fc2.com$document
 games.hnt.co.jp$document
 gamesblog0.blog63.fc2.com$document
+gamesoku.dreamlog.jp$document
 gaming-select.com$document
 ganbarinote.net$document
 ganbariyasan.com$document
@@ -2730,6 +2763,7 @@ geinouwadai.com$document
 geinouzin.net$document
 geisposoul.com$document
 geitopi.com$document
+gekibuzz.com$document
 gekkanmensphysique.com$document
 gemala.me$document
 genalphaup.com$document
@@ -2746,6 +2780,7 @@ genso-koryu.jp$document
 gentillesse.net$document
 geomanga.jp$document
 geronhaita.com$document
+getagriponlighting.com$document
 getbt.blog.2nt.com$document
 getintopc.com$document
 getmodsapk.com/youtube-revanced-extended-mod-apk$document
@@ -2796,6 +2831,7 @@ gitlab.cn$document
 gitlab.euclid-sgs.uk$document
 gitlab.iaaras.ru$document
 gitlab.wmstudio.su$document
+giugno-12.com$document
 give-a-shot2020.com$document
 gj.enova.top$document
 gjjl.ntu.edu.cn$document
@@ -2824,10 +2860,12 @@ go.fb.me$document
 go.id.me$document
 go.onelink.me$document
 go.sniply.app$document
+gogomama.net$document
 gogozoromi.com$document
 gogreencabs.com$document
 gogunlocked.com$document
 gohantublog.com$document
+gokyuzuvebalon.com$document
 golang.ac.cn$document
 golang.google.cn$document
 goldenheartmediation.com$document
@@ -2943,10 +2981,12 @@ hamame.xyz$document
 hameets.com$document
 hamerahomes.com$document
 hamlimit-blog.com$document
+hana-naya.jp$document
 hana-okane.com/temu-reviews$document
 hanaji-dakimakura.taobao.com$document
 hanakuro.jp$document
 hananoree.com$document
+hanas-focus.com$document
 hanasakikojii.com$document
 handigvlog1997.com$document
 handjp.poxnel.com$document
@@ -2965,6 +3005,7 @@ happy-days777.com$document
 happy-drops.site$document
 happy-freeeeee77.com$document
 happy-happy-news.com$document
+happy-life-style.net$document
 happy-mariring.com$document
 happyblog.tokyo$document
 happyboatclub.jp$document
@@ -3008,6 +3049,7 @@ hayarimono.work$document
 hayawakari11.com$document
 hbox-webcomic.adult-h.com$document
 healcipe.com$document
+healingisland3103.com$document
 healthistanbulgroup.com$document
 healthykidshealthyfuture.org$document
 heart-made-cafe.info$document
@@ -3068,6 +3110,7 @@ hirodai0628.blog111.fc2.com$document
 hirodaiken.jp$document
 hirokazu-61.com$document
 hiroko310.com$document
+hiromi778.com$document
 hiroshidrp.com$document
 hirosroom.com$document
 hiroteru.info$document
@@ -3237,6 +3280,7 @@ incasejapanqa.shop$document
 index.taimiah.org$document
 indiespark.top$document
 industrial.panasonic.cn$document
+industriallicence.com$document
 industrialwastecleanup.com$document
 inest-inc.co.jp$document
 infinico2.sakura.ne.jp$document
@@ -3389,6 +3433,7 @@ jbs-kinki69.jp$document
 jcgym.us$document
 jdipper.com$document
 jeannespaey.com$document
+jenak.net$document
 jetbrains.ru$document
 jiaqingli.cn$document
 jibassociation.org$document
@@ -3558,6 +3603,7 @@ kawamoriexpo.jp$document
 kawaraban-news.com$document
 kayuitokoronite.com$document
 kazen.online$document
+kazu061815.com$document
 kazuhirog.com$document
 kazutoshinarita.com$document
 kban.me$document
@@ -3607,6 +3653,7 @@ kikkakeblog40.com$document
 kikomas.online$document
 kilimas.online$document
 kimagure-diary.com$document
+kimamainfo.com$document
 kimamani-hitori.com$document
 kimetsu20.seesaa.net$document
 kimetsunoyaiba.seesaa.net$document
@@ -3615,6 +3662,7 @@ kimetu23tadayomi.seesaa.net$document
 kimetugaidenn.seesaa.net$document
 kimetusaishuukan.seesaa.net$document
 kimisomu.xyz$document
+kimootoko.net$document
 kims-001.com$document
 kinarino.jp$document
 kingbraintech.com$document
@@ -3709,6 +3757,7 @@ kosianzu.com$document
 kosodate-ninjya.com$document
 kosodatemath.com$document
 kossy-trend.com$document
+kotaeblog.com$document
 kotaneko.net$document
 kotoko18.com$document
 kouzushima.org$document
@@ -3819,6 +3868,7 @@ leisurego.jp$document
 lelabo.co.jp$document
 lemino-subdomain.onelink.me$document
 lemon-hiraya.com$document
+lemon-humming.com$document
 lenclosduruisseau.re$document
 lesac.ru$document
 lestermods.com$document
@@ -3867,6 +3917,7 @@ link.fmkorea.org$document
 link.gevents.cn$document
 link.photoprism.app$document
 link0plus-czdbb5cgd4bbebab.z01.azurefd.net$document
+linoo7.com$document
 lisae.me.uk$document
 liskul.com$document
 liteapks.com$document
@@ -3918,10 +3969,12 @@ loveningen.jp$document
 lovepeace-shuchan.com$document
 lovewagonblog.wordpress.com$document
 lowcostoutsource.com$document
+lps.nanoartmarket.com$document
 ls6z1wg.h-arlt-fotografie.de$document
 lsboardservices.com$document
 ltf91f0r.r.us-east-1.awstrack.me$document
 ltmonod.aflec-fr.org$document
+lucky-lifetime.com$document
 luckykonami.com$document
 luckymotors.ee$document
 luckystar2010.com$document
@@ -4024,6 +4077,7 @@ makuring.jp/internet/paid-vpn$document
 malaylog.com$document
 mama-liberty.com$document
 mama-necoblog.com$document
+mamagirl.jp$document
 mamaicchi.com$document
 mamanochiwatashi.com$document
 mamanoiro.info$document
@@ -4102,6 +4156,7 @@ masquevinilo.com$document
 massartcon.buzz$document
 masshunblog.com$document
 massunchannel.com$document
+massuuy.com$document
 master--boxdevjp.netlify.app$document
 master--endoflife-date.netlify.app$document
 master--helm-dev.netlify.app$document
@@ -4152,6 +4207,7 @@ mdpr.jp$document
 measurement.slot42.online$document
 meat-kode.com$document
 mebelim.net$document
+mechasiko.com$document
 meconnect.ru$document
 media-athlete.com$document
 media.mar-cari.jp$document
@@ -4176,10 +4232,12 @@ meguppechan.com$document
 meibun-jp.996w.cn$document
 meinekekc.com$document
 meiyanfan.cn$document
+mekongpromm.com$document
 meli-melo.blog.jp$document
 meltsold.mydees.com$document
 melty-novel.com$document
 memento79.net$document
+memorog.com$document
 memorylane-media.com$document
 menbouyuzu.hatenablog.com$document
 mendakonews.com$document
@@ -4322,6 +4380,7 @@ money101.cn$document
 moneytalk.tokyo$document
 mongo.comcloud.xyz$document
 monkeynet.jp$document
+mono-book.com$document
 mono-ho.jp$document
 monokuro0210.com$document
 monologue-style.com$document
@@ -4347,6 +4406,7 @@ motetsu.com$document
 motochanblog.com$document
 motorx6d.sarangkkb.com$document
 motoyun-anl.com$document
+moukaku-san.com$document
 movie-architecture.com$document
 movie-happyisland.com$document
 movie-memo.com$document
@@ -4420,6 +4480,7 @@ nadinbg.com$document
 nagano-kensanpin-gift.jp$document
 nagasaki.china-consulate.gov.cn$document
 nagisa.online$document
+nagomiyamadoromi.jp$document
 nagoyajo.webmasteris.me$document
 nahdionline.shop$document
 naikougata-tosan.com$document
@@ -4585,6 +4646,7 @@ niravselection.com$document
 nisanakadar.online$document
 nishichibayk-dc.com$document
 nishinono.com$document
+nissancagayandeoro.com$document
 niterune.com$document
 nithraplywoodandhardware.com$document
 niziero.net$document
@@ -4666,6 +4728,7 @@ ntg-guinee.com$document
 ntryomimono.com$document
 nudesystems.com$document
 nufu.online$document
+nukkadusa.com$document
 numaota.jp$document
 nunnun-father.hatenablog.com$document
 nutrizionisti-online.com$document
@@ -4720,6 +4783,7 @@ okboook.com$document
 oki-itsmylife.com$document
 okiam-02.com$document
 okigourmet.com$document
+okomechan6.com$document
 okuraya.shop$document
 okusama-news.com$document
 okusurinavi.shop$document
@@ -4792,6 +4856,7 @@ osenblog.com$document
 oseti.club$document
 oshikeiblog.com$document
 oshinisasageru.com$document
+osijyo.com$document
 osolelighting.com$document
 osusume-anime.com$document
 osusume-kaigaidorama.com$document
@@ -5052,6 +5117,7 @@ present-life.tokyo$document
 president.jp$document
 pressingleclair.fr$document
 prexi.jp$document
+price-feel.com$document
 primary-production-7e19.up.railway.app$document
 primasport.ru$document
 prime1studio.shop$document
@@ -5081,6 +5147,8 @@ psikodramatist.com$document
 psptorrentcfw.blog115.fc2.com$document
 pswriter1129.com$document
 psychguidelines.com$document
+psychicsacredinsights.com$document
+publicbarlive.com$document
 pukesbgu.treasureshotel.com$document
 puntagordagasprices.com$document
 puralog.com$document
@@ -5098,6 +5166,7 @@ qatchdigital.com$document
 qlgreer.soisweb.uwm.edu$document
 qliziwo.cn$document
 qltone.com$document
+qoly.jp$document
 qoob.name$document
 qoupyoo771-ocn.xyz$document
 qpqotbrxnr.shop$document
@@ -5165,6 +5234,7 @@ realcongress.ru$document
 realtimetvgod.com$document
 realtyempowermentsystems.com$document
 rebeauty.love$document
+reblo.net$document
 rebooto3.com$document
 rechargewifi.base.shop$document
 recipe.rakuten.co.jp$document
@@ -5295,6 +5365,7 @@ rocs-project.org$document
 rokepan.com$document
 rokitolar.com$document
 roman-so-words.bandcamp.com$document
+romeoandrosaline.com$document
 romhacking.ru$document
 ronherman.shop$document
 ronigirls.jp$document
@@ -5307,6 +5378,7 @@ rootsnote.com$document
 roowiwolu.shop$document
 ropaestillo.com$document
 rosaerie.com$document
+rose-channel.net$document
 rosyblog.com$document
 rotae.bike$document
 rouge-letter.com$document
@@ -5390,6 +5462,7 @@ sakujijikamu.com$document
 sakumi39.com$document
 sakupanjouhou.com$document
 sakura-anpan.net$document
+sakura-moondays.com$document
 sakurasite.net$document
 saladbowl.net$document
 sale-cartoons.hatenablog.com$document
@@ -5420,6 +5493,7 @@ sarimama.com$document
 saron222.net$document
 saru.co.jp$document
 sarugakuchode.com$document
+sasa-blog42.com$document
 sasakinozomi-ouen.pink$document
 sasamamai.site$document
 sasayamarche.jp$document
@@ -5506,6 +5580,7 @@ shicony.com$document
 shiftchurch.com$document
 shigemaru.info$document
 shikishima-kyou.xyz$document
+shima--shima.com$document
 shima-metal.com$document
 shimammy.com$document
 shimane-goen.jp$document
@@ -5597,6 +5672,7 @@ sj78z1oq.azura-menage.fr$document
 sjekzaawe.xyz$document
 sk-kolosovhouse.ru$document
 sk-style.xyz$document
+skadogrecords.com$document
 skannerilehti.net$document
 skapalinkoping.se$document
 skardnieks.id.lv$document
@@ -5677,6 +5753,7 @@ source.android.google.cn$document
 sourceforge.net/projects/revanced-extended-byie$document
 sourl.cn$document
 soutennoblog.blog.fc2.com$document
+southglow.co.jp$document
 southseasgallery.com$document
 southsidemibor.com$document
 sozhaatimes.com$document
@@ -5692,6 +5769,7 @@ speedycolt.com$document
 spicymadonna.com$document
 splashpages-dev.hm.com$document
 splatoonv.hatenablog.com$document
+spodoori.com$document
 spoilerplus.net$document
 spoilerzz.com$document
 spokebnh.easttopics.com$document
@@ -5754,6 +5832,7 @@ stor.cdn.dfyun.com.cn$document
 store.azki-official.com$document
 store.breguet.cn$document
 stores.chaumet.cn$document
+storyoffilm-japan.com$document
 storyweb.jp$document
 strategydata.cn$document
 streamlit.app$document
@@ -5784,6 +5863,7 @@ suika-v4.com$document
 suimin.biz$document
 suketorioblog.com$document
 sukhadniwas.com$document
+sukidra.com$document
 sukita-movie.com$document
 sukyauto.com$document
 sumaho-okayama.com$document
@@ -5913,6 +5993,7 @@ tanita.g.kuroco-front.app$document
 tanoshikoto.net$document
 tanosiiseikatu.com$document
 tantanmen.shop$document
+tantwn2122.com$document
 taosfoundationrepair.com$document
 tapedv6a.proremedyphysio.com$document
 tardosk4.odonline.co.il$document
@@ -5996,6 +6077,7 @@ thechatterboxradio.com$document
 thecircusplace.com$document
 thecurrentreport.com$document
 thedieiscast4.com$document
+thefaha.com$document
 theflint.me$document
 thefor.xyz$document
 thefurn.co$document
@@ -6088,6 +6170,7 @@ tomatomarigi.com$document
 tomatonic.jp$document
 tomita.me$document
 tomiyamasayaka.com$document
+tomoblog-life.com$document
 tomoki-912.com$document
 tomomi22.com$document
 tomorrownk.info$document
@@ -6127,6 +6210,7 @@ tottori-covid19.netlify.app$document
 totutottuan.com$document
 touhoku-shigoto.jp$document
 touhokujrst.club$document
+towakon.com$document
 toy-box777.com$document
 toyama-asbb.com$document
 toyobaru.jp$document
@@ -6250,6 +6334,7 @@ tyerukun.com$document
 tyubetyube.com$document
 tzavikaru.shop$document
 u-mindmap.com$document
+u-nature.jp$document
 uaeninjawarriors.com$document
 uat.newgarage.com$document
 uberpartner.hatenablog.com$document
@@ -6305,6 +6390,7 @@ urotanblog.com$document
 urphysio.com$document
 urreasureste.com$document
 us.7digital.com$document
+usagi-no-guild.com$document
 usagi-syufulife.com$document
 usagi0925.com$document
 usagidayo.com$document
@@ -6481,6 +6567,7 @@ warriormetalcrafts.com$document
 wasabeafn.com$document
 wascorrectes.com$document
 wasni.care$document
+wasshoi2024.com$document
 wasyoku2017.m.icoc.me$document
 waterdropcycle.com$document
 wayofthescreenwriter.com$document
@@ -6843,6 +6930,7 @@ www.cec-ltd.cn$document
 www.cecilysmithnesbitt.com$document
 www.celebfeel.com$document
 www.centralesderiesgo.com$document
+www.centresource.com$document
 www.cfp-offset.jp$document
 www.chaen-cafe.com$document
 www.challeup.com$document
@@ -6929,6 +7017,7 @@ www.databasedreams.co.uk$document
 www.davidpetts.org$document
 www.dd-mona.com$document
 www.ddtrans.am$document
+www.decoracioarc.com$document
 www.decoreight.shop$document
 www.deep-exp.cn$document
 www.delarte.cl$document
@@ -6963,6 +7052,7 @@ www.domainsherpa.com$document
 www.doodsoft.cn$document
 www.doorkeeper.jp$document
 www.dosaaf79region.ru$document
+www.doujin-log.com$document
 www.dq-9.info$document
 www.draker-deck.com$document
 www.drbakierdem.com$document
@@ -7007,10 +7097,13 @@ www.enavmshop.com$document
 www.endocrincentr.ru$document
 www.endpointcorporation.com$document
 www.energie-biomasse.fr$document
+www.enginez.jp$document
 www.enigmasoftware.jp$document
 www.enshadower.me$document
+www.entamesnap.com$document
 www.entertainment-topics.jp$document
 www.epicdigitalhub.com$document
+www.epicenlinea.com$document
 www.epiqglobal.cn$document
 www.er92.top$document
 www.erba-albania.com$document
@@ -7047,6 +7140,7 @@ www.festo.com.cn$document
 www.fiabpjm.cn$document
 www.figures-makaizou.com$document
 www.filehorse.com$document
+www.firat.co.ao$document
 www.first-step0603.com$document
 www.firstplacetokyo.jp$document
 www.fitceratops.com$document
@@ -7152,14 +7246,17 @@ www.grupp-smt.ru$document
 www.gshade.org$document
 www.gualalaseafoodshack.joncarlo.com$document
 www.guedo.fr$document
+www.guilty-soft.com$document
 www.guru99.com$document
 www.hachioji-orimono.jp$document
+www.hacocoro.com$document
 www.hakone-yamatoya.com$document
 www.hakutea.jp$document
 www.hallaron.com$document
 www.hamayurigakuen.jp$document
 www.hammock-cafe.jp$document
 www.hanaranurseries.com$document
+www.hansonbox.org$document
 www.haoyue.xyz$document
 www.happyfootstep.dk$document
 www.happylife40.com$document
@@ -7222,6 +7319,7 @@ www.imago.aero$document
 www.imdb.me$document
 www.imrisk.com$document
 www.indiegogo.jp$document
+www.indigocowork.space$document
 www.innocentcapitaltax.com$document
 www.inspiracionkohler.com$document
 www.insta360.cn$document
@@ -7259,6 +7357,7 @@ www.japan-osaka.cn$document
 www.japanartscraft.com$document
 www.japex.ru$document
 www.jassdf.info$document
+www.jav24.com$document
 www.jcd56.com.cn$document
 www.jeansroy.com$document
 www.jechavarria.com$document
@@ -7280,7 +7379,6 @@ www.joker86.jp$document
 www.jollybeans.shop$document
 www.jooaywg.cn$document
 www.jpkjaxn.cn$document
-www.jprime.jp$document
 www.jpzentai.com$document
 www.judymzungu.com$document
 www.juxtin.com$document
@@ -7375,6 +7473,7 @@ www.lkoaszxca.shop$document
 www.llinks.xyz$document
 www.locationsmart.info$document
 www.locker-room.info$document
+www.lodge-sansui.com$document
 www.logitech.com.cn$document
 www.lojapastore.com$document
 www.lojo.org$document
@@ -7475,6 +7574,7 @@ www.mnmch.com$document
 www.mochiteasaku.com$document
 www.modathink.com$document
 www.moduloasr.com$document
+www.mohammedmubinmallick.com$document
 www.molly.online$document
 www.momoshiro245.info$document
 www.momotoyuin.com$document
@@ -7891,6 +7991,7 @@ www.taradaleu3a.org.nz$document
 www.taraproperty.com.au$document
 www.tatalp.cn$document
 www.tattoofashionhh.dk$document
+www.tawawahawawa.com$document
 www.taydeaburto.com$document
 www.tbbghbv.cn$document
 www.tdk.com.cn$document
@@ -7995,6 +8096,7 @@ www.uranai3.com$document
 www.usachan.co.jp$document
 www.ushigomepark-cl.com$document
 www.ustravelwatcher.xyz$document
+www.utilitylocatinginformation.com$document
 www.utorrent.com$document
 www.uttarakhandprahari.in$document
 www.uukklhk.xyz$document
@@ -8038,6 +8140,7 @@ www.vrarworld.cn$document
 www.vubfvubf.xyz$document
 www.w3campus.lk$document
 www.wacom.com.cn$document
+www.walkerplus.com$document
 www.wallop.tv$document
 www.wandoutv.cn$document
 www.warorince.com$document
@@ -8093,6 +8196,7 @@ www.yukisako.xyz$document
 www.yumee.online$document
 www.yumerohashi.com$document
 www.yunbiyo6.com$document
+www.yurikago-blogu.com$document
 www.yurimmm3.com$document
 www.yuroblog.site$document
 www.yurunoblog.com$document
@@ -8241,6 +8345,7 @@ yaroumeshi.vercel.app$document
 yasambasari.com$document
 yasoneuiorsa.xyz$document
 yasuho-blog.com$document
+yauyaustyle.com$document
 yavartaki.online$document
 ybe5vxl.madietamoi.fr$document
 ydenki.jp$document
@@ -8263,6 +8368,7 @@ yogozansu.jp$document
 yoki-travel.com$document
 yokkoi.com$document
 yokomaru.blog$document
+yokotablog.com$document
 yokubari-okan.com$document
 yolo-world.com$document
 yomeno-tadaima.com$document
@@ -8361,6 +8467,7 @@ yumisblog.com$document
 yunhoyunho.com$document
 yunoche.com$document
 yuran.work$document
+yurarilog.com$document
 yurenikui.jp$document
 yuruiki.site$document
 yurutotu.com$document
@@ -8369,6 +8476,7 @@ yutapon-blog.com$document
 yuu01.jp$document
 yuugafas.com$document
 yuuhime.xyz$document
+yuukota-blog.com$document
 yuutan-yuuyuuziteki.com$document
 yuuublogkakutou.com$document
 yuyamatsushita.com$document
@@ -8460,46 +8568,8 @@ zuzukuntrend.com$document
 zwly9k6z.r.us-east-1.awstrack.me$document
 zx32.xyz$document
 zyupodotyu.com$document
-
-
-
+/.*(tomoyoafuta).*/$document
+/^https:\/\/www\.pinterest\./$document
+/^https:\/\/www\.qinterest\./$document
+/^https?:\/\/[^/]+\/.*(R(URL|EDIRECT)|FILE(?:NAME)?|UR[LI]|DEST(?:INATION)?|LINK)=.*\//i$document
 ! 除外
-@@||genspark.ai^$document
-@@||mee6.xyz^$document
-@@||wa3.i-3-i.info^$document
-@@||emulation.gametechwiki.com^$document
-@@||missav.ws^$document
-@@||missav.ai^$document
-@@||jjya.xyz^$document
-@@||ghostpia.xyz^$document
-@@||xiaoron.xyz^$document
-@@||wiki3.xyz^$document
-@@||ketakumafun.xyz^$document
-@@||seichi.click^$document
-@@||trpgsession.click^$document
-@@||webmanga.info^$document
-@@||iicoto.info^$document
-@@||superalps.info^$document
-@@||fujiq.info^$document
-@@||ringofes.info^$document
-@@||cyberpunk2077.2game.info^$document
-@@||kyokugen.info^$document
-@@||melonbooks.info^$document
-@@||katoiin.info^$document
-@@||play.google.com^$document
-@@||business.qiita.com^$document
-@@||tver.jp^$document
-@@||contest.japias.jp^$document
-@@||apps.apple.com^$document
-@@||money-press.info^$document
-@@||azurlane.wikiru.jp^$document
-@@||blueprotocol.swiki.jp^$document
-@@||krsw-wiki.in^$document
-@@||rebates.jp^$document
-@@||k3su.xyz^$document
-@@||kotyanlife.info^$document
-@@||shellshockers.xyz^$document
-@@||xn--dbh-cj4e260f.xyz^$document
-@@||dtman.info^$document
-@@||d1ch.cc^$document
-@@||animescape.link^$document
