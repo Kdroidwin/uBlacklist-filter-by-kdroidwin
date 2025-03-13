@@ -597,6 +597,7 @@
 /^https?:\/\/[^\/]+\.sysadminde\.com\/?$/$document
 /^https?:\/\/[^\/]+\.t\.codebug\.vip\/?$/$document
 /^https?:\/\/[^\/]+\.tagsqa\.com\/?$/$document
+/^https?:\/\/[^\/]+\.tecahe\.za\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-in\-japan\.github\.io\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-ja\.netlify\.app\/?$/$document
 /^https?:\/\/[^\/]+\.tech\/?$/$document
@@ -1312,6 +1313,7 @@ aucfan.com$document
 auditable.cl$document
 auditexpert.net$document
 augma.fandom.com$document
+aumo.jp$document
 aurora-village.com.au$document
 autocosmeticsny.com$document
 autodesk.me$document
@@ -1731,6 +1733,7 @@ chelra-note.com$document
 chenmamablog.com$document
 cherish-media.jp$document
 cherri.jp$document
+cherry0704.com$document
 cherryonline.online$document
 chesbayresort.com$document
 chfs.me$document
@@ -2118,6 +2121,7 @@ dojinmanga.net$document
 dojinparadiso.jp$document
 dokusyoka2narou.com$document
 dolarkacpara.xyz$document
+dolbacco.com$document
 dolcevitaminebe.com$document
 domkuply.ru$document
 domore.shop-pro.jp$document
@@ -3085,6 +3089,8 @@ highschool-wp-3ekxbwgmwq-an.a.run.app$document
 highstonecap.com$document
 hightleak.xyz$document
 higo-yokamon.jp$document
+hikaku.kurashiru.com$document
+hikaku.kurashiru.com/articles/01HN2DXRTNS65RH065F76088MW*$document
 hikari-iyashi.com$document
 hikaribatake.com$document
 hikitasan-gokainin.com$document
@@ -4082,6 +4088,7 @@ mamanochiwatashi.com$document
 mamanoiro.info$document
 mamareads.wpx.jp$document
 mamastar.jp$document
+mametoku.community2.fmworld.net$document
 mamimumemog.com$document
 mamintyu.com$document
 manadia.jp$document
@@ -4410,6 +4417,7 @@ movie-architecture.com$document
 movie-happyisland.com$document
 movie-memo.com$document
 movilidadsantafedeantioquia.gov.co$document
+moxienashville.com$document
 moya-trend.com$document
 mpznqedu.com$document
 mrandmsreed.com$document
@@ -5550,6 +5558,7 @@ sekai-kawaru.com$document
 sekarikun.com$document
 sekilsem.click$document
 sekirara-nenkinseikathu.com$document
+select.okwave.jp$document
 selenium.net.cn$document
 sendai-startups.org$document
 sensitiveimages.com$document
