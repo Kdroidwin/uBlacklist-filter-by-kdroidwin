@@ -89,9 +89,8 @@ SearXNGにしか対応していません。
 # 貢献
 
 URLの追加やミスの削除に協力していだける方は、レポジトリをForkして編集していただき、pull requestを送ってください。
-issueでも構いませんが、可能ならpull requestのほうが嬉しいです。
-このフィルターと別のフィルターをコードエディターなどにコピーし
-ファイル名をuBlacklist.txtにし、pyファイルを使うと、アルファベット順に並べられ重複を削除できますが、Pull Requestするときは必ずしも必要ではありません。（勿論しても良いです。）
+issueでも構いません。
+
 
 # 補足
 Kiwi browserでDuckDuckGo、SearXNGが使えない問題を修正
