@@ -595,6 +595,7 @@
 *://*.sysadminde.com/*
 *://*.t.codebug.vip/*
 *://*.tagsqa.com/*
+*://*.tecahe.za.com/*
 *://*.tech-in-japan.github.io/*
 *://*.tech-ja.netlify.app/*
 *://*.tech/*
@@ -1310,6 +1311,7 @@
 *://auditable.cl/*
 *://auditexpert.net/*
 *://augma.fandom.com/*
+*://aumo.jp/*
 *://aurora-village.com.au/*
 *://autocosmeticsny.com/*
 *://autodesk.me/*
@@ -1729,6 +1731,7 @@
 *://chenmamablog.com/*
 *://cherish-media.jp/*
 *://cherri.jp/*
+*://cherry0704.com/*
 *://cherryonline.online/*
 *://chesbayresort.com/*
 *://chfs.me/*
@@ -2116,6 +2119,7 @@
 *://dojinparadiso.jp/*
 *://dokusyoka2narou.com/*
 *://dolarkacpara.xyz/*
+*://dolbacco.com/*
 *://dolcevitaminebe.com/*
 *://domkuply.ru/*
 *://domore.shop-pro.jp/*
@@ -3083,6 +3087,8 @@
 *://highstonecap.com/*
 *://hightleak.xyz/*
 *://higo-yokamon.jp/*
+*://hikaku.kurashiru.com/*
+*://hikaku.kurashiru.com/articles/01HN2DXRTNS65RH065F76088MW*
 *://hikari-iyashi.com/*
 *://hikaribatake.com/*
 *://hikitasan-gokainin.com/*
@@ -4080,6 +4086,7 @@
 *://mamanoiro.info/*
 *://mamareads.wpx.jp/*
 *://mamastar.jp/*
+*://mametoku.community2.fmworld.net/*
 *://mamimumemog.com/*
 *://mamintyu.com/*
 *://manadia.jp/*
@@ -4408,6 +4415,7 @@
 *://movie-happyisland.com/*
 *://movie-memo.com/*
 *://movilidadsantafedeantioquia.gov.co/*
+*://moxienashville.com/*
 *://moya-trend.com/*
 *://mpznqedu.com/*
 *://mrandmsreed.com/*
@@ -5548,6 +5556,7 @@
 *://sekarikun.com/*
 *://sekilsem.click/*
 *://sekirara-nenkinseikathu.com/*
+*://select.okwave.jp/*
 *://selenium.net.cn/*
 *://sendai-startups.org/*
 *://sensitiveimages.com/*
