@@ -37,3 +37,4 @@
 @*://dtman.info/*
 @*://d1ch.cc/*
 @*://www.animescape.link/*
+@*://www.toushibu.fun/*
