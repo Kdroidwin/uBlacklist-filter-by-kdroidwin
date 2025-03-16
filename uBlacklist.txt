@@ -22,7 +22,6 @@
 *://*.bi/*
 *://*.bond/*
 *://*.br/*
-*://*.ca/*
 *://*.cam/*
 *://*.cd/*
 *://*.cf/*
@@ -34,7 +33,6 @@
 *://*.cloudflare.com.vn/*
 *://*.club/*
 *://*.cm/*
-*://*.co.uk/*
 *://*.co.za/*
 *://*.com.ad/*
 *://*.com.ae/*
@@ -562,6 +560,7 @@
 *://*.sch.id/*
 *://*.schoenheitsklinik-berlin.com/*
 *://*.sd/*
+*://*.sg/*
 *://*.shabakngy.com/*
 *://*.siwib.org/*
 *://*.sk/*
