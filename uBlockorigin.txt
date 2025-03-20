@@ -36,8 +36,8 @@
 /^https?:\/\/[^\/]+\.cloudflare\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.club\/?$/$document
 /^https?:\/\/[^\/]+\.cm\/?$/$document
+/^https?:\/\/[^\/]+\.co\/jp.*$/$document
 /^https?:\/\/[^\/]+\.co\.uk\/?$/$document
-/^https?:\/\/[^\/]+\.co\/jp\/?$/$document
 /^https?:\/\/[^\/]+\.co\.za\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ad\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ae\/?$/$document
