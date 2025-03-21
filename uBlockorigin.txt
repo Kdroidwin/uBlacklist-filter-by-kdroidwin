@@ -567,6 +567,7 @@
 /^https?:\/\/[^\/]+\.schoenheitsklinik\-berlin\.com\/?$/$document
 /^https?:\/\/[^\/]+\.sd\/?$/$document
 /^https?:\/\/[^\/]+\.shabakngy\.com\/?$/$document
+/^https?:\/\/[^\/]+\.shop\/?$/$document
 /^https?:\/\/[^\/]+\.siwib\.org\/?$/$document
 /^https?:\/\/[^\/]+\.sk\/?$/$document
 /^https?:\/\/[^\/]+\.sl\/?$/$document
