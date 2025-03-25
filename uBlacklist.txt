@@ -7598,7 +7598,6 @@
 *://www.mrimagenmedica.com.mx/*
 *://www.msdmanuals.cn/*
 *://www.mskanak.com/*
-*://www.msn.com/*
 *://www.msweeneynantucket.com/*
 *://www.mtn-world.com/*
 *://www.murakami-keisuke.com/*
