@@ -5186,7 +5186,6 @@
 *://qvdwmm1j.r.ap-northeast-1.awstrack.me/*
 *://qy62ijjz2.benecicios-bancorrientes.online/*
 *://r-press.su/*
-*://r18.bookwalker.jp/*
 *://r2.community.samsung.com/*
 *://r25.jp/*
 *://r27kt256.r.us-east-1.awstrack.me/*
