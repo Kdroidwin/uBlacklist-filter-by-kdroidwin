@@ -22,9 +22,9 @@
 /^https?:\/\/[^\/]+\.best\/?$/$document
 /^https?:\/\/[^\/]+\.bh\/?$/$document
 /^https?:\/\/[^\/]+\.bi\/?$/$document
+/^https?:\/\/[^\/]+\.bid\/?$/$document
 /^https?:\/\/[^\/]+\.bond\/?$/$document
 /^https?:\/\/[^\/]+\.br\/?$/$document
-/^https?:\/\/[^\/]+\.ca\/?$/$document
 /^https?:\/\/[^\/]+\.cam\/?$/$document
 /^https?:\/\/[^\/]+\.cd\/?$/$document
 /^https?:\/\/[^\/]+\.cf\/?$/$document
@@ -38,7 +38,6 @@
 /^https?:\/\/[^\/]+\.cm\/?$/$document
 /^https?:\/\/[^\/]+\.co\/jp.*$/$document
 /^https?:\/\/[^\/]+\.co\/jp(\/|$)/$document
-/^https?:\/\/[^\/]+\.co\.uk\/?$/$document
 /^https?:\/\/[^\/]+\.co\.za\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ad\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ae\/?$/$document
@@ -176,6 +175,7 @@
 /^https?:\/\/[^\/]+\.com\.zm\/?$/$document
 /^https?:\/\/[^\/]+\.com\.zw\/?$/$document
 /^https?:\/\/[^\/]+\.cv\/?$/$document
+/^https?:\/\/[^\/]+\.cyou\/?$/$document
 /^https?:\/\/[^\/]+\.cz\/?$/$document
 /^https?:\/\/[^\/]+\.de\/?$/$document
 /^https?:\/\/[^\/]+\.dj\/?$/$document
@@ -566,8 +566,8 @@
 /^https?:\/\/[^\/]+\.sch\.id\/?$/$document
 /^https?:\/\/[^\/]+\.schoenheitsklinik\-berlin\.com\/?$/$document
 /^https?:\/\/[^\/]+\.sd\/?$/$document
+/^https?:\/\/[^\/]+\.sg\/?$/$document
 /^https?:\/\/[^\/]+\.shabakngy\.com\/?$/$document
-/^https?:\/\/[^\/]+\.shop\/?$/$document
 /^https?:\/\/[^\/]+\.siwib\.org\/?$/$document
 /^https?:\/\/[^\/]+\.sk\/?$/$document
 /^https?:\/\/[^\/]+\.sl\/?$/$document
@@ -615,6 +615,7 @@
 /^https?:\/\/[^\/]+\.tk\/?$/$document
 /^https?:\/\/[^\/]+\.tlcpv\.org\/?$/$document
 /^https?:\/\/[^\/]+\.tn\/?$/$document
+/^https?:\/\/[^\/]+\.today\/?$/$document
 /^https?:\/\/[^\/]+\.top\/?$/$document
 /^https?:\/\/[^\/]+\.tousu\.in\/?$/$document
 /^https?:\/\/[^\/]+\.tr\/?$/$document
@@ -658,6 +659,7 @@
 /^https?:\/\/[^\/]+\.ws\/?$/$document
 /^https?:\/\/[^\/]+\.wujigu\.com\/?$/$document
 /^https?:\/\/[^\/]+\.xbuba\.com\/?$/$document
+/^https?:\/\/[^\/]+\.xmobile\-allagi\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.yo\.zgserver\.com\/?$/$document
 /^https?:\/\/[^\/]+\.younggeeks\.in\/?$/$document
 /^https?:\/\/[^\/]+\.youtube\.com\.vn\/?$/$document
@@ -940,6 +942,7 @@ adpeak.net$document
 ads.google.cn$document
 adult-hkk.net$document
 adult-manga.jp/for-you-free*$document
+adult-manga.net$document
 adultemploymentagency.com$document
 adultitemstore.com$document
 adultmm.jp$document
@@ -1129,6 +1132,7 @@ aniloop.net$document
 animan.yuchanh.com$document
 animate-group.info$document
 anime-comic100.jp$document
+anime-drama.jp$document
 anime-kinjito.com$document
 animeanime.jp/entertainment/vpn-recommend$document
 animefirst.ru$document
@@ -1805,6 +1809,7 @@ closetoyoubelieve.com$document
 cloudmc.xyz$document
 cloudteams.xyz$document
 cluster-paca-logistique.com$document
+clutch-blog.com$document
 clutchmagjapan.com$document
 cm-info.com$document
 cmeventslimited.co.uk$document
@@ -2033,6 +2038,7 @@ destinationdothan.com$document
 destruction-movie.com$document
 detail-news.com$document
 detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10300323310*$document
+detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12260669862*$document
 detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14306456639*$document
 detective-blog.com$document
 detektive-profi.online$document
@@ -2150,6 +2156,7 @@ dougaguild.xsrv.jp$document
 doujin-eromanga.adult-h.com$document
 doujin-share.com$document
 doujin-yakata.com$document
+doujin.dldlinks.com$document
 doujincco-ero.com$document
 doujinfree.com$document
 doujinnews.com$document
@@ -2649,6 +2656,7 @@ fukimusic.jp$document
 fukube-at-home.com$document
 fukugyo-start.blog$document
 fukukuru-blog.com$document
+fukulog.jp$document
 fukumama.net$document
 fukuniko.com$document
 fukuoka40mama.com$document
@@ -3073,6 +3081,7 @@ heraldsuites.com$document
 heritagerareantique.com$document
 hero-mate.jp$document
 hero-pedia.com$document
+hey-chenco.com$document
 heyagasuki.com$document
 hf.ru$document
 hhdistributors.com$document
@@ -3173,6 +3182,7 @@ hosoho.jp$document
 hosyusokuhou.jp$document
 hot-koshigaya.jp$document
 hot-topic-trends.com$document
+hotbowl.jp$document
 hotel1001.ru$document
 hotelluxmidreamz.com$document
 hotelparkcity.ru$document
@@ -4377,6 +4387,7 @@ moes.taobao.com$document
 moffy-aya-entame.com$document
 molto15z.sarangkkb.com$document
 molulabo.com$document
+mommy-kitchen.com$document
 momoka20200214-www-softbank-jp.ariyasumomoka.org$document
 momoka20200403-www-bsfuji-tv.http.ariyasumomoka.org$document
 momoka20200623-7net-omni7-jp.ariyasumomoka.org$document
@@ -4479,6 +4490,7 @@ myjitsu.jp$document
 mykkb.kkb.kg$document
 mypage.sorotouch.cn$document
 mytrend.info$document
+n-trend.com$document
 n-yu.com$document
 n2-ch.com$document
 nabe03.net$document
@@ -4972,6 +4984,7 @@ pdf.wondershare.jp$document
 pdilms.com$document
 pdspm.in$document
 peakproductivitycoaching.com$document
+peaks-comic.com$document
 peaksmarketing.co.jp$document
 peasun.jp$document
 peavyuai.styr.solutions$document
@@ -5224,6 +5237,7 @@ rankwa.com$document
 ranky-ranking.net$document
 ranobezipper.blog.fc2.com$document
 ranzuki.jp$document
+raoesn.co$document
 rapportsecurity.com$document
 rarbg.to$document
 rarecenter.org$document
@@ -5558,6 +5572,7 @@ seikatu-benri.com$document
 seirith.com$document
 seiyuu-voiceactor.com$document
 sekai-kawaru.com$document
+sekaimanga-hitomi.com$document
 sekarikun.com$document
 sekilsem.click$document
 sekirara-nenkinseikathu.com$document
@@ -7057,6 +7072,7 @@ www.directstrata.com$document
 www.discoverasr.com.cn$document
 www.diskgarage.com$document
 www.displayexpo.jp$document
+www.djengduedd.com$document
 www.doctorgreen.com$document
 www.dohc.ie$document
 www.domainsherpa.com$document
@@ -7630,6 +7646,7 @@ www.nchtorrent.cn$document
 www.ncxx.co.jp$document
 www.nelpur.shop$document
 www.neobji.ac.cn$document
+www.netoff.co.jp$document
 www.networkmoaleji2024.online$document
 www.neuron-x.co.jp$document
 www.newcsl.cn$document
@@ -7819,6 +7836,7 @@ www.renesas.cn$document
 www.renovmobils.com$document
 www.rentio.jp$document
 www.rentio.jp/matome/2024/05/temu-review$document
+www.rere.jp$document
 www.rere.jp/beginners/249062$document
 www.rere.jp/beginners/268203$document
 www.resonanciadomed.com$document
@@ -8243,6 +8261,7 @@ xingfulife.xyz$document
 xiordiagonalbesos.com$document
 xis2p9rqc.wydawnictwopbb.pl$document
 xiywa.info$document
+xmobile.ne.jp$document
 xn-----7kcbimcshalibxwklcikjm0j9a9gqa.xn--p1ai$document
 xn----38t5a3hwaai9exc5960ewf9f.akhbara24.news$document
 xn----48t2a3iraai7f5b9360fwf9f.akhbara24.news$document
@@ -8623,3 +8642,8 @@ zyupodotyu.com$document
 @@||d1ch.cc^$document
 @@||animescape.link^$document
 @@||toushibu.fun^$document
+@@||smhn.info^$document
+@@||purpletv.notion.site^$document
+@@||galge.top^$document
+@@||erogamescape.org^$document
+@@||pttweb.cc^$document
