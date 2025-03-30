@@ -20,6 +20,7 @@
 *://*.best/*
 *://*.bh/*
 *://*.bi/*
+*://*.bid/*
 *://*.bond/*
 *://*.br/*
 *://*.cam/*
@@ -170,6 +171,7 @@
 *://*.com.zm/*
 *://*.com.zw/*
 *://*.cv/*
+*://*.cyou/*
 *://*.cz/*
 *://*.de/*
 *://*.dj/*
@@ -609,6 +611,7 @@
 *://*.tk/*
 *://*.tlcpv.org/*
 *://*.tn/*
+*://*.today/*
 *://*.top/*
 *://*.tousu.in/*
 *://*.tr/*
@@ -652,6 +655,7 @@
 *://*.ws/*
 *://*.wujigu.com/*
 *://*.xbuba.com/*
+*://*.xmobile-allagi.jp/*
 *://*.yo.zgserver.com/*
 *://*.younggeeks.in/*
 *://*.youtube.com.vn/*
@@ -934,6 +938,7 @@
 *://ads.google.cn/*
 *://adult-hkk.net/*
 *://adult-manga.jp/for-you-free*
+*://adult-manga.net/*
 *://adultemploymentagency.com/*
 *://adultitemstore.com/*
 *://adultmm.jp/*
@@ -1123,6 +1128,7 @@
 *://animan.yuchanh.com/*
 *://animate-group.info/*
 *://anime-comic100.jp/*
+*://anime-drama.jp/*
 *://anime-kinjito.com/*
 *://animeanime.jp/entertainment/vpn-recommend/*
 *://animefirst.ru/*
@@ -1799,6 +1805,7 @@
 *://cloudmc.xyz/*
 *://cloudteams.xyz/*
 *://cluster-paca-logistique.com/*
+*://clutch-blog.com/*
 *://clutchmagjapan.com/*
 *://cm-info.com/*
 *://cmeventslimited.co.uk/*
@@ -2027,6 +2034,7 @@
 *://destruction-movie.com/*
 *://detail-news.com/*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10300323310*
+*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12260669862*
 *://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14306456639*
 *://detective-blog.com/*
 *://detektive-profi.online/*
@@ -2144,6 +2152,7 @@
 *://doujin-eromanga.adult-h.com/*
 *://doujin-share.com/*
 *://doujin-yakata.com/*
+*://doujin.dldlinks.com/*
 *://doujincco-ero.com/*
 *://doujinfree.com/*
 *://doujinnews.com/*
@@ -2643,6 +2652,7 @@
 *://fukube-at-home.com/*
 *://fukugyo-start.blog/*
 *://fukukuru-blog.com/*
+*://fukulog.jp/*
 *://fukumama.net/*
 *://fukuniko.com/*
 *://fukuoka40mama.com/*
@@ -3067,6 +3077,7 @@
 *://heritagerareantique.com/*
 *://hero-mate.jp/*
 *://hero-pedia.com/*
+*://hey-chenco.com/*
 *://heyagasuki.com/*
 *://hf.ru/*
 *://hhdistributors.com/*
@@ -3167,6 +3178,7 @@
 *://hosyusokuhou.jp/*
 *://hot-koshigaya.jp/*
 *://hot-topic-trends.com/*
+*://hotbowl.jp/*
 *://hotel1001.ru/*
 *://hotelluxmidreamz.com/*
 *://hotelparkcity.ru/*
@@ -4371,6 +4383,7 @@
 *://moffy-aya-entame.com/*
 *://molto15z.sarangkkb.com/*
 *://molulabo.com/*
+*://mommy-kitchen.com/*
 *://momoka20200214-www-softbank-jp.ariyasumomoka.org/*
 *://momoka20200403-www-bsfuji-tv.http.ariyasumomoka.org/*
 *://momoka20200623-7net-omni7-jp.ariyasumomoka.org/*
@@ -4473,6 +4486,7 @@
 *://mykkb.kkb.kg/*
 *://mypage.sorotouch.cn/*
 *://mytrend.info/*
+*://n-trend.com/*
 *://n-yu.com/*
 *://n2-ch.com/*
 *://nabe03.net/*
@@ -4966,6 +4980,7 @@
 *://pdilms.com/*
 *://pdspm.in/*
 *://peakproductivitycoaching.com/*
+*://peaks-comic.com/*
 *://peaksmarketing.co.jp/*
 *://peasun.jp/*
 *://peavyuai.styr.solutions/*
@@ -5186,6 +5201,7 @@
 *://qvdwmm1j.r.ap-northeast-1.awstrack.me/*
 *://qy62ijjz2.benecicios-bancorrientes.online/*
 *://r-press.su/*
+*://r18.bookwalker.jp/*
 *://r2.community.samsung.com/*
 *://r25.jp/*
 *://r27kt256.r.us-east-1.awstrack.me/*
@@ -5217,6 +5233,7 @@
 *://ranky-ranking.net/*
 *://ranobezipper.blog.fc2.com/*
 *://ranzuki.jp/*
+*://raoesn.co/*
 *://rapportsecurity.com/*
 *://rarbg.to/*
 *://rarecenter.org/*
@@ -5551,6 +5568,7 @@
 *://seirith.com/*
 *://seiyuu-voiceactor.com/*
 *://sekai-kawaru.com/*
+*://sekaimanga-hitomi.com/*
 *://sekarikun.com/*
 *://sekilsem.click/*
 *://sekirara-nenkinseikathu.com/*
@@ -7050,6 +7068,7 @@
 *://www.discoverasr.com.cn/*
 *://www.diskgarage.com/*
 *://www.displayexpo.jp/*
+*://www.djengduedd.com/*
 *://www.doctorgreen.com/*
 *://www.dohc.ie/*
 *://www.domainsherpa.com/*
@@ -7623,6 +7642,7 @@
 *://www.ncxx.co.jp/*
 *://www.nelpur.shop/*
 *://www.neobji.ac.cn/*
+*://www.netoff.co.jp/*
 *://www.networkmoaleji2024.online/*
 *://www.neuron-x.co.jp/*
 *://www.newcsl.cn/*
@@ -7812,6 +7832,7 @@
 *://www.renovmobils.com/*
 *://www.rentio.jp/*
 *://www.rentio.jp/matome/2024/05/temu-review/*
+*://www.rere.jp/*
 *://www.rere.jp/beginners/249062/*
 *://www.rere.jp/beginners/268203/*
 *://www.resonanciadomed.com/*
@@ -8236,6 +8257,7 @@
 *://xiordiagonalbesos.com/*
 *://xis2p9rqc.wydawnictwopbb.pl/*
 *://xiywa.info/*
+*://xmobile.ne.jp/*
 *://xn-----7kcbimcshalibxwklcikjm0j9a9gqa.xn--p1ai/*
 *://xn----38t5a3hwaai9exc5960ewf9f.akhbara24.news/*
 *://xn----48t2a3iraai7f5b9360fwf9f.akhbara24.news/*
