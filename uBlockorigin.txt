@@ -25,6 +25,7 @@
 /^https?:\/\/[^\/]+\.bid\/?$/$document
 /^https?:\/\/[^\/]+\.bond\/?$/$document
 /^https?:\/\/[^\/]+\.br\/?$/$document
+/^https?:\/\/[^\/]+\.ca\/?$/$document
 /^https?:\/\/[^\/]+\.cam\/?$/$document
 /^https?:\/\/[^\/]+\.cd\/?$/$document
 /^https?:\/\/[^\/]+\.cf\/?$/$document
@@ -38,6 +39,7 @@
 /^https?:\/\/[^\/]+\.cm\/?$/$document
 /^https?:\/\/[^\/]+\.co\/jp.*$/$document
 /^https?:\/\/[^\/]+\.co\/jp(\/|$)/$document
+/^https?:\/\/[^\/]+\.co\.uk\/?$/$document
 /^https?:\/\/[^\/]+\.co\.za\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ad\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ae\/?$/$document
@@ -568,6 +570,7 @@
 /^https?:\/\/[^\/]+\.sd\/?$/$document
 /^https?:\/\/[^\/]+\.sg\/?$/$document
 /^https?:\/\/[^\/]+\.shabakngy\.com\/?$/$document
+/^https?:\/\/[^\/]+\.shop\/?$/$document
 /^https?:\/\/[^\/]+\.siwib\.org\/?$/$document
 /^https?:\/\/[^\/]+\.sk\/?$/$document
 /^https?:\/\/[^\/]+\.sl\/?$/$document
