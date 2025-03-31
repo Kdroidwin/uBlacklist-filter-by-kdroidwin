@@ -4618,7 +4618,6 @@ news.ganma.jp$document
 news.guideme.jp$document
 news.mynavi.jp$document
 news.mynavi.jp/securitysoft/recommended-vpn$document
-news.nifty.com$document
 newscomic.net$document
 newsee-media.com$document
 newsfantv.com$document
