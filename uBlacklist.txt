@@ -4611,7 +4611,6 @@
 *://news.guideme.jp/*
 *://news.mynavi.jp/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
-*://news.nifty.com/*
 *://newscomic.net/*
 *://newsee-media.com/*
 *://newsfantv.com/*
