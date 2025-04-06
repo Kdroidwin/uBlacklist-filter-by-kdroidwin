@@ -39,7 +39,6 @@
 /^https?:\/\/[^\/]+\.cm\/?$/$document
 /^https?:\/\/[^\/]+\.co\.za\/?$/$document
 /^https?:\/\/[^\/]+\.co\/jp(\/|$)/$document
-/^https?:\/\/[^\/]+\.co\.uk\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ad\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ae\/?$/$document
 /^https?:\/\/[^\/]+\.com\.af\/?$/$document
