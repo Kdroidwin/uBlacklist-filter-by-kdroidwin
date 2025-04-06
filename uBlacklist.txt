@@ -2009,6 +2009,7 @@
 *://deeya.sn/*
 *://degistiraltindag.com/*
 *://dekunoboh.com/*
+*://delafosse.immo/*
 *://delicious-info.com/*
 *://delishkitchen.tv/*
 *://dellasanta.ch/*
@@ -3321,6 +3322,7 @@
 *://innovation-weekend.jp/*
 *://inove-vannes.fr/*
 *://inoxgiasi.com/*
+*://inquirebotany.org/*
 *://insightec.xyz/*
 *://insolenceproductions.com/*
 *://inspire2020.jp/*
@@ -6446,6 +6448,7 @@
 *://vanced.jp.uptodown.com/*
 *://vanced.me/*
 *://vanced.net/*
+*://vanced.to/*
 *://vanced.tools/*
 *://vancedapp.io/*
 *://vancedapp.net/*
@@ -7028,6 +7031,7 @@
 *://www.curseforge.com/*
 *://www.cxtechlabs.com/*
 *://www.cyberowl.co.jp/*
+*://www.cyberpatrolg.com/cpg/*
 *://www.cyberuk.uk/*
 *://www.czjmjd.cn/*
 *://www.daily.co.jp/*
