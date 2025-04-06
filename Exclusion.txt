@@ -43,3 +43,4 @@
 @*://galge.top/*
 @*://*.erogamescape.org/*
 @*://www.pttweb.cc/*
+@*://*.fanbox.cc/*
