@@ -25,7 +25,6 @@
 /^https?:\/\/[^\/]+\.bid\/?$/$document
 /^https?:\/\/[^\/]+\.bond\/?$/$document
 /^https?:\/\/[^\/]+\.br\/?$/$document
-/^https?:\/\/[^\/]+\.ca\/?$/$document
 /^https?:\/\/[^\/]+\.cam\/?$/$document
 /^https?:\/\/[^\/]+\.cd\/?$/$document
 /^https?:\/\/[^\/]+\.cf\/?$/$document
@@ -37,9 +36,6 @@
 /^https?:\/\/[^\/]+\.cloudflare\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.club\/?$/$document
 /^https?:\/\/[^\/]+\.cm\/?$/$document
-/^https?:\/\/[^\/]+\.co\/jp.*$/$document
-/^https?:\/\/[^\/]+\.co\/jp(\/|$)/$document
-/^https?:\/\/[^\/]+\.co\.uk\/?$/$document
 /^https?:\/\/[^\/]+\.co\.za\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ad\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ae\/?$/$document
@@ -570,7 +566,6 @@
 /^https?:\/\/[^\/]+\.sd\/?$/$document
 /^https?:\/\/[^\/]+\.sg\/?$/$document
 /^https?:\/\/[^\/]+\.shabakngy\.com\/?$/$document
-/^https?:\/\/[^\/]+\.shop\/?$/$document
 /^https?:\/\/[^\/]+\.siwib\.org\/?$/$document
 /^https?:\/\/[^\/]+\.sk\/?$/$document
 /^https?:\/\/[^\/]+\.sl\/?$/$document
@@ -2016,6 +2011,7 @@ deepcoder.online$document
 deeya.sn$document
 degistiraltindag.com$document
 dekunoboh.com$document
+delafosse.immo$document
 delicious-info.com$document
 delishkitchen.tv$document
 dellasanta.ch$document
@@ -3328,6 +3324,7 @@ inkya-botti.com$document
 innovation-weekend.jp$document
 inove-vannes.fr$document
 inoxgiasi.com$document
+inquirebotany.org$document
 insightec.xyz$document
 insolenceproductions.com$document
 inspire2020.jp$document
@@ -6453,6 +6450,7 @@ valor0code.com$document
 vanced.jp.uptodown.com$document
 vanced.me$document
 vanced.net$document
+vanced.to$document
 vanced.tools$document
 vancedapp.io$document
 vancedapp.net$document
@@ -7035,6 +7033,7 @@ www.curatedcapital.com.au$document
 www.curseforge.com$document
 www.cxtechlabs.com$document
 www.cyberowl.co.jp$document
+www.cyberpatrolg.com/cpg$document
 www.cyberuk.uk$document
 www.czjmjd.cn$document
 www.daily.co.jp$document
