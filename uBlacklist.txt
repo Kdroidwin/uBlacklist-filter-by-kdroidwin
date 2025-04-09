@@ -4895,7 +4895,6 @@
 *://otokujouhou.org/*
 *://otomeexpert.com/*
 *://otonakensaku.com/*
-*://ototoy.jp/*
 *://ottoku-blog.com/*
 *://ottoproduce.com/*
 *://ottori-time.com/*
