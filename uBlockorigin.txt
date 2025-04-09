@@ -4898,7 +4898,6 @@ otokucafe.com$document
 otokujouhou.org$document
 otomeexpert.com$document
 otonakensaku.com$document
-ototoy.jp$document
 ottoku-blog.com$document
 ottoproduce.com$document
 ottori-time.com$document
