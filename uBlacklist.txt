@@ -6367,7 +6367,6 @@
 *://uchino-kazoku321.com/*
 *://ucla-seis.vercel.app/*
 *://udemy.benesse.co.jp/*
-*://udemy.com/*
 *://uelog.com/*
 *://uharica.ptice.si/*
 *://uhn3tnp07de43.xn--16-mlca8awqz.xn--p1ai/*
