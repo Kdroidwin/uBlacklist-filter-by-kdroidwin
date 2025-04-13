@@ -634,6 +634,7 @@
 *://*.uwenku.com/*
 *://*.uy/*
 *://*.vfwpost8762.org/*
+*://*.vip/*
 *://*.visual-foxpro-programmer.com/*
 *://*.voidcc.com/*
 *://*.vu/*
