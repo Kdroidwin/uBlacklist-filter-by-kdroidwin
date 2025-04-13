@@ -637,6 +637,7 @@
 /^https?:\/\/[^\/]+\.uwenku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.uy\/?$/$document
 /^https?:\/\/[^\/]+\.vfwpost8762\.org\/?$/$document
+/^https?:\/\/[^\/]+\.vip\/?$/$document
 /^https?:\/\/[^\/]+\.visual\-foxpro\-programmer\.com\/?$/$document
 /^https?:\/\/[^\/]+\.voidcc\.com\/?$/$document
 /^https?:\/\/[^\/]+\.vu\/?$/$document
