@@ -4460,7 +4460,6 @@
 *://murasan-emblab.com/*
 *://mure.pr.net/*
 *://museo.org/*
-*://music-book.jp/*
 *://music.anjunabeats.com/*
 *://musical-the-agent.jp/*
 *://musicalight.net/*
