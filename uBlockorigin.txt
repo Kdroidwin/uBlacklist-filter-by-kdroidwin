@@ -1093,6 +1093,7 @@ ameblo.jp/and-gretel*$document
 ameblo.jp/aniroom*$document
 ameblo.jp/darwinblog$document
 ameblo.jp/direscare$document
+ameblo.jp/dodesyoysedod$document
 ameblo.jp/ether213*$document
 ameblo.jp/hothari*$document
 ameblo.jp/kashima1564*$document
@@ -1439,6 +1440,7 @@ bellavista.club$document
 bellblo.com$document
 bellcurve.jp$document
 belle-rencontre.site$document
+belltree1994.com$document
 belmont-online.shop$document
 belogorie.jp$document
 belotusmart.com$document
@@ -3477,6 +3479,7 @@ japanese.china.org.cn$document
 japanese.cri.cn$document
 japanese.pudong.gov.cn$document
 japanknowledge-com-443.webvpn.zisu.edu.cn$document
+japannewsnavi.com$document
 japanshopping.org$document
 japarazzi.jp$document
 japex.ru$document
@@ -4020,6 +4023,8 @@ lokalni.rs$document
 lolasdessertsja.com$document
 londontyuuzai.com$document
 loopsyhg.malaysiainternationalschools.com$document
+lootbar.gg/authorization$document
+lootbar.gg/ja/top-up$document
 looxios.fr$document
 los-wp-3ekxbwgmwq-an.a.run.app$document
 losvallescreel.com$document
@@ -4557,6 +4562,7 @@ nachablog.com$document
 nachi-trend.com$document
 naclover.com$document
 nadinbg.com$document
+nagamonblog.com$document
 nagano-kensanpin-gift.jp$document
 nagasaki.china-consulate.gov.cn$document
 nagisa.online$document
@@ -5327,6 +5333,7 @@ rcp-sfc.com$document
 rcrc3345.com$document
 rdre.me$document
 re-choineta.com$document
+re-tabushi.com$document
 read-the-tale.com$document
 readtoindia.com$document
 real-lovedoll.jp$document
@@ -6442,6 +6449,7 @@ tvbundleshubonline.com$document
 tver.app$document
 tvreview.tokyo$document
 tw.daigobang.com$document
+tweetsoku.news$document
 twemix.xyz$document
 twhite.me$document
 twik.xxasj.cn$document
