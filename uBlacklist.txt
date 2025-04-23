@@ -1090,6 +1090,7 @@
 *://ameblo.jp/aniroom*
 *://ameblo.jp/darwinblog/*
 *://ameblo.jp/direscare/*
+*://ameblo.jp/dodesyoysedod/*
 *://ameblo.jp/ether213*
 *://ameblo.jp/hothari*
 *://ameblo.jp/kashima1564*
@@ -1436,6 +1437,7 @@
 *://bellblo.com/*
 *://bellcurve.jp/*
 *://belle-rencontre.site/*
+*://belltree1994.com/*
 *://belmont-online.shop/*
 *://belogorie.jp/*
 *://belotusmart.com/*
@@ -3474,6 +3476,7 @@
 *://japanese.cri.cn/*
 *://japanese.pudong.gov.cn/*
 *://japanknowledge-com-443.webvpn.zisu.edu.cn/*
+*://japannewsnavi.com/*
 *://japanshopping.org/*
 *://japarazzi.jp/*
 *://japex.ru/*
@@ -4017,6 +4020,8 @@
 *://lolasdessertsja.com/*
 *://londontyuuzai.com/*
 *://loopsyhg.malaysiainternationalschools.com/*
+*://lootbar.gg/authorization/*
+*://lootbar.gg/ja/top-up/*
 *://looxios.fr/*
 *://los-wp-3ekxbwgmwq-an.a.run.app/*
 *://losvallescreel.com/*
@@ -4554,6 +4559,7 @@
 *://nachi-trend.com/*
 *://naclover.com/*
 *://nadinbg.com/*
+*://nagamonblog.com/*
 *://nagano-kensanpin-gift.jp/*
 *://nagasaki.china-consulate.gov.cn/*
 *://nagisa.online/*
@@ -5324,6 +5330,7 @@
 *://rcrc3345.com/*
 *://rdre.me/*
 *://re-choineta.com/*
+*://re-tabushi.com/*
 *://read-the-tale.com/*
 *://readtoindia.com/*
 *://real-lovedoll.jp/*
@@ -6439,6 +6446,7 @@
 *://tver.app/*
 *://tvreview.tokyo/*
 *://tw.daigobang.com/*
+*://tweetsoku.news/*
 *://twemix.xyz/*
 *://twhite.me/*
 *://twik.xxasj.cn/*
