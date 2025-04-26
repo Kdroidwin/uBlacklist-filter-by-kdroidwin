@@ -3204,6 +3204,7 @@
 *://hosyusokuhou.jp/*
 *://hot-koshigaya.jp/*
 *://hot-topic-trends.com/*
+*://hot-tsushin.com/*
 *://hotbowl.jp/*
 *://hotel1001.ru/*
 *://hotelluxmidreamz.com/*
@@ -4666,6 +4667,7 @@
 *://news.guideme.jp/*
 *://news.mynavi.jp/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
+*://news.vodfan.com/*
 *://news.yahoo.co.jp/*
 *://newscomic.net/*
 *://newsee-media.com/*
@@ -5346,6 +5348,7 @@
 *://relishtime.net/*
 *://remspin.com/*
 *://remulia.shop/*
+*://ren-labo.com/*
 *://renai-jijyo.com/*
 *://renkano-east.com/*
 *://rennairon.com/*
@@ -5387,6 +5390,7 @@
 *://revanced.dev/*
 *://revanced.en.softonic.com/*
 *://revanced.info/*
+*://revanced.me/*
 *://revanced.net/*
 *://revanced.org/*
 *://revanced.softonic.jp/*
@@ -5398,6 +5402,7 @@
 *://revancedapk.org/*
 *://revancedapp.io/*
 *://revancedapp.net/*
+*://revancedapp.netlify.app/*
 *://revancedapp.org/*
 *://revancedapps.com/*
 *://revancedextend.com/*
@@ -5405,6 +5410,7 @@
 *://revancedextended.com/*
 *://revancedextended.download/*
 *://revancedextended.io/*
+*://revancedmanager.com/*
 *://revancedmanager.net/*
 *://revanceds.app/*
 *://revancedyoutube.app/*
@@ -8530,6 +8536,7 @@
 *://youtuber-style.com/*
 *://youtuber-world-v.com/*
 *://youtuberdictionary.com/*
+*://youtuberevanced.com/*
 *://youtuberevanced.net/*
 *://youtuberevanced.org/*
 *://youtuberlabo.com/*
