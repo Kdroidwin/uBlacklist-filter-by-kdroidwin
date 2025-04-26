@@ -8708,12 +8708,10 @@ zyupodotyu.com$document
 ||shop^$document,from=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~majblomman.shop|~munu.shop|~owl-dampfer.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop|~keromakura.shop|~tokka.shop|~bigwing.shop|~blueblood.shop|~bsfuji.shop|~cafec.shop|~ceramictools.shop|~curtain-damashii.shop|~d-tv.shop|~dakimakura.shop|~egachannel.shop|~hagihara.shop|~hagiharaseizosho.shop|~jp.bonaventura.shop|~okusurinavi.shop|~onikunojikan.shop|~paraboot.shop|~piccolare.shop|~umakunureru.shop|~usamart.shop|~wakuwaku-souko.shop|~curaprox.shop|~gaiheki-tosou.shop|~jollybeans.shop|~qualial.shop|~shimabayashi.shop|~adal-online.shop|~rise-jp.shop|~tohmei-tech.shop|~ecoca.shop|~nikkansports.shop|~ebisato.shop|~seapa.shop|~seibee.shop|~seino-secret.shop|~tabegoro.shop|~kindai-a.shop
 
 ! 除外
-@@||genspark.ai^$document
 @@||mee6.xyz^$document
 @@||wa3.i-3-i.info^$document
 @@||emulation.gametechwiki.com^$document
 @@||missav.ws^$document
-@@||missav.ai^$document
 @@||jjya.xyz^$document
 @@||ghostpia.xyz^$document
 @@||xiaoron.xyz^$document
