@@ -3245,7 +3245,6 @@ hu60.cn$document
 hub.apw.app$document
 hub.docker.com$document
 hug335-vll.xyz$document
-huggingface.co$document
 hukugyouch.hatenablog.jp$document
 human-profile.hatenablog.com$document
 human.happinessisthailand.com$document
