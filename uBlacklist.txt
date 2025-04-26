@@ -3230,7 +3230,6 @@
 *://hub.apw.app/*
 *://hub.docker.com/*
 *://hug335-vll.xyz/*
-*://huggingface.co/*
 *://hukugyouch.hatenablog.jp/*
 *://human-profile.hatenablog.com/*
 *://human.happinessisthailand.com/*
