@@ -44,3 +44,5 @@
 @*://*.erogamescape.org/*
 @*://www.pttweb.cc/*
 @*://*.fanbox.cc/*
+@*://fitgirl-repacks.site/*
+@*://dodi-repacks.site/*
