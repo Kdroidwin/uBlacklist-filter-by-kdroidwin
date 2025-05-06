@@ -5,7 +5,11 @@ uBlacklist 用のフィルター　
 - 主に、詐欺サイトや偽サイト、悪質なアフィリエイトサイトを除外することが目的です。
 
 # Changelog(変更履歴)
+重要
 5/6 除外用のURL変更に伴い、再度uBlacklistに登録が必要
+
+[完全な変更履歴](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/commits/main/)
+
 
 # フィルター購読 やり方
 
