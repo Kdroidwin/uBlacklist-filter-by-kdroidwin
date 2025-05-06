@@ -46,3 +46,6 @@
 @*://*.fanbox.cc/*
 @*://fitgirl-repacks.site/*
 @*://dodi-repacks.site/*
+@*://anitabi.cn/*
+@*://playerzglove.thebase.in/*
+@*://87sports.thebase.in/*
