@@ -600,7 +600,6 @@
 *://*.tecahe.za.com/*
 *://*.tech-in-japan.github.io/*
 *://*.tech-ja.netlify.app/*
-*://*.tech/*
 *://*.techacademy.jp/*
 *://*.techfeed.net/*
 *://*.thercb.org/*
