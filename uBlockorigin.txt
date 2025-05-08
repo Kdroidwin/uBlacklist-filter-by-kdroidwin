@@ -603,7 +603,6 @@
 /^https?:\/\/[^\/]+\.tecahe\.za\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-in\-japan\.github\.io\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-ja\.netlify\.app\/?$/$document
-/^https?:\/\/[^\/]+\.tech\/?$/$document
 /^https?:\/\/[^\/]+\.techacademy\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.techfeed\.net\/?$/$document
 /^https?:\/\/[^\/]+\.thercb\.org\/?$/$document
