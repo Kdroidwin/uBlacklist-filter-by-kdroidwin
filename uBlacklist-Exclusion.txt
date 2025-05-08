@@ -49,3 +49,4 @@
 @*://anitabi.cn/*
 @*://playerzglove.thebase.in/*
 @*://87sports.thebase.in/*
+@*://*.nothing.tech/*
