@@ -177,7 +177,6 @@
 /^https?:\/\/[^\/]+\.cv\/?$/$document
 /^https?:\/\/[^\/]+\.cyou\/?$/$document
 /^https?:\/\/[^\/]+\.cz\/?$/$document
-/^https?:\/\/[^\/]+\.de\/?$/$document
 /^https?:\/\/[^\/]+\.dj\/?$/$document
 /^https?:\/\/[^\/]+\.dk\/?$/$document
 /^https?:\/\/[^\/]+\.dz\/?$/$document
