@@ -50,3 +50,5 @@
 @*://playerzglove.thebase.in/*
 @*://87sports.thebase.in/*
 @*://*.nothing.tech/*
+@*://www.imagetotext.cc/*
+@*://iridiumbrowser.de/*
