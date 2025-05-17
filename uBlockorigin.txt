@@ -60,6 +60,7 @@
 /^https?:\/\/[^\/]+\.com\.bh\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bj\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bo\/?$/$document
+/^https?:\/\/[^\/]+\.com\.br\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bs\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bt\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bw\/?$/$document
