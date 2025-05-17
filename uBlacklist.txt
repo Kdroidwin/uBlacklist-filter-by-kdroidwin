@@ -57,6 +57,7 @@
 *://*.com.bh/*
 *://*.com.bj/*
 *://*.com.bo/*
+*://*.com.br/*
 *://*.com.bs/*
 *://*.com.bt/*
 *://*.com.bw/*
