@@ -51,4 +51,3 @@
 @*://87sports.thebase.in/*
 @*://*.nothing.tech/*
 @*://www.imagetotext.cc/*
-@*://iridiumbrowser.de/*
