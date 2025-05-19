@@ -9088,3 +9088,4 @@ zyupodotyu.com$document
 @@||nothing.tech^$document
 @@||www.imagetotext.cc^$document
 @@||freedium.cfd^$document
+@@||tally.so^$document
