@@ -9028,8 +9028,6 @@
 /.*(tomoyoafuta).*/
 /^https:\/\/www\.pinterest\./
 /^https:\/\/www\.qinterest\./
-/^https?:\/\/[^/]+\/.*(R(URL|EDIRECT)|FILE(?:NAME)?|UR[LI]|DEST(?:INATION)?|LINK)=.*\//i
-@*://chii.in/*
 title/- App Store/
 title/- Apps on Google Play/
 title/OFFでまとめ買/
