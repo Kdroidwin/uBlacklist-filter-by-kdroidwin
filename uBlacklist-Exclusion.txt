@@ -53,3 +53,4 @@
 @*://www.imagetotext.cc/*
 @*://freedium.cfd/*
 @*://tally.so/*
+@*://chii.in/*
