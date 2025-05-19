@@ -97,6 +97,7 @@ SearXNGにしか対応していません。
 URLの追加やミスの削除に協力していだける方は、レポジトリをForkして編集していただき、pull requestを送ってください。
 issueでも構いません。
 
+Githubアカウントを持っていない方はTwitterもしくは[こちら](https://tally.so/r/mYyYg0)からお願いします。
 
 # 補足
 Kiwi browserでDuckDuckGo、SearXNGが使えない問題を修正
