@@ -9087,4 +9087,4 @@ zyupodotyu.com$document
 @@||87sports.thebase.in^$document
 @@||nothing.tech^$document
 @@||www.imagetotext.cc^$document
-@@||iridiumbrowser.de^$document
+@@||freedium.cfd^$document
