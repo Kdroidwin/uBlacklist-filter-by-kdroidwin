@@ -52,4 +52,4 @@
 @*://*.nothing.tech/*
 @*://www.imagetotext.cc/*
 @*://freedium.cfd/*
-
+@*://tally.so/*
