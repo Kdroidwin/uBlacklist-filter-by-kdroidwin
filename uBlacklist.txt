@@ -4842,7 +4842,6 @@
 *://news.mynavi.jp/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
 *://news.vodfan.com/*
-*://news.yahoo.co.jp/*
 *://newscomic.net/*
 *://newsee-media.com/*
 *://newsfantv.com/*
