@@ -5402,7 +5402,6 @@
 *://premiosdosan.com/*
 *://presencia.nepm.org/*
 *://present-life.tokyo/*
-*://president.jp/*
 *://pressingleclair.fr/*
 *://prexi.jp/*
 *://price-feel.com/*
