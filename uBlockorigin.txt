@@ -5405,7 +5405,6 @@
 ||premiosdosan.com^$document
 ||presencia.nepm.org^$document
 ||present-life.tokyo^$document
-||president.jp^$document
 ||pressingleclair.fr^$document
 ||prexi.jp^$document
 ||price-feel.com^$document
