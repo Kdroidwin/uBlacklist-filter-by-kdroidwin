@@ -20,6 +20,7 @@
 *://*.tech/*
 *://*.tn/*
 *://*.xyz/*
+*://*.web.core.windows.net/*
 *://kunitohyouban.com/*
 title/100%正規品/
 title/スーパー激安/
