@@ -1,7 +1,4 @@
 *://*/*index.php*
-*://*/*product_info*
-*://*/*email=*
-*://*/*user=*
 *://*/*sale.php*
 *://*/*deal*
 *://*/*?abc*
