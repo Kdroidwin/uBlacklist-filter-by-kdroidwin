@@ -1686,7 +1686,6 @@
 *://book-arrows.jp/*
 *://book-day.com/*
 *://book.dldlinks.com/*
-*://book.mynavi.jp/*
 *://book.mynavi.jp/ashita_magazine/china-vpn-ucss/*
 *://book.st-hakky.com/*
 *://bookandbedtokyo.com/*
