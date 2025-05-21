@@ -8519,7 +8519,6 @@
 *://www.sme.net.cn/*
 *://www.smiletech360.com/*
 *://www.smis.info/*
-*://www.sms-datatech.co.jp/*
 *://www.soft222.com/*
 *://www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml*
 *://www.softproinnovations.com/*
