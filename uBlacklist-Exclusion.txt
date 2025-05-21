@@ -85,3 +85,5 @@
 @*://www.level-plus.net/*
 @*://www.north-plus.net/*
 @*://www.hayaponlog.site/*
+@*://*.tuta.com/*
+@*://*.keizai.biz/*
