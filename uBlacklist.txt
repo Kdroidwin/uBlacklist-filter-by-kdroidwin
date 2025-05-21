@@ -4960,7 +4960,6 @@
 *://news.eeany.cn/*
 *://news.ganma.jp/*
 *://news.guideme.jp/*
-*://news.mynavi.jp/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
 *://news.vodfan.com/*
 *://newscomic.net/*
