@@ -55,13 +55,13 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt
 ```
 
-# uBlock origin 、Cromite フィルターの種類
+# uBlock origin AdGuard Cromite用 フィルターの種類
 
 
 - フィルターリストのインポートから追加できます。検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
 - 2つめはCromiteなどを使用していてuBlacklistが使えない人向け、もしくはuBlock origin以外の拡張機能をインストールしたくない人向け SearXNGの検索結果から非表示にします。SearXNG以外は対応していません。
 
-- uBlock origin 用フィルター URL（実験的）
+- uBlock origin 用フィルター URL
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
@@ -71,14 +71,14 @@ uBlock Origin用はメールアプリやSNSなどのアプリからリンクし�
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt
 ```
-SearXNGにしか対応していません。
+SearXNGの一部のインスタンスにしか対応していません。
 
 
 # 対象サイト
 
 - いかがでしたかサイト(芸能ゴシップ記事など)
 - UNEXTアフィリエイトやNordアフィリエイトなどお金をもらってランキング上げているサイト
-- avast LINE opera Gmail とかをおすすめソフト 紹介している見る価値のない記事(自社の有料ソフトを紹介、もしくはステマ込み)※見たい人もいるのでかなりひどい記事の実で条件厳しめにしている。
+- avast LINE opera Gmail とかをおすすめソフト 紹介している見る価値のない記事(自社の有料ソフトを紹介、もしくはステマ込み)※見たい人もいるのでかなりひどい記事のみ 条件厳しめにしている。
 - LINE タウンWifi Lemon08 Tiktok とかを神アプリと紹介している明らかにアフィリエイト系の記事
 - DMMの紹介文と画像コピペしてアフィリンク挿入しただけの記事
 - 詐欺サイト(詐欺ショッピングサイトなど)
@@ -87,9 +87,7 @@ SearXNGにしか対応していません。
 - 一部SNS(Tiktok Instagram はてなブックマーク pinterest等)
 - 技術系スパムサイト(間違った情報) ※条件厳しめ
 - 危険なソフトウェアダウンロードサイト(igggamesなどマルウェア配布サイト)
-
-> [!NOTE]
->まとめサイトは評価が人によって分かれるのと、数が多いので含めていません。しかし、◯的ゲーム速報、は◯ま寄稿、や◯おん、V〇PPERな俺、稲妻◯報などのサイトはwikiに迷惑サイトとあることやtwitterでの評判が悪い上に、捏造や誹謗中傷が多く、誰の目から見ても不要なので特例でリストインしています。
+- まとめサイト（多すぎるので悪質なサイトのみ）
 
 
 # 貢献
