@@ -278,6 +278,7 @@
 *://*.gekka-bunko.com/*
 *://*.girlsreport.net/*
 *://*.gm/*
+*://*.goog/*
 *://*.google.com.vn/*
 *://*.gov.cn/*
 *://*.gov.krd/*
@@ -395,6 +396,7 @@
 *://*.mw/*
 *://*.mx/*
 *://*.my/*
+*://*.myxstalk.lol/*
 *://*.na/*
 *://*.namaejiten.com/*
 *://*.namaeuranai.biz/*
@@ -746,6 +748,7 @@
 *://*.willbe07.blog.jp/*
 *://*.win/*
 *://*.windowsbulletin.com/*
+*://*.wl.co/*
 *://*.workers.dev/*
 *://*.ws/*
 *://*.wujigu.com/*
@@ -9307,7 +9310,3 @@ title/顔画像やフェイスブック/
 title/馴れ初めなど紹介/
 title/馴れ初めは/
 title/馴れ初めも/
-title/中の人/
-title/前世は|転生も/
-title/素顔は|顔バレ/
-title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
