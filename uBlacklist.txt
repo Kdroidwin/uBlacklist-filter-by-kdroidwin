@@ -2649,6 +2649,7 @@
 *://extns.notion.site/*
 *://extra-newspaper.com/*
 *://eylamermer.5bweb.com/*
+*://f-f-shukatsu.jp/*
 *://f-shirushi.com/*
 *://f10r.com/*
 *://f1v3ff69.r.us-east-1.awstrack.me/*
@@ -3491,6 +3492,7 @@
 *://ihst.csd.auth.gr/*
 *://ihtiyacisoa.online/*
 *://iibc.me/*
+*://iifpindia.com/*
 *://iiro-news.com/*
 *://iitdgroup.ru/*
 *://ijcnaxf.xyz/*
@@ -4501,6 +4503,7 @@
 *://matomesan.jp/*
 *://matomesokuhou.tokyo/*
 *://matsukazechiri.blog/*
+*://matsuri-eiga.com/*
 *://matsuri-nine.jp/*
 *://matt.mn/*
 *://maturi.info/*
@@ -4525,6 +4528,7 @@
 *://mcrump.me/*
 *://md-md-e867c335436d-fc.madewith.cn/*
 *://md.hellokit.com.cn/*
+*://mdksblog.com/*
 *://mdoramafan.com/*
 *://mdpr.jp/*
 *://measurement.slot42.online/*
@@ -5068,6 +5072,8 @@
 *://note.com/f00b4r/n/n1fe7afacadd7*
 *://note.com/gominogomidame/*
 *://note.com/hakutoumomo/*
+*://note.com/holy_beetle811
+*://note.com/holy_beetle811/*
 *://note.com/imyfone_jp*
 *://note.com/kara0323/*
 *://note.com/kimetsu_mania/*
@@ -5079,6 +5085,7 @@
 *://note.com/open_hare4661/*
 *://note.com/powertanishi*
 *://note.com/rabirabi1*
+*://note.com/roshalke/*
 *://note.com/shiba_inunosuke/*
 *://note.com/sknet_sougou*
 *://note.com/sumaho_hikaku/*
@@ -5268,6 +5275,7 @@
 *://ota-goods.info/*
 *://otaetae.com/*
 *://otagameblog.com/*
+*://otakamu.com/*
 *://otakumix.doorblog.jp/*
 *://otakuraw.com/*
 *://otalab.net/*
@@ -6540,6 +6548,7 @@
 *://telegra.ph/*
 *://telemarketingmadeeasy.com/*
 *://telhasimperio.grupomarkat.com/*
+*://tenbus.info/*
 *://tender-feelings.com/*
 *://tenis.hotsport.rs/*
 *://tenkahyakken-zan.jp/*
@@ -7818,6 +7827,7 @@
 *://www.guedo.fr/*
 *://www.guilty-soft.com/*
 *://www.guru99.com/*
+*://www.gyudon4625.com/*
 *://www.hachioji-orimono.jp/*
 *://www.hacocoro.com/*
 *://www.hakone-yamatoya.com/*
@@ -8193,6 +8203,7 @@
 *://www.nanimokamogakokkei.com/*
 *://www.napha.org/*
 *://www.narumiya-catalog.com/*
+*://www.natsunoroot.com/*
 *://www.navidetouelakhbar.info/*
 *://www.navitime.co.jp/*
 *://www.nazra.net/*
@@ -9006,6 +9017,7 @@
 *://youmaycasting.com/*
 *://younashi.jp/*
 *://young-days.com/*
+*://younger-old.com/*
 *://younokininarujournal.com/*
 *://youorganic.cl/*
 *://youpress.jp/*
@@ -9073,6 +9085,7 @@
 *://yukirinhappy.com/*
 *://yukitokyo.jp/*
 *://yukoblog.net/*
+*://yularihappysmile.com/*
 *://yumagasprices.com/*
 *://yume-ringo.com/*
 *://yume1117.com/*
@@ -9194,6 +9207,7 @@
 /.*(tomoyoafuta).*/
 /^https:\/\/www\.pinterest\./
 /^https:\/\/www\.qinterest\./
+title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
 title/- App Store/
 title/- Apps on Google Play/
 title/OFFでまとめ買/
@@ -9229,6 +9243,7 @@ title/バンクで読める？/
 title/マンガアプリおすすめ27選を比較 /
 title/マンガアプリおすすめ27選を比較/
 title/マンガアプリを調査！/
+title/中の人/
 title/中学や高校はどこ？/
 title/全品新品未開封/
 title/全巻無料で見れる読み放題/
@@ -9238,6 +9253,7 @@ title/全巻無料で読める/
 title/全巻無料で読めるアプリやサイトはある？/
 title/全話読めるかも調査/
 title/出身高校など学歴/
+title/前世は|転生も/
 title/動画を無料で観る方法 配信中/
 title/危険性の解説！/
 title/売り出し割引/
@@ -9266,6 +9282,7 @@ title/熱愛発覚/
 title/犯人は誰？名前/
 title/現在の顔/
 title/生い立ちがすごい⁈/
+title/素顔は|顔バレ/
 title/結婚した理由について徹底解説/
 title/結婚していた？/
 title/結婚している？/
@@ -9290,7 +9307,3 @@ title/顔画像やフェイスブック/
 title/馴れ初めなど紹介/
 title/馴れ初めは/
 title/馴れ初めも/
-title/中の人/
-title/前世は|転生も/
-title/素顔は|顔バレ/
-title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
