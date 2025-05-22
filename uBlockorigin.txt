@@ -1688,7 +1688,6 @@
 ||book-arrows.jp^$document
 ||book-day.com^$document
 ||book.dldlinks.com^$document
-||book.mynavi.jp^$document
 ||book.mynavi.jp/ashita_magazine/china-vpn-ucss^$document
 ||book.st-hakky.com^$document
 ||bookandbedtokyo.com^$document
@@ -2652,6 +2651,7 @@
 ||extns.notion.site^$document
 ||extra-newspaper.com^$document
 ||eylamermer.5bweb.com^$document
+||f-f-shukatsu.jp^$document
 ||f-shirushi.com^$document
 ||f10r.com^$document
 ||f1v3ff69.r.us-east-1.awstrack.me^$document
@@ -2902,7 +2902,6 @@
 ||gaffriggauge.com^$document
 ||gaikotsumatsuri.com^$document
 ||gaito666.blog.fc2.com^$document
-||gakufu.gakki.me^$document
 ||galaxydesign.site^$document
 ||galeriaorquideas.online^$document
 ||galilexpress.com^$document
@@ -3495,6 +3494,7 @@
 ||ihst.csd.auth.gr^$document
 ||ihtiyacisoa.online^$document
 ||iibc.me^$document
+||iifpindia.com^$document
 ||iiro-news.com^$document
 ||iitdgroup.ru^$document
 ||ijcnaxf.xyz^$document
@@ -4505,6 +4505,7 @@
 ||matomesan.jp^$document
 ||matomesokuhou.tokyo^$document
 ||matsukazechiri.blog^$document
+||matsuri-eiga.com^$document
 ||matsuri-nine.jp^$document
 ||matt.mn^$document
 ||maturi.info^$document
@@ -4529,6 +4530,7 @@
 ||mcrump.me^$document
 ||md-md-e867c335436d-fc.madewith.cn^$document
 ||md.hellokit.com.cn^$document
+||mdksblog.com^$document
 ||mdoramafan.com^$document
 ||mdpr.jp^$document
 ||measurement.slot42.online^$document
@@ -5072,6 +5074,8 @@
 ||note.com/f00b4r/n/n1fe7afacadd7*^$document
 ||note.com/gominogomidame^$document
 ||note.com/hakutoumomo^$document
+||note.com/holy_beetle811^$document
+||note.com/holy_beetle811^$document
 ||note.com/imyfone_jp*^$document
 ||note.com/kara0323^$document
 ||note.com/kimetsu_mania^$document
@@ -5083,6 +5087,7 @@
 ||note.com/open_hare4661^$document
 ||note.com/powertanishi*^$document
 ||note.com/rabirabi1*^$document
+||note.com/roshalke^$document
 ||note.com/shiba_inunosuke^$document
 ||note.com/sknet_sougou*^$document
 ||note.com/sumaho_hikaku^$document
@@ -5272,6 +5277,7 @@
 ||ota-goods.info^$document
 ||otaetae.com^$document
 ||otagameblog.com^$document
+||otakamu.com^$document
 ||otakumix.doorblog.jp^$document
 ||otakuraw.com^$document
 ||otalab.net^$document
@@ -6544,6 +6550,7 @@
 ||telegra.ph^$document
 ||telemarketingmadeeasy.com^$document
 ||telhasimperio.grupomarkat.com^$document
+||tenbus.info^$document
 ||tender-feelings.com^$document
 ||tenis.hotsport.rs^$document
 ||tenkahyakken-zan.jp^$document
@@ -6950,7 +6957,6 @@
 ||utagejima.jp^$document
 ||utakata.co.jp^$document
 ||utamonogatari.jp^$document
-||utaten.com^$document
 ||utina-ketumekko.com^$document
 ||utqbffn.cn^$document
 ||uu4nfcq.buergerhaus-initiative.de^$document
@@ -7823,6 +7829,7 @@
 ||www.guedo.fr^$document
 ||www.guilty-soft.com^$document
 ||www.guru99.com^$document
+||www.gyudon4625.com^$document
 ||www.hachioji-orimono.jp^$document
 ||www.hacocoro.com^$document
 ||www.hakone-yamatoya.com^$document
@@ -8008,7 +8015,6 @@
 ||www.kumamero.net^$document
 ||www.kumibellejournal.com^$document
 ||www.kurakurakurarin.com^$document
-||www.kurashiru.com^$document
 ||www.kurisu.me^$document
 ||www.kwkoeey.cn^$document
 ||www.kwurfreaplur224-nifty.xyz^$document
@@ -8199,6 +8205,7 @@
 ||www.nanimokamogakokkei.com^$document
 ||www.napha.org^$document
 ||www.narumiya-catalog.com^$document
+||www.natsunoroot.com^$document
 ||www.navidetouelakhbar.info^$document
 ||www.navitime.co.jp^$document
 ||www.nazra.net^$document
@@ -8458,7 +8465,6 @@
 ||www.sarahzhuang.com^$document
 ||www.sarveshinterior.in^$document
 ||www.savethechildren.mx^$document
-||www.sbcr.jp^$document
 ||www.schmetterling-argema.com^$document
 ||www.sciencesoft.cn^$document
 ||www.sdor.cn^$document
@@ -8522,7 +8528,6 @@
 ||www.sme.net.cn^$document
 ||www.smiletech360.com^$document
 ||www.smis.info^$document
-||www.sms-datatech.co.jp^$document
 ||www.soft222.com^$document
 ||www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml*^$document
 ||www.softproinnovations.com^$document
@@ -9014,6 +9019,7 @@
 ||youmaycasting.com^$document
 ||younashi.jp^$document
 ||young-days.com^$document
+||younger-old.com^$document
 ||younokininarujournal.com^$document
 ||youorganic.cl^$document
 ||youpress.jp^$document
@@ -9081,6 +9087,7 @@
 ||yukirinhappy.com^$document
 ||yukitokyo.jp^$document
 ||yukoblog.net^$document
+||yularihappysmile.com^$document
 ||yumagasprices.com^$document
 ||yume-ringo.com^$document
 ||yume1117.com^$document
