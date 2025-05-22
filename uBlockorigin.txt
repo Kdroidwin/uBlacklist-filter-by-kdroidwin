@@ -280,6 +280,7 @@
 /^https?:\/\/[^\/]+\.gekka\-bunko\.com\/?$/$document
 /^https?:\/\/[^\/]+\.girlsreport\.net\/?$/$document
 /^https?:\/\/[^\/]+\.gm\/?$/$document
+/^https?:\/\/[^\/]+\.goog\/?$/$document
 /^https?:\/\/[^\/]+\.google\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.gov\.cn\/?$/$document
 /^https?:\/\/[^\/]+\.gov\.krd\/?$/$document
@@ -397,6 +398,7 @@
 /^https?:\/\/[^\/]+\.mw\/?$/$document
 /^https?:\/\/[^\/]+\.mx\/?$/$document
 /^https?:\/\/[^\/]+\.my\/?$/$document
+/^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.na\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
@@ -748,6 +750,7 @@
 /^https?:\/\/[^\/]+\.willbe07\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.win\/?$/$document
 /^https?:\/\/[^\/]+\.windowsbulletin\.com\/?$/$document
+/^https?:\/\/[^\/]+\.wl\.co\/?$/$document
 /^https?:\/\/[^\/]+\.workers\.dev\/?$/$document
 /^https?:\/\/[^\/]+\.ws\/?$/$document
 /^https?:\/\/[^\/]+\.wujigu\.com\/?$/$document
