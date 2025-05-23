@@ -684,6 +684,12 @@
 /^https?:\/\/[^\/]+\.thercb\.org\/?$/$document
 /^https?:\/\/[^\/]+\.thinbug\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ti\-enxame\.com\/?$/$document
+/^https?:\/\/[^\/]+\.tiktok\.com/amp/tag\/?$/$document
+/^https?:\/\/[^\/]+\.tiktok\.com/discover\/?$/$document
+/^https?:\/\/[^\/]+\.tiktok\.com/en/trending\/?$/$document
+/^https?:\/\/[^\/]+\.tiktok\.com/ja/trending\/?$/$document
+/^https?:\/\/[^\/]+\.tiktok\.com/tag\/?$/$document
+/^https?:\/\/[^\/]+\.tiktok\.com/zh/trending\/?$/$document
 /^https?:\/\/[^\/]+\.timeglobal\.cn\/?$/$document
 /^https?:\/\/[^\/]+\.titanwolf\.org\/?$/$document
 /^https?:\/\/[^\/]+\.tj\/?$/$document
@@ -973,6 +979,7 @@
 ||9lick.me^$document
 ||9qh8qcxb.r.us-east-1.awstrack.me^$document
 ||9yfwmoisk.melanie-reinecke.de^$document
+||I.instagram.com^$document
 ||a-1construction.com^$document
 ||a-coop.jp^$document
 ||a-e-c.jp^$document
@@ -2332,7 +2339,6 @@
 ||download.cnet.com^$document
 ||download.cnet.com/ccleaner/3000-18512_4-10315544.html*^$document
 ||dozin30.com^$document
-||dply.me^$document
 ||dpmptsp.bireuenkab.go.id^$document
 ||dpoint.onelink.me^$document
 ||dq6p60xb.r.us-east-1.awstrack.me^$document
@@ -3464,6 +3470,7 @@
 ||i-fc.jp^$document
 ||i-th.ru^$document
 ||i.amgradio.ru^$document
+||i.instagram.com^$document
 ||i2ibycitipost.com^$document
 ||ias.tongji.edu.cn^$document
 ||iasbanenge.co.in^$document
@@ -4109,6 +4116,7 @@
 ||kyun2-girls.com^$document
 ||l-kyojin01.jp^$document
 ||l-ma.info^$document
+||l.instagram.com^$document
 ||l3melb-taxi.com^$document
 ||laasena.com^$document
 ||lab4g.net^$document
@@ -7911,7 +7919,6 @@
 ||www.inspiracionkohler.com^$document
 ||www.insta360.cn^$document
 ||www.instagram.cn^$document
-||www.instagram.com^$document
 ||www.intambwemedia.com^$document
 ||www.intel.cn^$document
 ||www.intel.ru^$document
@@ -8640,7 +8647,6 @@
 ||www.thousandsmiles.uk^$document
 ||www.threescoops.shop^$document
 ||www.tienkenandassociates.com^$document
-||www.tiktok.com^$document
 ||www.timbukdo.in^$document
 ||www.tm-robot.com.cn^$document
 ||www.tnfinskills.com^$document
