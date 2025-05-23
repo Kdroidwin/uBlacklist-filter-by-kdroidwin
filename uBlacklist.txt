@@ -682,6 +682,12 @@
 *://*.thercb.org/*
 *://*.thinbug.com/*
 *://*.ti-enxame.com/*
+*://*.tiktok.com/amp/tag/*
+*://*.tiktok.com/discover/*
+*://*.tiktok.com/en/trending/*
+*://*.tiktok.com/ja/trending/*
+*://*.tiktok.com/tag/*
+*://*.tiktok.com/zh/trending/*
 *://*.timeglobal.cn/*
 *://*.titanwolf.org/*
 *://*.tj/*
@@ -971,6 +977,7 @@
 *://9lick.me/*
 *://9qh8qcxb.r.us-east-1.awstrack.me/*
 *://9yfwmoisk.melanie-reinecke.de/*
+*://I.instagram.com/*
 *://a-1construction.com/*
 *://a-coop.jp/*
 *://a-e-c.jp/*
@@ -3461,6 +3468,7 @@
 *://i-fc.jp/*
 *://i-th.ru/*
 *://i.amgradio.ru/*
+*://i.instagram.com/*
 *://i2ibycitipost.com/*
 *://ias.tongji.edu.cn/*
 *://iasbanenge.co.in/*
@@ -4106,6 +4114,7 @@
 *://kyun2-girls.com/*
 *://l-kyojin01.jp/*
 *://l-ma.info/*
+*://l.instagram.com/*
 *://l3melb-taxi.com/*
 *://laasena.com/*
 *://lab4g.net/*
@@ -7908,7 +7917,6 @@
 *://www.inspiracionkohler.com/*
 *://www.insta360.cn/*
 *://www.instagram.cn/*
-*://www.instagram.com/*
 *://www.intambwemedia.com/*
 *://www.intel.cn/*
 *://www.intel.ru/*
@@ -8637,7 +8645,6 @@
 *://www.thousandsmiles.uk/*
 *://www.threescoops.shop/*
 *://www.tienkenandassociates.com/*
-*://www.tiktok.com/*
 *://www.timbukdo.in/*
 *://www.tm-robot.com.cn/*
 *://www.tnfinskills.com/*
@@ -9309,8 +9316,3 @@ title/顔画像やフェイスブック/
 title/馴れ初めなど紹介/
 title/馴れ初めは/
 title/馴れ初めも/
-title/馴れ初めも/
-title/中の人/
-title/前世は|転生も/
-title/素顔は|顔バレ/
-title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
