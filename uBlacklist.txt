@@ -2330,7 +2330,6 @@
 *://download.cnet.com/*
 *://download.cnet.com/ccleaner/3000-18512_4-10315544.html*
 *://dozin30.com/*
-*://dply.me/*
 *://dpmptsp.bireuenkab.go.id/*
 *://dpoint.onelink.me/*
 *://dq6p60xb.r.us-east-1.awstrack.me/*
