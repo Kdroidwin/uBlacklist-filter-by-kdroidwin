@@ -1,7 +1,7 @@
 # uBlacklist-filter-by-kdroidwin
 
 
-uBlacklist  用のフィルター　
+uBlacklist uBlock Origin用のフィルター　
 - 主に、詐欺サイトや偽サイト、悪質なアフィリエイトサイトを除外することが目的です。
 - 誤検知があれば教えてください。Githubアカウントを持っていない方はTwitterもしくは[こちら](https://tally.so/r/wA5brD)からお願いします。
 
@@ -17,7 +17,7 @@ uBlacklist  用のフィルター　
  1. [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
  2. chromeユーザーは下の購読を押してください。FirefoxユーザーはURLをコピーボタンを押してコピーしてください。
 
-※uBlock origin用のフィルターはuBlacklistには使えません。
+※uBlock Origin用のフィルターはuBlacklistには使えません。
 ABP形式のコンテンツブロッカーの機能があるブラウザ(cromiteなど)にも対応しています。フィルターリストのインポートから指定されたURLを入力してください。
 
 # uBlacklist用 フィルターの種類
@@ -56,19 +56,20 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt
 ```
 
-# uBlock origin AdGuard Cromite用 フィルターの種類
+# uBlock Origin Cromite用 フィルターの種類
 
 
 - フィルターリストのインポートから追加できます。検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
 - 2つめはCromiteなどを使用していてuBlacklistが使えない人向け、もしくはuBlock origin以外の拡張機能をインストールしたくない人向け SearXNGの検索結果から非表示にします。SearXNG以外は対応していません。
+- Androidアプリ版AdGuardにも対応していますが、誤検知したときにアプリを開く必要があります。
 
-- uBlock origin 用フィルター URL
+- uBlock Origin 用フィルター URL
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
 uBlock Origin用はメールアプリやSNSなどのアプリからリンクしたときなどに使えるがまだ実験的です。⚠検索結果には表示されますがリンククリックするとuBlock originのポップアップが出ます。
 
-- uBlock origin 用フィルター URL 検索結果非表示
+- uBlock Origin 用フィルター URL 検索結果非表示
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt
 ```
