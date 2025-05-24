@@ -9275,3 +9275,4 @@
 @@||www.imagetotext.cc^$document
 @@||freedium.cfd^$document
 @@||tally.so^$document
+@||kumacdn.club^$document
