@@ -1,8 +1,9 @@
 # uBlacklist-filter-by-kdroidwin
 
 
-uBlacklist 用のフィルター　
+uBlacklist  用のフィルター　
 - 主に、詐欺サイトや偽サイト、悪質なアフィリエイトサイトを除外することが目的です。
+- 誤検知があれば教えてください。Githubアカウントを持っていない方はTwitterもしくは[こちら](https://tally.so/r/wA5brD)からお願いします。
 
 # Changelog(変更履歴)
 重要
