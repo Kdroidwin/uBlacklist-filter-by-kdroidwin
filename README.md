@@ -15,7 +15,7 @@ uBlacklist uBlock Origin用のフィルター　
 # フィルター購読 やり方
 
  1. [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
- 2. chromeユーザーは下の購読を押してください。FirefoxユーザーはURLをコピーボタンを押してコピーしてください。
+ 2. chromeユーザーは下の購読を押してください。Firefox、SafariユーザーはURLをコピーボタンを押してコピーしてください。
 
 ※uBlock Origin用のフィルターはuBlacklistには使えません。
 ABP形式のコンテンツブロッカーの機能があるブラウザ(cromiteなど)にも対応しています。フィルターリストのインポートから指定されたURLを入力してください。
@@ -27,9 +27,9 @@ ABP形式のコンテンツブロッカーの機能があるブラウザ(cromite
 
 
 > [!IMPORTANT]
->Firefoxユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。
+>Firefox,Safariユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。
 
-chromeユーザー向け
+chrome(chromiumの派生)ユーザー向け
 
 [購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin&url=https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt)
 
@@ -38,7 +38,7 @@ chromeユーザー向け
 [除外用の購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin_exclusion&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt)
 
 
-Firefoxユーザー向け
+Firefox,Safariユーザー向け
 
 下記はURL 
 - uBlacklistフィルター1 by Kdroidwin URL
