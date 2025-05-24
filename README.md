@@ -67,14 +67,15 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
-uBlock Origin用はメールアプリやSNSなどのアプリからリンクしたときなどに使えるがまだ実験的です。⚠検索結果には表示されますがリンククリックするとuBlock originのポップアップが出ます。
+uBlock Origin用はメールアプリやSNSなどのアプリからリンクしたときなどに使えるがまだ実験的です。
+⚠検索結果には表示されますがリンククリックするとuBlock originのポップアップが出ます。
 
 - uBlock Origin 用フィルター URL 検索結果非表示
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt
 ```
 SearXNGの一部のインスタンスにしか対応していません。
-
+更新頻度は低いです。
 
 # 対象サイト
 
@@ -83,12 +84,12 @@ SearXNGの一部のインスタンスにしか対応していません。
 - avast LINE opera Gmail とかをおすすめソフト 紹介している見る価値のない記事(自社の有料ソフトを紹介、もしくはステマ込み)※見たい人もいるのでかなりひどい記事のみ 条件厳しめにしている。
 - LINE タウンWifi Lemon08 Tiktok とかを神アプリと紹介している明らかにアフィリエイト系の記事
 - DMMの紹介文と画像コピペしてアフィリンク挿入しただけの記事
-- 詐欺サイト(詐欺ショッピングサイトなど)
+- 詐欺サイト(ショッピング系など)
 - 一部ランキングサイト(mybestなど)
 - 偽サイト(偽revanced、偽Githubリポジトリ、偽Z-Libなど)
 - 一部SNS(Tiktok Instagram はてなブックマーク pinterest等)
 - 技術系スパムサイト(間違った情報) ※条件厳しめ
-- 危険なソフトウェアダウンロードサイト(igggamesなどマルウェア配布サイト)
+- 危険なソフトウェアダウンロードサイト
 - まとめサイト（多すぎるので悪質なサイトのみ）
 
 
