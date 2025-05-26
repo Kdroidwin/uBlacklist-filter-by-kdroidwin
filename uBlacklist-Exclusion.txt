@@ -86,3 +86,4 @@
 @*://www.hayaponlog.site/*
 @*://*.tuta.com/*
 @*://*.keizai.biz/*
+@*://gonzobacca.bitfan.id/*
