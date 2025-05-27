@@ -3462,7 +3462,6 @@
 *://hololive.livedoor.biz/*
 *://holotame.com/*
 *://home-medical.online/*
-*://home.kingsoft.jp/*
 *://homeloanteam.com.au/*
 *://homeparty-select.com/*
 *://homl.info/*
