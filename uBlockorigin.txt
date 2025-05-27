@@ -3464,7 +3464,6 @@
 ||hololive.livedoor.biz^$document
 ||holotame.com^$document
 ||home-medical.online^$document
-||home.kingsoft.jp^$document
 ||homeloanteam.com.au^$document
 ||homeparty-select.com^$document
 ||homl.info^$document
