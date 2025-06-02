@@ -24,6 +24,8 @@
 /^https?:\/\/[^\/]+\.amazon\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.amprime\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.anige\-sokuhouvip\.com\/?$/$document
+/^https?:\/\/[^\/]+\.apk\.dog\/?$/$document
+/^https?:\/\/[^\/]+\.apktodo\.io\/?$/$document
 /^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.ar\/?$/$document
 /^https?:\/\/[^\/]+\.art\-vision\.jp\/?$/$document
@@ -290,6 +292,7 @@
 /^https?:\/\/[^\/]+\.es\/?$/$document
 /^https?:\/\/[^\/]+\.facebook\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.fesoku\.net\/?$/$document
+/^https?:\/\/[^\/]+\.fileplanet\.com\/?$/$document
 /^https?:\/\/[^\/]+\.filkhabr\.com\/?$/$document
 /^https?:\/\/[^\/]+\.firebaseapp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.fo\/?$/$document
@@ -409,6 +412,7 @@
 /^https?:\/\/[^\/]+\.ladytopi\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.lanscope\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.lat\/?$/$document
+/^https?:\/\/[^\/]+\.latestmodapks\.com\/?$/$document
 /^https?:\/\/[^\/]+\.lb\/?$/$document
 /^https?:\/\/[^\/]+\.lifehack2ch\.livedoor\.biz\/?$/$document
 /^https?:\/\/[^\/]+\.linkedin\.com\.vn\/?$/$document
@@ -432,6 +436,7 @@
 /^https?:\/\/[^\/]+\.ml\/?$/$document
 /^https?:\/\/[^\/]+\.mn\/?$/$document
 /^https?:\/\/[^\/]+\.mobi\-connect\.net\/?$/$document
+/^https?:\/\/[^\/]+\.modfyp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.moeeeani\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.mw\/?$/$document
 /^https?:\/\/[^\/]+\.mx\/?$/$document
@@ -697,6 +702,7 @@
 /^https?:\/\/[^\/]+\.slot\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.smdcgldv\.art\/?$/$document
 /^https?:\/\/[^\/]+\.so\/?$/$document
+/^https?:\/\/[^\/]+\.softmany\.com\/?$/$document
 /^https?:\/\/[^\/]+\.softonic\.com\/?$/$document
 /^https?:\/\/[^\/]+\.softonic\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.soinside\.com\/?$/$document
@@ -730,10 +736,12 @@
 /^https?:\/\/[^\/]+\.t\.codebug\.vip\/?$/$document
 /^https?:\/\/[^\/]+\.tagsqa\.com\/?$/$document
 /^https?:\/\/[^\/]+\.takenokosokuhou\.com\/?$/$document
+/^https?:\/\/[^\/]+\.td\/?$/$document
 /^https?:\/\/[^\/]+\.tecahe\.za\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-in\-japan\.github\.io\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-ja\.netlify\.app\/?$/$document
 /^https?:\/\/[^\/]+\.techacademy\.jp\/?$/$document
+/^https?:\/\/[^\/]+\.techbigs\.com\/?$/$document
 /^https?:\/\/[^\/]+\.techfeed\.net\/?$/$document
 /^https?:\/\/[^\/]+\.tenorshare\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.tetramedia\.co\.jp\/?$/$document
@@ -946,6 +954,7 @@
 ||39jy3gbg.r.us-west-2.awstrack.me^$document
 ||39mag.benesse.ne.jp^$document
 ||3bt5l7v.cn^$document
+||3kidsmama-diary.com^$document
 ||3q3pgut3.rallye-photo-avord.fr^$document
 ||3ql766n.unitymc.fr^$document
 ||3u1x3h8w.blockchainsys.de^$document
@@ -1039,6 +1048,7 @@
 ||998853.xyz^$document
 ||99images.com^$document
 ||9lick.me^$document
+||9mod.com^$document
 ||9qh8qcxb.r.us-east-1.awstrack.me^$document
 ||9yfwmoisk.melanie-reinecke.de^$document
 ||I.instagram.com^$document
@@ -1172,6 +1182,7 @@
 ||aikuwabaratrio.com^$document
 ||ail.ens.org.co^$document
 ||aimstoinnovatein.xjow7.com^$document
+||aimyong-joho.com^$document
 ||ainofujichaku-concert2022.com^$document
 ||aiolih2q.virtual-na.org^$document
 ||aiolin.com^$document
@@ -1231,9 +1242,11 @@
 ||allayfx7.bruneida.com^$document
 ||allcolorful.xsrv.jp^$document
 ||allerotics.online^$document
+||allmodapk.de^$document
 ||allowb6z.cvs.com.my^$document
 ||allpcworld.com^$document
 ||allstategroup.com.au^$document
+||alltags.jp^$document
 ||alltube.online^$document
 ||allwarrior.site^$document
 ||almadinaalmonwra.com^$document
@@ -1361,6 +1374,7 @@
 ||aoiblog.net^$document
 ||aoiro5.com^$document
 ||aoisekai.net^$document
+||aoiumiblog.com^$document
 ||aokiin.com^$document
 ||aorus.shop^$document
 ||aoshima-kenta.jp^$document
@@ -1376,14 +1390,17 @@
 ||apkcombo.com/ja/revanced^$document
 ||apkcunk.com^$document
 ||apkdirectory.com^$document
+||apkdone.com^$document
 ||apkdownloadforwindows.com^$document
 ||apkfab.com^$document
 ||apklite.me/youtube-revanced-apk^$document
 ||apkmb.com^$document
+||apkmodget.com^$document
 ||apkmody.com/apps/youtube-revanced*^$document
 ||apkmos.com^$document
 ||apkresult.io^$document
 ||apksfull.com^$document
+||apksim.com^$document
 ||app-games-casmanuus.xyz^$document
 ||app-games-outrundersele.xyz^$document
 ||app-info.xyz^$document
@@ -1466,6 +1483,7 @@
 ||asablog2020.com^$document
 ||asahilog.com^$document
 ||asajo.jp^$document
+||asakissa.com^$document
 ||asako-plus.com^$document
 ||asalkhabar.com^$document
 ||ascalio.xyz^$document
@@ -1737,6 +1755,7 @@
 ||bluestar-journal.com^$document
 ||bluethree-gift.hatenablog.com^$document
 ||bluevelvet009.livedoor.blog^$document
+||blugre.amebaownd.com^$document
 ||bm-shopcafe.jp^$document
 ||boardingstablesforsale.com^$document
 ||boatrace-kuchikomi.com^$document
@@ -1768,6 +1787,7 @@
 ||bookcafedays.com^$document
 ||bookedit.online^$document
 ||booking.greenleafregalia.com^$document
+||bookj.jp^$document
 ||books.dmm-mania.com^$document
 ||books.google.co.jp^$document
 ||books.google.com^$document
@@ -1903,6 +1923,7 @@
 ||catch-up-net.com^$document
 ||catchmove.net^$document
 ||cbsllc.me^$document
+||cc-mayu.com^$document
 ||cccrecord.com^$document
 ||ccs-sakusei.onelink.me^$document
 ||ccsggw.cn^$document
@@ -1944,6 +1965,10 @@
 ||characterland.jp^$document
 ||chasochaso.com^$document
 ||chateauduroi.co^$document
+||chatgptmod-apk.com^$document
+||chatgptmodapk.com^$document
+||chatgptmodapk.org^$document
+||chatgptmodapks.com^$document
 ||chayquan.com^$document
 ||che-guevara.jp^$document
 ||cheat-sokuhou.com^$document
@@ -1967,6 +1992,7 @@
 ||chichicafe.com^$document
 ||chiematome.com^$document
 ||chigai-hikaku.com^$document
+||chii-memo.com^$document
 ||chiirosan.com^$document
 ||chikiyasuibuki1104.com^$document
 ||chikiyumi12.com^$document
@@ -1979,6 +2005,7 @@
 ||chirkrpy.jettysuites.com^$document
 ||chiyuki.jp^$document
 ||chlog.work^$document
+||chmate.en.greenxf.com^$document
 ||chobizo.com^$document
 ||chocobat-gyakushu.com^$document
 ||chocochico.net^$document
@@ -2232,6 +2259,7 @@
 ||daylink0425.com^$document
 ||dbaudit.ru^$document
 ||dbefree.com^$document
+||dblog.jp^$document
 ||dcryptobuzz.com^$document
 ||ddhacks.com^$document
 ||ddnavi.com^$document
@@ -2701,6 +2729,7 @@
 ||europdiff.com^$document
 ||eurotools.spdns.org^$document
 ||eveninsight.com/safety-checker/website/infinitytweet.me*^$document
+||event-iroha.net^$document
 ||event4info.com^$document
 ||eventobrasil.com^$document
 ||eventoscqcr.com^$document
@@ -2991,6 +3020,7 @@
 ||gameapp-labo.jp^$document
 ||gameappli555.com^$document
 ||gamebiz.jp^$document
+||gamedva.com^$document
 ||gamefabrique.com^$document
 ||gamegadget.jp^$document
 ||gamenexus.jp/wutheringwaves/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9Se^$document
@@ -3077,6 +3107,7 @@
 ||geomanga.jp^$document
 ||geronhaita.com^$document
 ||getagriponlighting.com^$document
+||getapkgame.com^$document
 ||getbt.blog.2nt.com^$document
 ||getintopc.com^$document
 ||getintopc.me^$document
@@ -3182,6 +3213,7 @@
 ||gomaanko.com^$document
 ||gomagoma-blog.com^$document
 ||gomagomacute.com^$document
+||gomodapk.com^$document
 ||gonike.me^$document
 ||gonlunuskm.online^$document
 ||gonmana.com^$document
@@ -3287,6 +3319,7 @@
 ||hakusensha.tameshiyo.me^$document
 ||hal08.com^$document
 ||halilibrahimoslo.online^$document
+||halnostyle.com^$document
 ||hamame.xyz^$document
 ||hameets.com^$document
 ||hamerahomes.com^$document
@@ -3317,6 +3350,7 @@
 ||happy-days777.com^$document
 ||happy-drops.site^$document
 ||happy-freeeeee77.com^$document
+||happy-gohan.com^$document
 ||happy-happy-news.com^$document
 ||happy-life-style.net^$document
 ||happy-mariring.com^$document
@@ -3526,6 +3560,7 @@
 ||hub.docker.com^$document
 ||hug335-vll.xyz^$document
 ||hukugyouch.hatenablog.jp^$document
+||hukuhukudokohuku.com^$document
 ||human-profile.hatenablog.com^$document
 ||human.happinessisthailand.com^$document
 ||hunting4gold.com^$document
@@ -3546,6 +3581,7 @@
 ||i.amgradio.ru^$document
 ||i.instagram.com^$document
 ||i2ibycitipost.com^$document
+||i711.com^$document
 ||ias.tongji.edu.cn^$document
 ||iasbanenge.co.in^$document
 ||ibaraki.dijifinex.online^$document
@@ -3630,6 +3666,7 @@
 ||infinitytweet.me^$document
 ||infinityweet.com^$document
 ||influencer-laboratory.com^$document
+||influencer-news.com^$document
 ||influmemo.com^$document
 ||info-melody.com^$document
 ||info.securesamba.com^$document
@@ -3692,6 +3729,7 @@
 ||iroirosokuhou.com^$document
 ||iromame-beans.jp^$document
 ||ironcladalarm.com^$document
+||irukateacherblog.com^$document
 ||irumakg.jp^$document
 ||isao001.com^$document
 ||isaoblog.com^$document
@@ -3762,6 +3800,7 @@
 ||japan-travel-guide.jp^$document
 ||japan.icbc.com.cn^$document
 ||japan.zdnet.ex1.https.443.ipv6.faw.com.cn^$document
+||japanbaconfestival.jp^$document
 ||japanese-archery.hateblo.jp^$document
 ||japanese.beijingreview.com.cn^$document
 ||japanese.china.org.cn^$document
@@ -3779,6 +3818,7 @@
 ||jblwealthstrategies.com^$document
 ||jbs-kinki69.jp^$document
 ||jcgym.us^$document
+||jcnundb.org^$document
 ||jdipper.com^$document
 ||jeannespaey.com^$document
 ||jenak.net^$document
@@ -3794,6 +3834,7 @@
 ||jikorich.com^$document
 ||jilog.net^$document
 ||jilstreed.com^$document
+||jimbutsu.jitenon.jp^$document
 ||jimjolley.com^$document
 ||jimmys-room.com^$document
 ||jin115.com^$document
@@ -3823,6 +3864,8 @@
 ||johnnys-watcher.net^$document
 ||johnnys.jocee.jp^$document
 ||johnnysgoods-kaitori.jp^$document
+||johnnysgoods.wpx.jp^$document
+||joho.o-yake.com^$document
 ||johoiroiro.net^$document
 ||joi.isoss.net^$document
 ||jonathan-movie.jp^$document
@@ -3899,6 +3942,7 @@
 ||kae.me^$document
 ||kaeln.net^$document
 ||kafaco.co.tz^$document
+||kagelife.com^$document
 ||kagerou-kazoku.com^$document
 ||kaigaiceleb.com^$document
 ||kaigaijyunbi.xsrv.jp^$document
@@ -3909,6 +3953,7 @@
 ||kaikumikodaisuki.com^$document
 ||kaimanga.info^$document
 ||kainagi.com^$document
+||kaitori-janiyard.jp^$document
 ||kaitouranmei.com^$document
 ||kaji-amehare.com^$document
 ||kajjfawjagr.lfhfdfiehgg.com^$document
@@ -3970,6 +4015,7 @@
 ||kazen.online^$document
 ||kazu061815.com^$document
 ||kazuhirog.com^$document
+||kazutobi.com^$document
 ||kazutoshinarita.com^$document
 ||kban.me^$document
 ||kboard.jp^$document
@@ -4061,6 +4107,7 @@
 ||kisetsuneta.info^$document
 ||kisetsuno-osusume.com^$document
 ||kisocook.com^$document
+||kitakyu-cb.jp^$document
 ||kitchenbathetc.com^$document
 ||kitchenbypro.com^$document
 ||kitesa5v.virtual-na.org^$document
@@ -4079,9 +4126,11 @@
 ||kmspico.io^$document
 ||knocknockblog.com^$document
 ||knotyet.jp^$document
+||knowledgerooms.net^$document
 ||ko-ima.com^$document
 ||ko-pu.com^$document
 ||kochubeymedia.ru^$document
+||kodomama.com^$document
 ||kodomo.kamakuraborikaikan.jp^$document
 ||koe-voice.jp^$document
 ||kohjiro.jp^$document
@@ -4117,10 +4166,12 @@
 ||kooky-movie.com^$document
 ||korakuen-lc.jp^$document
 ||korder.com^$document
+||kore-naani.com^$document
 ||korea-room39.net^$document
 ||korea.kaigai-drama-board.com^$document
 ||korean-road.com^$document
 ||koreandrama-favorite.com^$document
+||korective.jp^$document
 ||korekarazizake.com^$document
 ||koreoshi-manga.com^$document
 ||koris1.com^$document
@@ -4140,6 +4191,7 @@
 ||kotaneko.net^$document
 ||kotaroworld.com^$document
 ||kotoko18.com^$document
+||koumuin-work.com^$document
 ||kouzushima.org^$document
 ||kovestresto.ca^$document
 ||kowani123.com^$document
@@ -4220,6 +4272,7 @@
 ||languagehelpsunderstand.zah59.com^$document
 ||lanikainahele.com^$document
 ||lansingtinyhouse.com^$document
+||laponas.com^$document
 ||larousse-t.com^$document
 ||last-letter-c.com^$document
 ||latestmodapks.com^$document
@@ -4398,6 +4451,7 @@
 ||lvyou168.cn^$document
 ||lynxinst.com^$document
 ||lysaeqisk.melanie-reinecke.de^$document
+||m-lifeblog.com^$document
 ||m-melody.jp^$document
 ||m-uroko.com^$document
 ||m-view.jp^$document
@@ -4485,6 +4539,7 @@
 ||makuring.jp/internet/best-vpn^$document
 ||makuring.jp/internet/paid-vpn^$document
 ||malaylog.com^$document
+||malaysia-mokoko1717.blog^$document
 ||mama-liberty.com^$document
 ||mama-necoblog.com^$document
 ||mamagirl.jp^$document
@@ -4601,6 +4656,7 @@
 ||matsuri-eiga.com^$document
 ||matsuri-nine.jp^$document
 ||matt.mn^$document
+||mattsu1015.com^$document
 ||maturi.info^$document
 ||mawtoload.com/youtube-revanced-extended^$document
 ||max77.shop^$document
@@ -4717,6 +4773,7 @@
 ||miki333.com^$document
 ||mikimane.com^$document
 ||mikobito.com^$document
+||mikumori.com^$document
 ||mile22.jp^$document
 ||milf-gloss.doujin-comic.com^$document
 ||millelog.com^$document
@@ -4786,6 +4843,7 @@
 ||mkm.maturbit.sa.com^$document
 ||mlkm221021.com^$document
 ||mm-smile.net^$document
+||mmexfj.com^$document
 ||mmiimm.net^$document
 ||mmsgbr.com^$document
 ||mn.metaphase.cn^$document
@@ -4798,20 +4856,25 @@
 ||mochiyuru-life.com^$document
 ||modcombo.io/revanced-extended.html*^$document
 ||modded-1.com^$document
+||modder.me^$document
 ||modern-works.net^$document
+||modhello.com^$document
 ||modspoti.com^$document
 ||moduloasr.com^$document
 ||modyolo.com/revanced.html*^$document
+||modzod.com^$document
 ||moedigi.com^$document
 ||moes.taobao.com^$document
 ||moffy-aya-entame.com^$document
 ||mofumofunews.com^$document
+||mollymam.com^$document
 ||molto15z.sarangkkb.com^$document
 ||molulabo.com^$document
 ||mommy-kitchen.com^$document
 ||momoka20200214-www-softbank-jp.ariyasumomoka.org^$document
 ||momoka20200403-www-bsfuji-tv.http.ariyasumomoka.org^$document
 ||momoka20200623-7net-omni7-jp.ariyasumomoka.org^$document
+||momonoyakata.com^$document
 ||moms-happylife.com^$document
 ||monadnockmidrange.com^$document
 ||monamona2525.com^$document
@@ -4966,6 +5029,7 @@
 ||nankihinameguri.com^$document
 ||nannanw.com^$document
 ||nanonano.me^$document
+||nanya.soisweb.uwm.edu^$document
 ||nanyanostore.com^$document
 ||nao-games.com^$document
 ||nao-newpaper.com^$document
@@ -4984,6 +5048,7 @@
 ||natbjohn.com^$document
 ||natchy.jp^$document
 ||nate-hospital.com^$document
+||natflixapk.com^$document
 ||nathie.ec^$document
 ||nationwideflatbedshippers.com^$document
 ||natslife1002.com^$document
@@ -5011,6 +5076,7 @@
 ||negiblo.com^$document
 ||nehohaho.com^$document
 ||nejdriver.com^$document
+||neko-ashiato.com^$document
 ||nekoame.com^$document
 ||nekobarado.com^$document
 ||nekomegane.com^$document
@@ -5033,6 +5099,7 @@
 ||netatori.com^$document
 ||netflixis.com^$document
 ||netflixmirorr.com^$document
+||netflixmirrorr.com^$document
 ||nethougaku.com^$document
 ||netou.mion.main.jp^$document
 ||netouyonews.net^$document
@@ -5389,6 +5456,7 @@
 ||otapol.com^$document
 ||otimize.org^$document
 ||otisnature.com^$document
+||oto-planet.com^$document
 ||otoginemui.com^$document
 ||otoku-channel.com^$document
 ||otokucafe.com^$document
@@ -5511,6 +5579,7 @@
 ||pesktop.com/en/windows/kms-matrix*^$document
 ||petitwings.com^$document
 ||pewtalk.nl^$document
+||philadelphiaple.amebaownd.com^$document
 ||philboothforecasts.com^$document
 ||philka.ru^$document
 ||phisix-next.com^$document
@@ -5596,6 +5665,7 @@
 ||poke-m.com^$document
 ||poke0418hobbyblog.com^$document
 ||pokebras.jp^$document
+||pokmon-tcg-pocket-mod.latestmodapks.com^$document
 ||polarusso.com^$document
 ||polimats.com^$document
 ||pollux555.com^$document
@@ -5609,6 +5679,7 @@
 ||ponco-ponco.com^$document
 ||ponpiece.com^$document
 ||ponpokopon0713.net^$document
+||pontiyo.com^$document
 ||popclinic.net.br^$document
 ||popcultura.com.br^$document
 ||popnews.info^$document
@@ -5628,6 +5699,7 @@
 ||positivelog.net^$document
 ||postcrux.com^$document
 ||postly.app^$document
+||pot-blog.com^$document
 ||poteton.com^$document
 ||pouchs.jp^$document
 ||poundtimes.com^$document
@@ -5774,6 +5846,7 @@
 ||re-tabushi.com^$document
 ||read-the-tale.com^$document
 ||readtoindia.com^$document
+||real-juku.jp^$document
 ||real-lovedoll.jp^$document
 ||realcongress.ru^$document
 ||realtimetvgod.com^$document
@@ -5917,6 +5990,7 @@
 ||robamimireport.com^$document
 ||robesgxo.check-in-out.com^$document
 ||robotstart.info^$document
+||rock-fes.com^$document
 ||rock-note.com^$document
 ||rocketnews24.com^$document
 ||rockonsocial.club^$document
@@ -6072,6 +6146,7 @@
 ||satoru-try.com^$document
 ||satoyurulife.xyz^$document
 ||satsuma-imo-blog.net^$document
+||sattelite.eu^$document
 ||saudi-newsy.com^$document
 ||sav.org.au^$document
 ||savethechildren.mx^$document
@@ -6080,6 +6155,7 @@
 ||sba.yandex.ru^$document
 ||sbc-nextjs-b2c.vercel.app^$document
 ||sbd-neo.com^$document
+||sbenny.com^$document
 ||sber.me^$document
 ||sblog51.net^$document
 ||scaleqa.com^$document
@@ -6141,6 +6217,7 @@
 ||shadow1902x.blog.2nt.com^$document
 ||shae-bear.com^$document
 ||shakerbrand.com^$document
+||shamikuni.com^$document
 ||shanghai.chinatax.gov.cn^$document
 ||sharelifestyle.info^$document
 ||sharmasteno.com^$document
@@ -6184,6 +6261,7 @@
 ||shirashiru.com^$document
 ||shiratorimonogatari.jp^$document
 ||shiro-mi.com^$document
+||shiro24.com^$document
 ||shirosaki-company.co.jp^$document
 ||shirou-sports.com^$document
 ||shirurin.com^$document
@@ -6215,6 +6293,7 @@
 ||shop62795857.taobao.com^$document
 ||shopeeal.com^$document
 ||shoppingnet.online^$document
+||short-sleeper.or.jp^$document
 ||shorturl.biz.weibo.cn^$document
 ||shoshinshanoyakata.com^$document
 ||shounenki.jp^$document
@@ -6468,6 +6547,7 @@
 ||sug-web.jp^$document
 ||sugadaira-trail.jp^$document
 ||sugar.technology^$document
+||sugar57.com^$document
 ||sugarlink-tukune.com^$document
 ||sugggest.com^$document
 ||sugimoto-movie.com^$document
@@ -6630,6 +6710,7 @@
 ||tardosk4.odonline.co.il^$document
 ||taro-column.com^$document
 ||taronii.com^$document
+||taskerapk.net^$document
 ||taskr.uk^$document
 ||tathykhojak.com^$document
 ||tatocrips.xyz^$document
@@ -6655,6 +6736,7 @@
 ||technovk.in^$document
 ||techreport.com^$document
 ||techshare.co.jp^$document
+||techzapk.net^$document
 ||tecnasglobal.com.do^$document
 ||tecnohumanismo.online^$document
 ||tee1515.com^$document
@@ -6699,6 +6781,7 @@
 ||the-greatest-dj-of-all-time.technobit.online^$document
 ||the-jet-sleeper.com^$document
 ||the-zafiro-simulator-of-g-b-a-glass-edition.softonic.ru^$document
+||the0ries.com^$document
 ||theartofspirit.be^$document
 ||theartx.app^$document
 ||thebankrobbery.com^$document
@@ -6737,6 +6820,7 @@
 ||thesimsgetalife.com^$document
 ||thesixhats.com^$document
 ||thesummitfilm.com^$document
+||thetaskerapp.com^$document
 ||thetopics1010.com^$document
 ||thetote.jp^$document
 ||thetrueworshipcentrejinja.com^$document
@@ -6802,6 +6886,7 @@
 ||tokyo-dance.jp^$document
 ||tokyo-flavor.com^$document
 ||tokyo-marry.com^$document
+||tokyocraftmap.jp^$document
 ||tokyojapanzip.blog.fc2.com^$document
 ||tom-tom11.com^$document
 ||tomaiv-an0428.com^$document
@@ -6889,6 +6974,7 @@
 ||trend-entertainment-station.com^$document
 ||trend-express.net^$document
 ||trend-hoyahoya.com^$document
+||trend-infolife.com^$document
 ||trend-inna.com^$document
 ||trend-madam.com^$document
 ||trend-movie.com^$document
@@ -6920,6 +7006,7 @@
 ||trendpost.jp^$document
 ||trendrunner.net^$document
 ||trends-matome.seesaa.net^$document
+||trendsaikoo.work^$document
 ||trendsokuho.com^$document
 ||trendy-reports.com^$document
 ||trendy-rhyme.com^$document
@@ -6982,6 +7069,7 @@
 ||twemix.xyz^$document
 ||twhite.me^$document
 ||twik.xxasj.cn^$document
+||twitresokuho.com^$document
 ||twitter.com/comic_checker*^$document
 ||twitter.com/indiegogojp*^$document
 ||twitter.com/kdroidwin15*^$document
@@ -7033,6 +7121,7 @@
 ||uniform-cph.com^$document
 ||uniqueinteriors.pk^$document
 ||unitedcopier.in^$document
+||university-rank.com^$document
 ||unixmailserver.com^$document
 ||unlockunleashcontrol.com^$document
 ||unseenadventures.africa^$document
@@ -7304,6 +7393,7 @@
 ||winoogov.com^$document
 ||wise-media-factory.com^$document
 ||wizbiz.me^$document
+||wkkgq.com^$document
 ||wlife.xyz^$document
 ||wlrqwnp.art^$document
 ||woads438.almgo.my^$document
@@ -7498,6 +7588,7 @@
 ||www.arvindfashions.com^$document
 ||www.asjp.cerist.dz^$document
 ||www.asp-as.com^$document
+||www.aspenart.org^$document
 ||www.asrockchina.com.cn^$document
 ||www.assabah-news.com^$document
 ||www.astellas.com.cn^$document
@@ -7876,6 +7967,7 @@
 ||www.gadgetskool.com^$document
 ||www.gainamatsuri.jp^$document
 ||www.game-ost.com^$document
+||www.gameapkz.com^$document
 ||www.gamegadget.jp^$document
 ||www.gameloop.com^$document
 ||www.gamesload.com^$document
@@ -7930,6 +8022,7 @@
 ||www.goyard.cn^$document
 ||www.grapheneos.online^$document
 ||www.gratia-co.jp^$document
+||www.greatpyramidllc.com^$document
 ||www.greecediscountcard.com^$document
 ||www.greenjobsready.com^$document
 ||www.greensealfx.com^$document
@@ -8123,6 +8216,7 @@
 ||www.konnkatsulsn.com^$document
 ||www.koregasiritai.com^$document
 ||www.koshien-dvd.com^$document
+||www.koutantei.biz^$document
 ||www.kouyu0528.com^$document
 ||www.kpshop.jp^$document
 ||www.krph.jp^$document
@@ -8924,6 +9018,7 @@
 ||www.yuroblog.site^$document
 ||www.yurunoblog.com^$document
 ||www.yurusupo.com^$document
+||www.yxssp.com^$document
 ||www.yzw6.top^$document
 ||www.zakzak.co.jp^$document
 ||www.zare-kiji-tukai.com^$document
@@ -9100,8 +9195,10 @@
 ||ymg-shk.go.jp^$document
 ||yo-mu-wa-inko.com^$document
 ||yo-san-chi.info^$document
+||yo-shi-ka-nicopuro.com^$document
 ||yodleona.svtoma.com^$document
 ||yogozansu.jp^$document
+||yoimono-matome.com^$document
 ||yoki-travel.com^$document
 ||yokkoi.com^$document
 ||yokomaru.blog^$document
@@ -9148,12 +9245,14 @@
 ||youtube-rex-revanced.jp.malavida.com^$document
 ||youtube-times.com^$document
 ||youtube-vanced.jp.aptoide.com^$document
+||youtubepremium.app^$document
 ||youtuber-encyclopedia.com^$document
 ||youtuber-list.com^$document
 ||youtuber-note.com^$document
 ||youtuber-style.com^$document
 ||youtuber-world-v.com^$document
 ||youtuberdictionary.com^$document
+||youtuberevanced.app^$document
 ||youtuberevanced.com^$document
 ||youtuberevanced.net^$document
 ||youtuberevanced.org^$document
@@ -9180,13 +9279,16 @@
 ||yskmyblog.com^$document
 ||yt-bgarden.com^$document
 ||yt-vanced.softonic.com^$document
+||ytmods.com^$document
 ||ytrevanced.app^$document
+||ytricks.co^$document
 ||yu-blo.com^$document
 ||yu-design51.com^$document
 ||yu-trend.com^$document
 ||yubbonnie.com^$document
 ||yucatblog.com^$document
 ||yudainews.com^$document
+||yuerika.com^$document
 ||yugiohblog.konami.com^$document
 ||yuhiko-blog1.com^$document
 ||yuhiya1627.com^$document
@@ -9230,6 +9332,8 @@
 ||yuugafas.com^$document
 ||yuuhime.xyz^$document
 ||yuukota-blog.com^$document
+||yuumeijin.biz^$document
+||yuumeijin.info^$document
 ||yuutan-yuuyuuziteki.com^$document
 ||yuuublogkakutou.com^$document
 ||yuyamatsushita.com^$document
@@ -9291,7 +9395,6 @@
 ||zephyreden.com^$document
 ||zero-plus.io^$document
 ||zerocustom.jp^$document
-||zeroten.org^$document
 ||zeroum.co.jp^$document
 ||zesty1pk.arcjav.com^$document
 ||zewiyig.live^$document
@@ -9328,6 +9431,7 @@
 ||/.*(tomoyoafuta).*/^$document
 ||/^https:\/\/www\.pinterest\./^$document
 ||/^https:\/\/www\.qinterest\./^$document
+||@*://4pda.to^$document
 /^https?:\/\/[^\/]+\.co\/jp(\/|$)/$document
 ||shop^$document,from=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~majblomman.shop|~munu.shop|~owl-dampfer.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop|~keromakura.shop|~tokka.shop|~bigwing.shop|~blueblood.shop|~bsfuji.shop|~cafec.shop|~ceramictools.shop|~curtain-damashii.shop|~d-tv.shop|~dakimakura.shop|~egachannel.shop|~hagihara.shop|~hagiharaseizosho.shop|~jp.bonaventura.shop|~okusurinavi.shop|~onikunojikan.shop|~paraboot.shop|~piccolare.shop|~umakunureru.shop|~usamart.shop|~wakuwaku-souko.shop|~curaprox.shop|~gaiheki-tosou.shop|~jollybeans.shop|~qualial.shop|~shimabayashi.shop|~adal-online.shop|~rise-jp.shop|~tohmei-tech.shop|~ecoca.shop|~nikkansports.shop|~ebisato.shop|~seapa.shop|~seibee.shop|~seino-secret.shop|~tabegoro.shop|~kindai-a.shop
 ! 除外
