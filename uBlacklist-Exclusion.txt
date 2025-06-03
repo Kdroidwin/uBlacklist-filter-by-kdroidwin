@@ -88,3 +88,4 @@
 @*://*.keizai.biz/*
 @*://gonzobacca.bitfan.id/*
 @*://manus.im/*
+@*://t-satoru.top/*
