@@ -87,3 +87,4 @@
 @*://*.tuta.com/*
 @*://*.keizai.biz/*
 @*://gonzobacca.bitfan.id/*
+@*://manus.im/*
