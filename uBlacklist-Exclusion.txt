@@ -90,3 +90,4 @@
 @*://manus.im/*
 @*://t-satoru.top/*
 @*://www.sayafx.top/*
+@*://wiki.archlinux.jp/*
