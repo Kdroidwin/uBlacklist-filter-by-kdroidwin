@@ -824,7 +824,6 @@
 *://*.wl.co/*
 *://*.workers.dev/*
 *://*.world-fusigi.net/*
-*://*.ws/*
 *://*.wujigu.com/*
 *://*.xbuba.com/*
 *://*.xmobile-allagi.jp/*
