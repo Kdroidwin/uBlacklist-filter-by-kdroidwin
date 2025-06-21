@@ -9795,3 +9795,7 @@
 @@||tally.so^$document
 @@||kumacdn.club^$document
 @@||gonzobacca.bitfan.id^$document
+@@||manus.im^$document
+@@||t-satoru.top^$document
+@@||www.sayafx.top^$document
+@@||archive.today^$document
