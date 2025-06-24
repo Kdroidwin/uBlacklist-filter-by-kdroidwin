@@ -844,6 +844,7 @@
 *://0-scholar-google-com.brum.beds.ac.uk/*
 *://009933.xyz/*
 *://01.futako.info/*
+*://03kurata01.com/*
 *://0630kyosuke.hatenablog.com/*
 *://09bd5a69.xyz/*
 *://0mfoyu8wr.onlinetanke.de/*
@@ -2377,6 +2378,7 @@
 *://developers.line.me/*
 *://device.panasonic.cn/*
 *://deyar-sa.com/*
+*://dftvtrb.bar/*
 *://dfzmnriie.heidekevin.de/*
 *://dg0z6p8mk.lze-dystrybucja.pl/*
 *://dglcauto.cn/*
@@ -4256,6 +4258,7 @@
 *://kms-full.com/*
 *://kmsmatrix.com/*
 *://kmspico.io/*
+*://kn-q.com/*
 *://knocknockblog.com/*
 *://knotyet.jp/*
 *://knowledgerooms.net/*
@@ -5003,6 +5006,7 @@
 *://miyazakisuki.me/*
 *://miyo-trends.com/*
 *://miyomcerrahisi.com/*
+*://miyu-happy.com/*
 *://mizenk7t.singaporefoodie.com/*
 *://mizharu.com/*
 *://mizublochannel.com/*
@@ -5458,6 +5462,7 @@
 *://note.com/uber_tantan02*
 *://note.com/unique_chimp63/*
 *://note.com/wareomou_yueni/*
+*://note.com/wataru057/n/n1616ce92e51f
 *://note.com/yamaguchi3forza*
 *://note.com/youichi0989/*
 *://notsu08.com/*
@@ -6013,6 +6018,7 @@
 *://rafafernandezphotography.com/*
 *://ragsoutfitters.com/*
 *://raifuappu.com/*
+*://rail-inn.com/*
 *://rainbowtransfer.com/*
 *://rainmakerofnews.com/*
 *://rainstalaciones.com.co/*
@@ -6255,6 +6261,7 @@
 *://rusonbe-son.blog/*
 *://rust-docs.redwoodjs.cn/*
 *://rutanewenleufu.cl/*
+*://ruwqrshz.digital/*
 *://rviqfclay.silvia-silaci.de/*
 *://rvnews.rv.ua/*
 *://rvx.to/*
@@ -7007,6 +7014,7 @@
 *://terakoya.sejuku.net/*
 *://teratail.com/*
 *://teresamoda.com/*
+*://terraboxpremiumapk.com/*
 *://terryys-news.com/*
 *://teshicage.today/*
 *://test.crunch.is/*
@@ -9260,6 +9268,7 @@
 *://www.wildwaadi.com/*
 *://www.win-rar.ru/*
 *://www.winrarcrack.pro/*
+*://www.winxdvd.com/*
 *://www.winzip.com/*
 *://www.wirtschaftlicher-verband.de/*
 *://www.wish.com/*

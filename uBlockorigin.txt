@@ -846,6 +846,7 @@
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||009933.xyz^$document
 ||01.futako.info^$document
+||03kurata01.com^$document
 ||0630kyosuke.hatenablog.com^$document
 ||09bd5a69.xyz^$document
 ||0mfoyu8wr.onlinetanke.de^$document
@@ -2379,6 +2380,7 @@
 ||developers.line.me^$document
 ||device.panasonic.cn^$document
 ||deyar-sa.com^$document
+||dftvtrb.bar^$document
 ||dfzmnriie.heidekevin.de^$document
 ||dg0z6p8mk.lze-dystrybucja.pl^$document
 ||dglcauto.cn^$document
@@ -4258,6 +4260,7 @@
 ||kms-full.com^$document
 ||kmsmatrix.com^$document
 ||kmspico.io^$document
+||kn-q.com^$document
 ||knocknockblog.com^$document
 ||knotyet.jp^$document
 ||knowledgerooms.net^$document
@@ -5005,6 +5008,7 @@
 ||miyazakisuki.me^$document
 ||miyo-trends.com^$document
 ||miyomcerrahisi.com^$document
+||miyu-happy.com^$document
 ||mizenk7t.singaporefoodie.com^$document
 ||mizharu.com^$document
 ||mizublochannel.com^$document
@@ -5460,6 +5464,7 @@
 ||note.com/uber_tantan02*^$document
 ||note.com/unique_chimp63^$document
 ||note.com/wareomou_yueni^$document
+||note.com/wataru057/n/n1616ce92e51f^$document
 ||note.com/yamaguchi3forza*^$document
 ||note.com/youichi0989^$document
 ||notsu08.com^$document
@@ -6015,6 +6020,7 @@
 ||rafafernandezphotography.com^$document
 ||ragsoutfitters.com^$document
 ||raifuappu.com^$document
+||rail-inn.com^$document
 ||rainbowtransfer.com^$document
 ||rainmakerofnews.com^$document
 ||rainstalaciones.com.co^$document
@@ -6257,6 +6263,7 @@
 ||rusonbe-son.blog^$document
 ||rust-docs.redwoodjs.cn^$document
 ||rutanewenleufu.cl^$document
+||ruwqrshz.digital^$document
 ||rviqfclay.silvia-silaci.de^$document
 ||rvnews.rv.ua^$document
 ||rvx.to^$document
@@ -7009,6 +7016,7 @@
 ||terakoya.sejuku.net^$document
 ||teratail.com^$document
 ||teresamoda.com^$document
+||terraboxpremiumapk.com^$document
 ||terryys-news.com^$document
 ||teshicage.today^$document
 ||test.crunch.is^$document
@@ -9262,6 +9270,7 @@
 ||www.wildwaadi.com^$document
 ||www.win-rar.ru^$document
 ||www.winrarcrack.pro^$document
+||www.winxdvd.com^$document
 ||www.winzip.com^$document
 ||www.wirtschaftlicher-verband.de^$document
 ||www.wish.com^$document
