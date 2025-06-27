@@ -5832,8 +5832,6 @@
 ||pistiloaccesorios.com^$document
 ||pittsburghdancexplosion.com^$document
 ||pixabay.com^$document
-||pixela.co.jp^$document
-||pixiv.me^$document
 ||pixls.jp^$document
 ||pixt.me^$document
 ||piyokogame.com^$document
