@@ -5831,7 +5831,6 @@
 *://pittsburghdancexplosion.com/*
 *://pixabay.com/*
 *://pixela.co.jp/*
-*://pixiv.me/*
 *://pixls.jp/*
 *://pixt.me/*
 *://piyokogame.com/*
