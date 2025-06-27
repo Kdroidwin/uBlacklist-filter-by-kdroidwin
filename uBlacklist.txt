@@ -64,7 +64,6 @@
 *://*.br/*
 *://*.brow2ing.com/*
 *://*.burusoku-vip.com/*
-*://*.ca/*
 *://*.cam/*
 *://*.carnival00inkochi.jp/*
 *://*.cd/*
@@ -338,7 +337,6 @@
 *://*.iq/*
 *://*.ir/*
 *://*.is/*
-*://*.it/*
 *://*.itainews.com/*
 *://*.jin115.com/*
 *://*.jo/*
@@ -5830,7 +5828,6 @@
 *://pistiloaccesorios.com/*
 *://pittsburghdancexplosion.com/*
 *://pixabay.com/*
-*://pixela.co.jp/*
 *://pixls.jp/*
 *://pixt.me/*
 *://piyokogame.com/*
