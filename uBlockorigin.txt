@@ -1288,7 +1288,6 @@
 ||amaken.top^$document
 ||amanioil.com^$document
 ||amberdeer6769896.com^$document
-||ameblo.jp^$document
 ||ameblo.jp/akiaki150^$document
 ||ameblo.jp/and-gretel*^$document
 ||ameblo.jp/aniroom*^$document
