@@ -7622,7 +7622,6 @@
 *://websites.milonic.com/*
 *://webst8.co.jp/*
 *://weddingchannell.com/*
-*://weekly-jitsuwa.jp/*
 *://weibo.cn/*
 *://weilersce.com/*
 *://welcometorekall.jp/*
