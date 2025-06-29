@@ -7625,8 +7625,6 @@
 ||webku.jp^$document
 ||websites.milonic.com^$document
 ||webst8.co.jp^$document
-||weddingchannell.com^$document
-||weekly-jitsuwa.jp^$document
 ||weibo.cn^$document
 ||weilersce.com^$document
 ||welcometorekall.jp^$document
