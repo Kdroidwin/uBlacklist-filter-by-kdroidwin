@@ -1450,7 +1450,6 @@
 *://appli-world.jp/posts/15380*
 *://appli-world.jp/posts/18197*
 *://applibito.com/*
-*://appllio.com/*
 *://appnee.com/*
 *://appoholow.xyz/*
 *://apprev.smt.docomo.ne.jp/*
