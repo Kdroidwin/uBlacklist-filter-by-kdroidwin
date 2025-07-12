@@ -1452,7 +1452,6 @@
 ||appli-world.jp/posts/15380*^$document
 ||appli-world.jp/posts/18197*^$document
 ||applibito.com^$document
-||appllio.com^$document
 ||appnee.com^$document
 ||appoholow.xyz^$document
 ||apprev.smt.docomo.ne.jp^$document
