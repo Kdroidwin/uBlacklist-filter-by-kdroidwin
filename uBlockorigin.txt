@@ -32,6 +32,7 @@
 /^https?:\/\/[^\/]+\.asia\/?$/$document
 /^https?:\/\/[^\/]+\.asterisk0\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.asusno22\.blog\.jp\/?$/$document
+/^https?:\/\/[^\/]+\.atlaq\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ayacnews2nd\.com\/?$/$document
 /^https?:\/\/[^\/]+\.az\/?$/$document
 /^https?:\/\/[^\/]+\.ba\/?$/$document
@@ -1557,6 +1558,7 @@
 ||atlassianonlineredirect.xyz^$document
 ||atomseight.com^$document
 ||atozsearch.jp^$document
+||atre-club.jp^$document
 ||atsu-blog.com^$document
 ||atsushi-hisatumi.amebaownd.com/posts/12184891^$document
 ||attractions-music.jp^$document
@@ -1574,6 +1576,7 @@
 ||avaerocapital.com^$document
 ||avantiegypt.com^$document
 ||avasam.ir^$document
+||avobild.life^$document
 ||avtonomka-service.online^$document
 ||awadhjagaran.com^$document
 ||awais-javed.com^$document
@@ -1618,6 +1621,7 @@
 ||babylon-liq.com^$document
 ||bad-labo.com^$document
 ||baghdadacademydom.com^$document
+||baikal.boats^$document
 ||baila.hpplus.jp^$document
 ||baixarapk.gratis^$document
 ||bakery-fukufuku.com^$document
@@ -1833,6 +1837,7 @@
 ||booking.greenleafregalia.com^$document
 ||bookj.jp^$document
 ||bookmate07.jp^$document
+||books.awaisora.com^$document
 ||books.dmm-mania.com^$document
 ||books.google.co.jp^$document
 ||books.google.com^$document
@@ -2160,6 +2165,7 @@
 ||comic-checker.jp^$document
 ||comic-compass.com^$document
 ||comic-days.com^$document
+||comic-days.net^$document
 ||comic-hobby.best^$document
 ||comic-info.jp^$document
 ||comic-mangashelf.com^$document
@@ -2408,6 +2414,7 @@
 ||dickiesjp.me^$document
 ||dictionary.goo.ne.jp^$document
 ||didongviet.vn^$document
+||diety.jp^$document
 ||different-cute-brain.glitch.me^$document
 ||digicamenote.com^$document
 ||digispacestudio.com^$document
@@ -3526,6 +3533,7 @@
 ||heipowersystem.com^$document
 ||heliumboss.xyz^$document
 ||hellofuture-inc.com^$document
+||helloroomies-stkgz.com^$document
 ||help.cybozu.cn^$document
 ||helpcurenow.org^$document
 ||helpfulinfo-byrc.com^$document
@@ -3761,6 +3769,7 @@
 ||ilf82z3.neurofaszia-therapie.de^$document
 ||illmatic-shop.com^$document
 ||illustshikou.com^$document
+||ilovetrend.hatenablog.com^$document
 ||ilrun.com^$document
 ||iluvlog.com^$document
 ||ima-coco369.com^$document
@@ -3785,6 +3794,7 @@
 ||inbigo.com^$document
 ||index.taimiah.org^$document
 ||indiespark.top^$document
+||indoorzoku.com^$document
 ||industrial.panasonic.cn^$document
 ||industriallicence.com^$document
 ||industrialwastecleanup.com^$document
@@ -4071,6 +4081,7 @@
 ||jyoshianaguguru.com^$document
 ||k-bass.com^$document
 ||k-benibana.jp^$document
+||k-bys.work^$document
 ||k-planning.xyz^$document
 ||k-pop-idol.com^$document
 ||k-s-a.ru^$document
@@ -4702,6 +4713,7 @@
 ||mail.chocolateslacabana.com^$document
 ||maimeng.taobao.com^$document
 ||mainichi-tocotoco.com^$document
+||mainichigossip.com^$document
 ||mainitihanairo.com^$document
 ||maishiraishi-cafe.jp^$document
 ||maitri.nyc^$document
@@ -4764,6 +4776,7 @@
 ||mangamotomaru.com^$document
 ||mangan1.seesaa.net^$document
 ||manganista.net^$document
+||mangazuki-314159.com^$document
 ||mango.co.jp^$document
 ||mankaikana.com^$document
 ||manpukubiyori.com^$document
@@ -4938,6 +4951,7 @@
 ||mgfdm.taobao.com^$document
 ||mgmenjoy85.com^$document
 ||mgnews.ru^$document
+||mhczn.icu^$document
 ||mho.me^$document
 ||mhometheater.jp^$document
 ||mi-band.ru^$document
@@ -5010,6 +5024,7 @@
 ||mirumiru-honpo.jp^$document
 ||miss-saigon-movie-25.jp^$document
 ||missav-av01.com^$document
+||missav-downloader.org^$document
 ||missav.com^$document
 ||misuteri-enblog.com^$document
 ||mitemiruno.com^$document
@@ -5455,6 +5470,7 @@
 ||note.com/androidgeek^$document
 ||note.com/androidgeek^$document
 ||note.com/bolojobsko/n/n47cfa6a8b9a7*^$document
+||note.com/clear_coot175^$document
 ||note.com/dapper_boar1528*^$document
 ||note.com/dream1004*^$document
 ||note.com/f00b4r/n/n1fe7afacadd7*^$document
@@ -5468,6 +5484,7 @@
 ||note.com/kara0323^$document
 ||note.com/kimetsu_mania^$document
 ||note.com/koh7166^$document
+||note.com/kuma_ai_studio^$document
 ||note.com/mangach^$document
 ||note.com/mankensensei^$document
 ||note.com/moeuhane22*^$document
@@ -5494,6 +5511,7 @@
 ||note.com/wareomou_yueni^$document
 ||note.com/wataru057/n/n1616ce92e51f^$document
 ||note.com/yamaguchi3forza*^$document
+||note.com/yarunara_ima^$document
 ||note.com/youichi0989^$document
 ||notsu08.com^$document
 ||nougaku.saloon.jp^$document
@@ -5803,6 +5821,7 @@
 ||penguinblog.work^$document
 ||pentagonpapers-movie.jp^$document
 ||pentanews.net^$document
+||pepms.icu^$document
 ||peppermint-angel.com^$document
 ||perfectworld.shop^$document
 ||performance-navi01.com^$document
@@ -5864,6 +5883,7 @@
 ||pistiloaccesorios.com^$document
 ||pittsburghdancexplosion.com^$document
 ||pixabay.com^$document
+||pixela.co.jp^$document
 ||pixls.jp^$document
 ||pixt.me^$document
 ||piyokogame.com^$document
@@ -6514,6 +6534,7 @@
 ||shin-hakken.com^$document
 ||shin-vod-life.com^$document
 ||shinafu.jp^$document
+||shineeday.com^$document
 ||shingeki-no-nakayama.com^$document
 ||shinjidai.co.jp^$document
 ||shinju-oonuki.hatenadiary.org^$document
@@ -6589,6 +6610,7 @@
 ||shun-tame.com^$document
 ||shusei-300.xyz^$document
 ||shuukatujyouhou.com^$document
+||siaparseband.tistory.com^$document
 ||sibadeji.net^$document
 ||siberiatech.ru^$document
 ||signin.samsung.cn^$document
@@ -6705,6 +6727,7 @@
 ||soratoburin.com^$document
 ||sorteplus.net^$document
 ||sota-001.com^$document
+||sotuen.net^$document
 ||soulflowertrain.com^$document
 ||souljazzfunk.com^$document
 ||source.android.google.cn^$document
@@ -7209,6 +7232,7 @@
 ||tomorrownk.info^$document
 ||tomosan-blog.com^$document
 ||tomoya-blog.com^$document
+||ton-union.de^$document
 ||toolbox.app^$document
 ||tools.anquanclub.cn^$document
 ||tootsietoes.com.au^$document
@@ -7564,6 +7588,7 @@
 ||vls51wg.h-arlt-fotografie.de^$document
 ||vmm0dj30.r.us-west-2.awstrack.me^$document
 ||vn5oqgqo.auslagerung-pastservice.de^$document
+||vnoco.jp/guide/comic/illegal^$document
 ||vnrtysj.top^$document
 ||vnsport.ru^$document
 ||vnufubiwo.shop^$document
@@ -7613,6 +7638,7 @@
 ||wadai-pocket.com/woman-comic-free166^$document
 ||wadaineta.com^$document
 ||wadainews365.blog.ss-blog.jp^$document
+||wadaino-tamariba.blog^$document
 ||wadainomori.net^$document
 ||wadifa-lakom.online^$document
 ||wafumona.blog.fc2.com^$document
@@ -7654,6 +7680,7 @@
 ||waterdropcycle.com^$document
 ||wayofthescreenwriter.com^$document
 ||wazzelife.com^$document
+||wcpdq.icu^$document
 ||wcrr2019.org^$document
 ||wearer.jp^$document
 ||weatherthestormapparel.com^$document
@@ -7694,6 +7721,7 @@
 ||wifi4games.net^$document
 ||wifi4games.org^$document
 ||wigo.media^$document
+||wih5u.icu^$document
 ||wiketrend77.hatenablog.com^$document
 ||win10.au^$document
 ||wind2016.seesaa.net^$document
@@ -9854,4 +9882,3 @@
 @@||t-satoru.top^$document
 @@||www.sayafx.top^$document
 @@||archive.today^$document
-@@||molly.im^$document
