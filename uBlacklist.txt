@@ -1733,6 +1733,7 @@
 *://biomedicalng.com/*
 *://bird-daikanyama.online/*
 *://birthday.sdl.com/*
+*://biscoteca.it/*
 *://bismillahfoodbd.com/*
 *://bitbucket.org/*
 *://bitcash.me/*
@@ -1847,6 +1848,7 @@
 *://botobo.ru/*
 *://bouncing-labo.com/*
 *://boxdevjp.netlify.app/*
+*://boxmovie.org/*
 *://boyard-str.ru/*
 *://boycott-hub.com/*
 *://bp-guide.jp/*
@@ -2207,6 +2209,7 @@
 *://conunestilodiferente.com/*
 *://conwaystewart.cn/*
 *://coochanenjoyblog.com/*
+*://cooking-life-style.com/*
 *://cookpad-mart.com/*
 *://cookpad.com/*
 *://coopers-pub.ch/*
@@ -2240,6 +2243,7 @@
 *://cpslzfdv.qpon/*
 *://cracked-games.org/*
 *://crackingpatching.com/*
+*://cracklemovie.org/*
 *://crackshash.com/*
 *://crackshash.org/*
 *://craft-beer.life/*
@@ -3038,6 +3042,7 @@
 *://ftrc.me/*
 *://ftuapps1.farlad.com/*
 *://fu-topi.com/*
+*://fuelmovie.com/*
 *://fufeng.xincun666.cn/*
 *://fuji-ink-japan.jp/*
 *://fuji3mame39.com/*
@@ -3099,6 +3104,7 @@
 *://fyirech.cn/*
 *://fyle-group.com/*
 *://fysfcw.cn/*
+*://fzmoviez.org/*
 *://g-b.download/*
 *://g-ep.jp/*
 *://g-gensite.net/*
@@ -4047,6 +4053,7 @@
 *://jp.soft57.com/*
 *://jp.visit-japan.cn/*
 *://jp.winxmac.com/*
+*://jp24h.com/*
 *://jpkanon.com/*
 *://jpsecengineer.com/*
 *://jsca-member--jp.proxy.shstvc.com.cn/*
@@ -4222,6 +4229,7 @@
 *://kgsn-sound.com/*
 *://khairpurfoods.com/*
 *://khoanguyenchuong.com/*
+*://kicks-blog.com/*
 *://kiiropicks.com/*
 *://kijitora-chan.com/*
 *://kikichannel.com/*
@@ -4263,6 +4271,7 @@
 *://kintarogroup.com/*
 *://kiokunashi-movie.jp/*
 *://kiragamiteru.com/*
+*://kirakira-t-y.com/*
 *://kirapara.onelink.me/*
 *://kirari-n.com/*
 *://kireinotane.jp/*
@@ -4446,6 +4455,7 @@
 *://lamerkomp.ru/*
 *://lanakila-web.com/*
 *://landfaller.net/*
+*://landing-page-school.com/*
 *://landing.server4testing.com/*
 *://languagehelpsunderstand.zah59.com/*
 *://lanikainahele.com/*
@@ -5189,6 +5199,7 @@
 *://my-site-102068-108917.square.site/*
 *://my.ai-li.xyz/*
 *://my.hintup.io/*
+*://mybloganik26.com/*
 *://mybouzu.info/*
 *://mycolorfulcolor.com/*
 *://myfigurecollection.net/*
@@ -5469,6 +5480,7 @@
 *://note.com/androidgeek/*
 *://note.com/bolojobsko/n/n47cfa6a8b9a7*
 *://note.com/clear_coot175/*
+*://note.com/cutecreaturecli/*
 *://note.com/dapper_boar1528*
 *://note.com/dream1004*
 *://note.com/f00b4r/n/n1fe7afacadd7*
@@ -5626,6 +5638,7 @@
 *://omoidouri.com/*
 *://omoitattagakichijitsu.com/*
 *://omoken-park.jp/*
+*://omovieo.net/*
 *://on-sk.com/*
 *://on.fb.me/*
 *://one-carat.com/*
@@ -5874,6 +5887,7 @@
 *://pinupbg5.latinncap.com/*
 *://pinzuba.news/*
 *://pipi1211.com/*
+*://pipikaizyu.com/*
 *://pippirinrin.com/*
 *://pirates-mermaid.jp/*
 *://pirates-rock.jp/*
@@ -5997,6 +6011,7 @@
 *://programmercollege.jp/*
 *://progroup.pt/*
 *://projectorrenter.com/*
+*://projetos.planomestre.com/*
 *://promedmultispeciality.com/*
 *://prometiz.xyz/*
 *://promotion.weassist.jp/*
@@ -6433,6 +6448,7 @@
 *://sav.org.au/*
 *://savethechildren.mx/*
 *://sayaken.com/*
+*://sayama-swimming-club.jp/*
 *://sayyoufun.biz/*
 *://sba.yandex.ru/*
 *://sbc-nextjs-b2c.vercel.app/*
@@ -6712,6 +6728,7 @@
 *://sollastudio.net/*
 *://solutionsbyswain.com/*
 *://sonasgrill.com/*
+*://sonicmovie.net/*
 *://sonix8.rssing.com/*
 *://sonodamama.com/*
 *://sonohanasi.com/*
@@ -6915,6 +6932,7 @@
 *://support.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn/*
 *://support.myqnapcloud.cn/*
 *://support.qrio.me/*
+*://suqsaudi.com/*
 *://surfshark.com/ja/blog/surfshark-vs-mullvad*
 *://surgeonsatya.com/*
 *://suzukitakao.jp/*
@@ -7675,6 +7693,7 @@
 *://wasshoi2024.com/*
 *://wasyoku2017.m.icoc.me/*
 *://wataru.biz/*
+*://watch-full-movies.org/*
 *://waterdropcycle.com/*
 *://wayofthescreenwriter.com/*
 *://wazzelife.com/*
@@ -7778,6 +7797,7 @@
 *://ww38.vanced.app/*
 *://ww9.fitgirl-repacks.xyz/*
 *://wwrbbuk.bar/*
+*://wwv-fmovies.com/*
 *://www--carsensor--net---zf564www--hunan--gov--cn.ipv6.hunan.gov.cn/*
 *://www--cn--emb-japan--go--jp.proxy.xmmc.edu.cn/*
 *://www--gaga--co--jp.proxy.shstvc.com.cn/*
@@ -9562,6 +9582,7 @@
 *://yesterday-tv.com/*
 *://yetu.tours/*
 *://ygaero.com/*
+*://yifymovies.cx/*
 *://yiliam86.taobao.com/*
 *://yimmease.com/*
 *://yjtoraim.com/*

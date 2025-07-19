@@ -1735,6 +1735,7 @@
 ||biomedicalng.com^$document
 ||bird-daikanyama.online^$document
 ||birthday.sdl.com^$document
+||biscoteca.it^$document
 ||bismillahfoodbd.com^$document
 ||bitbucket.org^$document
 ||bitcash.me^$document
@@ -1849,6 +1850,7 @@
 ||botobo.ru^$document
 ||bouncing-labo.com^$document
 ||boxdevjp.netlify.app^$document
+||boxmovie.org^$document
 ||boyard-str.ru^$document
 ||boycott-hub.com^$document
 ||bp-guide.jp^$document
@@ -2209,6 +2211,7 @@
 ||conunestilodiferente.com^$document
 ||conwaystewart.cn^$document
 ||coochanenjoyblog.com^$document
+||cooking-life-style.com^$document
 ||cookpad-mart.com^$document
 ||cookpad.com^$document
 ||coopers-pub.ch^$document
@@ -2242,6 +2245,7 @@
 ||cpslzfdv.qpon^$document
 ||cracked-games.org^$document
 ||crackingpatching.com^$document
+||cracklemovie.org^$document
 ||crackshash.com^$document
 ||crackshash.org^$document
 ||craft-beer.life^$document
@@ -3040,6 +3044,7 @@
 ||ftrc.me^$document
 ||ftuapps1.farlad.com^$document
 ||fu-topi.com^$document
+||fuelmovie.com^$document
 ||fufeng.xincun666.cn^$document
 ||fuji-ink-japan.jp^$document
 ||fuji3mame39.com^$document
@@ -3101,6 +3106,7 @@
 ||fyirech.cn^$document
 ||fyle-group.com^$document
 ||fysfcw.cn^$document
+||fzmoviez.org^$document
 ||g-b.download^$document
 ||g-ep.jp^$document
 ||g-gensite.net^$document
@@ -4049,6 +4055,7 @@
 ||jp.soft57.com^$document
 ||jp.visit-japan.cn^$document
 ||jp.winxmac.com^$document
+||jp24h.com^$document
 ||jpkanon.com^$document
 ||jpsecengineer.com^$document
 ||jsca-member--jp.proxy.shstvc.com.cn^$document
@@ -4224,6 +4231,7 @@
 ||kgsn-sound.com^$document
 ||khairpurfoods.com^$document
 ||khoanguyenchuong.com^$document
+||kicks-blog.com^$document
 ||kiiropicks.com^$document
 ||kijitora-chan.com^$document
 ||kikichannel.com^$document
@@ -4265,6 +4273,7 @@
 ||kintarogroup.com^$document
 ||kiokunashi-movie.jp^$document
 ||kiragamiteru.com^$document
+||kirakira-t-y.com^$document
 ||kirapara.onelink.me^$document
 ||kirari-n.com^$document
 ||kireinotane.jp^$document
@@ -4448,6 +4457,7 @@
 ||lamerkomp.ru^$document
 ||lanakila-web.com^$document
 ||landfaller.net^$document
+||landing-page-school.com^$document
 ||landing.server4testing.com^$document
 ||languagehelpsunderstand.zah59.com^$document
 ||lanikainahele.com^$document
@@ -5191,6 +5201,7 @@
 ||my-site-102068-108917.square.site^$document
 ||my.ai-li.xyz^$document
 ||my.hintup.io^$document
+||mybloganik26.com^$document
 ||mybouzu.info^$document
 ||mycolorfulcolor.com^$document
 ||myfigurecollection.net^$document
@@ -5471,6 +5482,7 @@
 ||note.com/androidgeek^$document
 ||note.com/bolojobsko/n/n47cfa6a8b9a7*^$document
 ||note.com/clear_coot175^$document
+||note.com/cutecreaturecli^$document
 ||note.com/dapper_boar1528*^$document
 ||note.com/dream1004*^$document
 ||note.com/f00b4r/n/n1fe7afacadd7*^$document
@@ -5628,6 +5640,7 @@
 ||omoidouri.com^$document
 ||omoitattagakichijitsu.com^$document
 ||omoken-park.jp^$document
+||omovieo.net^$document
 ||on-sk.com^$document
 ||on.fb.me^$document
 ||one-carat.com^$document
@@ -5876,6 +5889,7 @@
 ||pinupbg5.latinncap.com^$document
 ||pinzuba.news^$document
 ||pipi1211.com^$document
+||pipikaizyu.com^$document
 ||pippirinrin.com^$document
 ||pirates-mermaid.jp^$document
 ||pirates-rock.jp^$document
@@ -5999,6 +6013,7 @@
 ||programmercollege.jp^$document
 ||progroup.pt^$document
 ||projectorrenter.com^$document
+||projetos.planomestre.com^$document
 ||promedmultispeciality.com^$document
 ||prometiz.xyz^$document
 ||promotion.weassist.jp^$document
@@ -6435,6 +6450,7 @@
 ||sav.org.au^$document
 ||savethechildren.mx^$document
 ||sayaken.com^$document
+||sayama-swimming-club.jp^$document
 ||sayyoufun.biz^$document
 ||sba.yandex.ru^$document
 ||sbc-nextjs-b2c.vercel.app^$document
@@ -6714,6 +6730,7 @@
 ||sollastudio.net^$document
 ||solutionsbyswain.com^$document
 ||sonasgrill.com^$document
+||sonicmovie.net^$document
 ||sonix8.rssing.com^$document
 ||sonodamama.com^$document
 ||sonohanasi.com^$document
@@ -6917,6 +6934,7 @@
 ||support.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn^$document
 ||support.myqnapcloud.cn^$document
 ||support.qrio.me^$document
+||suqsaudi.com^$document
 ||surfshark.com/ja/blog/surfshark-vs-mullvad*^$document
 ||surgeonsatya.com^$document
 ||suzukitakao.jp^$document
@@ -7677,6 +7695,7 @@
 ||wasshoi2024.com^$document
 ||wasyoku2017.m.icoc.me^$document
 ||wataru.biz^$document
+||watch-full-movies.org^$document
 ||waterdropcycle.com^$document
 ||wayofthescreenwriter.com^$document
 ||wazzelife.com^$document
@@ -7780,6 +7799,7 @@
 ||ww38.vanced.app^$document
 ||ww9.fitgirl-repacks.xyz^$document
 ||wwrbbuk.bar^$document
+||wwv-fmovies.com^$document
 ||www--carsensor--net---zf564www--hunan--gov--cn.ipv6.hunan.gov.cn^$document
 ||www--cn--emb-japan--go--jp.proxy.xmmc.edu.cn^$document
 ||www--gaga--co--jp.proxy.shstvc.com.cn^$document
@@ -9564,6 +9584,7 @@
 ||yesterday-tv.com^$document
 ||yetu.tours^$document
 ||ygaero.com^$document
+||yifymovies.cx^$document
 ||yiliam86.taobao.com^$document
 ||yimmease.com^$document
 ||yjtoraim.com^$document
@@ -9883,3 +9904,48 @@
 @@||www.sayafx.top^$document
 @@||archive.today^$document
 @@||molly.im^$document
+@@||taikosim.click^$document
+@@||musicfm.vip^$document
+@@||av.av4us.sbs^$document
+@@||jp.jtube.top^$document
+@@||www.mixixxx696969.cyou^$document
+@@||loveliveallstar.top^$document
+@@||tokiwasushi.top^$document
+@@||miotele.top^$document
+@@||albus.is^$document
+@@||ossme.top^$document
+@@||maruiblog.top^$document
+@@||rept.hamakaze.top^$document
+@@||sobanomi-ikkanjin.top^$document
+@@||iwayado.toweb.top^$document
+@@||1stream.top^$document
+@@||adrules.top^$document
+@@||ambr.top^$document
+@@||asiaon.top^$document
+@@||audioforyou.top^$document
+@@||awavenue.top^$document
+@@||caitlin.top^$document
+@@||callmebymygender.top^$document
+@@||castlevania.top^$document
+@@||changlam10.top^$document
+@@||changlam11.top^$document
+@@||chillx.top^$document
+@@||corriente.top^$document
+@@||gdtot.top^$document
+@@||hostingowy.top^$document
+@@||iboxs.top^$document
+@@||magocoro.top^$document
+@@||nicenature.top^$document
+@@||passt.top^$document
+@@||pdcdn1.top^$document
+@@||polar.top^$document
+@@||pressplay.top^$document
+@@||reminder.top^$document
+@@||reyhub.top^$document
+@@||shucks.top^$document
+@@||strims.top^$document
+@@||suiten.top^$document
+@@||thedesk.top^$document
+@@||to^$document
+@@||voxel.top^$document
+@@||yggtorrent.top^$document
