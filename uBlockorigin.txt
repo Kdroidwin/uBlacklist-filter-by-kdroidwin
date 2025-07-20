@@ -1358,7 +1358,6 @@
 ||anime-kinjito.com^$document
 ||animeanime.jp/entertainment/vpn-recommend^$document
 ||animefirst.ru^$document
-||animegaphone.jp^$document
 ||animekangeki.com^$document
 ||animemiru.jp^$document
 ||animenome.jp^$document
@@ -5730,7 +5729,6 @@
 ||otomeexpert.com^$document
 ||otona-comic.com^$document
 ||otonakensaku.com^$document
-||ottoku-blog.com^$document
 ||ottoproduce.com^$document
 ||ottori-time.com^$document
 ||oucedonc.com^$document
@@ -7165,7 +7163,6 @@
 ||thetopics1010.com^$document
 ||thetote.jp^$document
 ||thetrueworshipcentrejinja.com^$document
-||thetv.jp^$document
 ||thewifi.co.jp^$document
 ||thewifi.co.jp/colum/shirayukikun^$document
 ||thewonderfulputt.com^$document
