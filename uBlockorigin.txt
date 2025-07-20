@@ -8796,7 +8796,6 @@
 ||www.narumiya-catalog.com^$document
 ||www.natsunoroot.com^$document
 ||www.navidetouelakhbar.info^$document
-||www.navitime.co.jp^$document
 ||www.nazra.net^$document
 ||www.nb-cg.me^$document
 ||www.nchtorrent.cn^$document
