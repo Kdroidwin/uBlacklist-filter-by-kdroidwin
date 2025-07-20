@@ -8700,7 +8700,6 @@
 *://www.mclarencars.cn/*
 *://www.mculnqe.cn/*
 *://www.mdia.xyz/*
-*://www.mediaclip.jp/*
 *://www.medicalzonemangohill.com.au/*
 *://www.medicellarcm.com/*
 *://www.medsci.cn/*
@@ -8806,17 +8805,13 @@
 *://www.neuron-x.co.jp/*
 *://www.newcsl.cn/*
 *://www.newlifeconstruction.co.uk/*
-*://www.news-postseven.com/*
 *://www.newsroomtransparencytracker.com/*
 *://www.newsunpia.com/*
 *://www.nhrenshou.cn/*
 *://www.nhyxmsy.cn/*
 *://www.nicigas.shop/*
 *://www.nigehbancompoundingpharmacy.com/*
-*://www.nikkan-gendai.com/*
-*://www.nikkansports.com/*
 *://www.niksonline.com/*
-*://www.nintendo.co.uk/*
 *://www.nishino-it-office.com/*
 *://www.njwanhui.com.cn/*
 *://www.nkselfdrive.com/*
@@ -8978,11 +8973,9 @@
 *://www.re2020.jp/*
 *://www.reaaancollection.com/*
 *://www.realfast-news.com/*
-*://www.rebates.jp/*
 *://www.recordchina.co.jp/*
 *://www.recordshopbase.com/*
 *://www.recycling-s.com/*
-*://www.reddit.co.uk/*
 *://www.reddyandreddy.law/*
 *://www.redrabbitracers.com/*
 *://www.refresh-nexco.jp/*
