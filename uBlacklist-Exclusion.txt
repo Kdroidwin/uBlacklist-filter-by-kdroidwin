@@ -213,9 +213,12 @@
 @*://iboxs.top/*
 @*://adrules.top/*
 @*://hostingowy.top/*
-@*://to/*
 @*://yggtorrent.top/*
 @*://asiaon.top/*
 @*://voxel.top/*
 @*://passt.top/*
 @*://polar.top/*
+@*://chinaq.fun/*
+@*://patterncraft.fun/*
+@*://strem.fun/*
+@*://expo2025.fun/*
