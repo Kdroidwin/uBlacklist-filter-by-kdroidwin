@@ -199,7 +199,6 @@
 @*://suiten.top/*
 @*://shucks.top/*
 @*://1stream.top/*
-@*://ambr.top/*
 @*://changlam10.top/*
 @*://changlam11.top/*
 @*://pdcdn1.top/*
