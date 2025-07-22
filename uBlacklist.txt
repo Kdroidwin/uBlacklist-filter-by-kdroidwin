@@ -294,7 +294,6 @@
 *://*.filkhabr.com/*
 *://*.firebaseapp.com/*
 *://*.fo/*
-*://*.fun/*
 *://*.futosoku.com/*
 *://*.fyi/*
 *://*.ga/*
@@ -332,12 +331,10 @@
 *://*.il/*
 *://*.im/*
 *://*.imasoku.com/*
-*://*.in/*
 *://*.inazumanews2.com/*
 *://*.instagram.com.vn/*
 *://*.iq/*
 *://*.ir/*
-*://*.is/*
 *://*.itainews.com/*
 *://*.jin115.com/*
 *://*.jo/*
