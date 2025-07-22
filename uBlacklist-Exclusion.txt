@@ -222,3 +222,9 @@
 @*://patterncraft.fun/*
 @*://strem.fun/*
 @*://expo2025.fun/*
+@*://buybox.click/*
+@*://popcat.click/*
+@*://popdog.click/*
+@*://qr-code.click/*
+@*://ravelin.click/*
+@*://wmg.click/*
