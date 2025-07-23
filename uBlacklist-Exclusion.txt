@@ -268,3 +268,6 @@
 @*://skin.club/*
 @*://thelemmy.club/*
 @*://hammertime.cyou/*
+@*://www.staticice.com.au/*
+@*://hammertime.cyou/*
+@*://taimanin-rpg.wikiru.jp/*
