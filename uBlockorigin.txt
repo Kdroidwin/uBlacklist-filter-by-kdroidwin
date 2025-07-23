@@ -10017,7 +10017,6 @@
 @@||strims.top^$document
 @@||suiten.top^$document
 @@||thedesk.top^$document
-@@||to^$document
 @@||voxel.top^$document
 @@||yggtorrent.top^$document
 @@||caitlin.top^$document
@@ -10067,3 +10066,4 @@
 @@||skin.club^$document
 @@||thelemmy.club^$document
 @@||hammertime.cyou^$document
+@@||taimanin-rpg.wikiru.jp$document
