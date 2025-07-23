@@ -6786,7 +6786,6 @@
 *://spottifyapk.com/*
 *://sprint1342.com/*
 *://sprucebogstudio.com/*
-*://square.site/*
 *://squashsite.world/*
 *://srcboat.fi/*
 *://ssec.shop/*
