@@ -271,3 +271,4 @@
 @*://www.staticice.com.au/*
 @*://hammertime.cyou/*
 @*://taimanin-rpg.wikiru.jp/*
+@*://mzh.moegirl.org.cn/*
