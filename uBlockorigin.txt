@@ -10186,3 +10186,13 @@
 @@||molly.im^$document
 @@||money-press.info^$document
 @@||musicfm.vip^$document
+@@||buybox.click^$document
+@@||imxyz.top^$document
+@@||mianbeian.top^$document
+@@||nfmirrorcdn.top^$document
+@@||nicenature.top^$document
+@@||passt.top^$document
+@@||taimanin-rpg.wikiru.jp$document
+@@||wiki3.xyz^$document
+@@||www.imagetotext.cc^$document
+@@||www.sayafx.top^$document
