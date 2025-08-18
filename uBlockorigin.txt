@@ -10196,3 +10196,4 @@
 @@||wiki3.xyz^$document
 @@||www.imagetotext.cc^$document
 @@||www.sayafx.top^$document
+@@||base.shop^$document
