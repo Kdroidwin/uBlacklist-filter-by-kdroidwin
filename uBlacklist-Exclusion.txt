@@ -272,3 +272,4 @@
 @*://hammertime.cyou/*
 @*://taimanin-rpg.wikiru.jp/*
 @*://mzh.moegirl.org.cn/*
+@*://*.base.shop/*
