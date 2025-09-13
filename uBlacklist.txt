@@ -1282,9 +1282,9 @@
 *://amadige.com/*
 *://amaebi.co/*
 *://amagoiruri.com/*
-*://amaninmega-club.com/*
 *://amaitime.com/*
 *://amaken.top/*
+*://amaninmega-club.com/*
 *://amanioil.com/*
 *://amberdeer6769896.com/*
 *://ameblo.jp/akiaki150/*
@@ -1306,6 +1306,7 @@
 *://ameblo.jp/mangarawzip/*
 *://ameblo.jp/moju0304/*
 *://ameblo.jp/monsukehbc*
+*://ameblo.jp/natsumikanoa1324/*
 *://ameblo.jp/nianian0401*
 *://ameblo.jp/nokoarikon/*
 *://ameblo.jp/plus2222/*
@@ -1384,6 +1385,7 @@
 *://answers.microsoft.com/*
 *://answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn/*
 *://antenatarou.warotamaker2.com/*
+*://antenna.ai-gazoukan.com/*
 *://antenna.jp/*
 *://antesquesemepase.com/*
 *://anthology.blog/*
@@ -1929,6 +1931,7 @@
 *://byp.yongjoo.za.com/*
 *://byslww.cn/*
 *://bzdiy.taobao.com/*
+*://c-clays.com/*
 *://c-edge.fashion/*
 *://c-grill.com/*
 *://c.linktech.cn/*
@@ -2150,6 +2153,7 @@
 *://cogl3d.org/*
 *://coin-media.jp/*
 *://cojiyuki.com/*
+*://cojlqcri.support/*
 *://coki.jp/*
 *://coldlab.cn/*
 *://colinux.jp/*
@@ -2266,6 +2270,7 @@
 *://cspsacademy.com/*
 *://css-diner.netlify.app/*
 *://cswinternal.osu.edu/*
+*://cszkmgb.biz/*
 *://cubesolution.pk/*
 *://cuebic.co.jp/*
 *://cuigoulai.xyz/*
@@ -2446,6 +2451,7 @@
 *://djziy.com/*
 *://dk.mos.ru/*
 *://dkmrpjcn.life/*
+*://dl-town.net/*
 *://dl20.myatro.shop/*
 *://dland-a.com/*
 *://dlmarket.jp/*
@@ -2509,10 +2515,12 @@
 *://douga-man.hatenablog.com/*
 *://douga-sabusuku.com/*
 *://dougaguild.xsrv.jp/*
+*://doujin-ai.com/*
 *://doujin-eromanga.adult-h.com/*
 *://doujin-share.com/*
 *://doujin-yakata.com/*
 *://doujin.dldlinks.com/*
+*://doujin.furukawakan.jp/*
 *://doujincco-ero.com/*
 *://doujinfree.com/*
 *://doujinnews.com/*
@@ -2607,6 +2615,7 @@
 *://ecnavi.jp/*
 *://eco-rohs.jp/*
 *://ecobulb.com/*
+*://ecodayone.com/*
 *://ecofusionpest.com/*
 *://ecogenmw.com/*
 *://ecogreensindia.info/*
@@ -2770,6 +2779,7 @@
 *://ero-ny.cfbx.jp/*
 *://ero-ny.com/*
 *://eroanimelist.com/*
+*://eroappgame.com/*
 *://eroazu.com/*
 *://erobooker.com/*
 *://erocate.com/*
@@ -2786,6 +2796,7 @@
 *://eroero-manga.net/*
 *://eroge-maso.com/*
 *://eroge.dldshare.net/*
+*://eroge.erodl.cfbx.jp/*
 *://erogetorrent2.blog.fc2.com/*
 *://eromancomi.com/*
 *://eromanga-group.com/*
@@ -2804,6 +2815,7 @@
 *://eromangapicture.com/*
 *://eromangatankendan.com/*
 *://eromangawiki.com/*
+*://eromannga.net/*
 *://eromethium365.com/*
 *://eromovie-s.com/*
 *://eronomichishirube.jp/*
@@ -2892,6 +2904,7 @@
 *://famitime.jp/*
 *://fan-rim-park.com/*
 *://fanblogs.jp/*
+*://fandane.com/*
 *://fanzonetokyo.jp/*
 *://farsisaz.com/*
 *://fashion.biglobe.ne.jp/*
@@ -3033,6 +3046,7 @@
 *://freehentaitorrent.jp/*
 *://freelife55.net/*
 *://freelifeofkite.com/*
+*://freevpn.one/*
 *://freeworkroom.com/*
 *://freiermann.com/*
 *://freshgreenxcoatl.com/*
@@ -3292,6 +3306,7 @@
 *://give-a-shot2020.com/*
 *://gj.enova.top/*
 *://gjjl.ntu.edu.cn/*
+*://gkfnyskp.run/*
 *://gkt.me/*
 *://gl.alteroffice.ru/*
 *://glaceon812.com/*
@@ -3626,6 +3641,7 @@
 *://hitomi--blog.com/*
 *://hitomi-comic.com/*
 *://hitomila.blog/*
+*://hitomiland.com/*
 *://hitononeko.com/*
 *://hitorisanfan.com/*
 *://hitoshitorendo.blog.ss-blog.jp/*
@@ -3636,6 +3652,7 @@
 *://hiyoko-music.com/*
 *://hizuki.jp/*
 *://hkdmzplus.com/*
+*://hkfnpuf.delivery/*
 *://hkmarathon.jp/*
 *://hlelrse.com/*
 *://hm.info/*
@@ -3753,6 +3770,7 @@
 *://idobata1.com/*
 *://idol-fanfare.com/*
 *://idol-fav.com/*
+*://idol-vr-mania.com/*
 *://idpssrinagar.in/*
 *://iecolle.com/*
 *://ieigsc.org/*
@@ -4205,6 +4223,7 @@
 *://kban.me/*
 *://kboard.jp/*
 *://kcsf-eco-ap.jp/*
+*://kdbtdhqm.bar/*
 *://keazikane.shop/*
 *://keeeeeke.com/*
 *://keepvid.ch/*
@@ -4248,6 +4267,7 @@
 *://kfhomr5cidf.xyz/*
 *://kgsn-sound.com/*
 *://khairpurfoods.com/*
+*://khbtbfkm.life/*
 *://khoanguyenchuong.com/*
 *://kicks-blog.com/*
 *://kiiropicks.com/*
@@ -4701,6 +4721,7 @@
 *://maaengineerhouse.com/*
 *://mabomabo00.com/*
 *://macaluminio.com/*
+*://macclear.com/*
 *://machibun.co.jp/*
 *://mackcolthomes.com/*
 *://macked.app/*
@@ -4786,6 +4807,7 @@
 *://manga-bang.com/*
 *://manga-ebookservice.com/*
 *://manga-games.com/*
+*://manga-ganma.com/*
 *://manga-heaven.net/*
 *://manga-legend.com/*
 *://manga-more.com/*
@@ -5542,11 +5564,14 @@
 *://note.com/powertanishi*
 *://note.com/q17q/*
 *://note.com/rabirabi1*
+*://note.com/ready_bison5376/*
 *://note.com/reraco/*
 *://note.com/restruct/*
 *://note.com/roshalke/*
 *://note.com/shiba_inunosuke/*
+*://note.com/shinkouya_1453/*
 *://note.com/sknet_sougou*
+*://note.com/sorakiba190107/*
 *://note.com/spiritual_taiken/*
 *://note.com/sumaho_hikaku/*
 *://note.com/tbola/*
@@ -5582,11 +5607,13 @@
 *://ns-kumaneko.com/*
 *://nsl-enter.com/*
 *://nt124-style.com/*
+*://ntfjsip.guru/*
 *://ntg-guinee.com/*
 *://ntryomimono.com/*
 *://ntvsports.jp/*
 *://nudesystems.com/*
 *://nufu.online/*
+*://nukitashi.xyzapk.com/*
 *://nukkadusa.com/*
 *://numaota.jp/*
 *://nunnun-father.hatenablog.com/*
@@ -6066,6 +6093,7 @@
 *://pswriter1129.com/*
 *://psychguidelines.com/*
 *://psychicsacredinsights.com/*
+*://ptsllxs.casa/*
 *://publicbarlive.com/*
 *://pukecco.com/*
 *://pukesbgu.treasureshotel.com/*
@@ -6084,6 +6112,7 @@
 *://qapla.com.ph/*
 *://qatchdigital.com/*
 *://qazuaqh.guru/*
+*://qiita.com/jahidulseo/*
 *://qlgreer.soisweb.uwm.edu/*
 *://qliziwo.cn/*
 *://qltone.com/*
@@ -6864,6 +6893,7 @@
 *://staseon.com/*
 *://statapk.com/*
 *://statcaremc.com/*
+*://static-revanced-net.pages.dev/*
 *://static.phimmoi.tk/*
 *://static1-gutefrage.xyz/*
 *://stayatseven.com/*
@@ -6932,6 +6962,7 @@
 *://sukyauto.com/*
 *://sumaho-okayama.com/*
 *://sumahodigest.com/*
+*://sumaholife-plus.jp/*
 *://sumahomangayomi.com/*
 *://sumika.info/*
 *://suministrostrio.com/*
@@ -7690,6 +7721,7 @@
 *://vtubermatome.com/*
 *://vtubermatomerevival.com/*
 *://vvindows.com/*
+*://vvyrvwb.studio/*
 *://vyoutuber.com/*
 *://w-methods-for-success.com/*
 *://w9y5xi8wr.onlinetanke.de/*
@@ -7804,6 +7836,7 @@
 *://winoogov.com/*
 *://wise-media-factory.com/*
 *://wizbiz.me/*
+*://wizy.jp/*
 *://wkkgq.com/*
 *://wlife.xyz/*
 *://wlrqwnp.art/*
@@ -9883,6 +9916,7 @@
 *://zwly9k6z.r.us-east-1.awstrack.me/*
 *://zx32.xyz/*
 *://zyupodotyu.com/*
+*://zzaowbey.art/*
 *://zzdusxkchhxzrbgs.com/*
 /.*(tomoyoafuta).*/
 /^https:\/\/www\.pinterest\./
