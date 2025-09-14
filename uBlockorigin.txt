@@ -92,7 +92,6 @@
 /^https?:\/\/[^\/]+\.com\.ao\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ar\/?$/$document
 /^https?:\/\/[^\/]+\.com\.at\/?$/$document
-/^https?:\/\/[^\/]+\.com\.au\/?$/$document
 /^https?:\/\/[^\/]+\.com\.az\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ba\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bb\/?$/$document
@@ -5887,6 +5886,7 @@
 ||pasinta.com^$document
 ||pasmo10.jp^$document
 ||pass.workhub.site^$document
+||pastebin.pl^$document
 ||patinajesobrehielo.org.co^$document
 ||patrainc.jp^$document
 ||patrol.ru^$document
