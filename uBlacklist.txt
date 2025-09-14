@@ -62,7 +62,6 @@
 *://*.blog.livedoor.jp/zetusoku/*
 *://*.blog.livedoor.jp/zzcj/*
 *://*.bond/*
-*://*.br/*
 *://*.brow2ing.com/*
 *://*.burusoku-vip.com/*
 *://*.cam/*
