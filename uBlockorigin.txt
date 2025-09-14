@@ -64,7 +64,6 @@
 /^https?:\/\/[^\/]+\.blog\.livedoor\.jp/zetusoku\/?$/$document
 /^https?:\/\/[^\/]+\.blog\.livedoor\.jp/zzcj\/?$/$document
 /^https?:\/\/[^\/]+\.bond\/?$/$document
-/^https?:\/\/[^\/]+\.br\/?$/$document
 /^https?:\/\/[^\/]+\.brow2ing\.com\/?$/$document
 /^https?:\/\/[^\/]+\.burusoku\-vip\.com\/?$/$document
 /^https?:\/\/[^\/]+\.cam\/?$/$document
