@@ -102,7 +102,6 @@
 /^https?:\/\/[^\/]+\.com\.bh\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bj\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bo\/?$/$document
-/^https?:\/\/[^\/]+\.com\.br\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bs\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bt\/?$/$document
 /^https?:\/\/[^\/]+\.com\.bw\/?$/$document
@@ -137,7 +136,6 @@
 /^https?:\/\/[^\/]+\.com\.gr\/?$/$document
 /^https?:\/\/[^\/]+\.com\.gt\/?$/$document
 /^https?:\/\/[^\/]+\.com\.gy\/?$/$document
-/^https?:\/\/[^\/]+\.com\.hk\/?$/$document
 /^https?:\/\/[^\/]+\.com\.hn\/?$/$document
 /^https?:\/\/[^\/]+\.com\.hr\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ht\/?$/$document
