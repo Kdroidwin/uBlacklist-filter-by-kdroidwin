@@ -89,7 +89,6 @@
 *://*.com.ao/*
 *://*.com.ar/*
 *://*.com.at/*
-*://*.com.au/*
 *://*.com.az/*
 *://*.com.ba/*
 *://*.com.bb/*
@@ -100,7 +99,6 @@
 *://*.com.bh/*
 *://*.com.bj/*
 *://*.com.bo/*
-*://*.com.br/*
 *://*.com.bs/*
 *://*.com.bt/*
 *://*.com.bw/*
@@ -135,7 +133,6 @@
 *://*.com.gr/*
 *://*.com.gt/*
 *://*.com.gy/*
-*://*.com.hk/*
 *://*.com.hn/*
 *://*.com.hr/*
 *://*.com.ht/*
