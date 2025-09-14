@@ -273,3 +273,4 @@
 @*://taimanin-rpg.wikiru.jp/*
 @*://mzh.moegirl.org.cn/*
 @*://*.base.shop/*
+@*://*.pastebin.pl/*
