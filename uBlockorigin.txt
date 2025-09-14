@@ -110,7 +110,6 @@
 /^https?:\/\/[^\/]+\.com\.ch\/?$/$document
 /^https?:\/\/[^\/]+\.com\.cl\/?$/$document
 /^https?:\/\/[^\/]+\.com\.cm\/?$/$document
-/^https?:\/\/[^\/]+\.com\.cn\/?$/$document
 /^https?:\/\/[^\/]+\.com\.co\/?$/$document
 /^https?:\/\/[^\/]+\.com\.cr\/?$/$document
 /^https?:\/\/[^\/]+\.com\.cu\/?$/$document
@@ -168,7 +167,6 @@
 /^https?:\/\/[^\/]+\.com\.mt\/?$/$document
 /^https?:\/\/[^\/]+\.com\.mu\/?$/$document
 /^https?:\/\/[^\/]+\.com\.mw\/?$/$document
-/^https?:\/\/[^\/]+\.com\.my\/?$/$document
 /^https?:\/\/[^\/]+\.com\.na\/?$/$document
 /^https?:\/\/[^\/]+\.com\.ng\/?$/$document
 /^https?:\/\/[^\/]+\.com\.no\/?$/$document
