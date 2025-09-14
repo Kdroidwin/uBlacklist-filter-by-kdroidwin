@@ -456,7 +456,6 @@
 /^https?:\/\/[^\/]+\.net\.il\/?$/$document
 /^https?:\/\/[^\/]+\.net\.in\/?$/$document
 /^https?:\/\/[^\/]+\.net\.it\/?$/$document
-/^https?:\/\/[^\/]+\.net\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.net\.kr\/?$/$document
 /^https?:\/\/[^\/]+\.net\.lk\/?$/$document
 /^https?:\/\/[^\/]+\.net\.mx\/?$/$document
