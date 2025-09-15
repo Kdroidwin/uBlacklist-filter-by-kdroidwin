@@ -31,6 +31,7 @@
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
 *://*.atlaq.com/*
+*://*.awaisora.com/*
 *://*.ayacnews2nd.com/*
 *://*.az/*
 *://*.ba/*
@@ -1557,7 +1558,6 @@
 *://avtonomka-service.online/*
 *://awadhjagaran.com/*
 *://awais-javed.com/*
-*://awaisora.com/*
 *://awards.cgmagazine.biz/*
 *://awazu-gh.jp/*
 *://awich.jp/*
