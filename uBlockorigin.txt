@@ -788,7 +788,6 @@
 /^https?:\/\/[^\/]+\.web\-dev\-qa\-db\-ja\.com\/?$/$document
 /^https?:\/\/[^\/]+\.web\-dev\-qa\.com\/?$/$document
 /^https?:\/\/[^\/]+\.web\-gaebal\-jilmun\-dabbyeon\-db\.com\/?$/$document
-/^https?:\/\/[^\/]+\.web\.app\/?$/$document
 /^https?:\/\/[^\/]+\.webdevqa\.jp\.net\/?$/$document
 /^https?:\/\/[^\/]+\.webpuroguramingu\-zhi\-wen\-ying\-dashisutemu\.com\/?$/$document
 /^https?:\/\/[^\/]+\.weeblysite\.com\/?$/$document
