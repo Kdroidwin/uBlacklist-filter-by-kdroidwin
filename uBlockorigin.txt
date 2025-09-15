@@ -417,7 +417,6 @@
 /^https?:\/\/[^\/]+\.moeeeani\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.mw\/?$/$document
 /^https?:\/\/[^\/]+\.mx\/?$/$document
-/^https?:\/\/[^\/]+\.my\/?$/$document
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.na\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
