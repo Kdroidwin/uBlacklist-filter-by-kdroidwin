@@ -413,7 +413,6 @@
 *://*.moeeeani.blog.jp/*
 *://*.mw/*
 *://*.mx/*
-*://*.my/*
 *://*.myxstalk.lol/*
 *://*.na/*
 *://*.namaejiten.com/*
