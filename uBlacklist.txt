@@ -784,7 +784,6 @@
 *://*.web-dev-qa-db-ja.com/*
 *://*.web-dev-qa.com/*
 *://*.web-gaebal-jilmun-dabbyeon-db.com/*
-*://*.web.app/*
 *://*.webdevqa.jp.net/*
 *://*.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
 *://*.weeblysite.com/*
