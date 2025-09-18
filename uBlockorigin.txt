@@ -3975,11 +3975,8 @@
 ||j-rocklove.com^$document
 ||ja-beta-reactjs-org.vercel.app^$document
 ||ja.all10soft.com^$document
-||ja.dvdfab.cn/mn4u.htm*^$document
 ||ja.miki.com^$document
-||ja.safetydetectives.com^$document
 ||ja.taiwebs.com^$document
-||ja.vpnmentor.com^$document
 ||ja.wikipedia.sky4k.top^$document
 ||ja.wizcase.com^$document
 ||jaccul.org^$document
