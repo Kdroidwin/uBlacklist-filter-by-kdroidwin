@@ -274,3 +274,10 @@
 @*://mzh.moegirl.org.cn/*
 @*://*.base.shop/*
 @*://*.pastebin.pl/*
+@*://addtocart.today/*
+@*://archive.today/*
+@*://futurology.today/*
+@*://lemmy.today/*
+@*://oldweb.today/*
+@*://type.today/*
+@*://eeo.today/*
