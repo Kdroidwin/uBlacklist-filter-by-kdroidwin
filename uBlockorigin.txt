@@ -10349,3 +10349,10 @@
 @@||xn--dbh-cj4e260f.xyz^$document
 @@||xn--dbh-cj4e260f.xyz^$document
 @@||yggtorrent.top^$document
+@@||addtocart.today^$document
+@@||archive.today^$document
+@@||futurology.today^$document
+@@||lemmy.today^$document
+@@||oldweb.today^$document
+@@||type.today^$document
+@@||eeo.today^$document
