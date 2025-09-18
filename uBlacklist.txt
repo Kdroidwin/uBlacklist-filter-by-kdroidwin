@@ -5243,7 +5243,6 @@
 *://mybouzu.info/*
 *://mycolorfulcolor.com/*
 *://myfavoritetopics.net/*
-*://myfigurecollection.net/*
 *://myfreesoft.ru/*
 *://myhomesconstruct.co.nz/*
 *://myinsta.app/*
