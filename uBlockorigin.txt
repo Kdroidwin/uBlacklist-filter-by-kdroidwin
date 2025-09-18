@@ -5270,7 +5270,6 @@
 ||mybouzu.info^$document
 ||mycolorfulcolor.com^$document
 ||myfavoritetopics.net^$document
-||myfigurecollection.net^$document
 ||myfreesoft.ru^$document
 ||myhomesconstruct.co.nz^$document
 ||myinsta.app^$document
