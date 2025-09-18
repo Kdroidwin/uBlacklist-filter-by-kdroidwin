@@ -282,3 +282,4 @@
 @*://type.today/*
 @*://eeo.today/*
 @*://yoyaku.toreta.in/*
+@*://www.catemos.xyz/*
