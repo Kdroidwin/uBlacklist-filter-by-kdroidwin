@@ -675,6 +675,7 @@
 *://*.smdcgldv.art/*
 *://*.so/*
 *://*.softmany.com/*
+*://*.softonic.*/*
 *://*.softonic.com/*
 *://*.softonic.jp/*
 *://*.soinside.com/*
