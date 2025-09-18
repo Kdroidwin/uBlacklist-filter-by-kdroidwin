@@ -281,3 +281,4 @@
 @*://oldweb.today/*
 @*://type.today/*
 @*://eeo.today/*
+@*://yoyaku.toreta.in/*
