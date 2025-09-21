@@ -308,7 +308,6 @@
 /^https?:\/\/[^\/]+\.huat\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.icrt\.cu\/?$/$document
 /^https?:\/\/[^\/]+\.icu\/?$/$document
-/^https?:\/\/[^\/]+\.id\/?$/$document
 /^https?:\/\/[^\/]+\.idol\-jolt\.com\/?$/$document
 /^https?:\/\/[^\/]+\.il\/?$/$document
 /^https?:\/\/[^\/]+\.im\/?$/$document
@@ -3149,7 +3148,6 @@
 ||game.boom-app.com^$document
 ||gameapp-labo.jp^$document
 ||gameappli555.com^$document
-||gamebiz.jp^$document
 ||gamedva.com^$document
 ||gamefabrique.com^$document
 ||gamegadget.jp^$document
