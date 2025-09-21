@@ -3774,7 +3774,6 @@
 *://igu3.com/*
 *://ihst.csd.auth.gr/*
 *://ihtiyacisoa.online/*
-*://iibc.me/*
 *://iifpindia.com/*
 *://iipxfzme.ltd/*
 *://iiro-news.com/*
