@@ -3794,7 +3794,6 @@
 ||igu3.com^$document
 ||ihst.csd.auth.gr^$document
 ||ihtiyacisoa.online^$document
-||iibc.me^$document
 ||iifpindia.com^$document
 ||iipxfzme.ltd^$document
 ||iiro-news.com^$document
