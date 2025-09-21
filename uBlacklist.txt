@@ -304,7 +304,6 @@
 *://*.huat.jp/*
 *://*.icrt.cu/*
 *://*.icu/*
-*://*.id/*
 *://*.idol-jolt.com/*
 *://*.il/*
 *://*.im/*
@@ -3133,7 +3132,6 @@
 *://game.boom-app.com/*
 *://gameapp-labo.jp/*
 *://gameappli555.com/*
-*://gamebiz.jp/*
 *://gamedva.com/*
 *://gamefabrique.com/*
 *://gamegadget.jp/*
