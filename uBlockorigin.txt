@@ -6246,7 +6246,6 @@
 ||qxlqgdx.studio^$document
 ||qy62ijjz2.benecicios-bancorrientes.online^$document
 ||r-press.su^$document
-||r18.bookwalker.jp^$document
 ||r2.community.samsung.com^$document
 ||r25.jp^$document
 ||r27kt256.r.us-east-1.awstrack.me^$document
