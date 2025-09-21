@@ -1907,7 +1907,6 @@
 ||butylfm6.thepines-melaka.com^$document
 ||buukosensei.com^$document
 ||buy-prescription-prepayment-certificate.nhsbsa.nhs.uk^$document
-||buyee.jp^$document
 ||buyjeglad.live^$document
 ||buyrealprice.com^$document
 ||buywgfer.live^$document
