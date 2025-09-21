@@ -7789,7 +7789,6 @@
 ||vermuda.jp^$document
 ||vet-sys.com^$document
 ||vfgvdfrtr7.xyz^$document
-||vgmdb.net^$document
 ||vgtimes.ru^$document
 ||vhailor.top^$document
 ||viajesjuventour.com^$document
