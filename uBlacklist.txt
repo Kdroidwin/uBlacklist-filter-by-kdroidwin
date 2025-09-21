@@ -267,7 +267,6 @@
 *://*.eg/*
 *://*.enamae.net/*
 *://*.englishconversationcoaching.hatenablog.jp/*
-*://*.es/*
 *://*.facebook.com.vn/*
 *://*.fesoku.net/*
 *://*.fileplanet.com/*
