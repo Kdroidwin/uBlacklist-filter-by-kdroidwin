@@ -271,7 +271,6 @@
 /^https?:\/\/[^\/]+\.eg\/?$/$document
 /^https?:\/\/[^\/]+\.enamae\.net\/?$/$document
 /^https?:\/\/[^\/]+\.englishconversationcoaching\.hatenablog\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.es\/?$/$document
 /^https?:\/\/[^\/]+\.facebook\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.fesoku\.net\/?$/$document
 /^https?:\/\/[^\/]+\.fileplanet\.com\/?$/$document
