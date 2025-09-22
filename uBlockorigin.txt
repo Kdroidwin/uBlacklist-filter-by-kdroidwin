@@ -1828,8 +1828,6 @@
 ||bookmate07.jp^$document
 ||books.awaisora.com^$document
 ||books.dmm-mania.com^$document
-||books.google.co.jp^$document
-||books.google.com^$document
 ||bookwiz.me^$document
 ||boqxywd.art^$document
 ||bort85185.spb.ru^$document
