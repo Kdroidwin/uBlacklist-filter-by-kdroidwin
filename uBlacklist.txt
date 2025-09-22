@@ -1818,8 +1818,6 @@
 *://bookmate07.jp/*
 *://books.awaisora.com/*
 *://books.dmm-mania.com/*
-*://books.google.co.jp/*
-*://books.google.com/*
 *://bookwiz.me/*
 *://boqxywd.art/*
 *://bort85185.spb.ru/*
