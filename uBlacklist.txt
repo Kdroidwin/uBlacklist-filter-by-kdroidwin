@@ -3266,9 +3266,7 @@
 *://github-readme-stats.vercel.app/*
 *://github.com/AbakNacchan/revanced-extended/*
 *://github.com/NoName-exe/revanced-extended*
-*://github.com/TheEpicBlock/PolyMc*
 *://github.com/revanced-apks/build-apps/*
-*://github.com/vaginessa/savertuner*
 *://github.heheda.top/*
 *://github.me/*
 *://github.net.cn/*
