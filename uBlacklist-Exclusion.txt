@@ -283,3 +283,4 @@
 @*://eeo.today/*
 @*://yoyaku.toreta.in/*
 @*://www.catemos.xyz/*
+@*://www.steamcardexchange.net/*
