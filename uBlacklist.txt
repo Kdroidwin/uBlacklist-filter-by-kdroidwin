@@ -8487,7 +8487,6 @@
 *://www.gacopy.ru/*
 *://www.gadgetskool.com/*
 *://www.gainamatsuri.jp/*
-*://www.game-ost.com/*
 *://www.gameapkz.com/*
 *://www.gamegadget.jp/*
 *://www.gameloop.com/*
