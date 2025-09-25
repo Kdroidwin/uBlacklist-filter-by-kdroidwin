@@ -284,3 +284,13 @@
 @*://yoyaku.toreta.in/*
 @*://www.catemos.xyz/*
 @*://www.steamcardexchange.net/*
+@*://u.today/*
+@*://rakuten.today/*
+@*://todo.today/*
+@*://kitto.today/*
+@*://salt.today/*
+@*://366.today/*
+@*://fooddiversity.today/*
+@*://semicon.today/*
+@*://www.wheretogo.today/*
+@*://fklab.today/*
