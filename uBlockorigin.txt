@@ -3283,8 +3283,6 @@
 ||github.com/AbakNacchan/revanced-extended^$document
 ||github.com/NoName-exe/revanced-extended*^$document
 ||github.com/revanced-apks/build-apps^$document
-||github.com/TheEpicBlock/PolyMc*^$document
-||github.com/vaginessa/savertuner*^$document
 ||github.heheda.top^$document
 ||github.me^$document
 ||github.net.cn^$document
