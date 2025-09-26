@@ -100,7 +100,3 @@ URLの追加やミスの削除に協力していだける方は、レポジト�
 issueでも構いません。
 
 Githubアカウントを持っていない方はTwitterもしくは[こちら](https://tally.so/r/wA5brD)からお願いします。
-
-# 補足
-Kiwi browserでDuckDuckGo、SearXNGが使えない問題を修正
-[uBlacklist for Kiwi (mod)](https://github.com/Kdroidwin/ublacklist)
