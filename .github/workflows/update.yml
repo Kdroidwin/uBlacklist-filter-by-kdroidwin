@@ -27,6 +27,7 @@ jobs:
         run: |
           python - <<'EOF'
           import os
+          import re
 
           # --- uBlacklist.txt の読み込み ---
           ublack_path = "uBlacklist.txt"
@@ -36,7 +37,7 @@ jobs:
           # 重複削除・ソート
           ublack_unique = sorted(set(ublack_lines))
 
-          # --- 新規行を uBlock Origin 形式に変換 ---
+          # --- uBlock Origin 形式に変換 ---
           ublockorigin_path = "uBlockorigin.txt"
           ublock_lines = []
           if os.path.exists(ublockorigin_path):
@@ -45,8 +46,16 @@ jobs:
 
           new_lines = []
           for line in ublack_unique:
-              if line.startswith("*://") and line.endswith("/*"):
-                  domain = line[4:-2]  # *:// と /* を削除
+              if line.startswith("*://*.") and line.endswith("/*"):
+                  # ワイルドカード付き → 正規表現形式
+                  pattern = line[5:-2]  # *://*. と /* を削除
+                  pattern = re.escape(pattern)
+                  ublock_line = f"/^https?:\/\/[^\/]+\.{pattern}\/?$/$document"
+                  if ublock_line not in ublock_lines:
+                      new_lines.append(ublock_line)
+              elif line.startswith("*://") and line.endswith("/*"):
+                  # 通常形式
+                  domain = line[4:-2]
                   ublock_line = f"||{domain}^$document"
                   if ublock_line not in ublock_lines:
                       new_lines.append(ublock_line)
