@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://pokemon-matome.net/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
@@ -6102,6 +6101,7 @@
 *://poke-m.com/*
 *://poke0418hobbyblog.com/*
 *://pokebras.jp/*
+*://pokemon-matome.net/*
 *://pokmon-tcg-pocket-mod.latestmodapks.com/*
 *://polarusso.com/*
 *://polimats.com/*
