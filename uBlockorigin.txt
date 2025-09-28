@@ -2814,6 +2814,7 @@
 ||ceoraas.com^$document
 ||cercafrasifacebook.altervista.org^$document
 ||cereb-ron.com^$document
+||cerebron.com^$document
 ||certification.stg-labbase.site^$document
 ||cervezahelse.com^$document
 ||cetco.marinafrozen.com^$document

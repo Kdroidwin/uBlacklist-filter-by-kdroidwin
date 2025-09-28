@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
-*://cerebron.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -1990,6 +1989,7 @@
 *://ceoraas.com/*
 *://cercafrasifacebook.altervista.org/*
 *://cereb-ron.com/*
+*://cerebron.com/*
 *://certification.stg-labbase.site/*
 *://cervezahelse.com/*
 *://cetco.marinafrozen.com/*
