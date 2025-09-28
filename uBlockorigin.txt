@@ -1,6 +1,5 @@
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
-||hapinyan.com^$document
 /^https?:\/\/[^\/]+\.000webhostapp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.2chcopipe\.com\/?$/$document
 /^https?:\/\/[^\/]+\.a3erf\.com\/?$/$document
@@ -3508,6 +3507,7 @@
 ||hapi-mama.blog^$document
 ||hapicys.com^$document
 ||hapiee.com^$document
+||hapinyan.com^$document
 ||happinesswords.com^$document
 ||happy-aya-show.org^$document
 ||happy-day.watish.xyz^$document
