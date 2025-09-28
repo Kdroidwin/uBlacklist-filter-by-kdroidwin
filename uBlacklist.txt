@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://*.ag/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
