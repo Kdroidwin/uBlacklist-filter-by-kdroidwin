@@ -1,6 +1,3 @@
-||diysoy.hatenablog.com^$document
-||daily-goods.rank-king.jp^$document
-||wzz.co.jp^$document
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
 /^https?:\/\/[^\/]+\.000webhostapp\.com\/?$/$document
@@ -2314,6 +2311,7 @@
 ||daikanyama-tokyo.com^$document
 ||daiki-global.work^$document
 ||daiki33j.com^$document
+||daily-goods.rank-king.jp^$document
 ||daily-necessities.net^$document
 ||daily-tips-library.com^$document
 ||daily-trendy.com^$document
@@ -2454,6 +2452,7 @@
 ||distrec.cruchi.com^$document
 ||diversepopulationand.nczx4.com^$document
 ||diversity-for-peace.com^$document
+||diysoy.hatenablog.com^$document
 ||djewelonline.com^$document
 ||djziy.com^$document
 ||dk.mos.ru^$document
@@ -9710,6 +9709,7 @@
 ||www5.japex.ru^$document
 ||wwwjp.jorudan.com.cn^$document
 ||wyiiden.com^$document
+||wzz.co.jp^$document
 ||x-border.co.jp^$document
 ||x.com/comic_checker*^$document
 ||x.com/indiegogojp*^$document
