@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
-*://hapinyan.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -3491,6 +3490,7 @@
 *://hapi-mama.blog/*
 *://hapicys.com/*
 *://hapiee.com/*
+*://hapinyan.com/*
 *://happinesswords.com/*
 *://happy-aya-show.org/*
 *://happy-day.watish.xyz/*
