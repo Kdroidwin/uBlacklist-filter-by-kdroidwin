@@ -1,6 +1,3 @@
-*://diysoy.hatenablog.com/*
-*://daily-goods.rank-king.jp/*
-*://wzz.co.jp/*
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
@@ -2302,6 +2299,7 @@
 *://daikanyama-tokyo.com/*
 *://daiki-global.work/*
 *://daiki33j.com/*
+*://daily-goods.rank-king.jp/*
 *://daily-necessities.net/*
 *://daily-tips-library.com/*
 *://daily-trendy.com/*
@@ -2441,6 +2439,7 @@
 *://distrec.cruchi.com/*
 *://diversepopulationand.nczx4.com/*
 *://diversity-for-peace.com/*
+*://diysoy.hatenablog.com/*
 *://djewelonline.com/*
 *://djziy.com/*
 *://dk.mos.ru/*
@@ -9639,6 +9638,7 @@
 *://www5.japex.ru/*
 *://wwwjp.jorudan.com.cn/*
 *://wyiiden.com/*
+*://wzz.co.jp/*
 *://x-border.co.jp/*
 *://x.com/comic_checker*
 *://x.com/indiegogojp*
