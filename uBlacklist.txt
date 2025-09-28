@@ -1,5 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
+*://hapinyan.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
