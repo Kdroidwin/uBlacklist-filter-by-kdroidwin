@@ -10,26 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # リポジトリをチェックアウト
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      # Python 環境セットアップ
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      # スクリプト実行
       - name: Run update script
         run: |
           python - <<'EOF'
           import os
           import re
 
-          # --- uBlacklist.txt の読み込み ---
           ublack_path = "uBlacklist.txt"
           with open(ublack_path, "r", encoding="utf-8") as f:
               ublack_lines = [line.strip() for line in f if line.strip()]
@@ -37,7 +33,6 @@ jobs:
           # 重複削除・ソート
           ublack_unique = sorted(set(ublack_lines))
 
-          # --- uBlock Origin 形式に変換 ---
           ublockorigin_path = "uBlockorigin.txt"
           ublock_lines = []
           if os.path.exists(ublockorigin_path):
@@ -48,9 +43,11 @@ jobs:
           for line in ublack_unique:
               if line.startswith("*://*.") and line.endswith("/*"):
                   # ワイルドカード付き → 正規表現形式
-                  pattern = line[5:-2]  # *://*. と /* を削除
-                  pattern = re.escape(pattern)
-                  ublock_line = f"/^https?:\/\/[^\/]+\.{pattern}\/?$/$document"
+                  domain = line[5:-2]  # *://*. と /* を削除
+                  # ドットを1つだけに置換して正規表現化
+                  domain = re.sub(r'\.+', '.', domain)
+                  domain = re.escape(domain)
+                  ublock_line = f"/^https?:\/\/[^\/]+\.{domain}\/?$/$document"
                   if ublock_line not in ublock_lines:
                       new_lines.append(ublock_line)
               elif line.startswith("*://") and line.endswith("/*"):
@@ -89,7 +86,6 @@ jobs:
           rules.sort(key=lambda x: x.lower())
           exceptions.sort(key=lambda x: x.lower())
 
-          # 最終構成
           final_lines = []
           final_lines.extend(title_comments)
           final_lines.extend(homepage_comments)
@@ -110,7 +106,6 @@ jobs:
           print("uBlacklist.txt と uBlockorigin.txt を更新しました。")
           EOF
 
-      # commit & push
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
