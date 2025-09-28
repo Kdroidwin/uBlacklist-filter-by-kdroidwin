@@ -8,6 +8,7 @@
 /^https?:\/\/[^\/]+\.\.ac\.id\/?$/$document
 /^https?:\/\/[^\/]+\.\.ac\.in\/?$/$document
 /^https?:\/\/[^\/]+\.\.ac\.uk\/?$/$document
+/^https?:\/\/[^\/]+\.\.ad\.in\/?$/$document
 /^https?:\/\/[^\/]+\.\.ad\/?$/$document
 /^https?:\/\/[^\/]+\.\.adobe\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.\.ae\/?$/$document

@@ -1,11 +1,10 @@
 *://*.000webhostapp.com/*
-*://pokemon-matome.net/*
-*://*.ad.in/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
 *://*.ac.uk/*
+*://*.ad.in/*
 *://*.ad/*
 *://*.adobe.com.vn/*
 *://*.ae/*
@@ -6103,6 +6102,7 @@
 *://poke-m.com/*
 *://poke0418hobbyblog.com/*
 *://pokebras.jp/*
+*://pokemon-matome.net/*
 *://pokmon-tcg-pocket-mod.latestmodapks.com/*
 *://polarusso.com/*
 *://polimats.com/*
