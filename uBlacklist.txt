@@ -28,9 +28,9 @@
 *://*.apple.com.nnns/*
 *://*.apple.com.vn/*
 *://*.ar/*
+*://*.arashf/*
 *://*.art-vision.jp/*
 *://*.ashfuf/*
-*://*.asia/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
 *://*.atlaq.com/*
