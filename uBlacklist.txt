@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://pokemon-matome.net/*
+*://*.ad.in/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
