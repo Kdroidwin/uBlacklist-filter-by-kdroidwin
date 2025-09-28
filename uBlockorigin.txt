@@ -13,6 +13,7 @@
 /^https?:\/\/[^\/]+\.\.adobe\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.\.ae\/?$/$document
 /^https?:\/\/[^\/]+\.\.af\/?$/$document
+/^https?:\/\/[^\/]+\.\.ag\/?$/$document
 /^https?:\/\/[^\/]+\.\.agency\/?$/$document
 /^https?:\/\/[^\/]+\.\.ahh1008\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.\.aiarty\.com\/?$/$document
