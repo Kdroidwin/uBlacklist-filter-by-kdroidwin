@@ -1849,6 +1849,7 @@
 ||boyard-str.ru^$document
 ||boycott-hub.com^$document
 ||bp-guide.jp^$document
+||bp-platinum.com^$document
 ||bpass-crepe.takashima-city.jp^$document
 ||bpbr.ai-li.xyz^$document
 ||bq2ldnzzl.nordic-walking-schule-brita-becker.de^$document

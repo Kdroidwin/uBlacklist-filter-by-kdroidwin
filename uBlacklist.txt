@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://bp-platinum.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
@@ -1843,6 +1842,7 @@
 *://boyard-str.ru/*
 *://boycott-hub.com/*
 *://bp-guide.jp/*
+*://bp-platinum.com/*
 *://bpass-crepe.takashima-city.jp/*
 *://bpbr.ai-li.xyz/*
 *://bq2ldnzzl.nordic-walking-schule-brita-becker.de/*
