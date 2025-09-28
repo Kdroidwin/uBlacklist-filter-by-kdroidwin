@@ -6101,7 +6101,6 @@
 *://poke-m.com/*
 *://poke0418hobbyblog.com/*
 *://pokebras.jp/*
-*://pokemon-matome.net/*
 *://pokmon-tcg-pocket-mod.latestmodapks.com/*
 *://polarusso.com/*
 *://polimats.com/*
