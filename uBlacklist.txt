@@ -3,7 +3,6 @@
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
-*://*.ac.uk/*
 *://*.ad.in/*
 *://*.ad/*
 *://*.adobe.com.vn/*
@@ -27,6 +26,7 @@
 *://*.apk.dog/*
 *://*.apktodo.io/*
 *://*.apple.com.vn/*
+*://*.apple.com.vnn/*
 *://*.ar/*
 *://*.art-vision.jp/*
 *://*.ashfuf/*
