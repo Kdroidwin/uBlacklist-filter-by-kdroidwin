@@ -26,7 +26,7 @@
 *://*.apk.dog/*
 *://*.apktodo.io/*
 *://*.apple.com.vn/*
-*://*.apple.com.vnn/*
+*://*.apple.com.vnns/*
 *://*.ar/*
 *://*.art-vision.jp/*
 *://*.ashfuf/*
