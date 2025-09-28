@@ -1,6 +1,5 @@
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
-||momed.work^$document
 /^https?:\/\/[^\/]+\.000webhostapp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.2chcopipe\.com\/?$/$document
 /^https?:\/\/[^\/]+\.a3erf\.com\/?$/$document
@@ -5172,6 +5171,7 @@
 ||mollymam.com^$document
 ||molto15z.sarangkkb.com^$document
 ||molulabo.com^$document
+||momed.work^$document
 ||mommy-kitchen.com^$document
 ||momo-admin.net^$document
 ||momoka20200214-www-softbank-jp.ariyasumomoka.org^$document
