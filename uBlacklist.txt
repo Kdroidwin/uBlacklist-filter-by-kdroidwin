@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
-*://exmple.cn/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -2872,6 +2871,7 @@
 *://exhearts.com/*
 *://exileds1.planettravel.com.uy/*
 *://exmachina4649.com/*
+*://exmple.cn/*
 *://exploring4ever.com/*
 *://expomap.ru/*
 *://expressbox.nl/*

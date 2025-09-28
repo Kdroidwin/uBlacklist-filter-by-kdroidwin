@@ -2884,6 +2884,7 @@
 ||exhearts.com^$document
 ||exileds1.planettravel.com.uy^$document
 ||exmachina4649.com^$document
+||exmple.cn^$document
 ||exploring4ever.com^$document
 ||expomap.ru^$document
 ||expressbox.nl^$document
