@@ -1,0 +1,111 @@
+name: Update uBlockorigin.txt from uBlacklist.txt
+
+on:
+  push:
+    paths:
+      - "uBlacklist.txt"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # リポジトリをチェックアウト
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      # Python セットアップ
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # uBlacklist.txt を未ソート状態で読み取り、uBlockorigin.txt を生成
+      - name: Generate uBlockorigin.txt from raw uBlacklist.txt
+        run: |
+          python - <<'EOF'
+          blacklist_path = "uBlacklist.txt"
+          ublock_path = "uBlockorigin.txt"
+
+          # 未ソート状態の uBlacklist.txt を読み込む
+          with open(blacklist_path, "r", encoding="utf-8") as f:
+              lines = [line.rstrip("\n") for line in f if line.strip()]
+
+          # URL 変換 + コメント分類 + 並び替え
+          title_comments = []
+          homepage_comments = []
+          other_comments = []
+          exclude_comment = []
+          rules = []
+          exceptions = []
+
+          for line in lines:
+              # *://.../* → ||...^$document 形式に変換
+              if line.startswith("*://"):
+                  domain = line.split("://")[1].rstrip("/*")
+                  line = f"||{domain}^$document"
+
+              # コメント・ルール分類
+              if line.startswith("! Title:"):
+                  title_comments.append(line)
+              elif line.startswith("! Homepage:"):
+                  homepage_comments.append(line)
+              elif line.startswith("! 除外"):
+                  exclude_comment.append(line)
+              elif line.startswith("!"):
+                  other_comments.append(line)
+              elif line.startswith("@@"):
+                  exceptions.append(line)
+              else:
+                  rules.append(line)
+
+          # ルールと例外をアルファベット順にソート（大文字小文字無視）
+          rules.sort(key=lambda x: x.lower())
+          exceptions.sort(key=lambda x: x.lower())
+
+          # 最終的な行順序を構築
+          final_lines = []
+          final_lines.extend(title_comments)
+          final_lines.extend(homepage_comments)
+          final_lines.extend(other_comments)
+          final_lines.extend(rules)
+          if exclude_comment:
+              final_lines.extend(exclude_comment)
+          final_lines.extend(exceptions)
+
+          # ファイル書き込み
+          with open(ublock_path, "w", encoding="utf-8") as f:
+              f.write("\n".join(final_lines) + "\n")
+
+          print("uBlockorigin.txt の生成完了:", ublock_path)
+          EOF
+
+      # uBlacklist.txt を重複削除＋アルファベット順にソート
+      - name: Sort uBlacklist.txt (remove duplicates + sort)
+        run: |
+          python - <<'EOF'
+          file_path = "uBlacklist.txt"
+
+          with open(file_path, "r", encoding="utf-8") as f:
+              lines = [line.strip() for line in f if line.strip()]
+
+          unique_sorted_lines = sorted(set(lines))
+
+          with open(file_path, "w", encoding="utf-8") as f:
+              f.write("\n".join(unique_sorted_lines) + "\n")
+
+          print("uBlacklist.txt の並び替え完了:", file_path)
+          EOF
+
+      # 変更をコミットして push
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add uBlockorigin.txt uBlacklist.txt
+          git diff --cached --quiet || git commit -m "Auto-update uBlockorigin.txt and sort uBlacklist.txt"
+          git push
