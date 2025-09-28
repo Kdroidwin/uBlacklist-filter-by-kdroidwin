@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
-*://5chmm.jp/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -960,6 +959,7 @@
 *://5865926.slot15.online/*
 *://596san.com/*
 *://597049310nov22.xn----7sbagngtnl2awfsm0m.xn--p1ai/*
+*://5chmm.jp/*
 *://5drdzhz.cn/*
 *://5e9aa03810fbf7-staging-kaigishitu.g.kuroco-front.app/*
 *://5jhbaj6fe.adrianodosanjos.de/*
