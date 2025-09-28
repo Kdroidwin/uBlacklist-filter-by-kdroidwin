@@ -1594,7 +1594,6 @@
 *://azukisanchi.xsrv.jp/*
 *://b-corsairs.bl.kuroco-img.app/*
 *://b-us.liuhe36.cn/*
-*://b.hatena.ne.jp/*
 *://b1a4fc.jp/*
 *://b2b.bohrer.ru/*
 *://b2bherbs.com/*
