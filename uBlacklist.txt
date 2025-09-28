@@ -1,5 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
+*://exmple.cn/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -28,7 +29,6 @@
 *://*.apple.com.nnns/*
 *://*.apple.com.vn/*
 *://*.ar/*
-*://*.arashf/*
 *://*.art-vision.jp/*
 *://*.ashfuf/*
 *://*.asterisk0.jp/*
