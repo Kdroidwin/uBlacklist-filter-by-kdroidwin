@@ -1,4 +1,5 @@
 name: Update uBlockorigin.txt & uBlacklist.txt
+
 on:
   push:
     paths:
@@ -22,84 +23,44 @@ jobs:
         run: |
           python - <<'EOF'
           import os
-          import re
 
           ublack_path = "uBlacklist.txt"
+          ublockorigin_path = "uBlockorigin.txt"
+
+          # uBlacklist.txt 読み込み
           with open(ublack_path, "r", encoding="utf-8") as f:
               ublack_lines = [line.strip() for line in f if line.strip()]
 
           # 重複削除・ソート
           ublack_unique = sorted(set(ublack_lines))
 
-          ublockorigin_path = "uBlockorigin.txt"
+          # uBlockorigin.txt 読み込み（あれば）
           ublock_lines = []
           if os.path.exists(ublockorigin_path):
               with open(ublockorigin_path, "r", encoding="utf-8") as f:
-                  ublock_lines = [line.rstrip("\n") for line in f]
+                  ublock_lines = [line.strip() for line in f if line.strip()]
 
+          # *://*. は無視、*://domain/* だけ変換
           new_lines = []
           for line in ublack_unique:
-              if line.startswith("*://*.") and line.endswith("/*"):
-                  # ワイルドカード付き → 正規表現形式
-                  domain = line[5:-2]  # *://*. と /* を削除
-                  domain = re.sub(r'\.+', '.', domain)  # 連続ドットを1つに
-                  domain_escaped = re.escape(domain)  # ここでエスケープ
-                  ublock_line = f"/^https?:\/\/[^\/]+\.{domain_escaped}\/?$/$document"
-                  if ublock_line not in ublock_lines:
-                      new_lines.append(ublock_line)
+              if line.startswith("*://*."):
+                  continue  # 無視
               elif line.startswith("*://") and line.endswith("/*"):
-                  # 通常形式
-                  domain = line[4:-2]
+                  domain = line[4:-2]  # *:// と /* を削除
                   ublock_line = f"||{domain}^$document"
                   if ublock_line not in ublock_lines:
                       new_lines.append(ublock_line)
 
-          # uBlockorigin.txt に追加
           ublock_lines.extend(new_lines)
-
-          # コメントとルールを分類
-          title_comments = []
-          homepage_comments = []
-          other_comments = []
-          exclude_comment = []
-          rules = []
-          exceptions = []
-
-          for line in ublock_lines:
-              if line.startswith("! Title:"):
-                  title_comments.append(line)
-              elif line.startswith("! Homepage:"):
-                  homepage_comments.append(line)
-              elif line.startswith("! 除外"):
-                  exclude_comment.append(line)
-              elif line.startswith("!"):
-                  other_comments.append(line)
-              elif line.startswith("@@"):
-                  exceptions.append(line)
-              else:
-                  rules.append(line)
-
-          # rules と exceptions をアルファベット順にソート
-          rules.sort(key=lambda x: x.lower())
-          exceptions.sort(key=lambda x: x.lower())
-
-          # 最終構成
-          final_lines = []
-          final_lines.extend(title_comments)
-          final_lines.extend(homepage_comments)
-          final_lines.extend(other_comments)
-          final_lines.extend(rules)
-          if exclude_comment:
-              final_lines.extend(exclude_comment)
-          final_lines.extend(exceptions)
+          ublock_lines = sorted(set(ublock_lines), key=lambda x: x.lower())
 
           # 上書き保存
           with open(ublockorigin_path, "w", encoding="utf-8") as f:
-              f.write("\n".join(final_lines) + "\n")
+              f.write("\n".join(ublock_lines) + "\n")
 
-          # uBlacklist.txt 上書き（重複削除＋アルファベット順）
+          # uBlacklist.txt も上書き
           with open(ublack_path, "w", encoding="utf-8") as f:
-              f.write("\n".join(ublack_unique) + "\n")
+              f.write("\n".join(uBlacklist_lines) + "\n")
 
           print("uBlacklist.txt と uBlockorigin.txt を更新しました。")
           EOF
