@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://momed.work/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
@@ -5149,6 +5148,7 @@
 *://mollymam.com/*
 *://molto15z.sarangkkb.com/*
 *://molulabo.com/*
+*://momed.work/*
 *://mommy-kitchen.com/*
 *://momo-admin.net/*
 *://momoka20200214-www-softbank-jp.ariyasumomoka.org/*
