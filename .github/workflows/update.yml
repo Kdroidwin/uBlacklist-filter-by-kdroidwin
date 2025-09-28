@@ -1,5 +1,4 @@
 name: Update uBlockorigin.txt & uBlacklist.txt
-
 on:
   push:
     paths:
@@ -8,21 +7,17 @@ on:
 jobs:
   update-files:
     runs-on: ubuntu-latest
-
     steps:
-      # リポジトリをチェックアウト
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      # Python 環境セットアップ
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      # スクリプト実行
       - name: Run update script
         run: |
           python - <<'EOF'
@@ -47,10 +42,9 @@ jobs:
               if line.startswith("*://*.") and line.endswith("/*"):
                   # ワイルドカード付き → 正規表現形式
                   domain = line[5:-2]  # *://*. と /* を削除
-                  # 連続するドットを1つに修正
-                  domain = re.sub(r'\.+', '.', domain)
-                  domain = re.escape(domain)
-                  ublock_line = f"/^https?:\/\/[^\/]+\.{domain}\/?$/$document"
+                  domain = re.sub(r'\.+', '.', domain)  # 連続ドットを1つに
+                  domain_escaped = re.escape(domain)  # ここでエスケープ
+                  ublock_line = f"/^https?:\/\/[^\/]+\.{domain_escaped}\/?$/$document"
                   if ublock_line not in ublock_lines:
                       new_lines.append(ublock_line)
               elif line.startswith("*://") and line.endswith("/*"):
@@ -110,7 +104,6 @@ jobs:
           print("uBlacklist.txt と uBlockorigin.txt を更新しました。")
           EOF
 
-      # commit & push
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
