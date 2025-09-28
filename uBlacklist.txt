@@ -25,8 +25,8 @@
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
 *://*.apktodo.io/*
-*://*.apple.com.vn/*
 *://*.apple.com.nnns/*
+*://*.apple.com.vn/*
 *://*.ar/*
 *://*.art-vision.jp/*
 *://*.ashfuf/*
