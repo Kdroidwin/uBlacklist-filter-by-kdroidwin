@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://cereb-ron.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
