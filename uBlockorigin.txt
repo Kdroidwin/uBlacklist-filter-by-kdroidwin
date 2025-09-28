@@ -7273,6 +7273,7 @@
 ||revancedyoutube.org^$document
 ||revencedextended.bio.link^$document
 ||revengers115.com^$document
+||review-we126.com^$document
 ||revistasaga.org^$document
 ||rhc-web-app.vercel.app^$document
 ||rhino3d.online^$document

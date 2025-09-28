@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
-*://review-we126.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -6409,6 +6408,7 @@
 *://revancedyoutube.org/*
 *://revencedextended.bio.link/*
 *://revengers115.com/*
+*://review-we126.com/*
 *://revistasaga.org/*
 *://rhc-web-app.vercel.app/*
 *://rhino3d.online/*
