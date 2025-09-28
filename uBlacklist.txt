@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://*.ashfuf/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
@@ -30,6 +29,7 @@
 *://*.apple.com.vn/*
 *://*.ar/*
 *://*.art-vision.jp/*
+*://*.ashfuf/*
 *://*.asia/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
