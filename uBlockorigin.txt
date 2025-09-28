@@ -1,3 +1,6 @@
+||diysoy.hatenablog.com^$document
+||daily-goods.rank-king.jp^$document
+||wzz.co.jp^$document
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
 /^https?:\/\/[^\/]+\.000webhostapp\.com\/?$/$document
