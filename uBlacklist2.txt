@@ -22,6 +22,7 @@
 *://*.gizmodo.jp/*
 *://*.lifehacker.jp/*
 *://kunitohyouban.com/*
+*://b.hatena.ne.jp/*
 title/100%正規品/
 title/スーパー激安/
 title/完全正規品/
