@@ -10,16 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # リポジトリをチェックアウト
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
 
+      # Python 環境セットアップ
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
+      # スクリプト実行
       - name: Run update script
         run: |
           python - <<'EOF'
@@ -44,7 +47,7 @@ jobs:
               if line.startswith("*://*.") and line.endswith("/*"):
                   # ワイルドカード付き → 正規表現形式
                   domain = line[5:-2]  # *://*. と /* を削除
-                  # ドットを1つだけに置換して正規表現化
+                  # 連続するドットを1つに修正
                   domain = re.sub(r'\.+', '.', domain)
                   domain = re.escape(domain)
                   ublock_line = f"/^https?:\/\/[^\/]+\.{domain}\/?$/$document"
@@ -86,6 +89,7 @@ jobs:
           rules.sort(key=lambda x: x.lower())
           exceptions.sort(key=lambda x: x.lower())
 
+          # 最終構成
           final_lines = []
           final_lines.extend(title_comments)
           final_lines.extend(homepage_comments)
@@ -106,6 +110,7 @@ jobs:
           print("uBlacklist.txt と uBlockorigin.txt を更新しました。")
           EOF
 
+      # commit & push
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
