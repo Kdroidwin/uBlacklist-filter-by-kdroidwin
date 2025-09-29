@@ -1,9 +1,4 @@
 *://*.000webhostapp.com/*
-*://note.com/pixel8a9/*
-*://gadget-choice.net/*
-*://simkids.jp/*
-*://raredoramas.info/*
-*://note.com/clean_sage687/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
@@ -3149,6 +3144,7 @@
 *://g2mo30u9g.birralafirm.it/*
 *://gadgeski.hatenablog.com/*
 *://gadget-app.com/*
+*://gadget-choice.net/*
 *://gaffriggauge.com/*
 *://gaikotsumatsuri.com/*
 *://gaito666.blog.fc2.com/*
@@ -5569,6 +5565,7 @@
 *://note.com/brave_borage2759/*
 *://note.com/bright_llama373/*
 *://note.com/clean_echium264/*
+*://note.com/clean_sage687/*
 *://note.com/clear_coot175/*
 *://note.com/cream_corone/*
 *://note.com/crisp_avocet516/*
@@ -5637,6 +5634,7 @@
 *://note.com/orisusarusan/*
 *://note.com/outdoorlifestyle/*
 *://note.com/pet_supply/*
+*://note.com/pixel8a9/*
 *://note.com/planetofgori/*
 *://note.com/poppson/*
 *://note.com/powertanishi*
@@ -6285,6 +6283,7 @@
 *://rapportsecurity.com/*
 *://rarbg.to/*
 *://rarecenter.org/*
+*://raredoramas.info/*
 *://rargb.to/*
 *://rassry.com/*
 *://ratio.thyshopp.life/*
@@ -6826,6 +6825,7 @@
 *://sikiroom.com/*
 *://silkenfeline.com/*
 *://sim-studio-unify.com/*
+*://simkids.jp/*
 *://simple-coordinate-blog.com/*
 *://simpletodo-f1a7d.web.app/*
 *://simplisse.shop/*

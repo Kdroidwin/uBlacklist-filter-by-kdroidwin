@@ -3157,6 +3157,7 @@
 ||g2mo30u9g.birralafirm.it^$document
 ||gadgeski.hatenablog.com^$document
 ||gadget-app.com^$document
+||gadget-choice.net^$document
 ||gaffriggauge.com^$document
 ||gaikotsumatsuri.com^$document
 ||gaito666.blog.fc2.com^$document
@@ -5590,6 +5591,7 @@
 ||note.com/bright_llama373^$document
 ||note.com/bright_llama373^$document
 ||note.com/clean_echium264^$document
+||note.com/clean_sage687^$document
 ||note.com/clear_coot175^$document
 ||note.com/cream_corone^$document
 ||note.com/crisp_avocet516^$document
@@ -5666,6 +5668,7 @@
 ||note.com/orisusarusan^$document
 ||note.com/outdoorlifestyle^$document
 ||note.com/pet_supply^$document
+||note.com/pixel8a9^$document
 ||note.com/planetofgori^$document
 ||note.com/poppson^$document
 ||note.com/powertanishi*^$document
@@ -6328,6 +6331,7 @@
 ||rapportsecurity.com^$document
 ||rarbg.to^$document
 ||rarecenter.org^$document
+||raredoramas.info^$document
 ||rargb.to^$document
 ||rassry.com^$document
 ||ratio.thyshopp.life^$document
@@ -6877,6 +6881,7 @@
 ||silkenfeline.com^$document
 ||sim-studio-unify.com^$document
 ||simeji.me^$document
+||simkids.jp^$document
 ||simple-coordinate-blog.com^$document
 ||simpletodo-f1a7d.web.app^$document
 ||simplisse.shop^$document
