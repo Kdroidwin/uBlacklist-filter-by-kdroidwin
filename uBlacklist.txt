@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
+*://note.com/startupm/*
+*://anatato.jp/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
