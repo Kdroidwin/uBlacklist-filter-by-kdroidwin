@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
-*://note.com/startupm/*
-*://anatato.jp/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -1313,6 +1311,7 @@
 *://analogkaka.com/*
 *://analytics.slot47.online/*
 *://ananta-systems.com/*
+*://anatato.jp/*
 *://and-ace.com/*
 *://anderbot.com/*
 *://andoroidoi.spaziotecnoweb.com/*
@@ -5661,6 +5660,7 @@
 *://note.com/sknet_sougou*
 *://note.com/sorakiba190107/*
 *://note.com/spiritual_taiken/*
+*://note.com/startupm/*
 *://note.com/sumaho_hikaku/*
 *://note.com/super_whale223/*
 *://note.com/super_whale4189/*

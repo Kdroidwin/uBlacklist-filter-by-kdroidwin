@@ -1315,6 +1315,7 @@
 ||analogkaka.com^$document
 ||analytics.slot47.online^$document
 ||ananta-systems.com^$document
+||anatato.jp^$document
 ||and-ace.com^$document
 ||anderbot.com^$document
 ||andoroidoi.spaziotecnoweb.com^$document
@@ -5695,6 +5696,7 @@
 ||note.com/sknet_sougou*^$document
 ||note.com/sorakiba190107^$document
 ||note.com/spiritual_taiken^$document
+||note.com/startupm^$document
 ||note.com/sumaho_hikaku^$document
 ||note.com/super_whale223^$document
 ||note.com/super_whale223^$document
