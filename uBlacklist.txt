@@ -1,4 +1,9 @@
 *://*.000webhostapp.com/*
+*://note.com/pixel8a9/*
+*://gadget-choice.net/*
+*://simkids.jp/*
+*://raredoramas.info/*
+*://note.com/clean_sage687/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
