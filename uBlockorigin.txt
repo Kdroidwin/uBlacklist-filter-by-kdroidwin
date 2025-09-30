@@ -3007,6 +3007,7 @@
 ||flfillettables.com^$document
 ||flgas.com^$document
 ||flhzjo.com^$document
+||flix2day.com^$document
 ||flixpal.jp^$document
 ||float.fun^$document
 ||floras.co.in^$document
@@ -3019,6 +3020,9 @@
 ||flywxt.com.cn^$document
 ||fmax7.com^$document
 ||fmcicesports.com^$document
+||fmovies.to^$document
+||fmovies2u.com^$document
+||fmovieus.com^$document
 ||fmwa.app^$document
 ||fmwatasa.com^$document
 ||focus-one.co.jp^$document
@@ -3062,6 +3066,9 @@
 ||freehentaitorrent.jp^$document
 ||freelife55.net^$document
 ||freelifeofkite.com^$document
+||freelivemovies.net^$document
+||freemoviespoint.com^$document
+||freesamplemovie.net^$document
 ||freevpn.one^$document
 ||freeworkroom.com^$document
 ||freiermann.com^$document
@@ -3107,6 +3114,8 @@
 ||fukushu.jp^$document
 ||full-spec.co.jp^$document
 ||fullgra.jp^$document
+||fullmoviesells.com^$document
+||fullmovieso.net^$document
 ||fumako.net^$document
 ||fumi2019.com^$document
 ||fumienaffi.com^$document
@@ -3250,6 +3259,7 @@
 ||genalphaup.com^$document
 ||gendai-torendo.online^$document
 ||genfunlife.com^$document
+||gengmovie.net^$document
 ||genkideru.info^$document
 ||genkimorizou.com^$document
 ||genkimura.net^$document
@@ -5230,6 +5240,9 @@
 ||movie-architecture.com^$document
 ||movie-happyisland.com^$document
 ||movie-memo.com^$document
+||movie2free2.net^$document
+||moviesets.net^$document
+||movieswatchfree.net^$document
 ||movilidadsantafedeantioquia.gov.co^$document
 ||moxienashville.com^$document
 ||moya-trend.com^$document
@@ -5627,6 +5640,7 @@
 ||note.com/ikkyu_green^$document
 ||note.com/imyfone_jp*^$document
 ||note.com/iphone1678^$document
+||note.com/j_yuto^$document
 ||note.com/jigami^$document
 ||note.com/jigami^$document
 ||note.com/jjka1414^$document
@@ -5645,6 +5659,7 @@
 ||note.com/kouichi_0703^$document
 ||note.com/kuma_ai_studio^$document
 ||note.com/kumakuma3desu^$document
+||note.com/lenslover^$document
 ||note.com/lofty_skink4202^$document
 ||note.com/lovely_impala245^$document
 ||note.com/mangach^$document
@@ -5657,6 +5672,7 @@
 ||note.com/moeuhane22*^$document
 ||note.com/monetking0209*^$document
 ||note.com/morin4g4^$document
+||note.com/motokoku^$document
 ||note.com/muryoudouga*^$document
 ||note.com/nakanaka_2025^$document
 ||note.com/naoki_iphone^$document
@@ -5688,6 +5704,7 @@
 ||note.com/sato_c117127^$document
 ||note.com/sawai100^$document
 ||note.com/sawai100^$document
+||note.com/sayakablog^$document
 ||note.com/sekinogen1^$document
 ||note.com/shiba_inunosuke^$document
 ||note.com/shinkouya_1453^$document
@@ -7897,6 +7914,7 @@
 ||vooe.ru^$document
 ||vook.vc^$document
 ||votum.ru^$document
+||voxmovies.net^$document
 ||voyderuta.com^$document
 ||vplayer.onelink.me^$document
 ||vpn-magazine.com^$document
@@ -7972,6 +7990,11 @@
 ||wasyoku2017.m.icoc.me^$document
 ||wataru.biz^$document
 ||watch-full-movies.org^$document
+||watch8kmovies.com^$document
+||watcharabicmovies.net^$document
+||watchmovie7.net^$document
+||watchmoviesz.net^$document
+||watchonlymovies.com^$document
 ||waterdropcycle.com^$document
 ||wayofthescreenwriter.com^$document
 ||wazzelife.com^$document
@@ -8071,10 +8094,12 @@
 ||wuseshenguang.taobao.com^$document
 ||wuuwst.top^$document
 ||wuzuibon.com^$document
+||wvw-fmovies.com^$document
 ||ww.brasil-em-acao.com^$document
 ||ww25.kapayoyo.com^$document
 ||ww38.torrent-file.top^$document
 ||ww38.vanced.app^$document
+||ww4.fmovies.co^$document
 ||ww9.fitgirl-repacks.xyz^$document
 ||wwrbbuk.bar^$document
 ||wwv-fmovies.com^$document
