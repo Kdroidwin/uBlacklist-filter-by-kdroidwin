@@ -1,6 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
+*://youtube-jyoho.jp/*
+*://ameblo.jp/ann-ogura/entry-12872686061.html
 *://*.ac.id/*
 *://*.ac.in/*
 *://*.ad.in/*
