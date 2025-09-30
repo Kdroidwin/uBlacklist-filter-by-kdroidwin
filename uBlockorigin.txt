@@ -9963,6 +9963,7 @@
 ||yourclip.life^$document
 ||youthdanceweekend.org^$document
 ||youtube-guidance.com^$document
+||youtube-jyoho.jp^$document
 ||youtube-lect.jp^$document
 ||youtube-revanced.apktodo.io^$document
 ||youtube-revanced.jp.malavida.com^$document

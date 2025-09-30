@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
-*://youtube-jyoho.jp/*
-*://ameblo.jp/ann-ogura/entry-12872686061.html
 *://*.ac.id/*
 *://*.ac.in/*
 *://*.ad.in/*
@@ -1275,6 +1273,7 @@
 *://ameblo.jp/akiaki150/*
 *://ameblo.jp/and-gretel*
 *://ameblo.jp/aniroom*
+*://ameblo.jp/ann-ogura/entry-12872686061.html
 *://ameblo.jp/cheongdambyeol/*
 *://ameblo.jp/darwinblog/*
 *://ameblo.jp/direscare/*
@@ -9893,6 +9892,7 @@
 *://yourclip.life/*
 *://youthdanceweekend.org/*
 *://youtube-guidance.com/*
+*://youtube-jyoho.jp/*
 *://youtube-lect.jp/*
 *://youtube-revanced.apktodo.io/*
 *://youtube-revanced.jp.malavida.com/*
