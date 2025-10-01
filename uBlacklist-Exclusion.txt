@@ -294,3 +294,4 @@
 @*://semicon.today/*
 @*://www.wheretogo.today/*
 @*://fklab.today/*
+@*://ww2.dramacool.com.tr/*
