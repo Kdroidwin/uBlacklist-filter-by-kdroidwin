@@ -295,3 +295,5 @@
 @*://www.wheretogo.today/*
 @*://fklab.today/*
 @*://ww2.dramacool.com.tr/*
+@*://bbs.eddibb.cc/*
+@*://ww2.dramacool.com.tr/*
