@@ -10201,6 +10201,7 @@
 @@||baby-beamup.club^$document
 @@||baby-beamup.club^$document
 @@||base.shop^$document
+@@||bbs.eddibb.cc^$document
 @@||blueprotocol.swiki.jp^$document
 @@||blueprotocol.swiki.jp^$document
 @@||business.qiita.com^$document
@@ -10435,6 +10436,7 @@
 @@||wiki3.xyz^$document
 @@||wmg.click^$document
 @@||wmg.click^$document
+@@||ww2.dramacool.com.tr^$document
 @@||www.imagetotext.cc^$document
 @@||www.imagetotext.cc^$document
 @@||www.mixixxx696969.cyou^$document
