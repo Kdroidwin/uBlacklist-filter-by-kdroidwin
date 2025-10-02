@@ -859,6 +859,7 @@
 ||1blog.jp^$document
 ||1f6a725b.xyz^$document
 ||1fd.online^$document
+||1geireki.com^$document
 ||1l5nbj1.cn^$document
 ||1m7z6nzzl.nordic-walking-schule-brita-becker.de^$document
 ||1mcl.xyz^$document
@@ -930,6 +931,7 @@
 ||39mag.benesse.ne.jp^$document
 ||3bt5l7v.cn^$document
 ||3kidsmama-diary.com^$document
+||3ndrop.main.jp^$document
 ||3nolife.net^$document
 ||3q3pgut3.rallye-photo-avord.fr^$document
 ||3ql766n.unitymc.fr^$document
@@ -993,6 +995,7 @@
 ||7544645.slot27.online^$document
 ||7665329.slot31.online^$document
 ||774neet.com^$document
+||774route.com^$document
 ||7c233aw3.lvw-bw-intern.de^$document
 ||7ed521oq.azura-menage.fr^$document
 ||8018063.slot26.online^$document
@@ -1301,6 +1304,7 @@
 ||ameblo.jp/plus2222^$document
 ||ameblo.jp/unarigoe^$document
 ||ameblo.jp/uriutsu-123^$document
+||ameblo.jp/windows-11-pc^$document
 ||ameblo.jp/yoshi1020nihei^$document
 ||ameblo.jp/zylp7dut^$document
 ||ameeendt.com^$document
@@ -1586,6 +1590,7 @@
 ||ayakablog11525.com^$document
 ||ayano-blog.com^$document
 ||ayatorendo.com^$document
+||ayatsu2234.com^$document
 ||ayesha.systelligence.com^$document
 ||aymcontent.com^$document
 ||aytechlab.com^$document
@@ -1817,6 +1822,7 @@
 ||boku-wasa-kina.com^$document
 ||bokukuma.com^$document
 ||bokunoheroaccount.com^$document
+||bokuokun.com^$document
 ||bomberosvoluntariostequisquiapan.org^$document
 ||bonblo.com^$document
 ||bongdatv.lu^$document
@@ -2603,6 +2609,7 @@
 ||e-Tax.net^$document
 ||e025-subsc-bm.xyz^$document
 ||e849001b-b592-4312-ada6-f359392cf4f0.ct0.app^$document
+||earbuds.aspsv.com^$document
 ||earnie-frogs.jp^$document
 ||ebisu-selection.com^$document
 ||ebook-house.com^$document
@@ -3077,6 +3084,7 @@
 ||frog-kero.com^$document
 ||from0to1.jp^$document
 ||from48to100-lifeplan.com^$document
+||front-back.net^$document
 ||frostshaper.solutions^$document
 ||fruit727.com^$document
 ||fstec.ru^$document
@@ -3270,6 +3278,7 @@
 ||genshin.matome-place.com^$document
 ||genso-koryu.jp^$document
 ||gentillesse.net^$document
+||genzai.link^$document
 ||geomanga.jp^$document
 ||geronag.com^$document
 ||geronhaita.com^$document
@@ -3387,6 +3396,7 @@
 ||gonike.me^$document
 ||gonlunuskm.online^$document
 ||gonmana.com^$document
+||gonnbe.com^$document
 ||good-apps.jp^$document
 ||good-nantan.online^$document
 ||good-topic-map.com^$document
@@ -3647,6 +3657,7 @@
 ||himawari-lys.com^$document
 ||himeji-sdgs-expo.com^$document
 ||himemizu.com^$document
+||himitsu-ch.com^$document
 ||himmel-ellipse.com^$document
 ||hina-interest.com^$document
 ||hinamoridake-mote.com^$document
@@ -4140,6 +4151,7 @@
 ||junkfreeemail.com^$document
 ||junrin.xyz^$document
 ||jupontyi.jettysuites.com^$document
+||jurimojo.com^$document
 ||justiciable.ca^$document
 ||justlivemylifemyownwaymy.com^$document
 ||justnews.jp^$document
@@ -4190,6 +4202,7 @@
 ||kaji-amehare.com^$document
 ||kajjfawjagr.lfhfdfiehgg.com^$document
 ||kakeizunotobira.denshishosekidaio.com^$document
+||kakusa.info^$document
 ||kalikosa.com.tr^$document
 ||kamabokoworks.jp^$document
 ||kamaenitachiyoru.com^$document
@@ -4428,6 +4441,7 @@
 ||korean-channel.com^$document
 ||korean-road.com^$document
 ||koreandrama-favorite.com^$document
+||koreandrama-free.com^$document
 ||korective.jp^$document
 ||korekarazizake.com^$document
 ||koreoshi-manga.com^$document
@@ -4451,6 +4465,7 @@
 ||koumuin-work.com^$document
 ||kouzushima.org^$document
 ||kovestresto.ca^$document
+||kowai-torauma.unij.co.jp^$document
 ||kowani123.com^$document
 ||kowloonspecial.com^$document
 ||koyoki-happy-life.com^$document
@@ -4912,6 +4927,7 @@
 ||masami0328.com^$document
 ||masamurai.com^$document
 ||masaourino40.com^$document
+||masarusu.com^$document
 ||masatonoblog.com^$document
 ||masawo0.com^$document
 ||mashikong.com^$document
@@ -5087,6 +5103,7 @@
 ||milumilu-zakki.com^$document
 ||mimc-eg.com^$document
 ||mimhytcdd.com^$document
+||mimichino.com^$document
 ||mimicle.com^$document
 ||mimika-life.com^$document
 ||mimikkuma.com^$document
@@ -5232,6 +5249,7 @@
 ||mormonchamber.com^$document
 ||morozvest.ru^$document
 ||mossashoes.com^$document
+||mot4932.com^$document
 ||motetsu.com^$document
 ||motochanblog.com^$document
 ||motorx6d.sarangkkb.com^$document
@@ -5265,6 +5283,7 @@
 ||mudawanat-tibiya-sa.shop^$document
 ||mufufu-comic.com^$document
 ||muggywsy.thepines-melaka.com^$document
+||mugi-diary.com^$document
 ||mugicym.com^$document
 ||mugidensetsu.com^$document
 ||mugimeibiyori.com^$document
@@ -5541,6 +5560,7 @@
 ||nlpr.ia.ac.cn^$document
 ||nmqf-policy.org^$document
 ||nnews.top^$document
+||no-dorama-no-life.info^$document
 ||no-magazine.com^$document
 ||no-title-journal-next.com^$document
 ||no111777666.com^$document
@@ -5632,6 +5652,7 @@
 ||note.com/hachiojiiphone^$document
 ||note.com/haken_se_30manen^$document
 ||note.com/hakutoumomo^$document
+||note.com/hamu_3nd^$document
 ||note.com/hitotsu_ai^$document
 ||note.com/holy_beetle811^$document
 ||note.com/holy_beetle811^$document
@@ -6641,6 +6662,7 @@
 ||sakerm8l.bizits.com^$document
 ||sakesake.info^$document
 ||sakidori.co^$document
+||sakku.info^$document
 ||sakshay.com^$document
 ||saku-saku-a.com^$document
 ||sakujijikamu.com^$document
@@ -6707,6 +6729,7 @@
 ||sayama-swimming-club.jp^$document
 ||sayyoufun.biz^$document
 ||sba.yandex.ru^$document
+||sbapp.net^$document
 ||sbc-nextjs-b2c.vercel.app^$document
 ||sbd-neo.com^$document
 ||sbenny.com^$document
@@ -6944,9 +6967,11 @@
 ||skydrive.live.ru^$document
 ||skyfall.co.jp^$document
 ||skytouchservices.com^$document
+||skywave-net.com^$document
 ||slolita.taobao.com^$document
 ||slope-media.jp^$document
 ||smahangtuah5.sch.id^$document
+||smahospital.jp/column/recommend^$document
 ||small-realization.com^$document
 ||smaneephand.com^$document
 ||smari-log.com^$document
@@ -6969,6 +6994,7 @@
 ||smiqpepq.info^$document
 ||smtownstore.jp^$document
 ||sn-jp.com^$document
+||snacktime75.com^$document
 ||snapseed.online^$document
 ||snews.fromation.co.jp^$document
 ||sniperkozu.com^$document
@@ -7233,6 +7259,7 @@
 ||syounosukeblog.com^$document
 ||syouzyomangalife.com^$document
 ||syphs0mo.suriacarrental.com.my^$document
+||syufu-bu.com^$document
 ||syumatsusekai-football.com^$document
 ||syundoku.jp^$document
 ||sz-kentos.jp^$document
@@ -7271,6 +7298,7 @@
 ||taisetsuzan-ultratrail.com^$document
 ||taji26.com^$document
 ||tajimi-akiyabank.jp^$document
+||tak16.com^$document
 ||taka-chest-crescita.com^$document
 ||taka20218.com^$document
 ||takachin-oji.net^$document
@@ -7565,6 +7593,7 @@
 ||torrentcomicwiki.blog.fc2.com^$document
 ||torrentsitefeed.blog62.fc2.com^$document
 ||torrentsmatome.blog.fc2.com^$document
+||torukuma.com^$document
 ||torzu.dev^$document
 ||tosa-k-style.org^$document
 ||tosidensetu-story.com^$document
@@ -8285,6 +8314,7 @@
 ||www.axina.cn^$document
 ||www.azbil.co.uk^$document
 ||www.azen-o.com^$document
+||www.azfinsoft.com^$document
 ||www.azure.cn^$document
 ||www.baawamusicfestival.com^$document
 ||www.babulilm.ie^$document
@@ -9847,6 +9877,7 @@
 ||xn--u9jy52gltav7f8xcw4q5taq17llk1atvdtn3eqoa.com^$document
 ||xn--u9jy52gqzhw9aj5mzl4abivi9cns6d.com^$document
 ||xn--u9jy52gr2p5pl0ur6lcz20behl.com^$document
+||xn--u9jyg9a3a5nxbyc8771bj6d2p3cpe1b34iyp2bgcf.com^$document
 ||xn--uckgyp4c3cw980gi5c.com^$document
 ||xn--xyv715c.com^$document
 ||xn--y8jua2at4d.com^$document
