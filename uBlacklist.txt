@@ -1,4 +1,7 @@
 *://*.000webhostapp.com/*
+*://jmaxnews.com/*
+*://www.haitenjp.com/*
+*://note.com/yumisnscontents/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
