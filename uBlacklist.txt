@@ -1,7 +1,4 @@
 *://*.000webhostapp.com/*
-*://jmaxnews.com/*
-*://www.haitenjp.com/*
-*://note.com/yumisnscontents/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
@@ -4068,6 +4065,7 @@
 *://jjg.me/*
 *://jk-bic.jp/*
 *://jk.doujin-comic.com/*
+*://jmaxnews.com/*
 *://jn-life.com/*
 *://jn1nu5.cn/*
 *://jnhtk.com/*
@@ -5730,6 +5728,7 @@
 *://note.com/youichi0989/*
 *://note.com/yubaku/*
 *://note.com/yuki_note_1/*
+*://note.com/yumisnscontents/*
 *://note.com/yutori_kurashi/*
 *://note.com/zatsugaku_iroiro/*
 *://notsu08.com/*
@@ -8693,6 +8692,7 @@
 *://www.gyudon4625.com/*
 *://www.hachioji-orimono.jp/*
 *://www.hacocoro.com/*
+*://www.haitenjp.com/*
 *://www.hakone-yamatoya.com/*
 *://www.hakutea.jp/*
 *://www.hallaron.com/*

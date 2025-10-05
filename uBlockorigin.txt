@@ -4082,6 +4082,7 @@
 ||jjg.me^$document
 ||jk-bic.jp^$document
 ||jk.doujin-comic.com^$document
+||jmaxnews.com^$document
 ||jn-life.com^$document
 ||jn1nu5.cn^$document
 ||jnhtk.com^$document
@@ -5769,6 +5770,7 @@
 ||note.com/yubaku^$document
 ||note.com/yubaku^$document
 ||note.com/yuki_note_1^$document
+||note.com/yumisnscontents^$document
 ||note.com/yutori_kurashi^$document
 ||note.com/yutori_kurashi^$document
 ||note.com/zatsugaku_iroiro^$document
@@ -8753,6 +8755,7 @@
 ||www.gyudon4625.com^$document
 ||www.hachioji-orimono.jp^$document
 ||www.hacocoro.com^$document
+||www.haitenjp.com^$document
 ||www.hakone-yamatoya.com^$document
 ||www.hakutea.jp^$document
 ||www.hallaron.com^$document
