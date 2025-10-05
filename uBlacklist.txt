@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://haitenjp.com.siteindices.com/*
+*://haitenjp.com.cutestat.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
