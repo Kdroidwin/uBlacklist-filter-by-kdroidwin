@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://haitenjp.com.siteindices.com/*
-*://haitenjp.com.cutestat.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
@@ -3483,6 +3481,8 @@
 *://haibandvd.com/*
 *://haikara-syokudo.jp/*
 *://hairandthere.frontwp.no/*
+*://haitenjp.com.cutestat.com/*
+*://haitenjp.com.siteindices.com/*
 *://haiyu-dorama.com/*
 *://hajiichi-memo.com/*
 *://hajime-angler.com/*

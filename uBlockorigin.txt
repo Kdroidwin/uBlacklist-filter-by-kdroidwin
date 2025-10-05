@@ -3494,6 +3494,8 @@
 ||haibandvd.com^$document
 ||haikara-syokudo.jp^$document
 ||hairandthere.frontwp.no^$document
+||haitenjp.com.cutestat.com^$document
+||haitenjp.com.siteindices.com^$document
 ||haiyu-dorama.com^$document
 ||hajiichi-memo.com^$document
 ||hajime-angler.com^$document
