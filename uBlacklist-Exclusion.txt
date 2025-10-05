@@ -297,3 +297,5 @@
 @*://ww2.dramacool.com.tr/*
 @*://bbs.eddibb.cc/*
 @*://ww2.dramacool.com.tr/*
+@*://zh.moegirl.org.cn/*
+@*://moegirl.icu/*
