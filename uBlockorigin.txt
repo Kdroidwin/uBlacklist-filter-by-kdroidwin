@@ -1832,6 +1832,7 @@
 ||book-arrows.jp^$document
 ||book-day.com^$document
 ||book.dldlinks.com^$document
+||book.himepai.com^$document
 ||book.mynavi.jp/ashita_magazine/china-vpn-ucss^$document
 ||book.st-hakky.com^$document
 ||bookandbedtokyo.com^$document
@@ -1842,6 +1843,7 @@
 ||bookmate07.jp^$document
 ||books.awaisora.com^$document
 ||books.dmm-mania.com^$document
+||books.makianosaihu.com^$document
 ||bookwiz.me^$document
 ||boqxywd.art^$document
 ||bort85185.spb.ru^$document
@@ -2361,6 +2363,7 @@
 ||dcryptobuzz.com^$document
 ||ddhacks.com^$document
 ||ddnavi.com^$document
+||de2.45rina.com^$document
 ||deai-wakare.tokyo^$document
 ||deaino-onayami.com^$document
 ||dearteenme.com^$document
@@ -2695,6 +2698,7 @@
 ||elysmexicangrill.online^$document
 ||em.weed-dev.online^$document
 ||emangablog.com^$document
+||emerald-energies.com^$document
 ||emery.me.uk^$document
 ||emi-life.net^$document
 ||emiki-a.com^$document
@@ -2831,6 +2835,7 @@
 ||eromanga-vision.com^$document
 ||eromanga-yomitai.work^$document
 ||eromanga.dl-ero-news.site^$document
+||eromanga.gingin.biz^$document
 ||eromanganoshiro.com^$document
 ||eromangapicture.com^$document
 ||eromangatankendan.com^$document
@@ -3569,6 +3574,7 @@
 ||harmoe.club^$document
 ||harmonia-library.com^$document
 ||harmose.fr^$document
+||haro-blog.com^$document
 ||harriet-movie.jp^$document
 ||harrysdial.com^$document
 ||haru-journal.com^$document
@@ -3685,6 +3691,7 @@
 ||hitohack.info^$document
 ||hitomi--blog.com^$document
 ||hitomi-comic.com^$document
+||hitomi-vg.com^$document
 ||hitomila.blog^$document
 ||hitomiland.com^$document
 ||hitononeko.com^$document
@@ -4084,6 +4091,7 @@
 ||jjg.me^$document
 ||jk-bic.jp^$document
 ||jk.doujin-comic.com^$document
+||jlib.net^$document
 ||jmaxnews.com^$document
 ||jn-life.com^$document
 ||jn1nu5.cn^$document
@@ -4861,6 +4869,7 @@
 ||maneki-rus.ru^$document
 ||maneql.co.jp^$document
 ||manga-bang.com^$document
+||manga-comicoro.com^$document
 ||manga-ebookservice.com^$document
 ||manga-games.com^$document
 ||manga-ganma.com^$document
@@ -4871,6 +4880,9 @@
 ||manga-style.jp^$document
 ||manga-tachiyomi.com^$document
 ||manga-world.me^$document
+||manga.coideco.jp^$document
+||manga.dmm-mania.com^$document
+||manga.jimnian.com^$document
 ||manga.tokyo.jp^$document
 ||manga.tuber-ch.com^$document
 ||manga1000.su^$document
@@ -5146,6 +5158,7 @@
 ||missav-downloader.org^$document
 ||missav.com^$document
 ||misuteri-enblog.com^$document
+||mitemi-n.jp^$document
 ||mitemiruno.com^$document
 ||mitene-gps.onelink.me^$document
 ||mitkp.com^$document
@@ -5863,6 +5876,7 @@
 ||ojinabeblog.com^$document
 ||ojisan-gyakushu.com^$document
 ||ojslj.com^$document
+||ok.45rina.com^$document
 ||okachi.xyz^$document
 ||okaimono-navigation.com^$document
 ||okannoyomeiri-stage.jp^$document
@@ -6074,6 +6088,7 @@
 ||pc.moppy.jp^$document
 ||pcd.uk.com^$document
 ||pcdr-chiebukuro.com^$document
+||pcgameskey.com^$document
 ||pcgamestorrents.com^$document
 ||pcgamestorrents.org^$document
 ||pcmac.download^$document
@@ -6644,6 +6659,7 @@
 ||sabucaru.com^$document
 ||saburokuday.jp^$document
 ||sabusuku.net^$document
+||sac-a-main.org^$document
 ||sacchinjaiblog.com^$document
 ||sachi-nami.org^$document
 ||sachiko-blog.com^$document
@@ -9965,6 +9981,7 @@
 ||yokubari-okan.com^$document
 ||yolo-world.com^$document
 ||yomeno-tadaima.com^$document
+||yomidou.com^$document
 ||yonayonafreedom.net^$document
 ||yoncoichi.com^$document
 ||yonetei.com^$document
