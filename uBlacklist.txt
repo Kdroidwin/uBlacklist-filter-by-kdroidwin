@@ -1,6 +1,16 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
+*://animekiki.com/*
+*://xn--cck5dwcs95z8mb.com/*
+*://kotti.biz/*
+*://vodinsights.com/*
+*://animeculturejourney.com/*
+*://animonogatari.com/*
+*://storypick.net/*
+*://nyaotaro.com/*
+*://yousukeblog1115.com/*
+*://ouchitime.com/*
 *://*.ac.id/*
 *://*.ac.in/*
 *://*.ad.in/*
