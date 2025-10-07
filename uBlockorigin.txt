@@ -1350,12 +1350,15 @@
 ||anime-kinjito.com^$document
 ||anime.akira4k.com^$document
 ||animeanime.jp/entertainment/vpn-recommend^$document
+||animeculturejourney.com^$document
 ||animefirst.ru^$document
 ||animekangeki.com^$document
+||animekiki.com^$document
 ||animemiru.jp^$document
 ||animenome.jp^$document
 ||animepupiokun.doorblog.jp^$document
 ||animesoku.com^$document
+||animonogatari.com^$document
 ||anincline.com^$document
 ||anipha.jp^$document
 ||anista-maga.com^$document
@@ -4473,6 +4476,7 @@
 ||kotaneko.net^$document
 ||kotaroworld.com^$document
 ||kotoko18.com^$document
+||kotti.biz^$document
 ||koumuin-work.com^$document
 ||kouzushima.org^$document
 ||kovestresto.ca^$document
@@ -5834,6 +5838,7 @@
 ||nyaa9.tromajan.xyz^$document
 ||nyanpararism.xyz^$document
 ||nyanyako.xyz^$document
+||nyaotaro.com^$document
 ||nyarunuko.com^$document
 ||nyc-guitars.com^$document
 ||nyfco.org^$document
@@ -6011,6 +6016,7 @@
 ||ouchi-pan.com^$document
 ||ouchi.irotashi.com^$document
 ||ouchiniikou.com^$document
+||ouchitime.com^$document
 ||ounelec.com^$document
 ||outdoor-daisuki.com^$document
 ||outerbanksrentalsmap.com^$document
@@ -7169,6 +7175,7 @@
 ||store.breguet.cn^$document
 ||stores.chaumet.cn^$document
 ||storyoffilm-japan.com^$document
+||storypick.net^$document
 ||storyweb.jp^$document
 ||strategydata.cn^$document
 ||streamlit.app^$document
@@ -7956,6 +7963,7 @@
 ||vod-site.org^$document
 ||vod.animegaphone.jp^$document
 ||vodafone.uk^$document
+||vodinsights.com^$document
 ||vodmino.net^$document
 ||vodnavi.wpx.jp^$document
 ||vog.agvol.com^$document
@@ -9833,6 +9841,7 @@
 ||xn--7ck4axdc4icb0947dwse.com^$document
 ||xn--98jxb5dua6581cp0kbh0h.com^$document
 ||xn--b9jtjxa7aj6131e.com^$document
+||xn--cck5dwcs95z8mb.com^$document
 ||xn--cck5dwcu03uy0yb.com^$document
 ||xn--djrq2jhuioun4o6b.net^$document
 ||xn--eck7a6cb9hvc6743bh6ua0fqeui.com^$document
@@ -10014,6 +10023,7 @@
 ||youorganic.cl^$document
 ||youpress.jp^$document
 ||yourclip.life^$document
+||yousukeblog1115.com^$document
 ||youthdanceweekend.org^$document
 ||youtube-guidance.com^$document
 ||youtube-jyoho.jp^$document

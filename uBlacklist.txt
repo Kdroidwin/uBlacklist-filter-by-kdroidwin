@@ -1,16 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
-*://animekiki.com/*
-*://xn--cck5dwcs95z8mb.com/*
-*://kotti.biz/*
-*://vodinsights.com/*
-*://animeculturejourney.com/*
-*://animonogatari.com/*
-*://storypick.net/*
-*://nyaotaro.com/*
-*://yousukeblog1115.com/*
-*://ouchitime.com/*
 *://*.ac.id/*
 *://*.ac.in/*
 *://*.ad.in/*
@@ -1357,12 +1347,15 @@
 *://anime-kinjito.com/*
 *://anime.akira4k.com/*
 *://animeanime.jp/entertainment/vpn-recommend/*
+*://animeculturejourney.com/*
 *://animefirst.ru/*
 *://animekangeki.com/*
+*://animekiki.com/*
 *://animemiru.jp/*
 *://animenome.jp/*
 *://animepupiokun.doorblog.jp/*
 *://animesoku.com/*
+*://animonogatari.com/*
 *://anincline.com/*
 *://anipha.jp/*
 *://anista-maga.com/*
@@ -4464,6 +4457,7 @@
 *://kotaneko.net/*
 *://kotaroworld.com/*
 *://kotoko18.com/*
+*://kotti.biz/*
 *://koumuin-work.com/*
 *://kouzushima.org/*
 *://kovestresto.ca/*
@@ -5800,6 +5794,7 @@
 *://nyaa9.tromajan.xyz/*
 *://nyanpararism.xyz/*
 *://nyanyako.xyz/*
+*://nyaotaro.com/*
 *://nyarunuko.com/*
 *://nyc-guitars.com/*
 *://nyfco.org/*
@@ -5976,6 +5971,7 @@
 *://ouchi-pan.com/*
 *://ouchi.irotashi.com/*
 *://ouchiniikou.com/*
+*://ouchitime.com/*
 *://ounelec.com/*
 *://outdoor-daisuki.com/*
 *://outerbanksrentalsmap.com/*
@@ -7123,6 +7119,7 @@
 *://store.breguet.cn/*
 *://stores.chaumet.cn/*
 *://storyoffilm-japan.com/*
+*://storypick.net/*
 *://storyweb.jp/*
 *://strategydata.cn/*
 *://streamlit.app/*
@@ -7905,6 +7902,7 @@
 *://vod-site.org/*
 *://vod.animegaphone.jp/*
 *://vodafone.uk/*
+*://vodinsights.com/*
 *://vodmino.net/*
 *://vodnavi.wpx.jp/*
 *://vog.agvol.com/*
@@ -9775,6 +9773,7 @@
 *://xn--7ck4axdc4icb0947dwse.com/*
 *://xn--98jxb5dua6581cp0kbh0h.com/*
 *://xn--b9jtjxa7aj6131e.com/*
+*://xn--cck5dwcs95z8mb.com/*
 *://xn--cck5dwcu03uy0yb.com/*
 *://xn--djrq2jhuioun4o6b.net/*
 *://xn--eck7a6cb9hvc6743bh6ua0fqeui.com/*
@@ -9953,6 +9952,7 @@
 *://youorganic.cl/*
 *://youpress.jp/*
 *://yourclip.life/*
+*://yousukeblog1115.com/*
 *://youthdanceweekend.org/*
 *://youtube-guidance.com/*
 *://youtube-jyoho.jp/*
