@@ -673,7 +673,6 @@
 *://*.sl/*
 *://*.slot.2chblog.jp/*
 *://*.smdcgldv.art/*
-*://*.so/*
 *://*.softmany.com/*
 *://*.softonic.*/*
 *://*.softonic.com/*
