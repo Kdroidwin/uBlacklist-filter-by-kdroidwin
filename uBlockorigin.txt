@@ -675,7 +675,6 @@
 /^https?:\/\/[^\/]+\.sl\/?$/$document
 /^https?:\/\/[^\/]+\.slot\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.smdcgldv\.art\/?$/$document
-/^https?:\/\/[^\/]+\.so\/?$/$document
 /^https?:\/\/[^\/]+\.softmany\.com\/?$/$document
 /^https?:\/\/[^\/]+\.softonic\.com\/?$/$document
 /^https?:\/\/[^\/]+\.softonic\.jp\/?$/$document
