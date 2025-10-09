@@ -2837,6 +2837,7 @@
 ||eromanga-vision.com^$document
 ||eromanga-yomitai.work^$document
 ||eromanga.dl-ero-news.site^$document
+||eromanga.dojin.com^$document
 ||eromanga.gingin.biz^$document
 ||eromanganoshiro.com^$document
 ||eromangapicture.com^$document
@@ -3183,6 +3184,7 @@
 ||gadgeski.hatenablog.com^$document
 ||gadget-app.com^$document
 ||gadget-choice.net^$document
+||gadget888.hatenablog.com^$document
 ||gaffriggauge.com^$document
 ||gaikotsumatsuri.com^$document
 ||gaito666.blog.fc2.com^$document
@@ -3450,6 +3452,7 @@
 ||green.foxapi.xyz^$document
 ||greenberry.fr^$document
 ||greencar-eco.com^$document
+||greenpepper-news.com^$document
 ||greenshop-aroma.com^$document
 ||greenvilla.kg^$document
 ||greenwof.top^$document
@@ -3851,6 +3854,7 @@
 ||ijcnaxf.xyz^$document
 ||ikagakun.hatenablog.com^$document
 ||ikeda-yoshitaka.jp^$document
+||ikedahayato.com^$document
 ||ikemen-love.com^$document
 ||ikemenjiten.com^$document
 ||ikesuto.com^$document
@@ -5637,6 +5641,7 @@
 ||note.com/androidgeek^$document
 ||note.com/androidgeek^$document
 ||note.com/at549^$document
+||note.com/ayanofx^$document
 ||note.com/beckett_8492^$document
 ||note.com/berry_0702^$document
 ||note.com/bolojobsko/n/n47cfa6a8b9a7*^$document
@@ -5646,8 +5651,10 @@
 ||note.com/clean_echium264^$document
 ||note.com/clean_sage687^$document
 ||note.com/clear_coot175^$document
+||note.com/cozy_plover2302^$document
 ||note.com/cream_corone^$document
 ||note.com/crisp_avocet516^$document
+||note.com/crypto_y^$document
 ||note.com/cutecreaturecli^$document
 ||note.com/dapper_boar1528*^$document
 ||note.com/der3^$document
@@ -5692,6 +5699,7 @@
 ||note.com/kadensomurie^$document
 ||note.com/kadenz^$document
 ||note.com/kadenz^$document
+||note.com/kakip0115^$document
 ||note.com/kara0323^$document
 ||note.com/kaz_kashiwagi^$document
 ||note.com/kimetsu_mania^$document
@@ -5702,12 +5710,14 @@
 ||note.com/lenslover^$document
 ||note.com/lofty_skink4202^$document
 ||note.com/lovely_impala245^$document
+||note.com/mainichigadget^$document
 ||note.com/mangach^$document
 ||note.com/mankensensei^$document
 ||note.com/maron2023^$document
 ||note.com/michaeldx^$document
 ||note.com/midori_no_kaden^$document
 ||note.com/midori_no_kaden^$document
+||note.com/mild_ruff676^$document
 ||note.com/mippasan^$document
 ||note.com/moeuhane22*^$document
 ||note.com/monetking0209*^$document
@@ -5718,18 +5728,21 @@
 ||note.com/naoki_iphone^$document
 ||note.com/nifty_cosmos4076^$document
 ||note.com/nifty_viper3044^$document
+||note.com/noble_guppy6313^$document
 ||note.com/nommy_465^$document
 ||note.com/ojirolian^$document
 ||note.com/okinisezu^$document
 ||note.com/open_hare4661^$document
 ||note.com/orisusarusan^$document
 ||note.com/outdoorlifestyle^$document
+||note.com/paul1211^$document
 ||note.com/pet_supply^$document
 ||note.com/pixel8a9^$document
 ||note.com/planetofgori^$document
 ||note.com/poppson^$document
 ||note.com/powertanishi*^$document
 ||note.com/prorautatie^$document
+||note.com/pure_eider7665^$document
 ||note.com/q17q^$document
 ||note.com/quality_compass^$document
 ||note.com/rabirabi1*^$document
@@ -5737,10 +5750,13 @@
 ||note.com/ramenkt5^$document
 ||note.com/ramenkt5^$document
 ||note.com/ready_bison5376^$document
+||note.com/realme_note^$document
 ||note.com/reraco^$document
 ||note.com/restruct^$document
+||note.com/rich_shark9469^$document
 ||note.com/rinks_shop1288^$document
 ||note.com/roshalke^$document
+||note.com/saa617^$document
 ||note.com/sato_c117127^$document
 ||note.com/sawai100^$document
 ||note.com/sawai100^$document
@@ -5760,6 +5776,7 @@
 ||note.com/super_whale4189^$document
 ||note.com/syashinsuki^$document
 ||note.com/syashinsuki^$document
+||note.com/syuroriiman^$document
 ||note.com/takkxi^$document
 ||note.com/takumi333^$document
 ||note.com/tbola^$document
@@ -5772,8 +5789,10 @@
 ||note.com/torataka50^$document
 ||note.com/toy_hobby^$document
 ||note.com/toy_hobby^$document
+||note.com/trivia_kingdom^$document
 ||note.com/uber_tantan02*^$document
 ||note.com/unique_chimp63^$document
+||note.com/ushi_sd^$document
 ||note.com/vivid_cosmos9883^$document
 ||note.com/vivid_cosmos9883^$document
 ||note.com/wareomou_yueni^$document
@@ -5784,6 +5803,7 @@
 ||note.com/yarunara_ima^$document
 ||note.com/yokatorock^$document
 ||note.com/yokatorock^$document
+||note.com/yoki0119^$document
 ||note.com/youichi0989^$document
 ||note.com/yubaku^$document
 ||note.com/yubaku^$document
@@ -6416,6 +6436,7 @@
 ||real-juku.jp^$document
 ||real-lovedoll.jp^$document
 ||realcongress.ru^$document
+||realine.me^$document
 ||realtimetvgod.com^$document
 ||realtokyomiyabi.com^$document
 ||realtyempowermentsystems.com^$document
@@ -6857,6 +6878,7 @@
 ||shims8h9.abualgoareh.com^$document
 ||shin-hakken.com^$document
 ||shin-vod-life.com^$document
+||shin41.net^$document
 ||shinachiku.com^$document
 ||shinafu.jp^$document
 ||shine-egg.com^$document
@@ -8927,6 +8949,7 @@
 ||www.kaalcosmetic.com^$document
 ||www.kabe.xyz^$document
 ||www.kabushikigaisya-rigakubody.co.jp^$document
+||www.kachiotech.com^$document
 ||www.kagi-kinkyutai119.com^$document
 ||www.kagoshima-gourmet.jp^$document
 ||www.kahhakcreamery.com^$document
@@ -9488,6 +9511,7 @@
 ||www.slolita.com^$document
 ||www.slope-media.jp^$document
 ||www.slvxqzu.cn^$document
+||www.sma-rizu.com^$document
 ||www.smartbuyglasses.cn^$document
 ||www.smarterplan.io^$document
 ||www.smc.com.cn^$document
@@ -9818,6 +9842,7 @@
 ||x.com/zlib_official^$document
 ||x68000.q-e-d.net^$document
 ||xdqern.dentist-24.de^$document
+||xenospectrum.com^$document
 ||xera.jp^$document
 ||xertinos.com^$document
 ||xingfulife.xyz^$document
