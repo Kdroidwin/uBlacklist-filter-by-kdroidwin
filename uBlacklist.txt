@@ -8510,7 +8510,6 @@
 *://www.cyberpatrolg.com/cpg/*
 *://www.cyberuk.uk/*
 *://www.czjmjd.cn/*
-*://www.daily.co.jp/*
 *://www.daizu-lab.jp/*
 *://www.dakimax.com/*
 *://www.danmurphys.me/*
