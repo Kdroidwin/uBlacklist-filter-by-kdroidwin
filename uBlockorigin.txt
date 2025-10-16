@@ -8571,7 +8571,6 @@
 ||www.cyberpatrolg.com/cpg^$document
 ||www.cyberuk.uk^$document
 ||www.czjmjd.cn^$document
-||www.daily.co.jp^$document
 ||www.daizu-lab.jp^$document
 ||www.dakimax.com^$document
 ||www.danmurphys.me^$document
