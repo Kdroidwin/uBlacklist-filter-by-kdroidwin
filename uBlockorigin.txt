@@ -1510,6 +1510,7 @@
 ||as.koreanshg.kr.ua^$document
 ||as.koreanshk.kr.ua^$document
 ||as.koreansjg.co.ua^$document
+||asa-st.jp^$document
 ||asa3-blog.com^$document
 ||asab.online^$document
 ||asablog2020.com^$document
@@ -2563,6 +2564,7 @@
 ||doujinrepublic.com^$document
 ||doujinshiblog.com^$document
 ||doujinshiman.com^$document
+||douzin.archimedes.jp^$document
 ||douzinnsi-eromannga.com^$document
 ||download.capcutvip.top^$document
 ||download.cnet.com/ccleaner/3000-18512_4-10315544.html*^$document
@@ -2601,6 +2603,7 @@
 ||dtexapparel.com^$document
 ||dtioykqj1u8de.cloudfront.net^$document
 ||dubs.ru^$document
+||due.italiago-dokugaku.com^$document
 ||dulinscafe.com^$document
 ||duracof.xyz^$document
 ||dwasfve.cn^$document
@@ -2649,6 +2652,7 @@
 ||echomedia.co.jp^$document
 ||echour.com^$document
 ||echowear.co.jp^$document
+||eclat-tokyo.jp^$document
 ||eclesar1.over-blog.com^$document
 ||ecmusika.com^$document
 ||ecnavi.jp^$document
@@ -3505,6 +3509,7 @@
 ||gyouza-yamatani.jp^$document
 ||gypsoo.com^$document
 ||gyroflow.xyz^$document
+||h-comi.com^$document
 ||h-guidepost.com^$document
 ||h30bkhgqo.auslagerung-pastservice.de^$document
 ||h4ppy-marriage.jp^$document
@@ -4887,6 +4892,7 @@
 ||mama-liberty.com^$document
 ||mama-necoblog.com^$document
 ||mama-sono.com^$document
+||mama.dorineo.jp^$document
 ||mamagirl.jp^$document
 ||mamaicchi.com^$document
 ||mamakiwa.com^$document
@@ -4920,6 +4926,7 @@
 ||manga.coideco.jp^$document
 ||manga.dmm-mania.com^$document
 ||manga.jimnian.com^$document
+||manga.kou-web.com^$document
 ||manga.tokyo.jp^$document
 ||manga.tuber-ch.com^$document
 ||manga1000.su^$document
@@ -5963,6 +5970,7 @@
 ||ojisan-gyakushu.com^$document
 ||ojslj.com^$document
 ||ok.45rina.com^$document
+||okabasyo.com^$document
 ||okachi.xyz^$document
 ||okaeriblog.com^$document
 ||okaimono-navigation.com^$document
@@ -6785,6 +6793,7 @@
 ||sakura-moondays.com^$document
 ||sakura-tokyo.com^$document
 ||sakurasite.net^$document
+||sakusakuyomi.com^$document
 ||saladbowl.net^$document
 ||sale-cartoons.hatenablog.com^$document
 ||salecialadd.com^$document
@@ -8720,6 +8729,7 @@
 ||www.erba-albania.com^$document
 ||www.erica-android.jp^$document
 ||www.ermenekturkuaz.com^$document
+||www.eromanga-muryou-hitomi-26.net^$document
 ||www.eskizpsd.com^$document
 ||www.espacesarana.fr^$document
 ||www.espacioagro.com^$document

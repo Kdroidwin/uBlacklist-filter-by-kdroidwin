@@ -1,15 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
-*://www.eromanga-muryou-hitomi-26.net/*
-*://sakusakuyomi.com/*
-*://manga.kou-web.com/*
-*://due.italiago-dokugaku.com/*
-*://eclat-tokyo.jp/*
-*://asa-st.jp/*
-*://douzin.archimedes.jp/*
-*://okabasyo.com/*
-*://h-comi.com/*
-*://mama.dorineo.jp/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -1517,6 +1507,7 @@
 *://as.koreanshg.kr.ua/*
 *://as.koreanshk.kr.ua/*
 *://as.koreansjg.co.ua/*
+*://asa-st.jp/*
 *://asa3-blog.com/*
 *://asab.online/*
 *://asablog2020.com/*
@@ -2564,6 +2555,7 @@
 *://doujinrepublic.com/*
 *://doujinshiblog.com/*
 *://doujinshiman.com/*
+*://douzin.archimedes.jp/*
 *://douzinnsi-eromannga.com/*
 *://download.capcutvip.top/*
 *://download.cnet.com/*
@@ -2602,6 +2594,7 @@
 *://dtexapparel.com/*
 *://dtioykqj1u8de.cloudfront.net/*
 *://dubs.ru/*
+*://due.italiago-dokugaku.com/*
 *://dulinscafe.com/*
 *://duracof.xyz/*
 *://dwasfve.cn/*
@@ -2650,6 +2643,7 @@
 *://echomedia.co.jp/*
 *://echour.com/*
 *://echowear.co.jp/*
+*://eclat-tokyo.jp/*
 *://eclesar1.over-blog.com/*
 *://ecmusika.com/*
 *://ecnavi.jp/*
@@ -3502,6 +3496,7 @@
 *://gyouza-yamatani.jp/*
 *://gypsoo.com/*
 *://gyroflow.xyz/*
+*://h-comi.com/*
 *://h-guidepost.com/*
 *://h30bkhgqo.auslagerung-pastservice.de/*
 *://h4ppy-marriage.jp/*
@@ -4878,6 +4873,7 @@
 *://mama-liberty.com/*
 *://mama-necoblog.com/*
 *://mama-sono.com/*
+*://mama.dorineo.jp/*
 *://mamagirl.jp/*
 *://mamaicchi.com/*
 *://mamanochiwatashi.com/*
@@ -4910,6 +4906,7 @@
 *://manga.coideco.jp/*
 *://manga.dmm-mania.com/*
 *://manga.jimnian.com/*
+*://manga.kou-web.com/*
 *://manga.tokyo.jp/*
 *://manga.tuber-ch.com/*
 *://manga1000.su/*
@@ -5929,6 +5926,7 @@
 *://ojisan-gyakushu.com/*
 *://ojslj.com/*
 *://ok.45rina.com/*
+*://okabasyo.com/*
 *://okachi.xyz/*
 *://okaeriblog.com/*
 *://okaimono-navigation.com/*
@@ -6745,6 +6743,7 @@
 *://sakura-moondays.com/*
 *://sakura-tokyo.com/*
 *://sakurasite.net/*
+*://sakusakuyomi.com/*
 *://saladbowl.net/*
 *://sale-cartoons.hatenablog.com/*
 *://salecialadd.com/*
@@ -8668,6 +8667,7 @@
 *://www.erba-albania.com/*
 *://www.erica-android.jp/*
 *://www.ermenekturkuaz.com/*
+*://www.eromanga-muryou-hitomi-26.net/*
 *://www.eskizpsd.com/*
 *://www.espacesarana.fr/*
 *://www.espacioagro.com/*
