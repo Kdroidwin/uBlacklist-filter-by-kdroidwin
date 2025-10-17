@@ -903,6 +903,7 @@
 ||2ndweb.jp^$document
 ||2q8p4.cn^$document
 ||2tempo.shop^$document
+||2week.net^$document
 ||2xmlabs.com^$document
 ||3-ta.com^$document
 ||3.211.208.96^$document
@@ -1145,6 +1146,7 @@
 ||agreet7i.sghscdhaka.edu.bd^$document
 ||agrenes.org^$document
 ||agrifuture.africa^$document
+||ahedou.com^$document
 ||ahoa3iet.woslx.xyz^$document
 ||ahozura.kasu.me^$document
 ||ahpc.org.pk^$document
@@ -1488,6 +1490,7 @@
 ||arkofrefuge.org^$document
 ||arm-renovation.jp^$document
 ||armageddonhomes.com^$document
+||aroma-ism.jp^$document
 ||aroma83.com^$document
 ||arosemenaway.com^$document
 ||arosyfuture.net^$document
@@ -1867,6 +1870,7 @@
 ||br-vestnik.online^$document
 ||brain-market.com^$document
 ||brain-market.com^$document
+||brains.hatenablog.com^$document
 ||brand-website-alpha.vercel.app^$document
 ||branddax.com^$document
 ||brandjewelry.shop^$document
@@ -1900,6 +1904,7 @@
 ||bucky-blog.com^$document
 ||budgetworld.ru^$document
 ||budurl.me^$document
+||buibuidesu.jpn.org^$document
 ||bullbull11.com^$document
 ||bulleteercustoms.in^$document
 ||bunblog.work^$document
@@ -2193,6 +2198,9 @@
 ||comic.book.mynavi.jp^$document
 ||comic.chiramiru.com^$document
 ||comic.enka.work^$document
+||comic.manga-mill.com^$document
+||comic.nan-net.com^$document
+||comic.nijieromix.com^$document
 ||comic104.com^$document
 ||comicloop.jp^$document
 ||comics-love.hatenablog.com^$document
@@ -2478,10 +2486,12 @@
 ||dlounge.net^$document
 ||dlsite-pro.adult-h.com^$document
 ||dlvywoutlet.com^$document
+||dmmdoujinn.com^$document
 ||dmoss-ci.com^$document
 ||dmpatent.com^$document
 ||dmusic.docomo.ne.jp^$document
 ||dnrhoee.com^$document
+||do.hiraku946.jp^$document
 ||doboku21.com^$document
 ||doc.dgstack.cn^$document
 ||doc.plasticity.xyz^$document
@@ -2505,6 +2515,7 @@
 ||dogaentame.net^$document
 ||dogorama.app^$document
 ||dojin-asedaku.cyou^$document
+||dojinfanza.com^$document
 ||dojingame.net^$document
 ||dojinmanga.net^$document
 ||dojinparadiso.jp^$document
@@ -2538,10 +2549,14 @@
 ||dougaguild.xsrv.jp^$document
 ||doujin-ai.com^$document
 ||doujin-eromanga.adult-h.com^$document
+||doujin-ntr.com^$document
 ||doujin-share.com^$document
 ||doujin-yakata.com^$document
+||doujin.bkrb.net^$document
 ||doujin.dldlinks.com^$document
 ||doujin.furukawakan.jp^$document
+||doujin.himepai.com^$document
+||doujin.ton-ton.jp^$document
 ||doujincco-ero.com^$document
 ||doujinfree.com^$document
 ||doujinnews.com^$document
@@ -2613,6 +2628,7 @@
 ||e-Tax.com^$document
 ||e-Tax.net^$document
 ||e025-subsc-bm.xyz^$document
+||e1ns.jp^$document
 ||e849001b-b592-4312-ada6-f359392cf4f0.ct0.app^$document
 ||earbuds.aspsv.com^$document
 ||earnie-frogs.jp^$document
@@ -2628,6 +2644,7 @@
 ||ec.line.me^$document
 ||ecdeaf.com^$document
 ||eches8x4.bizandleisure.com^$document
+||echicomi.blog.jp^$document
 ||echizen-kanikanitei.jp^$document
 ||echomedia.co.jp^$document
 ||echour.com^$document
@@ -2802,6 +2819,7 @@
 ||erin-line.com^$document
 ||eritreaembassy.ch^$document
 ||ero-comic.jp^$document
+||ero-manga.cfbx.jp^$document
 ||ero-ny.cfbx.jp^$document
 ||ero-ny.com^$document
 ||eroanimelist.com^$document
@@ -2820,6 +2838,7 @@
 ||eroepub.com^$document
 ||eroero-manga.jp^$document
 ||eroero-manga.net^$document
+||eroeroimessaim.com^$document
 ||eroge-maso.com^$document
 ||eroge.dldshare.net^$document
 ||eroge.erodl.cfbx.jp^$document
@@ -2851,6 +2870,7 @@
 ||eropapa0808.work^$document
 ||eroring.com^$document
 ||erosummary.2chblog.jp^$document
+||erotiti.com^$document
 ||erp.nexessence.com^$document
 ||ertwas.com^$document
 ||ertyws.com^$document
@@ -2936,6 +2956,7 @@
 ||fan-rim-park.com^$document
 ||fanblogs.jp^$document
 ||fandane.com^$document
+||fanza.coideco.jp^$document
 ||fanzonetokyo.jp^$document
 ||farsisaz.com^$document
 ||fashion.biglobe.ne.jp^$document
@@ -3072,6 +3093,7 @@
 ||freak-cafe.com^$document
 ||freak71l.cvs.com.my^$document
 ||free-and-natural.com^$document
+||free-ero-doujin.kk36eroero.com^$document
 ||free-erobooks.com^$document
 ||free-humanlife23.com^$document
 ||free-learn.info^$document
@@ -3208,6 +3230,7 @@
 ||gamoblog.net^$document
 ||ganbarinote.net^$document
 ||ganbariyasan.com^$document
+||ganmen-houkai.com^$document
 ||garantpost.ru^$document
 ||gardabhayangkara.online^$document
 ||gardasar.guru^$document
@@ -4334,6 +4357,7 @@
 ||khbtbfkm.life^$document
 ||khoanguyenchuong.com^$document
 ||kicks-blog.com^$document
+||kihachi-log.com^$document
 ||kiiropicks.com^$document
 ||kijitora-chan.com^$document
 ||kikichannel.com^$document
@@ -4506,9 +4530,11 @@
 ||ksmlc.cn^$document
 ||ksualumnipoker.com^$document
 ||ktaj.jp^$document
+||ktwoblog.com^$document
 ||kualumtech.com^$document
 ||kubis.ru^$document
 ||kuchima.com^$document
+||kuchukuchu-tube.com^$document
 ||kujineta.biz^$document
 ||kukurublog.com^$document
 ||kumablog-usa.com^$document
@@ -4523,6 +4549,7 @@
 ||kurashi-no.jp^$document
 ||kurashiinfo1.com^$document
 ||kurenaikenjiro.com^$document
+||kurimegane.com^$document
 ||kurisurf.info^$document
 ||kuroaoki.com^$document
 ||kuroco.jp^$document
@@ -4546,6 +4573,7 @@
 ||l-ma.info^$document
 ||l.instagram.com^$document
 ||l3melb-taxi.com^$document
+||la-boulette.com^$document
 ||la-mere-poulard.jp^$document
 ||laasena.com^$document
 ||lab4g.net^$document
@@ -4755,6 +4783,7 @@
 ||luxecathaven.com^$document
 ||luxio-tarou.com^$document
 ||luxury-biz.com^$document
+||luxury.gyutora.jp^$document
 ||luxurymacdirect.com^$document
 ||luxweavecarpets.com^$document
 ||lvyou168.cn^$document
@@ -4883,6 +4912,7 @@
 ||manga-heaven.net^$document
 ||manga-legend.com^$document
 ||manga-more.com^$document
+||manga-mura.com^$document
 ||manga-raw.blog.jp^$document
 ||manga-style.jp^$document
 ||manga-tachiyomi.com^$document
@@ -5012,6 +5042,7 @@
 ||mclarencars.cn^$document
 ||mcrump.me^$document
 ||md-md-e867c335436d-fc.madewith.cn^$document
+||md-sass.com^$document
 ||md.hellokit.com.cn^$document
 ||mdksblog.com^$document
 ||mdoramafan.com^$document
@@ -5110,6 +5141,7 @@
 ||miiolo.com^$document
 ||mika-blog28.com^$document
 ||mikafs.com^$document
+||mikanillust.work^$document
 ||mikansan.xyz^$document
 ||mikeshawenespanol.com^$document
 ||miki333.com^$document
@@ -5119,6 +5151,7 @@
 ||mikumori.com^$document
 ||mile22.jp^$document
 ||milf-gloss.doujin-comic.com^$document
+||milk-key.com^$document
 ||millelog.com^$document
 ||millenvpn.jp^$document
 ||millionvlog.com^$document
@@ -5233,6 +5266,7 @@
 ||momoka20200214-www-softbank-jp.ariyasumomoka.org^$document
 ||momoka20200403-www-bsfuji-tv.http.ariyasumomoka.org^$document
 ||momoka20200623-7net-omni7-jp.ariyasumomoka.org^$document
+||momonga-raw.com^$document
 ||momonoyakata.com^$document
 ||moms-happylife.com^$document
 ||monadnockmidrange.com^$document
@@ -5353,6 +5387,7 @@
 ||mykkb.kkb.kg^$document
 ||myownlife.blog^$document
 ||mypage.sorotouch.cn^$document
+||mysticabyss.jp^$document
 ||mytrend.info^$document
 ||n-trend.com^$document
 ||n-yu.com^$document
@@ -5728,6 +5763,7 @@
 ||note.com/mangach^$document
 ||note.com/mankensensei^$document
 ||note.com/maron2023^$document
+||note.com/marumaruikuji^$document
 ||note.com/michaeldx^$document
 ||note.com/midori_no_kaden^$document
 ||note.com/midori_no_kaden^$document
@@ -5880,6 +5916,7 @@
 ||nxeegjt.cn^$document
 ||ny-excited.com^$document
 ||nyaa9.tromajan.xyz^$document
+||nyanko-days.com^$document
 ||nyanpararism.xyz^$document
 ||nyanyako.xyz^$document
 ||nyaotaro.com^$document
@@ -5927,6 +5964,7 @@
 ||ojslj.com^$document
 ||ok.45rina.com^$document
 ||okachi.xyz^$document
+||okaeriblog.com^$document
 ||okaimono-navigation.com^$document
 ||okannoyomeiri-stage.jp^$document
 ||okboook.com^$document
@@ -6053,6 +6091,7 @@
 ||otomeexpert.com^$document
 ||otona-comic.com^$document
 ||otonakensaku.com^$document
+||otonano-kyouyou.cfbx.jp^$document
 ||ottoproduce.com^$document
 ||ottori-time.com^$document
 ||oucedonc.com^$document
@@ -6473,6 +6512,7 @@
 ||reco-link.com^$document
 ||recochoku.jp^$document
 ||recomamadiary.com^$document
+||recomen-erocomi.anicomi3150.com^$document
 ||recommend-travel.com^$document
 ||recovery-power123.com^$document
 ||redautumn.art^$document
@@ -6622,6 +6662,7 @@
 ||rockonsocial.club^$document
 ||rockresortrosario.com^$document
 ||rockresortsequinox.com^$document
+||rockyoupop.com^$document
 ||rocs-project.org^$document
 ||rokepan.com^$document
 ||rokitolar.com^$document
@@ -7093,6 +7134,7 @@
 ||soivre.org^$document
 ||sokutrend.com^$document
 ||sola-asy.com^$document
+||solare-academy.com^$document
 ||solife-a.com^$document
 ||sollastudio.net^$document
 ||solutionsbyswain.com^$document
@@ -7326,6 +7368,7 @@
 ||syn-ad.com^$document
 ||synergetic.ru^$document
 ||synthesistorren.blog2.fc2.com^$document
+||syokusamen.com^$document
 ||syosetume.wixsite.com^$document
 ||syotiku9910.com^$document
 ||syouheinouhau.daa.jp^$document
@@ -7462,6 +7505,7 @@
 ||telegra.ph^$document
 ||telemarketingmadeeasy.com^$document
 ||telhasimperio.grupomarkat.com^$document
+||temnonebo.org^$document
 ||tenbus.info^$document
 ||tender-feelings.com^$document
 ||tendo-ayumifarm.jp^$document
@@ -8671,6 +8715,7 @@
 ||www.epicdigitalhub.com^$document
 ||www.epicenlinea.com^$document
 ||www.epiqglobal.cn^$document
+||www.equistyle-magazine.com^$document
 ||www.er92.top^$document
 ||www.erba-albania.com^$document
 ||www.erica-android.jp^$document
@@ -9221,6 +9266,7 @@
 ||www.nb-cg.me^$document
 ||www.nchtorrent.cn^$document
 ||www.ncxx.co.jp^$document
+||www.ndda.net^$document
 ||www.nekojirushi11.tokyo^$document
 ||www.nelpur.shop^$document
 ||www.neobji.ac.cn^$document
@@ -9237,6 +9283,7 @@
 ||www.nigehbancompoundingpharmacy.com^$document
 ||www.niksonline.com^$document
 ||www.nishino-it-office.com^$document
+||www.nishinomiya-city.jp^$document
 ||www.njwanhui.com.cn^$document
 ||www.nkselfdrive.com^$document
 ||www.nliwfyz.cn^$document
@@ -9869,6 +9916,7 @@
 ||xenospectrum.com^$document
 ||xera.jp^$document
 ||xertinos.com^$document
+||xhentai.jp^$document
 ||xingfulife.xyz^$document
 ||xiordiagonalbesos.com^$document
 ||xis2p9rqc.wydawnictwopbb.pl^$document
@@ -9909,6 +9957,7 @@
 ||xn--hekm0a443zu0m.xyz^$document
 ||xn--hhr831fjwhg9i.jp^$document
 ||xn--ick3b8eyct505c6fc.net^$document
+||xn--ickth539fgvd9p8cl5j.com^$document
 ||xn--icktho25pytlfkn.com^$document
 ||xn--j9j7hucs457a.com^$document
 ||xn--l8j8axevfb5647bmk0cgjya5iddp0e.com^$document
@@ -10008,6 +10057,7 @@
 ||yasambasari.com^$document
 ||yasoneuiorsa.xyz^$document
 ||yasuho-blog.com^$document
+||yasuragispa.jp^$document
 ||yauyaustyle.com^$document
 ||yavartaki.online^$document
 ||ybe5vxl.madietamoi.fr^$document
@@ -10228,6 +10278,7 @@
 ||zbqyojzh.bar^$document
 ||zcjtysw.live^$document
 ||zdcspzvg.r.us-east-1.awstrack.me^$document
+||ze-pa.net^$document
 ||zedpalindia.com^$document
 ||zellijj.com^$document
 ||zen-seer.com^$document
