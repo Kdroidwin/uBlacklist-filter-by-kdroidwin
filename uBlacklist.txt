@@ -1,5 +1,15 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
+*://www.eromanga-muryou-hitomi-26.net/*
+*://sakusakuyomi.com/*
+*://manga.kou-web.com/*
+*://due.italiago-dokugaku.com/*
+*://eclat-tokyo.jp/*
+*://asa-st.jp/*
+*://douzin.archimedes.jp/*
+*://okabasyo.com/*
+*://h-comi.com/*
+*://mama.dorineo.jp/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
