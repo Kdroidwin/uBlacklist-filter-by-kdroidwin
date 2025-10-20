@@ -2240,7 +2240,6 @@
 ||coochanenjoyblog.com^$document
 ||cooking-life-style.com^$document
 ||cookpad-mart.com^$document
-||cookpad.com^$document
 ||coopers-pub.ch^$document
 ||cooptq0u.malaysiainternationalschools.com^$document
 ||copayeoh.jettysuites.com^$document
