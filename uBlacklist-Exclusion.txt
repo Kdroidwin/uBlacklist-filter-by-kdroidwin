@@ -299,3 +299,6 @@
 @*://ww2.dramacool.com.tr/*
 @*://zh.moegirl.org.cn/*
 @*://moegirl.icu/*
+@*://library.hkust.edu.hk/*
+@*://www.hkmu.edu.hk/*
+@*://library.smu.edu.sg/*
