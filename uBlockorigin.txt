@@ -1663,6 +1663,7 @@
 ||bazaraj.com^$document
 ||bazu-word.com^$document
 ||bazuyomi.com^$document
+||bb-com.conohawing.com^$document
 ||bbb2infap002-it.labo.sbb-sys.info^$document
 ||bbhylife.com^$document
 ||bbitto.com^$document
@@ -3393,6 +3394,7 @@
 ||gmk.be^$document
 ||gmmfprc.cn^$document
 ||gmo-animation.com^$document
+||gmobb.jp^$document
 ||gmstar.ca^$document
 ||gnclhrkcaw.xyz^$document
 ||gns.hotline.su^$document
@@ -3487,6 +3489,7 @@
 ||grina.info^$document
 ||griselymasajistas.com^$document
 ||grnmaquinarias.com^$document
+||group.gmo^$document
 ||grpasba.xyz^$document
 ||gsepn.net^$document
 ||gtvktae.cn^$document
@@ -3966,6 +3969,7 @@
 ||intergate.info^$document
 ||interlinkms.lk^$document
 ||intermedialabo.com^$document
+||internet-various.com^$document
 ||internetexpo.net^$document
 ||inthadoor.com^$document
 ||intilabs.com^$document
@@ -4360,6 +4364,7 @@
 ||khbtbfkm.life^$document
 ||khoanguyenchuong.com^$document
 ||kicks-blog.com^$document
+||kigyolog.com^$document
 ||kihachi-log.com^$document
 ||kiiropicks.com^$document
 ||kijitora-chan.com^$document
@@ -4859,6 +4864,7 @@
 ||magiskzip.com^$document
 ||magnacartastopinew.com^$document
 ||magucha-blog.com^$document
+||mahiru-afiri.com^$document
 ||mahoyome-stage.jp^$document
 ||maidoerobooks.com^$document
 ||maidonanews.jp^$document
@@ -5691,6 +5697,7 @@
 ||note.com/brave_borage2759^$document
 ||note.com/bright_llama373^$document
 ||note.com/bright_llama373^$document
+||note.com/chawanwabita^$document
 ||note.com/chizuru1122^$document
 ||note.com/clean_echium264^$document
 ||note.com/clean_pothos9868^$document
@@ -5700,6 +5707,7 @@
 ||note.com/cream_corone^$document
 ||note.com/crisp_avocet516^$document
 ||note.com/crypto_y^$document
+||note.com/cute_ruff6801^$document
 ||note.com/cutecreaturecli^$document
 ||note.com/dapper_boar1528*^$document
 ||note.com/der3^$document
@@ -6305,6 +6313,7 @@
 ||pocop0c0.blog.fc2.com^$document
 ||poemsd3j.gabrans.com^$document
 ||poepoemoon.com^$document
+||point.gmo.jp^$document
 ||poipiku.com^$document
 ||poire122.com^$document
 ||poke-m.com^$document
@@ -6664,6 +6673,7 @@
 ||robotstart.info^$document
 ||rock-fes.com^$document
 ||rock-note.com^$document
+||rocket-boys.co.jp^$document
 ||rocketnews24.com^$document
 ||rockonsocial.club^$document
 ||rockresortrosario.com^$document
@@ -7274,6 +7284,7 @@
 ||storyweb.jp^$document
 ||strategydata.cn^$document
 ||streamlit.app^$document
+||streamrental.com^$document
 ||strongcorner.net^$document
 ||strufin.in^$document
 ||sts.law.ac.uk^$document
@@ -7632,6 +7643,7 @@
 ||titanyachts.com^$document
 ||titi-time.com^$document
 ||tits.fetishp.com^$document
+||tk-create.com^$document
 ||tk-kmt.jp^$document
 ||tklog.work^$document
 ||tkm-3.com^$document
@@ -8072,6 +8084,7 @@
 ||voyderuta.com^$document
 ||vplayer.onelink.me^$document
 ||vpn-magazine.com^$document
+||vpn-sensei.com^$document
 ||vpn.hikakusite.co.jp^$document
 ||vpn.nsspirt-cashf2.com^$document
 ||vpn.ooaks.co.jp^$document
@@ -8841,6 +8854,7 @@
 ||www.globalhealthlinkinc.com^$document
 ||www.globoinformativoydeportes.com^$document
 ||www.globosdiversion.com^$document
+||www.gmocloud.com^$document
 ||www.gmt-online.jp^$document
 ||www.gnesin-academy.ru^$document
 ||www.go-japan.cn^$document
@@ -9185,6 +9199,7 @@
 ||www.meerkatinspace.com^$document
 ||www.megane-shufu.com^$document
 ||www.megase.ru^$document
+||www.meimeinote.com^$document
 ||www.meister-stylist.jp^$document
 ||www.mekan0.com^$document
 ||www.memuplay.com/*/how-to-use-*-on-pc.html^$document
@@ -9829,6 +9844,7 @@
 ||www.wastemanagers.africa^$document
 ||www.wdf122333.online^$document
 ||www.wearemoroccotravel.com^$document
+||www.websitefactory.jp^$document
 ||www.webtorrent.app^$document
 ||www.welcome-studio.com^$document
 ||www.wellmentors.com^$document

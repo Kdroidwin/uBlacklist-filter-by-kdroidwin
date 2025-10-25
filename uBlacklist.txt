@@ -1,22 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.2chcopipe.com/*
 *://*.a3erf.com/*
-*://note.com/cute_ruff6801/*
-*://www.gmocloud.com/*
-*://gmobb.jp/*
-*://point.gmo.jp/*
-*://internet-various.com/*
-*://bb-com.conohawing.com/*
-*://group.gmo/*
-*://kigyolog.com/*
-*://streamrental.com/*
-*://tk-create.com/*
-*://www.websitefactory.jp/*
-*://mahiru-afiri.com/*
-*://www.meimeinote.com/*
-*://vpn-sensei.com/*
-*://rocket-boys.co.jp/*
-*://note.com/chawanwabita/*
 *://*.ac.id/*
 *://*.ac.in/*
 *://*.ad.in/*
@@ -1673,6 +1657,7 @@
 *://bazaraj.com/*
 *://bazu-word.com/*
 *://bazuyomi.com/*
+*://bb-com.conohawing.com/*
 *://bbb2infap002-it.labo.sbb-sys.info/*
 *://bbhylife.com/*
 *://bbitto.com/*
@@ -3397,6 +3382,7 @@
 *://gmk.be/*
 *://gmmfprc.cn/*
 *://gmo-animation.com/*
+*://gmobb.jp/*
 *://gmstar.ca/*
 *://gnclhrkcaw.xyz/*
 *://gns.hotline.su/*
@@ -3490,6 +3476,7 @@
 *://grina.info/*
 *://griselymasajistas.com/*
 *://grnmaquinarias.com/*
+*://group.gmo/*
 *://grpasba.xyz/*
 *://gsepn.net/*
 *://gtvktae.cn/*
@@ -3965,6 +3952,7 @@
 *://intergate.info/*
 *://interlinkms.lk/*
 *://intermedialabo.com/*
+*://internet-various.com/*
 *://internetexpo.net/*
 *://inthadoor.com/*
 *://intilabs.com/*
@@ -4357,6 +4345,7 @@
 *://khbtbfkm.life/*
 *://khoanguyenchuong.com/*
 *://kicks-blog.com/*
+*://kigyolog.com/*
 *://kihachi-log.com/*
 *://kiiropicks.com/*
 *://kijitora-chan.com/*
@@ -4856,6 +4845,7 @@
 *://magiskzip.com/*
 *://magnacartastopinew.com/*
 *://magucha-blog.com/*
+*://mahiru-afiri.com/*
 *://mahoyome-stage.jp/*
 *://maidoerobooks.com/*
 *://maidonanews.jp/*
@@ -5682,6 +5672,7 @@
 *://note.com/bolojobsko/n/n47cfa6a8b9a7*
 *://note.com/brave_borage2759/*
 *://note.com/bright_llama373/*
+*://note.com/chawanwabita/*
 *://note.com/chizuru1122/*
 *://note.com/clean_echium264/*
 *://note.com/clean_pothos9868/*
@@ -5691,6 +5682,7 @@
 *://note.com/cream_corone/*
 *://note.com/crisp_avocet516/*
 *://note.com/crypto_y/*
+*://note.com/cute_ruff6801/*
 *://note.com/cutecreaturecli/*
 *://note.com/dapper_boar1528*
 *://note.com/der3/*
@@ -6275,6 +6267,7 @@
 *://pocop0c0.blog.fc2.com/*
 *://poemsd3j.gabrans.com/*
 *://poepoemoon.com/*
+*://point.gmo.jp/*
 *://poipiku.com/*
 *://poire122.com/*
 *://poke-m.com/*
@@ -6632,6 +6625,7 @@
 *://robotstart.info/*
 *://rock-fes.com/*
 *://rock-note.com/*
+*://rocket-boys.co.jp/*
 *://rocketnews24.com/*
 *://rockonsocial.club/*
 *://rockresortrosario.com/*
@@ -7234,6 +7228,7 @@
 *://storyweb.jp/*
 *://strategydata.cn/*
 *://streamlit.app/*
+*://streamrental.com/*
 *://strongcorner.net/*
 *://strufin.in/*
 *://sts.law.ac.uk/*
@@ -7590,6 +7585,7 @@
 *://titanyachts.com/*
 *://titi-time.com/*
 *://tits.fetishp.com/*
+*://tk-create.com/*
 *://tk-kmt.jp/*
 *://tklog.work/*
 *://tkm-3.com/*
@@ -8027,6 +8023,7 @@
 *://voyderuta.com/*
 *://vplayer.onelink.me/*
 *://vpn-magazine.com/*
+*://vpn-sensei.com/*
 *://vpn.hikakusite.co.jp/*
 *://vpn.nsspirt-cashf2.com/*
 *://vpn.ooaks.co.jp/*
@@ -8794,6 +8791,7 @@
 *://www.globalhealthlinkinc.com/*
 *://www.globoinformativoydeportes.com/*
 *://www.globosdiversion.com/*
+*://www.gmocloud.com/*
 *://www.gmt-online.jp/*
 *://www.gnesin-academy.ru/*
 *://www.go-japan.cn/*
@@ -9136,6 +9134,7 @@
 *://www.meerkatinspace.com/*
 *://www.megane-shufu.com/*
 *://www.megase.ru/*
+*://www.meimeinote.com/*
 *://www.meister-stylist.jp/*
 *://www.mekan0.com/*
 *://www.memuplay.com/*/how-to-use-*-on-pc.html
@@ -9779,6 +9778,7 @@
 *://www.wastemanagers.africa/*
 *://www.wdf122333.online/*
 *://www.wearemoroccotravel.com/*
+*://www.websitefactory.jp/*
 *://www.webtorrent.app/*
 *://www.welcome-studio.com/*
 *://www.wellmentors.com/*
