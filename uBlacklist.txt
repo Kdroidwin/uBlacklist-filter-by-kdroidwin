@@ -405,7 +405,6 @@
 *://*.modfyp.com/*
 *://*.moeeeani.blog.jp/*
 *://*.mw/*
-*://*.mx/*
 *://*.myxstalk.lol/*
 *://*.na/*
 *://*.namaejiten.com/*
@@ -598,16 +597,13 @@
 *://*.pintrest.com/*
 *://*.pintrist.com/*
 *://*.pk/*
-*://*.pl/*
 *://*.pn/*
 *://*.programmation-web-qr.com/*
 *://*.programmerstart.com/*
 *://*.programmerz.ru/*
 *://*.programqa.com/*
 *://*.projectbackpack.org/*
-*://*.ps/*
 *://*.purisoku.com/*
-*://*.pw/*
 *://*.python.engineering/*
 *://*.python2.net/*
 *://*.python5.com/*
