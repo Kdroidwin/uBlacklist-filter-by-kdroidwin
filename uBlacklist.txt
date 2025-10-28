@@ -9550,22 +9550,18 @@
 *://www.sports2films.com/*
 *://www.spotifyinfo.app/*
 *://www.springsummerautumn.com/*
-*://www.squareclip.jp/*
 *://www.srcboat.fi/*
 *://www.sreemahadevgroup9.com/*
 *://www.st-johnfisher.ealing.sch.uk/*
 *://www.stapletechinc.com/*
-*://www.starblog.jp/*
 *://www.starjohomagazine.com/*
 *://www.statewaterheatersme.com/*
 *://www.stc.rarait.com/*
 *://www.stonebenchtopsnewcastle.com.au/*
 *://www.stradvert.com/*
-*://www.studiomiyanogi.jp/*
 *://www.studioworks.co.in/*
 *://www.sudzfundraising.com/*
 *://www.sunshinecoast.surf/*
-*://www.supergenji.jp/*
 *://www.superstarpledis.jp/*
 *://www.suunto.cn/*
 *://www.suyamatakuji.com/*
@@ -9589,7 +9585,6 @@
 *://www.tamekatu.com/*
 *://www.tamindir.com/*
 *://www.tamronblog.jp/*
-*://www.tanifood.co.jp/*
 *://www.taptap.io/*
 *://www.taradaleu3a.org.nz/*
 *://www.taraproperty.com.au/*
@@ -9600,7 +9595,6 @@
 *://www.tbbghbv.cn/*
 *://www.tcclinic.jp/*
 *://www.tdk.com.cn/*
-*://www.team-logi.co.jp/*
 *://www.teamos.xyz/*
 *://www.teamviewer.cn/*
 *://www.techopedia.com/*
@@ -9609,7 +9603,6 @@
 *://www.tele-meditsine.online/*
 *://www.teloon.cn/*
 *://www.telurnoshop.net/*
-*://www.teluru.jp/*
 *://www.telurumall.jp/*
 *://www.temu.com/*
 *://www.tenews.org.ua/*
@@ -9642,7 +9635,6 @@
 *://www.thomasfrissant.com/*
 *://www.thousandsmiles.uk/*
 *://www.threescoops.shop/*
-*://www.ticket.co.jp/*
 *://www.tienkenandassociates.com/*
 *://www.timbukdo.in/*
 *://www.tm-robot.com.cn/*
@@ -9773,7 +9765,6 @@
 *://www.win-rar.ru/*
 *://www.winrarcrack.pro/*
 *://www.winxdvd.com/*
-*://www.winzip.com/*
 *://www.wirtschaftlicher-verband.de/*
 *://www.wish.com/*
 *://www.wood365.cn/*
