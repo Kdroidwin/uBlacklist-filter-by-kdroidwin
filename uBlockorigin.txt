@@ -10418,6 +10418,7 @@
 @@||digipres.club^$document
 @@||dodi-repacks.site^$document
 @@||dodi-repacks.site^$document
+@@||dramacool.com.bo^$document
 @@||dtman.info^$document
 @@||dtman.info^$document
 @@||edgeless.top^$document
@@ -10462,6 +10463,7 @@
 @@||imxyz.top^$document
 @@||iwayado.toweb.top^$document
 @@||iwayado.toweb.top^$document
+@@||javbee.vip^$document
 @@||jjya.xyz^$document
 @@||jjya.xyz^$document
 @@||jp.jtube.top^$document
@@ -10615,6 +10617,7 @@
 @@||wiki3.xyz^$document
 @@||wmg.click^$document
 @@||wmg.click^$document
+@@||ww1.dramacool.com.tr^$document
 @@||ww2.dramacool.com.tr^$document
 @@||www.imagetotext.cc^$document
 @@||www.imagetotext.cc^$document
