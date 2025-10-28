@@ -9546,7 +9546,6 @@
 *://www.sousacontabilidade.net/*
 *://www.spacioclub.ru/*
 *://www.spology.jp/*
-*://www.sponichi.co.jp/*
 *://www.sports.ru/*
 *://www.sports2films.com/*
 *://www.spotifyinfo.app/*
@@ -9565,7 +9564,6 @@
 *://www.studiomiyanogi.jp/*
 *://www.studioworks.co.in/*
 *://www.sudzfundraising.com/*
-*://www.sumo.or.jp/*
 *://www.sunshinecoast.surf/*
 *://www.supergenji.jp/*
 *://www.superstarpledis.jp/*
