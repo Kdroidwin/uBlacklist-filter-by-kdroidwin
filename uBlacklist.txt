@@ -1349,8 +1349,6 @@
 *://anincline.com/*
 *://anipha.jp/*
 *://anista-maga.com/*
-*://aniwave.biz/*
-*://aniyomi.jmir.xyz/*
 *://ankekko.com/*
 *://ankoron.com/*
 *://ankororo.com/*
@@ -2301,7 +2299,6 @@
 *://cyoppaya.com/*
 *://cyteka.com/*
 *://czumtabim.blog72.fc2.com/*
-*://d-money.jp/*
 *://d315.cn/*
 *://d4d.online/*
 *://da-shinta.hatenablog.com/*
@@ -8395,7 +8392,6 @@
 *://www.barralibremx.com/*
 *://www.batcaveca.com/*
 *://www.baume-et-mercier.cn/*
-*://www.bbc.co.uk/*
 *://www.bbc2021.jp/*
 *://www.bdo-mingo7244.net/*
 *://www.bdzmfcq.cn/*
