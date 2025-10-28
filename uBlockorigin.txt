@@ -8736,7 +8736,6 @@
 ||www.etsabdelmoula.com^$document
 ||www.eurorvvv.org^$document
 ||www.evsol.com.au^$document
-||www.excite.co.jp^$document
 ||www.exogear.jp^$document
 ||www.expomascotasyanimales.com^$document
 ||www.expressvpn.com^$document
