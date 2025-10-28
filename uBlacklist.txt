@@ -475,7 +475,6 @@
 *://*.news4wide.livedoor.biz/*
 *://*.ng/*
 *://*.nice-voicetraining.com/*
-*://*.nifty.com/*
 *://*.nijiholo-local.jp/*
 *://*.nogomi.ru/*
 *://*.okaimonoclub.jp/*
@@ -3266,7 +3265,6 @@
 *://geinouwadai.com/*
 *://geinouzin.net/*
 *://geisposoul.com/*
-*://geitopi.com/*
 *://gekibuzz.com/*
 *://gekidan-shiki.com/*
 *://gekkan-bushi.com/*
@@ -3719,7 +3717,6 @@
 *://hnv.jp/*
 *://hoalanfoods.vn/*
 *://hobby-band-association.com/*
-*://hochi.news/*
 *://hodacieus.com/*
 *://hodgkinvzw.be/*
 *://hokanko-alt.com/*
@@ -4090,7 +4087,6 @@
 *://jinsei0826.com/*
 *://jisedai.me/*
 *://jishin-yogen.com/*
-*://jisin.jp/*
 *://jitensha-hoken.info/*
 *://jjg.me/*
 *://jk-bic.jp/*
