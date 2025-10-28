@@ -214,7 +214,6 @@
 /^https?:\/\/[^\/]+\.com\.zw\/?$/$document
 /^https?:\/\/[^\/]+\.coromoo\.com\/?$/$document
 /^https?:\/\/[^\/]+\.crx7601\.com\/?$/$document
-/^https?:\/\/[^\/]+\.cv\/?$/$document
 /^https?:\/\/[^\/]+\.cyou\/?$/$document
 /^https?:\/\/[^\/]+\.cz\/?$/$document
 /^https?:\/\/[^\/]+\.dj\/?$/$document
@@ -289,12 +288,7 @@
 /^https?:\/\/[^\/]+\.girlsvip\-matome\.com\/?$/$document
 /^https?:\/\/[^\/]+\.gm\/?$/$document
 /^https?:\/\/[^\/]+\.goog\/?$/$document
-/^https?:\/\/[^\/]+\.google\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.gossip1\.net\/?$/$document
-/^https?:\/\/[^\/]+\.gov\.cn\/?$/$document
-/^https?:\/\/[^\/]+\.gov\.krd\/?$/$document
-/^https?:\/\/[^\/]+\.gov\.my\/?$/$document
-/^https?:\/\/[^\/]+\.gov\.ng\/?$/$document
 /^https?:\/\/[^\/]+\.gq\/?$/$document
 /^https?:\/\/[^\/]+\.hair\/?$/$document
 /^https?:\/\/[^\/]+\.haisoku\.jp\/?$/$document
@@ -394,7 +388,6 @@
 /^https?:\/\/[^\/]+\.loan\/?$/$document
 /^https?:\/\/[^\/]+\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.lovelivematocha\.com\/?$/$document
-/^https?:\/\/[^\/]+\.ly\/?$/$document
 /^https?:\/\/[^\/]+\.ma\/?$/$document
 /^https?:\/\/[^\/]+\.majikichi\.com\/?$/$document
 /^https?:\/\/[^\/]+\.makoto5711\.blog\.jp\/?$/$document
