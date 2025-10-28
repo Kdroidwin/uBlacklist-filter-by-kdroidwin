@@ -297,8 +297,12 @@
 @*://ww2.dramacool.com.tr/*
 @*://bbs.eddibb.cc/*
 @*://ww2.dramacool.com.tr/*
+@*://ww1.dramacool.com.tr/*
+@*://*.dramacool.com.tr/*
 @*://zh.moegirl.org.cn/*
 @*://moegirl.icu/*
 @*://library.hkust.edu.hk/*
 @*://www.hkmu.edu.hk/*
 @*://library.smu.edu.sg/*
+@*://dramacool.com.bo/*
+@*://javbee.vip/*
