@@ -1356,8 +1356,6 @@
 ||anincline.com^$document
 ||anipha.jp^$document
 ||anista-maga.com^$document
-||aniwave.biz^$document
-||aniyomi.jmir.xyz^$document
 ||ankekko.com^$document
 ||ankoron.com^$document
 ||ankororo.com^$document
@@ -2313,7 +2311,6 @@
 ||cyoppaya.com^$document
 ||cyteka.com^$document
 ||czumtabim.blog72.fc2.com^$document
-||d-money.jp^$document
 ||d315.cn^$document
 ||d4d.online^$document
 ||da-shinta.hatenablog.com^$document
@@ -8460,7 +8457,6 @@
 ||www.barralibremx.com^$document
 ||www.batcaveca.com^$document
 ||www.baume-et-mercier.cn^$document
-||www.bbc.co.uk^$document
 ||www.bbc2021.jp^$document
 ||www.bdo-mingo7244.net^$document
 ||www.bdzmfcq.cn^$document
