@@ -607,7 +607,6 @@
 /^https?:\/\/[^\/]+\.programmerz\.ru\/?$/$document
 /^https?:\/\/[^\/]+\.programqa\.com\/?$/$document
 /^https?:\/\/[^\/]+\.projectbackpack\.org\/?$/$document
-/^https?:\/\/[^\/]+\.ps\/?$/$document
 /^https?:\/\/[^\/]+\.purisoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.pw\/?$/$document
 /^https?:\/\/[^\/]+\.python2\.net\/?$/$document
