@@ -214,7 +214,6 @@
 *://*.com.zw/*
 *://*.coromoo.com/*
 *://*.crx7601.com/*
-*://*.cv/*
 *://*.cyou/*
 *://*.cz/*
 *://*.dj/*
@@ -287,12 +286,7 @@
 *://*.girlsvip-matome.com/*
 *://*.gm/*
 *://*.goog/*
-*://*.google.com.vn/*
 *://*.gossip1.net/*
-*://*.gov.cn/*
-*://*.gov.krd/*
-*://*.gov.my/*
-*://*.gov.ng/*
 *://*.gq/*
 *://*.hair/*
 *://*.haisoku.jp/*
@@ -392,7 +386,6 @@
 *://*.loan/*
 *://*.lol/*
 *://*.lovelivematocha.com/*
-*://*.ly/*
 *://*.ma/*
 *://*.majikichi.com/*
 *://*.makoto5711.blog.jp/*
