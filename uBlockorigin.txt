@@ -5890,7 +5890,6 @@
 ||npewurime.shop^$document
 ||npm-news-piece-mana.blog.jp^$document
 ||nponitif.jp^$document
-||npx.me^$document
 ||nqbjgl.atelier-kornacki.de^$document
 ||nrftycbrb.olephoto.de^$document
 ||nrowbyu.cn^$document
