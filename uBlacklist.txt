@@ -5838,7 +5838,6 @@
 *://npewurime.shop/*
 *://npm-news-piece-mana.blog.jp/*
 *://nponitif.jp/*
-*://npx.me/*
 *://nqbjgl.atelier-kornacki.de/*
 *://nrftycbrb.olephoto.de/*
 *://nrowbyu.cn/*
