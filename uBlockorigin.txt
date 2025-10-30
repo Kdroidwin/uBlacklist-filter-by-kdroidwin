@@ -5046,7 +5046,6 @@
 ||md.hellokit.com.cn^$document
 ||mdksblog.com^$document
 ||mdoramafan.com^$document
-||mdpr.jp^$document
 ||measurement.slot42.online^$document
 ||meat-kode.com^$document
 ||mebelim.net^$document
