@@ -5017,7 +5017,6 @@
 *://md.hellokit.com.cn/*
 *://mdksblog.com/*
 *://mdoramafan.com/*
-*://mdpr.jp/*
 *://measurement.slot42.online/*
 *://meat-kode.com/*
 *://mebelim.net/*
