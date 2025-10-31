@@ -1943,7 +1943,6 @@
 *://camplaurelcreek.com/*
 *://canaryc.com/*
 *://cancam-model.net/*
-*://cancam.jp/*
 *://candy-web.net/*
 *://canij.com/*
 *://canpmori-canpmori.com/*
@@ -5900,7 +5899,6 @@
 *://official-sites-catalog.ru/*
 *://officialsteelerslockerroom.com/*
 *://oftenmoreresilient.mch35.com/*
-*://oggi.jp/*
 *://ogiri.moshimobox.top/*
 *://ohanasi-blog.com/*
 *://ohisamaso.com/*
@@ -7031,7 +7029,6 @@
 *://smart-enta.com/*
 *://smart-items.xyz/*
 *://smartkeeperpro.xyz/*
-*://smartlog.jp/*
 *://smartmarket.app/*
 *://smartpagebk.com/*
 *://smartpharmrx.com/*
