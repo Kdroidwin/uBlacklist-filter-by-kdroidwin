@@ -1,32 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://seiyufan.livedoor.biz/*
-*://tarosoku.com/*
-*://mugitomachee.com/*
-*://jt-entertainment.co.jp/*
-*://morumoru1426.com/*
-*://blog-chiaki.com/*
-*://en.zlibrary.to/*
-*://uchiyakeiblog.com/*
-*://xs852592.xsrv.jp/*
-*://icoico.jp/*
-*://note.com/omochi0014/*
-*://www.etital.com/*
-*://aseiouemt.com/*
-*://cvfdsgdseer.com/*
-*://archviz.cn/*
-*://asdfcvsdgfdc.com/*
-*://gal.cocoloni.jp/*
-*://cocoloni.com/*
-*://help.cocoloni.jp/*
-*://websmart.zappallas.com/*
-*://cocoloni.me/*
-*://honkaku-uranai.jp/*
-*://lovefortune.zappallas.com/*
-*://kinoshita-reon.jp/*
-*://kaiuntrip.co.jp/*
-*://note.com/hamako14/*
-*://salon.jp/*
 *://*.ac.id/*
 *://*.ac.in/*
 *://*.ad.in/*
@@ -1483,6 +1456,7 @@
 *://archive.org/details/Windows10PermanentActivatorUltimate2.2.1CracksNow_20181007*
 *://archive.org/details/Windows10ProPermanentActivatorUltimate2017V2.1Viafiles.com*
 *://archiveofficial.uk/*
+*://archviz.cn/*
 *://arecorelog.com/*
 *://areealanzbind.xyz/*
 *://arekore-nikki.com/*
@@ -1531,7 +1505,9 @@
 *://asako-plus.com/*
 *://asalkhabar.com/*
 *://ascalio.xyz/*
+*://asdfcvsdgfdc.com/*
 *://asdproject.jp/*
+*://aseiouemt.com/*
 *://asesoreslinra.com/*
 *://asesoriainvima.com/*
 *://ashine-gr.com/*
@@ -1774,6 +1750,7 @@
 *://blbrv08v.r.us-east-1.awstrack.me/*
 *://bleague.bl.kuroco-img.app/*
 *://blifenavi.com/*
+*://blog-chiaki.com/*
 *://blog.almaherbal.com/*
 *://blog.codecamp.jp/*
 *://blog.earthyworld.com/*
@@ -2165,6 +2142,8 @@
 *://cocoa08.com/*
 *://cococarenote.com/*
 *://cocol.co.jp/*
+*://cocoloni.com/*
+*://cocoloni.me/*
 *://cocomirai.com/*
 *://cocone.app/*
 *://cocoppa.com/*
@@ -2312,6 +2291,7 @@
 *://cuzzell.com/*
 *://cva.unecon.ru/*
 *://cvaenb.crawfish.sa.com/*
+*://cvfdsgdseer.com/*
 *://cvkidkq.mediations-punkt.de/*
 *://cxio.thesum.xyz/*
 *://cyacyacyan.com/*
@@ -2733,6 +2713,7 @@
 *://en-ti.com/*
 *://en.atashmehr.com/*
 *://en.taiwebs.com/*
+*://en.zlibrary.to/*
 *://en1.savefrom.net/*
 *://enazoapps.com/*
 *://encar.id/*
@@ -3210,6 +3191,7 @@
 *://gaffriggauge.com/*
 *://gaikotsumatsuri.com/*
 *://gaito666.blog.fc2.com/*
+*://gal.cocoloni.jp/*
 *://galaxydesign.site/*
 *://galeriaorquideas.online/*
 *://galilexpress.com/*
@@ -3643,6 +3625,7 @@
 *://heliumboss.xyz/*
 *://hellofuture-inc.com/*
 *://helloroomies-stkgz.com/*
+*://help.cocoloni.jp/*
 *://help.cybozu.cn/*
 *://helpcurenow.org/*
 *://helpfulinfo-byrc.com/*
@@ -3761,6 +3744,7 @@
 *://honey82.com/*
 *://hongfu.jp/*
 *://honjitu.net/*
+*://honkaku-uranai.jp/*
 *://honne-channel.com/*
 *://honokaworld.com/*
 *://honsoku.com/*
@@ -3844,6 +3828,7 @@
 *://ichigoichie358.com/*
 *://ichizen.online/*
 *://icingcm9.jettysuites.com/*
+*://icoico.jp/*
 *://icpictokyo.jp/*
 *://icrrvbuy.education/*
 *://idea-noto.com/*
@@ -4173,6 +4158,7 @@
 *://jpsecengineer.com/*
 *://jsca-member--jp.proxy.shstvc.com.cn/*
 *://jsmjapan.com/*
+*://jt-entertainment.co.jp/*
 *://jtb-hotspringtickets.vip/*
 *://jtb-hotspringtickets.xyz/*
 *://jtbmusic.jp/*
@@ -4234,6 +4220,7 @@
 *://kainagi.com/*
 *://kaitori-janiyard.jp/*
 *://kaitouranmei.com/*
+*://kaiuntrip.co.jp/*
 *://kaji-amehare.com/*
 *://kajjfawjagr.lfhfdfiehgg.com/*
 *://kakeizunotobira.denshishosekidaio.com/*
@@ -4391,6 +4378,7 @@
 *://kininarunoki.com/*
 *://kininarunomori.com/*
 *://kino-code.com/*
+*://kinoshita-reon.jp/*
 *://kintarogroup.com/*
 *://kiokunashi-movie.jp/*
 *://kiragamiteru.com/*
@@ -4748,6 +4736,7 @@
 *://lounge.dmm.com/*
 *://love-all.jp/*
 *://love-glans.com/*
+*://lovefortune.zappallas.com/*
 *://lovegraph.me/*
 *://lovelive-sif.top/*
 *://loveliveallstar.top/*
@@ -5300,6 +5289,7 @@
 *://morlaine.fr/*
 *://mormonchamber.com/*
 *://morozvest.ru/*
+*://morumoru1426.com/*
 *://mossashoes.com/*
 *://mot4932.com/*
 *://motetsu.com/*
@@ -5338,6 +5328,7 @@
 *://mugi-diary.com/*
 *://mugicym.com/*
 *://mugidensetsu.com/*
+*://mugitomachee.com/*
 *://mukogawa.repo.nii.ac.jp/*
 *://multisitewoo.testbenchonline2.com/*
 *://mundouniversitario.net/*
@@ -5709,6 +5700,7 @@
 *://note.com/hachiojiiphone/*
 *://note.com/haken_se_30manen/*
 *://note.com/hakutoumomo/*
+*://note.com/hamako14/*
 *://note.com/hamu_3nd/*
 *://note.com/hitotsu_ai/*
 *://note.com/holy_beetle811
@@ -5769,6 +5761,7 @@
 *://note.com/note_rakuten23/*
 *://note.com/ojirolian/*
 *://note.com/okinisezu/*
+*://note.com/omochi0014/*
 *://note.com/open_hare4661/*
 *://note.com/orisusarusan/*
 *://note.com/outdoorlifestyle/*
@@ -6757,6 +6750,7 @@
 *://saladbowl.net/*
 *://sale-cartoons.hatenablog.com/*
 *://salecialadd.com/*
+*://salon.jp/*
 *://salongmaryamm.online/*
 *://salvajebynatysilva.com/*
 *://samba8fe.bizits.com/*
@@ -6852,6 +6846,7 @@
 *://seikatu-benri.com/*
 *://seikei-platform.com/*
 *://seirith.com/*
+*://seiyufan.livedoor.biz/*
 *://seiyuu-voiceactor.com/*
 *://sekai-kawaru.com/*
 *://sekaimanga-hitomi.com/*
@@ -7430,6 +7425,7 @@
 *://tardosk4.odonline.co.il/*
 *://taro-column.com/*
 *://taronii.com/*
+*://tarosoku.com/*
 *://taskerapk.net/*
 *://taskr.uk/*
 *://tat22.com/*
@@ -7843,6 +7839,7 @@
 *://uchihapmarathon.jp/*
 *://uchina-times.com/*
 *://uchino-kazoku321.com/*
+*://uchiyakeiblog.com/*
 *://ucla-seis.vercel.app/*
 *://udemy.benesse.co.jp/*
 *://uelog.com/*
@@ -8118,6 +8115,7 @@
 *://webdienstleistung.com/*
 *://webku.jp/*
 *://websites.milonic.com/*
+*://websmart.zappallas.com/*
 *://webst8.co.jp/*
 *://weddingchannell.com/*
 *://weibo.cn/*
@@ -8683,6 +8681,7 @@
 *://www.espacesarana.fr/*
 *://www.espacioagro.com/*
 *://www.esquire.com/*
+*://www.etital.com/*
 *://www.etsabdelmoula.com/*
 *://www.eurorvvv.org/*
 *://www.evsol.com.au/*
@@ -9962,6 +9961,7 @@
 *://xotbrrg.guru/*
 *://xrental.com/*
 *://xs679682.xsrv.jp/*
+*://xs852592.xsrv.jp/*
 *://xserver-1.com/*
 *://xsokuhou.net/*
 *://xxx.report/*
