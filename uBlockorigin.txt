@@ -1956,7 +1956,6 @@
 ||camplaurelcreek.com^$document
 ||canaryc.com^$document
 ||cancam-model.net^$document
-||cancam.jp^$document
 ||candy-web.net^$document
 ||canij.com^$document
 ||canpmori-canpmori.com^$document
@@ -4377,7 +4376,6 @@
 ||kimitagolf.com^$document
 ||kimootoko.net^$document
 ||kims-001.com^$document
-||kinarino.jp^$document
 ||kingbraintech.com^$document
 ||kingdom10.jp^$document
 ||kingdomlegacyministries.org^$document
@@ -5953,7 +5951,6 @@
 ||official-sites-catalog.ru^$document
 ||officialsteelerslockerroom.com^$document
 ||oftenmoreresilient.mch35.com^$document
-||oggi.jp^$document
 ||ogiri.moshimobox.top^$document
 ||ohanasi-blog.com^$document
 ||ohisamaso.com^$document
@@ -7095,7 +7092,6 @@
 ||smart-enta.com^$document
 ||smart-items.xyz^$document
 ||smartkeeperpro.xyz^$document
-||smartlog.jp^$document
 ||smartmarket.app^$document
 ||smartpagebk.com^$document
 ||smartpharmrx.com^$document
