@@ -1,4 +1,3 @@
-*://*/*index.php*
 *://*/*sale.php*
 *://*/*deal*
 *://*/*?abc*
