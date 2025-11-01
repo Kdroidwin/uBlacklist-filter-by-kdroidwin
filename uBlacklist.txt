@@ -4916,7 +4916,6 @@
 *://mango.co.jp/*
 *://mankaikana.com/*
 *://manpukubiyori.com/*
-*://mantan-web.jp/*
 *://manzana40.com/*
 *://maonkurosaki.com/*
 *://map.welcomekyushu.cn/*
