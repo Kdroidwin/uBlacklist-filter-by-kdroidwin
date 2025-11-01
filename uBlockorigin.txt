@@ -4815,7 +4815,6 @@
 ||m.wildstar.com.cn^$document
 ||m.yuugafas.com^$document
 ||m1bpk6f0e.dottoremiascolti.it^$document
-||m32006400n.xsrv.jp^$document
 ||m83afuvlx.marcel-geht-garnicht.de^$document
 ||ma-mekore.com^$document
 ||ma-net.jp^$document
@@ -6458,7 +6457,6 @@
 ||rabbanmoto.com^$document
 ||rabwatalriyad.com^$document
 ||radiolav.ru^$document
-||radiolife.com^$document
 ||radiopica.net^$document
 ||rafafernandezphotography.com^$document
 ||ragsoutfitters.com^$document
