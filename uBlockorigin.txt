@@ -4945,7 +4945,6 @@
 ||mango.co.jp^$document
 ||mankaikana.com^$document
 ||manpukubiyori.com^$document
-||mantan-web.jp^$document
 ||manzana40.com^$document
 ||maonkurosaki.com^$document
 ||map.welcomekyushu.cn^$document
