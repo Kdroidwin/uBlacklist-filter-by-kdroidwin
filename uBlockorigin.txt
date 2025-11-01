@@ -1563,7 +1563,6 @@
 ||auditable.cl^$document
 ||auditexpert.net^$document
 ||augma.fandom.com^$document
-||aumo.jp^$document
 ||auqotakh.ltd^$document
 ||aurora-village.com.au^$document
 ||autocosmeticsny.com^$document
@@ -1620,7 +1619,6 @@
 ||bad-labo.com^$document
 ||baghdadacademydom.com^$document
 ||baikal.boats^$document
-||baila.hpplus.jp^$document
 ||baixarapk.gratis^$document
 ||bakery-fukufuku.com^$document
 ||bakuhou-geinou.net^$document
@@ -1672,7 +1670,6 @@
 ||beararms.gr^$document
 ||beasyouareramana.com^$document
 ||beatriceinsurance.com^$document
-||beauty.hotpepper.jp^$document
 ||beautybest.jp^$document
 ||beaver-global.com^$document
 ||bebordeaux.jp^$document
@@ -1817,7 +1814,6 @@
 ||boftech.net^$document
 ||bohena-made.com^$document
 ||bohusbanken.com^$document
-||bokete.jp^$document
 ||bokoguma.com^$document
 ||boku-tabi.com^$document
 ||boku-wasa-kina.com^$document
@@ -1830,7 +1826,6 @@
 ||bonhikari.com^$document
 ||bonnychamber.com^$document
 ||booberries.id^$document
-||book-arrows.jp^$document
 ||book-day.com^$document
 ||book.dldlinks.com^$document
 ||book.himepai.com^$document
@@ -2167,7 +2162,6 @@
 ||coin-media.jp^$document
 ||cojiyuki.com^$document
 ||cojlqcri.support^$document
-||coki.jp^$document
 ||coldlab.cn^$document
 ||colinux.jp^$document
 ||collectnews01.com^$document
@@ -2483,7 +2477,6 @@
 ||dmmdoujinn.com^$document
 ||dmoss-ci.com^$document
 ||dmpatent.com^$document
-||dmusic.docomo.ne.jp^$document
 ||dnrhoee.com^$document
 ||do.hiraku946.jp^$document
 ||doboku21.com^$document
@@ -2578,7 +2571,6 @@
 ||dramind.net^$document
 ||drasheilacarvalho.com^$document
 ||drdougcraig.com^$document
-||dream.jp^$document
 ||dream04090129.biz^$document
 ||dream0820.com^$document
 ||dream4you.jp^$document
