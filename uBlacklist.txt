@@ -4787,7 +4787,6 @@
 *://m.wildstar.com.cn/*
 *://m.yuugafas.com/*
 *://m1bpk6f0e.dottoremiascolti.it/*
-*://m32006400n.xsrv.jp/*
 *://m83afuvlx.marcel-geht-garnicht.de/*
 *://ma-mekore.com/*
 *://ma-net.jp/*
@@ -6402,7 +6401,6 @@
 *://rabbanmoto.com/*
 *://rabwatalriyad.com/*
 *://radiolav.ru/*
-*://radiolife.com/*
 *://radiopica.net/*
 *://rafafernandezphotography.com/*
 *://ragsoutfitters.com/*
