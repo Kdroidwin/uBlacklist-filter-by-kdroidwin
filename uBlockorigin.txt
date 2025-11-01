@@ -1956,7 +1956,6 @@
 ||cameronlorenc.com^$document
 ||camp.trainocate.co.jp^$document
 ||campanellafishing.shogic.xyz^$document
-||camphack.nap-camp.com^$document
 ||camplaurelcreek.com^$document
 ||canaryc.com^$document
 ||cancam-model.net^$document
