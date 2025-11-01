@@ -6349,7 +6349,6 @@
 *://promotions.champs-sportsclub.com/*
 *://proteamworks.com/*
 *://proyectolibelulaverde.com/*
-*://prtimes.jp/*
 *://prwireonline.com/*
 *://psalmsforkids.com/*
 *://psd-drugstore.com/*
@@ -8799,11 +8798,6 @@
 *://www.goldcoastwalker.com/*
 *://www.golden-strike.ru/*
 *://www.goma-books.com/*
-*://www.goodreads.com/*
-*://www.google.co.uk/*
-*://www.google.com.ru/*
-*://www.google.me/*
-*://www.google.ru/*
 *://www.goship.cn/*
 *://www.goyalgoyal.com/*
 *://www.goyard.cn/*
