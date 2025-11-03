@@ -1260,6 +1260,7 @@
 ||always-motomachi.live^$document
 ||alwofnce.xyz^$document
 ||alyevs.com^$document
+||am-portfolio.com^$document
 ||ama-industry.jp^$document
 ||amacsindia.com^$document
 ||amadige.com^$document
@@ -1364,6 +1365,7 @@
 ||announcer-room.net^$document
 ||anogate.jp^$document
 ||anogeinoujinnoima.com^$document
+||anohito-genzai-matome.com^$document
 ||anohito-genzai.com^$document
 ||anohito.xyz^$document
 ||anomura.jp^$document
@@ -1531,6 +1533,7 @@
 ||askmrcoupon.com^$document
 ||asobell.jp^$document
 ||asoboolog.com^$document
+||asotalk.com^$document
 ||asoworld.com^$document
 ||aspaen.edu.co^$document
 ||associazionerivieradelconero.com^$document
@@ -1571,11 +1574,13 @@
 ||avaerocapital.com^$document
 ||avantiegypt.com^$document
 ||avasam.ir^$document
+||aviator-movie.jp^$document
 ||avobild.life^$document
 ||avtonomka-service.online^$document
 ||awadhjagaran.com^$document
 ||awais-javed.com^$document
 ||awaisora.com^$document
+||awako99718.com^$document
 ||awards.cgmagazine.biz^$document
 ||awayokuba50.hatenablog.com^$document
 ||awazu-gh.jp^$document
@@ -1641,6 +1646,7 @@
 ||barrioantiguomex.com^$document
 ||bartbeale.online^$document
 ||baryokocho.jp^$document
+||baseballfanfan.com^$document
 ||baseballx.jp^$document
 ||basesx6f.virtual-na.org^$document
 ||bastikasi.com.tr^$document
@@ -1654,6 +1660,7 @@
 ||bazaraj.com^$document
 ||bazu-word.com^$document
 ||bazuyomi.com^$document
+||bazz-labo.com^$document
 ||bb-com.conohawing.com^$document
 ||bbb2infap002-it.labo.sbb-sys.info^$document
 ||bbhylife.com^$document
@@ -1679,6 +1686,7 @@
 ||beginner-husband.com^$document
 ||begood.solutions^$document
 ||behappy-lifeblog.com^$document
+||beigetulip.com^$document
 ||beko-diary417.com^$document
 ||bela-movie.com^$document
 ||belcy.jp^$document
@@ -1935,6 +1943,7 @@
 ||byp.yongjoo.za.com^$document
 ||byslww.cn^$document
 ||bzdiy.taobao.com^$document
+||bzmm.jp^$document
 ||c-clays.com^$document
 ||c-edge.fashion^$document
 ||c-grill.com^$document
@@ -2026,6 +2035,7 @@
 ||chandraveerniwas.com^$document
 ||changcoroom.com^$document
 ||chanmii.com^$document
+||channel-rei.com^$document
 ||chaonoheya.com^$document
 ||chapro.jp^$document
 ||character-goods.jp/manga*^$document
@@ -2347,6 +2357,7 @@
 ||dario-blog.com^$document
 ||darwins-game.fandom.com^$document
 ||dasan18.com^$document
+||dashlifefam.com^$document
 ||data.shinkenchiku.online^$document
 ||datacentre.me^$document
 ||datsumo-navi1.com^$document
@@ -2462,6 +2473,7 @@
 ||distrec.cruchi.com^$document
 ||diversepopulationand.nczx4.com^$document
 ||diversity-for-peace.com^$document
+||diy44taku.com^$document
 ||diysoy.hatenablog.com^$document
 ||djewelonline.com^$document
 ||djziy.com^$document
@@ -2507,6 +2519,7 @@
 ||dojinmanga.net^$document
 ||dojinparadiso.jp^$document
 ||dokdok2023.jp^$document
+||dokidoki-info.com^$document
 ||dokodekau.hatenablog.com^$document
 ||dokushoaoki.com^$document
 ||dokusyoka2narou.com^$document
@@ -3119,6 +3132,7 @@
 ||fuelmovie.com^$document
 ||fufeng.xincun666.cn^$document
 ||fuji-ink-japan.jp^$document
+||fuji-non.com^$document
 ||fuji3mame39.com^$document
 ||fujifilm.ru^$document
 ||fujimoto-boutique.com^$document
@@ -3267,6 +3281,7 @@
 ||geino.press^$document
 ||geinoidolfan.hatenablog.com^$document
 ||geinoiroiro.com^$document
+||geinou-kekkon.jp^$document
 ||geinou-media.com^$document
 ||geinou-now.net^$document
 ||geinou-resistance.info^$document
@@ -3278,7 +3293,9 @@
 ||geinounewstorenndo.blog.ss-blog.jp^$document
 ||geinouninzin.net^$document
 ||geinoupanda.com^$document
+||geinoutopics.com^$document
 ||geinouwadai.com^$document
+||geinouyuumei.com^$document
 ||geinouzin.net^$document
 ||geisposoul.com^$document
 ||geitopi.com^$document
@@ -3377,6 +3394,7 @@
 ||globalpop-trend.com^$document
 ||globaxiscorp.com^$document
 ||globeflightdeals.com^$document
+||glowluxv.com^$document
 ||gluglu.jp^$document
 ||gmeetmeat.xyz^$document
 ||gmk.be^$document
@@ -3540,9 +3558,11 @@
 ||hameets.com^$document
 ||hamerahomes.com^$document
 ||hamlimit-blog.com^$document
+||hamuracity.jp^$document
 ||hana-naya.jp^$document
 ||hana-okane.com/temu-reviews^$document
 ||hanahanahappy.com^$document
+||hanahappyblog.com^$document
 ||hanaji-dakimakura.taobao.com^$document
 ||hanakuro.jp^$document
 ||hananoree.com^$document
@@ -3562,12 +3582,14 @@
 ||hapicys.com^$document
 ||hapiee.com^$document
 ||hapinyan.com^$document
+||happinessourlife.com^$document
 ||happinesswords.com^$document
 ||happy-aya-show.org^$document
 ||happy-day.watish.xyz^$document
 ||happy-days777.com^$document
 ||happy-drops.site^$document
 ||happy-freeeeee77.com^$document
+||happy-go-lucky.jp^$document
 ||happy-gohan.com^$document
 ||happy-happy-news.com^$document
 ||happy-life-style.net^$document
@@ -3686,6 +3708,7 @@
 ||himamanga.com^$document
 ||himatsui.com^$document
 ||himawari-lys.com^$document
+||himawari-record.com^$document
 ||himeji-sdgs-expo.com^$document
 ||himemizu.com^$document
 ||himitsu-ch.com^$document
@@ -3770,6 +3793,7 @@
 ||horror-panic-manga.tokyo^$document
 ||hoshi-boutique.com^$document
 ||hoshi-hitomi.marouge.jp^$document
+||hoshimemo.com^$document
 ||hosigumi.hatenablog.com^$document
 ||hosoho.jp^$document
 ||hosyusokuhou.jp^$document
@@ -3878,6 +3902,7 @@
 ||ikemen-love.com^$document
 ||ikemenjiten.com^$document
 ||ikesuto.com^$document
+||ikigome.com^$document
 ||ikkyusan.jp^$document
 ||iknowte.com^$document
 ||ikujipapa.net^$document
@@ -4203,6 +4228,7 @@
 ||jyibtrai.pharmaciedubourguet.fr^$document
 ||jyoshiana.com^$document
 ||jyoshianaguguru.com^$document
+||jyosokoaiko.hatenablog.com^$document
 ||k-bass.com^$document
 ||k-benibana.jp^$document
 ||k-bys.work^$document
@@ -4216,6 +4242,7 @@
 ||ka-mato-ru.com^$document
 ||kab.uspu.ru^$document
 ||kabeeroptics.com^$document
+||kabukist.com^$document
 ||kachilogy.com^$document
 ||kachinet.jp^$document
 ||kadaidilli.com^$document
@@ -4458,6 +4485,7 @@
 ||komatsushima-life.net^$document
 ||komeda.club^$document
 ||komeko.club^$document
+||komfortavivo.com^$document
 ||kominamiyasuha.jp^$document
 ||komono.me^$document
 ||komugi-web.site^$document
@@ -4754,6 +4782,7 @@
 ||louisvuitton-senmon.jp^$document
 ||lounge.dmm.com^$document
 ||love-all.jp^$document
+||love-butai.net^$document
 ||love-glans.com^$document
 ||lovefortune.zappallas.com^$document
 ||lovegraph.me^$document
@@ -5052,6 +5081,7 @@
 ||measurement.slot42.online^$document
 ||meat-kode.com^$document
 ||mebelim.net^$document
+||mecha-entame.com^$document
 ||mechasiko.com^$document
 ||mechoice.jp^$document
 ||meconnect.ru^$document
@@ -5175,6 +5205,7 @@
 ||mindundermuscle.com^$document
 ||mine-chan.com^$document
 ||mini-memo.com^$document
+||minimalblogtest.com^$document
 ||miniminimiutat.com^$document
 ||minkusu.me^$document
 ||minnano-idol.com^$document
@@ -5408,6 +5439,7 @@
 ||nagisa.online^$document
 ||nagomiyamadoromi.jp^$document
 ||nagoyajo.webmasteris.me^$document
+||nagoyanotes.com^$document
 ||nahdionline.shop^$document
 ||naikougata-tosan.com^$document
 ||nailsavenuepenrith.com^$document
@@ -5445,6 +5477,7 @@
 ||nanyanostore.com^$document
 ||nao-games.com^$document
 ||nao-newpaper.com^$document
+||naokichi777.com^$document
 ||naomama-blog.com^$document
 ||naommy8zomer.me^$document
 ||naoolabo.com^$document
@@ -5898,6 +5931,7 @@
 ||nqbjgl.atelier-kornacki.de^$document
 ||nrftycbrb.olephoto.de^$document
 ||nrowbyu.cn^$document
+||ns-blog.com^$document
 ||ns-kumaneko.com^$document
 ||nsl-enter.com^$document
 ||nsw2u.com^$document
@@ -6064,9 +6098,11 @@
 ||osaka.powerhousegym.jp^$document
 ||osamunoyume.com^$document
 ||osarai-media.net^$document
+||osatobuririand.com^$document
 ||osenblog.com^$document
 ||oseti.club^$document
 ||oshi-gadgetlog.hatenablog.com^$document
+||oshi-life.com^$document
 ||oshikeiblog.com^$document
 ||oshinisasageru.com^$document
 ||osijyo.com^$document
@@ -6427,6 +6463,7 @@
 ||qliziwo.cn^$document
 ||qltone.com^$document
 ||qoly.jp^$document
+||qoo-weblife.com^$document
 ||qoob.name^$document
 ||qoupyoo771-ocn.xyz^$document
 ||qpqotbrxnr.shop^$document
@@ -6535,6 +6572,7 @@
 ||reicherumama.com^$document
 ||rekisiru.com^$document
 ||relationshipannex.com^$document
+||relaxandslowly-soh.com^$document
 ||relay.blackcountryhealthcare.nhs.uk^$document
 ||reletovk.mydees.com^$document
 ||relianceautoservices.com^$document
@@ -6637,6 +6675,7 @@
 ||ridgeways.shadelmontessoricentre.com^$document
 ||riekoblog.com^$document
 ||rika333ep.com^$document
+||rikeilifeblog.com^$document
 ||rillyblog.net^$document
 ||rily.miya-rin7.com^$document
 ||rinboowyaboow.com^$document
@@ -6644,6 +6683,7 @@
 ||rinda-tokyo.com^$document
 ||ringomagazine.com^$document
 ||ringono-kimochi.com^$document
+||rinovation10.xsrv.jp^$document
 ||rinrenblog.com^$document
 ||rins-rin-mei.blog.ss-blog.jp^$document
 ||rinx-mens.com^$document
@@ -6912,6 +6952,7 @@
 ||sentou.jp^$document
 ||septem-notes.com^$document
 ||sergiolevinsky.com^$document
+||serorino-hitorigoto.com^$document
 ||server2.jpware.com^$document
 ||services.awaisora.com^$document
 ||servletcentral.com^$document
@@ -6935,9 +6976,11 @@
 ||shauncafe.com^$document
 ||shaunkentarme-zakkiblog.com^$document
 ||shawn620.online^$document
+||sheeny.com.tw^$document
 ||shiawaseninaritai.com^$document
 ||shibutaisai.com^$document
 ||shicony.com^$document
+||shieryu.com^$document
 ||shiftchurch.com^$document
 ||shigemaru.info^$document
 ||shiggymania.com^$document
@@ -6957,6 +7000,7 @@
 ||shin41.net^$document
 ||shinachiku.com^$document
 ||shinafu.jp^$document
+||shinchantrend.com^$document
 ||shine-egg.com^$document
 ||shineeday.com^$document
 ||shingeki-no-nakayama.com^$document
@@ -7044,6 +7088,7 @@
 ||sikanosima.jp^$document
 ||sikiroom.com^$document
 ||silkenfeline.com^$document
+||silver-allure.com^$document
 ||sim-studio-unify.com^$document
 ||simeji.me^$document
 ||simkids.jp^$document
@@ -7154,6 +7199,7 @@
 ||sonohanasi.com^$document
 ||sonopol.com^$document
 ||sootythq.redeagle-security.com^$document
+||sora-ala.com^$document
 ||sorahime.com^$document
 ||soramugiblog.com^$document
 ||soranews24.com^$document
@@ -7338,6 +7384,7 @@
 ||superiorspamfilter.com^$document
 ||supershuttle.jp^$document
 ||supjav.jp^$document
+||supo-tu-fan.com^$document
 ||support--apple--com---z72bdwww--hbcredit--gov--cn.ipv6.hbzw.gov.cn^$document
 ||support--office--com---z3a8dwww--hunan--gov--cn.ipv6.hunan.gov.cn^$document
 ||support.amzdata.cn^$document
@@ -7426,6 +7473,7 @@
 ||tajimi-akiyabank.jp^$document
 ||tak16.com^$document
 ||taka-chest-crescita.com^$document
+||taka-ta.com^$document
 ||taka20218.com^$document
 ||takachin-oji.net^$document
 ||takahappy-family.com^$document
@@ -7706,6 +7754,7 @@
 ||topitopi-life.com^$document
 ||toplog.jp^$document
 ||topnews00.com^$document
+||topspeed.life^$document
 ||toranoko.com^$document
 ||torasan1.com^$document
 ||torecharu.blog^$document
@@ -7837,6 +7886,7 @@
 ||tsukae.ru^$document
 ||tsuki-ai.co.jp^$document
 ||tsukiakari-boutique.com^$document
+||tsukuhote.jp^$document
 ||tsumuji-kosodate.com^$document
 ||tsup-eis.ru^$document
 ||tsuru.top^$document
@@ -8218,6 +8268,7 @@
 ||winksuv8.formachasia.com^$document
 ||winoogov.com^$document
 ||wise-media-factory.com^$document
+||wisteriablog.net^$document
 ||wizbiz.me^$document
 ||wizy.jp^$document
 ||wkkgq.com^$document
@@ -8334,6 +8385,7 @@
 ||www.adachi-kiyoshi.com^$document
 ||www.adobe.ex1.https.443.g3.ipv6.lbq.gov.cn^$document
 ||www.advancedpf.ca^$document
+||www.aeltcc.org^$document
 ||www.aeon-pokemon-go.com^$document
 ||www.aept-org.com^$document
 ||www.aequitasgroup.eu^$document
@@ -8750,6 +8802,7 @@
 ||www.f-its.co.jp^$document
 ||www.fa-fa.co.uk^$document
 ||www.fadein.cn^$document
+||www.fallintv.com^$document
 ||www.fami-geki.com^$document
 ||www.familypark.jp^$document
 ||www.farmamedica.mx^$document
@@ -9023,6 +9076,7 @@
 ||www.jokky.net^$document
 ||www.jon123.com^$document
 ||www.jooaywg.cn^$document
+||www.joystage.online^$document
 ||www.jpachecoferreira.pt^$document
 ||www.jpkjaxn.cn^$document
 ||www.jpzentai.com^$document
@@ -9151,6 +9205,7 @@
 ||www.mag2.com^$document
 ||www.magic-panda.com^$document
 ||www.magiskmodule.com^$document
+||www.magmoe.com^$document
 ||www.magtu.ru^$document
 ||www.maidencane.com^$document
 ||www.maidoshop.com^$document
@@ -9298,6 +9353,7 @@
 ||www.nhyxmsy.cn^$document
 ||www.nicigas.shop^$document
 ||www.nigehbancompoundingpharmacy.com^$document
+||www.nikkansports.com^$document
 ||www.niksonline.com^$document
 ||www.nishino-it-office.com^$document
 ||www.nishinomiya-city.jp^$document
@@ -9524,6 +9580,7 @@
 ||www.sahinbangla.com^$document
 ||www.sakai-setsubi.com^$document
 ||www.sakura0423.com^$document
+||www.sakurai-shimin.jp^$document
 ||www.sakuraso.co.jp^$document
 ||www.salesforintroverts.com^$document
 ||www.samacharvichar.in^$document
@@ -9638,6 +9695,7 @@
 ||www.stradvert.com^$document
 ||www.studioworks.co.in^$document
 ||www.sudzfundraising.com^$document
+||www.sugudeki-tateshina.jp^$document
 ||www.sunshinecoast.surf^$document
 ||www.supergenji.jp^$document
 ||www.superstarpledis.jp^$document
@@ -10088,6 +10146,7 @@
 ||yifymovies.cx^$document
 ||yiliam86.taobao.com^$document
 ||yimmease.com^$document
+||yjojojo.info^$document
 ||yjtoraim.com^$document
 ||yk-bijin.com^$document
 ||ymg-shk.go.jp^$document
@@ -10186,6 +10245,7 @@
 ||ytrevanced.app^$document
 ||ytricks.co^$document
 ||yu-blo.com^$document
+||yu-check-news.com^$document
 ||yu-design51.com^$document
 ||yu-trend.com^$document
 ||yubbonnie.com^$document
@@ -10196,6 +10256,7 @@
 ||yuhiko-blog1.com^$document
 ||yuhiya1627.com^$document
 ||yuka-arrgtlife.com^$document
+||yuka222.com^$document
 ||yukaiakansyasai.ciao.jp^$document
 ||yukarikh.com^$document
 ||yukata-sienne.jp^$document
@@ -10253,6 +10314,7 @@
 ||yxqljx.com^$document
 ||yy-note.com^$document
 ||yylifeblog.com^$document
+||yyoweb.com^$document
 ||yzkzixun.com^$document
 ||z-lib.ai^$document
 ||z-lib.club^$document
