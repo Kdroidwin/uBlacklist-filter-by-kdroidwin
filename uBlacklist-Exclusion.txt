@@ -307,3 +307,4 @@
 @*://dramacool.com.bo/*
 @*://javbee.vip/*
 @*://light-novel-wiki.hutami-blog.com/*
+@*://kdroid.club/*
