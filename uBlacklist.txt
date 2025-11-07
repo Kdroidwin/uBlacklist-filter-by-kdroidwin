@@ -99,7 +99,6 @@
 *://*.com.bg/*
 *://*.com.bh/*
 *://*.com.bj/*
-*://*.com.bo/*
 *://*.com.bs/*
 *://*.com.bt/*
 *://*.com.bw/*
@@ -111,7 +110,6 @@
 *://*.com.co/*
 *://*.com.cr/*
 *://*.com.cu/*
-*://*.com.cv/*
 *://*.com.cz/*
 *://*.com.dk/*
 *://*.com.dm/*
