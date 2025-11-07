@@ -6170,7 +6170,6 @@
 *://pcgamestorrents.com/*
 *://pcgamestorrents.org/*
 *://pcmac.download/*
-*://pdalife.com/*
 *://pdelect.com/*
 *://pdf.wondershare.jp/*
 *://pdilms.com/*
