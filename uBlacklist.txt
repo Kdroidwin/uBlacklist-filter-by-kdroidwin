@@ -3965,7 +3965,6 @@
 *://internetexpo.net/*
 *://inthadoor.com/*
 *://intilabs.com/*
-*://intojapanwaraku.com/*
 *://intuit.me/*
 *://inuneko-media.com/*
 *://investor-350z.com/*
@@ -9274,7 +9273,6 @@
 *://www.nhyxmsy.cn/*
 *://www.nicigas.shop/*
 *://www.nigehbancompoundingpharmacy.com/*
-*://www.nikkansports.com/*
 *://www.niksonline.com/*
 *://www.nishino-it-office.com/*
 *://www.nishinomiya-city.jp/*
