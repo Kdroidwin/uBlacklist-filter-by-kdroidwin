@@ -3989,7 +3989,6 @@
 ||internetexpo.net^$document
 ||inthadoor.com^$document
 ||intilabs.com^$document
-||intojapanwaraku.com^$document
 ||intuit.me^$document
 ||inuneko-media.com^$document
 ||investor-350z.com^$document
@@ -9352,7 +9351,6 @@
 ||www.nhyxmsy.cn^$document
 ||www.nicigas.shop^$document
 ||www.nigehbancompoundingpharmacy.com^$document
-||www.nikkansports.com^$document
 ||www.niksonline.com^$document
 ||www.nishino-it-office.com^$document
 ||www.nishinomiya-city.jp^$document
