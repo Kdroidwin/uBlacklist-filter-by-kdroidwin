@@ -6223,7 +6223,6 @@
 ||pcgamestorrents.com^$document
 ||pcgamestorrents.org^$document
 ||pcmac.download^$document
-||pdalife.com^$document
 ||pdelect.com^$document
 ||pdf.wondershare.jp^$document
 ||pdilms.com^$document
