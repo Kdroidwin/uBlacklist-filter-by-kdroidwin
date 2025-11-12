@@ -29,7 +29,7 @@
 /^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.ar\/?$/$document
 /^https?:\/\/[^\/]+\.art\-vision\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.asia\/?$/$document
+||asia^$doc,domain=~amzn.asia|~autoads.asia|~bandainamcoent.asia|~dbankcloud.asia|~disney.asia|~elgaucho.asia|~homelands.asia|~livwell.asia|~pansci.asia|~rainviewer.asia|~shopdisney.asia
 /^https?:\/\/[^\/]+\.asterisk0\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.asusno22\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.atlaq\.com\/?$/$document
