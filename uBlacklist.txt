@@ -381,7 +381,6 @@
 *://*.lifehack2ch.livedoor.biz/*
 *://*.linkedin.com.vn/*
 *://*.loan/*
-*://*.lol/*
 *://*.lovelivematocha.com/*
 *://*.ma/*
 *://*.majikichi.com/*
