@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://moominmamma.com/*
 *://*.ac.id/*
 *://*.ac.in/*
 *://*.ad.in/*
@@ -5296,6 +5295,7 @@
 *://montblues.com/*
 *://monuke.com/*
 *://mook.the-moon.xyz/*
+*://moominmamma.com/*
 *://moon-calendar.jp/*
 *://moonkoradjirecords.bandcamp.com/*
 *://moosic-lab.com/*

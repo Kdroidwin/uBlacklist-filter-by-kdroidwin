@@ -29,7 +29,6 @@
 /^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.ar\/?$/$document
 /^https?:\/\/[^\/]+\.art\-vision\.jp\/?$/$document
-||asia^$doc,domain=~amzn.asia|~autoads.asia|~bandainamcoent.asia|~dbankcloud.asia|~disney.asia|~elgaucho.asia|~homelands.asia|~livwell.asia|~pansci.asia|~rainviewer.asia|~shopdisney.asia
 /^https?:\/\/[^\/]+\.asterisk0\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.asusno22\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.atlaq\.com\/?$/$document
@@ -1505,6 +1504,7 @@
 ||ashine-gr.com^$document
 ||ashitamohare.com^$document
 ||ashradar.com^$document
+||asia^$doc,domain=~amzn.asia|~autoads.asia|~bandainamcoent.asia|~dbankcloud.asia|~disney.asia|~elgaucho.asia|~homelands.asia|~livwell.asia|~pansci.asia|~rainviewer.asia|~shopdisney.asia
 ||asifkhanshakir.com^$document
 ||asigau.com.pg^$document
 ||asilisas.buzz^$document
@@ -4750,7 +4750,6 @@
 ||ljla.uk^$document
 ||ljnrtnuf.life^$document
 ||lk-life.net^$document
-||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml|~digit.ml|~ai.ml|~interpret.ml|~ushi.ml
 ||lmhfxdp.life^$document
 ||lms.learningbox.online^$document
 ||lms.medreseti.com^$document
@@ -5259,6 +5258,7 @@
 ||mizumoto-blog.com^$document
 ||mk8-robo.com^$document
 ||mkm.maturbit.sa.com^$document
+||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml|~digit.ml|~ai.ml|~interpret.ml|~ushi.ml
 ||mlkm221021.com^$document
 ||mm-smile.net^$document
 ||mmexfj.com^$document
@@ -5324,6 +5324,7 @@
 ||montblues.com^$document
 ||monuke.com^$document
 ||mook.the-moon.xyz^$document
+||moominmamma.com^$document
 ||moon-calendar.jp^$document
 ||moonkoradjirecords.bandcamp.com^$document
 ||moosic-lab.com^$document
@@ -7695,8 +7696,8 @@
 ||titi-time.com^$document
 ||tits.fetishp.com^$document
 ||tk-create.com^$document
-||tk^$doc,domain=~air.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk|~yado.tk|~www.nabeta.tk|~www.dot.tk|~labo.wovs.tk|~www.bcllub.tk|~hogehoge.tk
 ||tk-kmt.jp^$document
+||tk^$doc,domain=~air.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk|~yado.tk|~www.nabeta.tk|~www.dot.tk|~labo.wovs.tk|~www.bcllub.tk|~hogehoge.tk
 ||tklog.work^$document
 ||tkm-3.com^$document
 ||tktktakunet.com^$document
