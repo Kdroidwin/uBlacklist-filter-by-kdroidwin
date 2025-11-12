@@ -928,6 +928,7 @@
 ||4tgqv5c.hautnah-wellnessundbodyforming.de^$document
 ||51.158.113.15^$document
 ||51with.cn^$document
+||520vr.com^$document
 ||52proxy.xyz^$document
 ||539019.bitgetexchange.online^$document
 ||54.197.245.249^$document
@@ -1392,6 +1393,9 @@
 ||apk.tools^$document
 ||apk4free.net^$document
 ||apkcombo.com/ja/revanced^$document
+||apkcombo.com^$document
+||apkcombo.it.com^$document
+||apkcombo.my^$document
 ||apkcunk.com^$document
 ||apkdirectory.com^$document
 ||apkdone.com^$document
@@ -1517,6 +1521,7 @@
 ||asotalk.com^$document
 ||asoworld.com^$document
 ||aspaen.edu.co^$document
+||assirobo.com^$document
 ||associazionerivieradelconero.com^$document
 ||astran.jp^$document
 ||astrons.jp^$document
@@ -2072,6 +2077,7 @@
 ||chobizo.com^$document
 ||chocobat-gyakushu.com^$document
 ||chocochico.net^$document
+||choice.ameba.jp^$document
 ||chomangasokuho.blog.jp^$document
 ||chops.chips.jp^$document
 ||chops.xsrv.jp^$document
@@ -2114,8 +2120,8 @@
 ||cleangreenspk.com^$document
 ||cleartechrecruiting.com^$document
 ||clibomanager.com^$document
-||click^$doc,domain=~am-videos.click|~buybox.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~wmg.click|~cpstest.click|~chattering.click|~kaitouyoushi.click|~watchtv.click|~gamei.click|~birahijab.click|~fasty.click
 ||click.mail1.welcomebreak.online^$document
+||click^$doc,domain=~am-videos.click|~buybox.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~wmg.click|~cpstest.click|~chattering.click|~kaitouyoushi.click|~watchtv.click|~gamei.click|~birahijab.click|~fasty.click
 ||clickfordetayiso.online^$document
 ||client.v.just.edu.cn^$document
 ||clientes.selecmoda.com^$document
@@ -2297,6 +2303,7 @@
 ||cyamatrend.com^$document
 ||cyberapp.ru^$document
 ||cyberbiatch.com^$document
+||cybersecurity-jp.com/contents/internet^$document
 ||cybrigtejtreexrx.xyz^$document
 ||cymolb7h.cjfoodmanagement.com.my^$document
 ||cyoppaya.com^$document
@@ -2567,6 +2574,7 @@
 ||dramind.net^$document
 ||drasheilacarvalho.com^$document
 ||drdougcraig.com^$document
+||dream-up.co.jp^$document
 ||dream04090129.biz^$document
 ||dream0820.com^$document
 ||dream4you.jp^$document
@@ -2829,6 +2837,7 @@
 ||eroge.dldshare.net^$document
 ||eroge.erodl.cfbx.jp^$document
 ||erogetorrent2.blog.fc2.com^$document
+||erogumi.net^$document
 ||eromancomi.com^$document
 ||eromanga-group.com^$document
 ||eromanga-guts.com^$document
@@ -3196,6 +3205,7 @@
 ||gadget888.hatenablog.com^$document
 ||gaffriggauge.com^$document
 ||gaikotsumatsuri.com^$document
+||gainoheya.com^$document
 ||gaito666.blog.fc2.com^$document
 ||gal.cocoloni.jp^$document
 ||galaxydesign.site^$document
@@ -3216,6 +3226,7 @@
 ||gamesoku.dreamlog.jp^$document
 ||gaming-select.com^$document
 ||gamoblog.net^$document
+||gamushara-lab.jp^$document
 ||ganbarinote.net^$document
 ||ganbariyasan.com^$document
 ||ganmen-houkai.com^$document
@@ -3479,6 +3490,7 @@
 ||griselymasajistas.com^$document
 ||grnmaquinarias.com^$document
 ||group.gmo^$document
+||groupie55.com^$document
 ||grpasba.xyz^$document
 ||gsepn.net^$document
 ||gtvktae.cn^$document
@@ -3585,6 +3597,7 @@
 ||happymorning0816.com^$document
 ||happynewstopics.com^$document
 ||happynyan.com^$document
+||happyremon.com^$document
 ||happyrico.com^$document
 ||happys365.com^$document
 ||happyshufus.com^$document
@@ -3605,6 +3618,7 @@
 ||harriet-movie.jp^$document
 ||harrysdial.com^$document
 ||haru-journal.com^$document
+||haru-lab.jp^$document
 ||harublooming.jp^$document
 ||harugon12.com^$document
 ||haruhana2023.com^$document
@@ -3679,6 +3693,7 @@
 ||higo-yokamon.jp^$document
 ||hikaku.kurashiru.com/articles/01HN2DXRTNS65RH065F76088MW*^$document
 ||hikaku.kurashiru.com^$document
+||hikamoba.com^$document
 ||hikari-iyashi.com^$document
 ||hikaribatake.com^$document
 ||hikitasan-gokainin.com^$document
@@ -4056,6 +4071,7 @@
 ||ja-beta-reactjs-org.vercel.app^$document
 ||ja.all10soft.com^$document
 ||ja.miki.com^$document
+||ja.safetydetectives.com^$document
 ||ja.taiwebs.com^$document
 ||ja.wikipedia.sky4k.top^$document
 ||ja.wizcase.com^$document
@@ -4089,6 +4105,7 @@
 ||japex.ru^$document
 ||jardinesjusto.com^$document
 ||javelinmitsu.com^$document
+||jayamerica.com^$document
 ||jayemmafarms.com^$document
 ||jayouth-hokkaido.jp^$document
 ||jblwealthstrategies.com^$document
@@ -4440,6 +4457,7 @@
 ||kn-q.com^$document
 ||knocknockblog.com^$document
 ||knotyet.jp^$document
+||knowledge-cafe.net^$document
 ||knowledgerooms.net^$document
 ||ko-ima.com^$document
 ||ko-pu.com^$document
@@ -4569,6 +4587,7 @@
 ||kuroshiba0511.com^$document
 ||kuznec.certa.ru^$document
 ||kvantorium69.ru^$document
+||kvibaba.com^$document
 ||kwurfreaplur224-nifty.xyz^$document
 ||kwz.me^$document
 ||kxb7j4re.r.eu-west-1.awstrack.me^$document
@@ -5258,14 +5277,17 @@
 ||moca0313blog.com^$document
 ||mochiomochi-life.com^$document
 ||mochiyuru-life.com^$document
+||modcheer.com^$document
 ||modcombo.io/revanced-extended.html*^$document
 ||modded-1.com^$document
 ||modder.me^$document
+||moddroid.com^$document
 ||modern-works.net^$document
 ||modhello.com^$document
 ||modspoti.com^$document
 ||moduloasr.com^$document
 ||modyolo.com/revanced.html*^$document
+||modyolo.com^$document
 ||modzod.com^$document
 ||moedigi.com^$document
 ||moes.taobao.com^$document
@@ -5300,6 +5322,7 @@
 ||mono-persons.com^$document
 ||monokuro0210.com^$document
 ||monologue-style.com^$document
+||monpuran.com^$document
 ||montblancfa.com^$document
 ||montblues.com^$document
 ||monuke.com^$document
@@ -5328,6 +5351,7 @@
 ||motorx6d.sarangkkb.com^$document
 ||motoyun-anl.com^$document
 ||moukaku-san.com^$document
+||mountainday-tottori.jp^$document
 ||movie-architecture.com^$document
 ||movie-happyisland.com^$document
 ||movie-memo.com^$document
@@ -5696,6 +5720,7 @@
 ||note.com/androidgeek^$document
 ||note.com/androidgeek^$document
 ||note.com/aomushi_15^$document
+||note.com/aquafish^$document
 ||note.com/at549^$document
 ||note.com/ayanofx^$document
 ||note.com/beckett_8492^$document
@@ -5775,6 +5800,7 @@
 ||note.com/kouichi_0703^$document
 ||note.com/kuma_ai_studio^$document
 ||note.com/kumakuma3desu^$document
+||note.com/kyari_mon^$document
 ||note.com/lenslover^$document
 ||note.com/lofty_skink4202^$document
 ||note.com/lovely_impala245^$document
@@ -6205,6 +6231,7 @@
 ||pcgamestorrents.com^$document
 ||pcgamestorrents.org^$document
 ||pcmac.download^$document
+||pcshopwell.com^$document
 ||pdelect.com^$document
 ||pdf.wondershare.jp^$document
 ||pdilms.com^$document
@@ -6379,6 +6406,7 @@
 ||prbay.xyz^$document
 ||preairnutr.xyz^$document
 ||precious-johnnys.com^$document
+||precure-miracleuniverse.com^$document
 ||preferenceanimale.com^$document
 ||prefixplacement.com^$document
 ||premiersoinnordik.com^$document
@@ -6485,6 +6513,7 @@
 ||rainstalaciones.com.co^$document
 ||rairai0707.com^$document
 ||raise3d.jp^$document
+||raityo.com^$document
 ||rajakuberar.com^$document
 ||rakiam.com^$document
 ||rakko.cc^$document
@@ -6950,6 +6979,7 @@
 ||shakerbrand.com^$document
 ||shamikuni.com^$document
 ||shanghai.chinatax.gov.cn^$document
+||sharedrop.io^$document
 ||sharelifestyle.info^$document
 ||sharmasteno.com^$document
 ||sharonbledsoe.com^$document
@@ -7042,6 +7072,7 @@
 ||shorturl.biz.weibo.cn^$document
 ||shoshinshanoyakata.com^$document
 ||shounenki.jp^$document
+||shouwano-idol.com^$document
 ||showa-g.org^$document
 ||showageinou.com^$document
 ||showashotai.cart.fc2.com^$document
@@ -7262,6 +7293,7 @@
 ||starafin.com^$document
 ||starfm.gm^$document
 ||stargood.xyz^$document
+||stargossipbuzz.com^$document
 ||starguiding.com^$document
 ||starry-night-wish-cometrue.com^$document
 ||starryinsighthub.com^$document
@@ -7807,6 +7839,7 @@
 ||trend-news.news^$document
 ||trend-pop.com^$document
 ||trend-rocks.com^$document
+||trend-salon.com^$document
 ||trend-scrap.com^$document
 ||trend-spark.net^$document
 ||trend-spider-blog.com^$document
@@ -7999,6 +8032,7 @@
 ||utagejima.jp^$document
 ||utakata.co.jp^$document
 ||utamonogatari.jp^$document
+||utilly.ne.jp/article^$document
 ||utina-ketumekko.com^$document
 ||utqbffn.cn^$document
 ||uu4nfcq.buergerhaus-initiative.de^$document
@@ -8118,6 +8152,7 @@
 ||vpninfo.jp^$document
 ||vpnjapan.wpx.jp^$document
 ||vrcl.uk^$document
+||vrmoqu.com^$document
 ||vscode.js.cn^$document
 ||vsis.lk^$document
 ||vsm.cl^$document
@@ -8358,6 +8393,7 @@
 ||www.accenture.cn^$document
 ||www.accenture.ex1.https.443.ipv6.faw.com.cn^$document
 ||www.accessoryrail.com^$document
+||www.acciyo.com^$document
 ||www.accuratecashoffer.com^$document
 ||www.acgjc.com^$document
 ||www.achieversindiaclasses.com^$document
@@ -8438,6 +8474,7 @@
 ||www.antriavi.com^$document
 ||www.aoimori-norin.jp^$document
 ||www.aoritsuito.com^$document
+||www.apk3.com^$document
 ||www.apkturbo.com^$document
 ||www.appbank.net/app-rank/useful/vpn-app*^$document
 ||www.appbank.net^$document
@@ -9311,6 +9348,7 @@
 ||www.namimonogatari.com^$document
 ||www.nanbyo.online^$document
 ||www.nanimokamogakokkei.com^$document
+||www.nanotec-systems.jp^$document
 ||www.napha.org^$document
 ||www.narumiya-catalog.com^$document
 ||www.natsunoroot.com^$document
@@ -9861,6 +9899,7 @@
 ||www.voila.lt^$document
 ||www.votelouann.com^$document
 ||www.vrarworld.cn^$document
+||www.vrvr123.com^$document
 ||www.vrwanba.com^$document
 ||www.vubfvubf.xyz^$document
 ||www.w3campus.lk^$document
@@ -9969,6 +10008,7 @@
 ||xenospectrum.com^$document
 ||xera.jp^$document
 ||xertinos.com^$document
+||xharuchannel.com^$document
 ||xhentai.jp^$document
 ||xingfulife.xyz^$document
 ||xiordiagonalbesos.com^$document
@@ -10059,6 +10099,7 @@
 ||xn--u9jy52gr2p5pl0ur6lcz20behl.com^$document
 ||xn--u9jyg9a3a5nxbyc8771bj6d2p3cpe1b34iyp2bgcf.com^$document
 ||xn--uckgyp4c3cw980gi5c.com^$document
+||xn--w8j5cwb6a1433a427bijc90wdu1d.com^$document
 ||xn--xyv715c.com^$document
 ||xn--y8jua2at4d.com^$document
 ||xn--youtuber-nf4gj396a.com^$document
