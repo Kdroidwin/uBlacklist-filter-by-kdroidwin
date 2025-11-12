@@ -701,7 +701,6 @@
 /^https?:\/\/[^\/]+\.timeglobal\.cn\/?$/$document
 /^https?:\/\/[^\/]+\.titanwolf\.org\/?$/$document
 /^https?:\/\/[^\/]+\.tj\/?$/$document
-/^https?:\/\/[^\/]+\.tk\/?$/$document
 /^https?:\/\/[^\/]+\.tlcpv\.org\/?$/$document
 /^https?:\/\/[^\/]+\.tn\/?$/$document
 /^https?:\/\/[^\/]+\.today\/?$/$document
@@ -7697,6 +7696,7 @@
 ||titi-time.com^$document
 ||tits.fetishp.com^$document
 ||tk-create.com^$document
+||tk^$doc,domain=~air.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk|~yado.tk|~www.nabeta.tk|~www.dot.tk|~labo.wovs.tk|~www.bcllub.tk|~hogehoge.tk
 ||tk-kmt.jp^$document
 ||tklog.work^$document
 ||tkm-3.com^$document
