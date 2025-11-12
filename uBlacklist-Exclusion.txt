@@ -1,3 +1,6 @@
+@*://ahsvr.tech/*
+@*://eur.ja.currencyrate.today/*
+@*://eur.currencyrate.today/*
 @*://mee6.xyz/*
 @*://wa3.i-3-i.info/*
 @*://emulation.gametechwiki.com/*
