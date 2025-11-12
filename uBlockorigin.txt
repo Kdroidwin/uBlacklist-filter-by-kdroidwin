@@ -75,7 +75,6 @@
 /^https?:\/\/[^\/]+\.ci\/?$/$document
 /^https?:\/\/[^\/]+\.ck\/?$/$document
 /^https?:\/\/[^\/]+\.cl\/?$/$document
-/^https?:\/\/[^\/]+\.click\/?$/$document
 /^https?:\/\/[^\/]+\.cloudflare\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.club\/?$/$document
 /^https?:\/\/[^\/]+\.cm\/?$/$document
@@ -2116,6 +2115,7 @@
 ||cleangreenspk.com^$document
 ||cleartechrecruiting.com^$document
 ||clibomanager.com^$document
+||click^$doc,domain=~am-videos.click|~buybox.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~wmg.click|~cpstest.click|~chattering.click|~kaitouyoushi.click|~watchtv.click|~gamei.click|~birahijab.click|~fasty.click
 ||click.mail1.welcomebreak.online^$document
 ||clickfordetayiso.online^$document
 ||client.v.just.edu.cn^$document
