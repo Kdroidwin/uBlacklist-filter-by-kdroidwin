@@ -384,7 +384,6 @@
 /^https?:\/\/[^\/]+\.lifehack2ch\.livedoor\.biz\/?$/$document
 /^https?:\/\/[^\/]+\.linkedin\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.loan\/?$/$document
-/^https?:\/\/[^\/]+\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.lovelivematocha\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ma\/?$/$document
 /^https?:\/\/[^\/]+\.majikichi\.com\/?$/$document
