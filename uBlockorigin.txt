@@ -398,7 +398,6 @@
 /^https?:\/\/[^\/]+\.military38\.com\/?$/$document
 /^https?:\/\/[^\/]+\.mindhack2ch\.com\/?$/$document
 /^https?:\/\/[^\/]+\.mk\/?$/$document
-/^https?:\/\/[^\/]+\.ml\/?$/$document
 /^https?:\/\/[^\/]+\.mn\/?$/$document
 /^https?:\/\/[^\/]+\.mobi\-connect\.net\/?$/$document
 /^https?:\/\/[^\/]+\.modfyp\.com\/?$/$document
@@ -4753,6 +4752,7 @@
 ||ljla.uk^$document
 ||ljnrtnuf.life^$document
 ||lk-life.net^$document
+||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml|~digit.ml|~ai.ml|~interpret.ml|~ushi.ml
 ||lmhfxdp.life^$document
 ||lms.learningbox.online^$document
 ||lms.medreseti.com^$document
