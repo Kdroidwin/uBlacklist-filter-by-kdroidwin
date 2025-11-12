@@ -76,7 +76,6 @@
 /^https?:\/\/[^\/]+\.ck\/?$/$document
 /^https?:\/\/[^\/]+\.cl\/?$/$document
 /^https?:\/\/[^\/]+\.cloudflare\.com\.vn\/?$/$document
-/^https?:\/\/[^\/]+\.club\/?$/$document
 /^https?:\/\/[^\/]+\.cm\/?$/$document
 /^https?:\/\/[^\/]+\.co\.za\/?$/$document
 /^https?:\/\/[^\/]+\.co\/jp(\/|$)/$document
@@ -2124,6 +2123,7 @@
 ||closetoyoubelieve.com^$document
 ||cloudmc.xyz^$document
 ||cloudteams.xyz^$document
+||club^$doc,domain=~1kb.club|~1mb.club|~250kb.club|~512kb.club|~baby-beamup.club|~chinaq.club|~ctrl-c.club|~digipres.club|~hack.club|~hd-olimpo.club|~mbcherohub.club|~nocss.club|~no-js.club|~rwinfo.club|~skin.club|~thelemmy.club|~tilde.club|~xhtml.club|~kenshou.club|~my-private.club|~j-baseball.club|~capital.club|~kreva.club|~verdy.club|~kousei.club|~kanji.club|~j-basketball.club|~profiledb.club|~refre.club|~english-talking-place.club|~siri.nanica.club|~otera-oyatsu.club|~amiac.club|~asianteens.club|~musify.club|~paradisefield.club|~hikage.club|~nekorobi.club|~長浜観光vg2017.club|~torizuka.club|~omairi.club|~hikikatari.club|~festival.ritsumei.club|~jpupskirts.club|~mammami-a.club|~panchira.club|~javteen.club|~gakumongakumo.club|~junyuutekoki.club
 ||cluster-paca-logistique.com^$document
 ||clutch-blog.com^$document
 ||clutchmagjapan.com^$document
