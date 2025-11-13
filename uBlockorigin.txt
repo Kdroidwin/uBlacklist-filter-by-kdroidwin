@@ -8928,7 +8928,6 @@
 ||www.ghibliexpo-aichi.com^$document
 ||www.gitlabhost.cn^$document
 ||www.giuseppegiuliano.org^$document
-||www.gladiator.jp^$document
 ||www.glitter-755.com^$document
 ||www.globalhealthlinkinc.com^$document
 ||www.globoinformativoydeportes.com^$document
