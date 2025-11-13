@@ -520,8 +520,6 @@
 *://*.oryouri.2chblog.jp/*
 *://*.ozawaren.com/*
 *://*.paypal.com.vn/*
-*://*.pe/*
-*://*.pg/*
 *://*.pin.it/*
 *://*.pinimg.com/*
 *://*.pinterest.at/*
@@ -711,7 +709,6 @@
 *://*.twitter.com.vn/*
 *://*.twstalker.com/*
 *://*.u1sokuhou.ldblog.jp/*
-*://*.ua/*
 *://*.ubuntu.buildwebhost.com/*
 *://*.ubuntugeeks.com/*
 *://*.uebu-kaihatsu.jp.net/*
