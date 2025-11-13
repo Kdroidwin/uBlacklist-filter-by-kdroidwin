@@ -577,7 +577,6 @@
 /^https?:\/\/[^\/]+\.pintrest\.com\/?$/$document
 /^https?:\/\/[^\/]+\.pintrist\.com\/?$/$document
 /^https?:\/\/[^\/]+\.pk\/?$/$document
-/^https?:\/\/[^\/]+\.pl\/?$/$document
 /^https?:\/\/[^\/]+\.pn\/?$/$document
 /^https?:\/\/[^\/]+\.programmation\-web\-qr\.com\/?$/$document
 /^https?:\/\/[^\/]+\.programmerstart\.com\/?$/$document
