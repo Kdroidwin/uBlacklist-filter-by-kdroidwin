@@ -418,7 +418,6 @@
 /^https?:\/\/[^\/]+\.tousu\.in\/?$/$document
 /^https?:\/\/[^\/]+\.tr\/?$/$document
 /^https?:\/\/[^\/]+\.try2explore\.com\/?$/$document
-/^https?:\/\/[^\/]+\.tt\/?$/$document
 /^https?:\/\/[^\/]+\.tuber\-review\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tutorialguruji\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tutorialmore\.com\/?$/$document
