@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://*.ac.id/*
-*://*.ac.in/*
 *://*.ad.in/*
 *://*.ad/*
 *://*.adobe.com.vn/*
