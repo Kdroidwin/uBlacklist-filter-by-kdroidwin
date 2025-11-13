@@ -709,29 +709,6 @@
 /^https?:\/\/[^\/]+\.uwenku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.uy\/?$/$document
 /^https?:\/\/[^\/]+\.vfwpost8762\.org\/?$/$document
-||fun^$doc,domain=~www.limetorrents.fun
-||ae^$doc,domain=~eightone.ae
-||am^$doc,domain=~uyragnigotocr.am
-||ar^$doc,domain=~centronikkei.org.ar
-||af^$doc,domain=~m.aqr.af
-||icu^$doc,domain=~iroiro.icu|~masaki.icu
-||bond^$doc,domain=~kayac.bond|~indexjav.bond|~www.javindex.bond
-||best^$doc,domain=~www.ptt.best|~sekai.best|~do-my.best
-||cfd^$doc,domain=~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd
-||cf^$doc,domain=~wacw.cf|~www.river.cf
-||cm^$doc,domain=~hair.cm
-||cz^$doc,domain=~www.tourismato.cz|~www.prague-airport-shuttle.cz|~lp.cheerz.cz|~cheerz.cz|~www.jpnschool.cz|~umbrellacitylines.cz
-||cyou^$doc,domain=~www.midori.cyou|~ac.miyoav.cyou|~rengougensen.cyou|~btmovi.cyou|~blog.chenx221.cyou|~www.xaavv.cyou|~tizu.cyou|~www.skunkgirl.cyou|~hmoegirl.cyou
-||im^$doc,domain=~east.im|~humanize.im|~www.monica.im|~monica.im|~mizuki.numb.im|~base64.im|~www.happylives.tyo.im|~happylives.tyo.im|~ip.outv.im
-||mn^$doc,domain=~montsame.mn|~mongoru-ryoko.mn|~*.navi.mn
-||mg^$doc,domain=~japan.storm.mg
-||sbs^$doc,domain=~tomandjerry.sbs|~trend-japan.sbs|~kemono.sbs|~tohokamiemitame.sbs|~manyouwo.sbs|~www.muzyl11.sbs|~zzb06.sbs|~www.zoucili.sbs|~wjyy498125.sbs|~www.abb1.sbs|~aaa.bm11.sbs|~aidou.henhenlu.sbs|~www.avesns3.sbs|~www.abb5.sbs|~zhfop.sbs|~awqjyn100.sbs
-||ir^$doc,domain=~parstoday.ir
-||lat^$doc,domain=~www.asmrzm.lat|~aidou.1024xp.lat
-||lb^$doc,domain=~www.mtv.com.lb
-||men^$doc,domain=~inosho.men|~www.brei.men|~klmanga.men|~nobushi.men|~konaken.men|~oldergay.men
-||ng^$doc,domain=~www.twinkl.com.ng|~www.bedienungsanleitu.ng
-||vip^$doc,domain=~leveldevil.vip|~wetv.vip|~javhd.vip|~ranqingwu.vip|~jav8.vip
 /^https?:\/\/[^\/]+\.visual\-foxpro\-programmer\.com\/?$/$document
 /^https?:\/\/[^\/]+\.voidcc\.com\/?$/$document
 /^https?:\/\/[^\/]+\.vpn\-taizen\.com\/?$/$document
@@ -1093,7 +1070,9 @@
 ||advancecommunity.org^$document
 ||advancedgloskinclinicpune.com^$document
 ||advansteadily2310.com^$document
+||ae^$doc,domain=~eightone.ae
 ||aeonculture.info^$document
+||af^$doc,domain=~m.aqr.af
 ||afacarlit.cat^$document
 ||affigolrich.com^$document
 ||afghan-info.com^$document
@@ -1239,6 +1218,7 @@
 ||alwofnce.xyz^$document
 ||alyevs.com^$document
 ||am-portfolio.com^$document
+||am^$doc,domain=~uyragnigotocr.am
 ||ama-industry.jp^$document
 ||amacsindia.com^$document
 ||amadige.com^$document
@@ -1440,6 +1420,7 @@
 ||aqtpgpoqd.apotheken-kooperationen.de^$document
 ||aqua-aoyama.com^$document
 ||ar-mag.jp^$document
+||ar^$doc,domain=~centronikkei.org.ar
 ||araou.jp^$document
 ||arasa-mama.com^$document
 ||archivando.jp^$document
@@ -1688,6 +1669,7 @@
 ||berrymoca.com^$document
 ||bert-bert.com^$document
 ||best-tax.site^$document
+||best^$doc,domain=~www.ptt.best|~sekai.best|~do-my.best
 ||bestcheerstone.com^$document
 ||bestfashionvalue.com^$document
 ||bestforandroid.com^$document
@@ -1718,6 +1700,7 @@
 ||billboard-rock.com^$document
 ||billion-log.com^$document
 ||billionaireresort.com^$document
+||binetsu.net^$document
 ||bingo.melikeme.cn^$document
 ||biochar.studiodavinci.rs^$document
 ||biohacklabperformance.com^$document
@@ -1813,6 +1796,7 @@
 ||bokuokun.com^$document
 ||bomberosvoluntariostequisquiapan.org^$document
 ||bonblo.com^$document
+||bond^$doc,domain=~kayac.bond|~indexjav.bond|~www.javindex.bond
 ||bongdatv.lu^$document
 ||bonhikari.com^$document
 ||bonnychamber.com^$document
@@ -1921,6 +1905,7 @@
 ||buzzjiru.com^$document
 ||buzzlog.net^$document
 ||buzzneta-topic.com^$document
+||buzzscope.net^$document
 ||buzzwriteyear.com^$document
 ||byodoji.live^$document
 ||byp.yongjoo.za.com^$document
@@ -1932,6 +1917,7 @@
 ||c-grill.com^$document
 ||c.linktech.cn^$document
 ||ca-t888.com^$document
+||caba-jyou.com^$document
 ||cafe-kuraudo.com^$document
 ||cafe-makky.com^$document
 ||cafe-mario.jp^$document
@@ -1945,6 +1931,7 @@
 ||campanellafishing.shogic.xyz^$document
 ||camplaurelcreek.com^$document
 ||canaryc.com^$document
+||canayell.com^$document
 ||cancam-model.net^$document
 ||candy-web.net^$document
 ||canij.com^$document
@@ -2002,6 +1989,8 @@
 ||cetco.marinafrozen.com^$document
 ||cezardouvretoi.fr^$document
 ||cf2.top^$document
+||cf^$doc,domain=~wacw.cf|~www.river.cf
+||cfd^$doc,domain=~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd
 ||cfksaklwnx.xyz^$document
 ||cg-corp.com^$document
 ||cgif.net^$document
@@ -2131,6 +2120,7 @@
 ||clutch-blog.com^$document
 ||clutchmagjapan.com^$document
 ||cm-info.com^$document
+||cm^$doc,domain=~hair.cm
 ||cmeventslimited.co.uk^$document
 ||cmlife2015.com^$document
 ||cmmhw.taobao.com^$document
@@ -2304,7 +2294,9 @@
 ||cybrigtejtreexrx.xyz^$document
 ||cymolb7h.cjfoodmanagement.com.my^$document
 ||cyoppaya.com^$document
+||cyou^$doc,domain=~www.midori.cyou|~ac.miyoav.cyou|~rengougensen.cyou|~btmovi.cyou|~blog.chenx221.cyou|~www.xaavv.cyou|~tizu.cyou|~www.skunkgirl.cyou|~hmoegirl.cyou
 ||cyteka.com^$document
+||cz^$doc,domain=~www.tourismato.cz|~www.prague-airport-shuttle.cz|~lp.cheerz.cz|~cheerz.cz|~www.jpnschool.cz|~umbrellacitylines.cz
 ||czumtabim.blog72.fc2.com^$document
 ||d315.cn^$document
 ||d4d.online^$document
@@ -2965,6 +2957,7 @@
 ||fearless-fitness.uk^$document
 ||feeb.jp^$document
 ||feizeus.com^$document
+||feizeus2.com^$document
 ||fem.ecnu.edu.cn^$document
 ||femimatsu.com^$document
 ||fenergybd.com^$document
@@ -3150,6 +3143,7 @@
 ||fumako.net^$document
 ||fumi2019.com^$document
 ||fumienaffi.com^$document
+||fun^$doc,domain=~www.limetorrents.fun
 ||funbid.com.hk^$document
 ||funbox.wpx.jp^$document
 ||fund.lifeplay.co.jp^$document
@@ -3157,6 +3151,7 @@
 ||funlifehack.com^$document
 ||funnews-cafe.com^$document
 ||funnyfunnynews.com^$document
+||funontheark.com^$document
 ||funtcase.tv^$document
 ||funwayroad.com^$document
 ||furamu4568.com^$document
@@ -3865,6 +3860,7 @@
 ||icoico.jp^$document
 ||icpictokyo.jp^$document
 ||icrrvbuy.education^$document
+||icu^$doc,domain=~iroiro.icu|~masaki.icu
 ||idea-noto.com^$document
 ||idobata1.com^$document
 ||idol-fanfare.com^$document
@@ -3910,6 +3906,7 @@
 ||ilovetrend.hatenablog.com^$document
 ||ilrun.com^$document
 ||iluvlog.com^$document
+||im^$doc,domain=~east.im|~humanize.im|~www.monica.im|~monica.im|~mizuki.numb.im|~base64.im|~www.happylives.tyo.im|~happylives.tyo.im|~ip.outv.im
 ||ima-coco369.com^$document
 ||ima.goo.ne.jp^$document
 ||imaginary.red^$document
@@ -4003,6 +4000,7 @@
 ||ipsw.me^$document
 ||iptvservicenow.com^$document
 ||iqf.education^$document
+||ir^$doc,domain=~parstoday.ir
 ||irannkotosii.seesaa.net^$document
 ||ireeianzjind.xyz^$document
 ||irigasi.info^$document
@@ -4502,6 +4500,7 @@
 ||korder.com^$document
 ||kore-naani.com^$document
 ||kore-omoshiro.com^$document
+||korea-iidol.com^$document
 ||korea-room39.net^$document
 ||korea.kaigai-drama-board.com^$document
 ||korean-anohito.com^$document
@@ -4630,6 +4629,7 @@
 ||laponas.com^$document
 ||larousse-t.com^$document
 ||last-letter-c.com^$document
+||lat^$doc,domain=~www.asmrzm.lat|~aidou.1024xp.lat
 ||latestmodapks.com^$document
 ||laughbeauty.com^$document
 ||launchcontrol.us^$document
@@ -4640,6 +4640,7 @@
 ||layerzrocoin.app^$document
 ||lazonechawarma.ca^$document
 ||lazzmusic.com^$document
+||lb^$doc,domain=~www.mtv.com.lb
 ||lcconcreteproduct.com^$document
 ||ldlemthm.r.eu-west-1.awstrack.me^$document
 ||le-domaine-de-lepiniere.fr^$document
@@ -4985,6 +4986,7 @@
 ||marimon5050.com^$document
 ||marin-mattari-life.com^$document
 ||marina-school.ru^$document
+||maririnpoko.com^$document
 ||marketplacetec.com^$document
 ||marmarton.com^$document
 ||marog01.com^$document
@@ -5119,6 +5121,7 @@
 ||memomalog.com^$document
 ||memorog.com^$document
 ||memorylane-media.com^$document
+||men^$doc,domain=~inosho.men|~www.brei.men|~klmanga.men|~nobushi.men|~konaken.men|~oldergay.men
 ||menbouyuzu.hatenablog.com^$document
 ||mendakonews.com^$document
 ||menrybe.buzz^$document
@@ -5145,6 +5148,7 @@
 ||mf-bbc-ch.com^$document
 ||mfasting.net^$document
 ||mfui.ru^$document
+||mg^$doc,domain=~japan.storm.mg
 ||mgfdm.taobao.com^$document
 ||mgmenjoy85.com^$document
 ||mgnews.ru^$document
@@ -5266,6 +5270,7 @@
 ||mmiimm.net^$document
 ||mmsgbr.com^$document
 ||mn.metaphase.cn^$document
+||mn^$doc,domain=~montsame.mn|~mongoru-ryoko.mn|~*.navi.mn
 ||mnogosdelal.ru^$document
 ||mo-mo-town.com^$document
 ||moans759.malaysiainternationalschools.com^$document
@@ -5534,6 +5539,7 @@
 ||nekojarashi-benihana.com^$document
 ||nekomegane.com^$document
 ||nekoneko-kingdom.com^$document
+||nekorisu.info^$document
 ||nekotopi.com^$document
 ||nekoyasui.jp^$document
 ||nemacicek.com^$document
@@ -5616,6 +5622,7 @@
 ||nezumikozo.info^$document
 ||nfl.cn^$document
 ||nfunnote.com^$document
+||ng^$doc,domain=~www.twinkl.com.ng|~www.bedienungsanleitu.ng
 ||ngenccs.com^$document
 ||nginx.ru^$document
 ||ngo-jvc.info^$document
@@ -6212,6 +6219,7 @@
 ||pasmo10.jp^$document
 ||pass.workhub.site^$document
 ||pastebin.pl^$document
+||pastimenet.com^$document
 ||patinajesobrehielo.org.co^$document
 ||patrainc.jp^$document
 ||patrol.ru^$document
@@ -6516,6 +6524,7 @@
 ||rajakuberar.com^$document
 ||rakiam.com^$document
 ||rakko.cc^$document
+||rakuenta.com^$document
 ||rakuten.tameshiyo.me^$document
 ||ramcoenterprises.com^$document
 ||ranariosaoluis.com^$document
@@ -6757,6 +6766,7 @@
 ||ru-nestjs-docs.netlify.app^$document
 ||rudrasurgiwell.online^$document
 ||rueproductions.com^$document
+||rukaruka7676.online^$document
 ||rukulife.com^$document
 ||rumah-pulsa.shop^$document
 ||rumbiz.ru^$document
@@ -6905,6 +6915,7 @@
 ||sbenny.com^$document
 ||sber.me^$document
 ||sblog51.net^$document
+||sbs^$doc,domain=~tomandjerry.sbs|~trend-japan.sbs|~kemono.sbs|~tohokamiemitame.sbs|~manyouwo.sbs|~www.muzyl11.sbs|~zzb06.sbs|~www.zoucili.sbs|~wjyy498125.sbs|~www.abb1.sbs|~aaa.bm11.sbs|~aidou.henhenlu.sbs|~www.avesns3.sbs|~www.abb5.sbs|~zhfop.sbs|~awqjyn100.sbs
 ||scaleqa.com^$document
 ||scarystories.jp^$document
 ||schnaeppchenscout.com^$document
@@ -8105,6 +8116,7 @@
 ||vile.eosose.ink^$document
 ||vin2chance.com^$document
 ||vinyland45.com^$document
+||vip^$doc,domain=~leveldevil.vip|~wetv.vip|~javhd.vip|~ranqingwu.vip|~jav8.vip
 ||virginiacontractorspainters.com^$document
 ||virtualmeetingsolutions.online^$document
 ||virtualviasa.top^$document
@@ -8170,6 +8182,7 @@
 ||w9y5xi8wr.onlinetanke.de^$document
 ||waarinbeleggen2021.nl^$document
 ||wacaru-net.co.jp^$document
+||wack-idoll.com^$document
 ||wadai-are.com^$document
 ||wadai-journal.com^$document
 ||wadai-log.com^$document
@@ -8814,6 +8827,7 @@
 ||www.eurorvvv.org^$document
 ||www.evsol.com.au^$document
 ||www.exogear.jp^$document
+||www.expected-value.com^$document
 ||www.expomascotasyanimales.com^$document
 ||www.expressvpn.com^$document
 ||www.eyecontactoptician.com^$document
@@ -10069,6 +10083,7 @@
 ||xn--o9jl183upoelzeqx8cj9sifdp75b.com^$document
 ||xn--o9jl2cn5979a4cpsf5di5c.com^$document
 ||xn--o9jl2cn5979a5iolh8di5c.com^$document
+||xn--o9jl2cn5979an1pggi321e5id.com^$document
 ||xn--o9jl2cn5979avdbn18br22e5id.net^$document
 ||xn--p8j0cs34kugsi0q.co^$document
 ||xn--p8j2bhdbq15a.com^$document

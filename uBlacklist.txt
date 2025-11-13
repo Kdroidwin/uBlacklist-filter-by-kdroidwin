@@ -1,20 +1,4 @@
 *://*.000webhostapp.com/*
-*://buzzscope.net/*
-*://rakuenta.com/*
-*://caba-jyou.com/*
-*://nekorisu.info/*
-*://funontheark.com/*
-*://xn--o9jl2cn5979an1pggi321e5id.com/*
-*://rukaruka7676.online/*
-*://binetsu.net/*
-*://maririnpoko.com/*
-*://www.expected-value.com/*
-*://korea-iidol.com/*
-*://geitopi.com/*
-*://feizeus2.com/*
-*://pastimenet.com/*
-*://canayell.com/*
-*://wack-idoll.com/*
 *://*.a3erf.com/*
 *://*.ac.id/*
 *://*.ac.in/*
@@ -1721,6 +1705,7 @@
 *://billboard-rock.com/*
 *://billion-log.com/*
 *://billionaireresort.com/*
+*://binetsu.net/*
 *://bingo.melikeme.cn/*
 *://biochar.studiodavinci.rs/*
 *://biohacklabperformance.com/*
@@ -1922,6 +1907,7 @@
 *://buzzjiru.com/*
 *://buzzlog.net/*
 *://buzzneta-topic.com/*
+*://buzzscope.net/*
 *://buzzwriteyear.com/*
 *://byodoji.live/*
 *://byp.yongjoo.za.com/*
@@ -1933,6 +1919,7 @@
 *://c-grill.com/*
 *://c.linktech.cn/*
 *://ca-t888.com/*
+*://caba-jyou.com/*
 *://cafe-kuraudo.com/*
 *://cafe-makky.com/*
 *://cafe-mario.jp/*
@@ -1946,6 +1933,7 @@
 *://campanellafishing.shogic.xyz/*
 *://camplaurelcreek.com/*
 *://canaryc.com/*
+*://canayell.com/*
 *://cancam-model.net/*
 *://candy-web.net/*
 *://canij.com/*
@@ -2959,6 +2947,7 @@
 *://fearless-fitness.uk/*
 *://feeb.jp/*
 *://feizeus.com/*
+*://feizeus2.com/*
 *://fem.ecnu.edu.cn/*
 *://femimatsu.com/*
 *://fenergybd.com/*
@@ -3151,6 +3140,7 @@
 *://funlifehack.com/*
 *://funnews-cafe.com/*
 *://funnyfunnynews.com/*
+*://funontheark.com/*
 *://funtcase.tv/*
 *://funwayroad.com/*
 *://furamu4568.com/*
@@ -3283,6 +3273,7 @@
 *://geinouyuumei.com/*
 *://geinouzin.net/*
 *://geisposoul.com/*
+*://geitopi.com/*
 *://gekibuzz.com/*
 *://gekidan-shiki.com/*
 *://gekkan-bushi.com/*
@@ -4486,6 +4477,7 @@
 *://korder.com/*
 *://kore-naani.com/*
 *://kore-omoshiro.com/*
+*://korea-iidol.com/*
 *://korea-room39.net/*
 *://korea.kaigai-drama-board.com/*
 *://korean-anohito.com/*
@@ -4968,6 +4960,7 @@
 *://marimon5050.com/*
 *://marin-mattari-life.com/*
 *://marina-school.ru/*
+*://maririnpoko.com/*
 *://marketplacetec.com/*
 *://marmarton.com/*
 *://marog01.com/*
@@ -5515,6 +5508,7 @@
 *://nekojarashi-benihana.com/*
 *://nekomegane.com/*
 *://nekoneko-kingdom.com/*
+*://nekorisu.info/*
 *://nekotopi.com/*
 *://nekoyasui.jp/*
 *://nemacicek.com/*
@@ -6169,6 +6163,7 @@
 *://pasinta.com/*
 *://pasmo10.jp/*
 *://pass.workhub.site/*
+*://pastimenet.com/*
 *://patinajesobrehielo.org.co/*
 *://patrainc.jp/*
 *://patrol.ru/*
@@ -6471,6 +6466,7 @@
 *://rajakuberar.com/*
 *://rakiam.com/*
 *://rakko.cc/*
+*://rakuenta.com/*
 *://rakuten.tameshiyo.me/*
 *://ramcoenterprises.com/*
 *://ranariosaoluis.com/*
@@ -6711,6 +6707,7 @@
 *://ru-nestjs-docs.netlify.app/*
 *://rudrasurgiwell.online/*
 *://rueproductions.com/*
+*://rukaruka7676.online/*
 *://rukulife.com/*
 *://rumah-pulsa.shop/*
 *://rumbiz.ru/*
@@ -8110,6 +8107,7 @@
 *://w9y5xi8wr.onlinetanke.de/*
 *://waarinbeleggen2021.nl/*
 *://wacaru-net.co.jp/*
+*://wack-idoll.com/*
 *://wadai-are.com/*
 *://wadai-journal.com/*
 *://wadai-log.com/*
@@ -8753,6 +8751,7 @@
 *://www.eurorvvv.org/*
 *://www.evsol.com.au/*
 *://www.exogear.jp/*
+*://www.expected-value.com/*
 *://www.expomascotasyanimales.com/*
 *://www.expressvpn.com/*
 *://www.eyecontactoptician.com/*
@@ -9986,6 +9985,7 @@
 *://xn--o9jl183upoelzeqx8cj9sifdp75b.com/*
 *://xn--o9jl2cn5979a4cpsf5di5c.com/*
 *://xn--o9jl2cn5979a5iolh8di5c.com/*
+*://xn--o9jl2cn5979an1pggi321e5id.com/*
 *://xn--o9jl2cn5979avdbn18br22e5id.net/*
 *://xn--p8j0cs34kugsi0q.co/*
 *://xn--p8j2bhdbq15a.com/*
