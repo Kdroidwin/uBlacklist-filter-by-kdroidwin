@@ -714,7 +714,6 @@
 /^https?:\/\/[^\/]+\.twitter\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.twstalker\.com\/?$/$document
 /^https?:\/\/[^\/]+\.u1sokuhou\.ldblog\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.ua\/?$/$document
 /^https?:\/\/[^\/]+\.ubuntu\.buildwebhost\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ubuntugeeks\.com\/?$/$document
 /^https?:\/\/[^\/]+\.uebu\-kaihatsu\.jp\.net\/?$/$document
