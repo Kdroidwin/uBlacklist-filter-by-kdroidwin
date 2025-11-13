@@ -22,7 +22,7 @@ ABP形式のコンテンツブロッカーの機能があるブラウザ(cromite
 
 # uBlacklist用 フィルターの種類
 - １つ目のは基本的にインストール推奨です。
-- 2つ目の購読の方は多少の誤ブロックが許せる方向けです。本来ブロックするべきではないサイトもブロックされる恐れがあります。実験的です。1つ目のフィルターに加えて使ってください。(必ず１つ目のフィルターも購読する必要があります。)
+- 2つ目の購読の方は多少の誤ブロックが許せる方向けです。本来ブロックするべきではないサイトもブロックされる恐れがあります。実験的です。1つ目のフィルターに加えて使ってください。
 - 3つ目の除外用は購読必須です。1つめと2つめのフィルターの誤爆を減らすためのものです。
 
 
@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
 uBlock Origin用はメールアプリやSNSなどのアプリからリンクしたときなどに使えるがまだ実験的です。
-⚠検索結果には表示されますがリンククリックするとuBlock originのポップアップが出ます。
+⚠検索結果には表示されますがリンククリックするとuBlock Originのポップアップが出ます。
 
 - uBlock Origin 用フィルター URL 検索結果非表示
 ```
