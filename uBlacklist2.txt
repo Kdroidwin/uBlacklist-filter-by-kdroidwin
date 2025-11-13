@@ -39,7 +39,6 @@ title/(?=.*(利用法|利用方法|使い方))(?=.*メリット)(?=.*デメリ�
 title/(?=.*(compar|review|alternative|better|difference|guide|comprehensive|vergleiche|比較|代替|代わり))(?=.*(vs|versus))/i
 title/(ネット|読者|海外)の反応/
 title/誰も教えてくれない|地上波/
-title/削除覚悟|BAN覚悟/i
 title/スカッと/
 
 
