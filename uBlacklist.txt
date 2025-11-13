@@ -211,7 +211,6 @@
 *://*.coromoo.com/*
 *://*.crx7601.com/*
 *://*.cyou/*
-*://*.cz/*
 *://*.dj/*
 *://*.dk/*
 *://*.doujinsokuhou45.com/*
