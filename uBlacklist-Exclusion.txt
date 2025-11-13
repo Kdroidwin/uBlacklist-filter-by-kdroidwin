@@ -463,12 +463,6 @@
 @*://wacw.cf/*
 @*://www.river.cf/*
 @*://hair.cm/*
-@*://www.tourismato.cz/*
-@*://www.prague-airport-shuttle.cz/*
-@*://lp.cheerz.cz/*
-@*://cheerz.cz/*
-@*://www.jpnschool.cz/*
-@*://umbrellacitylines.cz/*
 @*://www.midori.cyou/*
 @*://ac.miyoav.cyou/*
 @*://rengougensen.cyou/*
