@@ -692,7 +692,6 @@
 *://*.timeglobal.cn/*
 *://*.titanwolf.org/*
 *://*.tj/*
-*://*.tk/*
 *://*.tlcpv.org/*
 *://*.tn/*
 *://*.today/*
