@@ -456,7 +456,6 @@
 *://*.vip/*
 *://*.visual-foxpro-programmer.com/*
 *://*.voidcc.com/*
-*://*.vpn-taizen.com/*
 *://*.vstats.jp/*
 *://*.vtuber-laboratory.com/*
 *://*.vtuber-matome-media.com/*
