@@ -2296,8 +2296,6 @@
 ||cyoppaya.com^$document
 ||cyou^$doc,domain=~www.midori.cyou|~ac.miyoav.cyou|~rengougensen.cyou|~btmovi.cyou|~blog.chenx221.cyou|~www.xaavv.cyou|~tizu.cyou|~www.skunkgirl.cyou|~hmoegirl.cyou
 ||cyteka.com^$document
-||cz^$doc,domain=~www.tourismato.cz|~www.prague-airport-shuttle.cz|~lp.cheerz.cz|~cheerz.cz|~www.jpnschool.cz|~umbrellacitylines.cz
-||czumtabim.blog72.fc2.com^$document
 ||d315.cn^$document
 ||d4d.online^$document
 ||da-shinta.hatenablog.com^$document
