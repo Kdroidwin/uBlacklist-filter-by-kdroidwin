@@ -331,7 +331,6 @@
 /^https?:\/\/[^\/]+\.risposta\.org\/?$/$document
 /^https?:\/\/[^\/]+\.ro\/?$/$document
 /^https?:\/\/[^\/]+\.rotadev\.com\/?$/$document
-/^https?:\/\/[^\/]+\.ru\.com\/?$/$document
 /^https?:\/\/[^\/]+\.runebook\.dev\/?$/$document
 /^https?:\/\/[^\/]+\.rupython\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ryoban\-disc\.com\/?$/$document
