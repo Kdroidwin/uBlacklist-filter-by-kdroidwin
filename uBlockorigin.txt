@@ -5,7 +5,6 @@
 /^https?:\/\/[^\/]+\.a3erf\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ac\.id\/?$/$document
 /^https?:\/\/[^\/]+\.ac\.in\/?$/$document
-/^https?:\/\/[^\/]+\.ac\.uk\/?$/$document
 /^https?:\/\/[^\/]+\.ad\/?$/$document
 /^https?:\/\/[^\/]+\.adobe\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.agency\/?$/$document
