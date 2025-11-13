@@ -124,7 +124,6 @@
 *://*.icrt.cu/*
 *://*.icu/*
 *://*.idol-jolt.com/*
-*://*.il/*
 *://*.im/*
 *://*.imasoku.com/*
 *://*.inazumanews2.com/*
@@ -435,7 +434,6 @@
 *://*.tousu.in/*
 *://*.tr/*
 *://*.try2explore.com/*
-*://*.tt/*
 *://*.tuber-review.com/*
 *://*.tutorialguruji.com/*
 *://*.tutorialmore.com/*
