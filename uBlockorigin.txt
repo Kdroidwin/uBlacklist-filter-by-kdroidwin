@@ -65,7 +65,6 @@
 /^https?:\/\/[^\/]+\.bond\/?$/$document
 /^https?:\/\/[^\/]+\.brow2ing\.com\/?$/$document
 /^https?:\/\/[^\/]+\.burusoku\-vip\.com\/?$/$document
-/^https?:\/\/[^\/]+\.cam\/?$/$document
 /^https?:\/\/[^\/]+\.carnival00inkochi\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.cd\/?$/$document
 /^https?:\/\/[^\/]+\.cf\/?$/$document
