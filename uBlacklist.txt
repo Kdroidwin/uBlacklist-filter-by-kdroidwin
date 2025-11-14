@@ -5,7 +5,6 @@
 *://*.adobe.com.vn/*
 *://*.ae/*
 *://*.af/*
-*://*.ag/*
 *://*.agency/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
