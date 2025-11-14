@@ -14,7 +14,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://*.am/*
 *://*.amazon.com.vn/*
 *://*.amprime.hatenablog.com/*
 *://*.anige-sokuhouvip.com/*
