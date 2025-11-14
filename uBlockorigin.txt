@@ -31,7 +31,6 @@
 /^https?:\/\/[^\/]+\.bcqqvtlk\.property\/?$/$document
 /^https?:\/\/[^\/]+\.bd\/?$/$document
 /^https?:\/\/[^\/]+\.beauty\/?$/$document
-/^https?:\/\/[^\/]+\.bh\/?$/$document
 /^https?:\/\/[^\/]+\.bi\/?$/$document
 /^https?:\/\/[^\/]+\.bid\/?$/$document
 /^https?:\/\/[^\/]+\.bigbike\.jp\/?$/$document
@@ -60,15 +59,12 @@
 /^https?:\/\/[^\/]+\.cd\/?$/$document
 /^https?:\/\/[^\/]+\.chaos2ch\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ci\/?$/$document
-/^https?:\/\/[^\/]+\.ck\/?$/$document
-/^https?:\/\/[^\/]+\.cl\/?$/$document
 /^https?:\/\/[^\/]+\.cloudflare\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.co\.za\/?$/$document
 /^https?:\/\/[^\/]+\.co\/jp(\/|$)/$document
 /^https?:\/\/[^\/]+\.coromoo\.com\/?$/$document
 /^https?:\/\/[^\/]+\.crx7601\.com\/?$/$document
 /^https?:\/\/[^\/]+\.dj\/?$/$document
-/^https?:\/\/[^\/]+\.dk\/?$/$document
 /^https?:\/\/[^\/]+\.doujinsokuhou45\.com\/?$/$document
 /^https?:\/\/[^\/]+\.dz\/?$/$document
 /^https?:\/\/[^\/]+\.ebay\.com\.vn\/?$/$document
