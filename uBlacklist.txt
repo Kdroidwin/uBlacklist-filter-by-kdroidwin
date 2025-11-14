@@ -336,7 +336,6 @@
 *://*.seimei-handan.net/*
 *://*.shabakngy.com/*
 *://*.siwib.org/*
-*://*.sk/*
 *://*.sl/*
 *://*.slot.2chblog.jp/*
 *://*.smdcgldv.art/*
@@ -397,13 +396,11 @@
 *://*.titanwolf.org/*
 *://*.tj/*
 *://*.tlcpv.org/*
-*://*.tn/*
 *://*.today/*
 *://*.tohyotalk.com/*
 *://*.tomeon.net/*
 *://*.top/*
 *://*.tousu.in/*
-*://*.tr/*
 *://*.try2explore.com/*
 *://*.tuber-review.com/*
 *://*.tutorialguruji.com/*
@@ -422,7 +419,6 @@
 *://*.usersuper.ru/*
 *://*.utyatnishna.ru/*
 *://*.uwenku.com/*
-*://*.uy/*
 *://*.vfwpost8762.org/*
 *://*.vip/*
 *://*.visual-foxpro-programmer.com/*
