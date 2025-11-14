@@ -28,7 +28,6 @@
 /^https?:\/\/[^\/]+\.atlaq\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ayacnews2nd\.com\/?$/$document
 /^https?:\/\/[^\/]+\.az\/?$/$document
-/^https?:\/\/[^\/]+\.ba\/?$/$document
 /^https?:\/\/[^\/]+\.bcqqvtlk\.property\/?$/$document
 /^https?:\/\/[^\/]+\.bd\/?$/$document
 /^https?:\/\/[^\/]+\.beauty\/?$/$document
