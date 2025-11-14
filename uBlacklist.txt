@@ -184,7 +184,6 @@
 *://*.linkedin.com.vn/*
 *://*.loan/*
 *://*.lovelivematocha.com/*
-*://*.ma/*
 *://*.majikichi.com/*
 *://*.makoto5711.blog.jp/*
 *://*.mangasokuhou.com/*
