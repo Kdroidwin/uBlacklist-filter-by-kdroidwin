@@ -237,7 +237,6 @@
 *://*.news.2chblog.jp/*
 *://*.news30over.com/*
 *://*.news4wide.livedoor.biz/*
-*://*.ng/*
 *://*.nice-voicetraining.com/*
 *://*.nijiholo-local.jp/*
 *://*.nogomi.ru/*
