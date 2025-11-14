@@ -3,7 +3,6 @@
 *://*.ad.in/*
 *://*.ad/*
 *://*.adobe.com.vn/*
-*://*.ae/*
 *://*.af/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
@@ -28,7 +27,6 @@
 *://*.atlaq.com/*
 *://*.awaisora.com/*
 *://*.ayacnews2nd.com/*
-*://*.az/*
 *://*.bcqqvtlk.property/*
 *://*.bd/*
 *://*.beauty/*
