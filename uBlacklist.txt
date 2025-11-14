@@ -196,7 +196,6 @@
 *://*.microsoft.com.vn/*
 *://*.military38.com/*
 *://*.mindhack2ch.com/*
-*://*.mk/*
 *://*.ml/*
 *://*.mn/*
 *://*.mobi-connect.net/*
@@ -204,7 +203,6 @@
 *://*.moeeeani.blog.jp/*
 *://*.mw/*
 *://*.myxstalk.lol/*
-*://*.na/*
 *://*.namaejiten.com/*
 *://*.namaeuranai.biz/*
 *://*.nanjgod.com/*
@@ -221,7 +219,6 @@
 *://*.nogomi.ru/*
 *://*.okaimonoclub.jp/*
 *://*.okikuhabataku.blog/*
-*://*.om/*
 *://*.onamae.com/*
 *://*.onecall2ch.com/*
 *://*.oniyomech.livedoor.biz/*
@@ -297,7 +294,6 @@
 *://*.qa.1r1g.com/*
 *://*.qa.55276.net/*
 *://*.qa.icopy.site/*
-*://*.qa/*
 *://*.qapicks.com/*
 *://*.qaru.site/*
 *://*.qathai.com/*
@@ -338,7 +334,6 @@
 *://*.sd/*
 *://*.seika-riron.hatenablog.com/*
 *://*.seimei-handan.net/*
-*://*.sg/*
 *://*.shabakngy.com/*
 *://*.siwib.org/*
 *://*.sk/*
