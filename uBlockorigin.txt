@@ -69,7 +69,6 @@
 /^https?:\/\/[^\/]+\.dz\/?$/$document
 /^https?:\/\/[^\/]+\.ebay\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.efire\-matome\.com\/?$/$document
-/^https?:\/\/[^\/]+\.eg\/?$/$document
 /^https?:\/\/[^\/]+\.enamae\.net\/?$/$document
 /^https?:\/\/[^\/]+\.englishconversationcoaching\.hatenablog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.facebook\.com\.vn\/?$/$document
