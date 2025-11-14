@@ -7,7 +7,6 @@
 /^https?:\/\/[^\/]+\.ac\.in\/?$/$document
 /^https?:\/\/[^\/]+\.ad\/?$/$document
 /^https?:\/\/[^\/]+\.adobe\.com\.vn\/?$/$document
-/^https?:\/\/[^\/]+\.agency\/?$/$document
 /^https?:\/\/[^\/]+\.ahh1008\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.aiarty\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ajjnoj\.blog\.jp\/?$/$document
