@@ -27,7 +27,6 @@
 /^https?:\/\/[^\/]+\.asusno22\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.atlaq\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ayacnews2nd\.com\/?$/$document
-/^https?:\/\/[^\/]+\.az\/?$/$document
 /^https?:\/\/[^\/]+\.bcqqvtlk\.property\/?$/$document
 /^https?:\/\/[^\/]+\.bd\/?$/$document
 /^https?:\/\/[^\/]+\.beauty\/?$/$document
@@ -66,7 +65,6 @@
 /^https?:\/\/[^\/]+\.crx7601\.com\/?$/$document
 /^https?:\/\/[^\/]+\.dj\/?$/$document
 /^https?:\/\/[^\/]+\.doujinsokuhou45\.com\/?$/$document
-/^https?:\/\/[^\/]+\.dz\/?$/$document
 /^https?:\/\/[^\/]+\.ebay\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.efire\-matome\.com\/?$/$document
 /^https?:\/\/[^\/]+\.enamae\.net\/?$/$document
@@ -98,8 +96,6 @@
 /^https?:\/\/[^\/]+\.himatsubushi\-shindan\-test\.com\/?$/$document
 /^https?:\/\/[^\/]+\.hokkaidougurashi\.com\/?$/$document
 /^https?:\/\/[^\/]+\.hosyusokuhou\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.hr\/?$/$document
-/^https?:\/\/[^\/]+\.hu\/?$/$document
 /^https?:\/\/[^\/]+\.huat\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.icrt\.cu\/?$/$document
 /^https?:\/\/[^\/]+\.idol\-jolt\.com\/?$/$document
@@ -107,10 +103,8 @@
 /^https?:\/\/[^\/]+\.imasoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.inazumanews2\.com\/?$/$document
 /^https?:\/\/[^\/]+\.instagram\.com\.vn\/?$/$document
-/^https?:\/\/[^\/]+\.iq\/?$/$document
 /^https?:\/\/[^\/]+\.itainews\.com\/?$/$document
 /^https?:\/\/[^\/]+\.jin115\.com\/?$/$document
-/^https?:\/\/[^\/]+\.jo\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.af\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.al\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.ar\/?$/$document
@@ -174,7 +168,6 @@
 /^https?:\/\/[^\/]+\.kn\/?$/$document
 /^https?:\/\/[^\/]+\.kokunanmonomousu\.com\/?$/$document
 /^https?:\/\/[^\/]+\.kushi\-mc\.net\/?$/$document
-/^https?:\/\/[^\/]+\.kw\/?$/$document
 /^https?:\/\/[^\/]+\.kz\/?$/$document
 /^https?:\/\/[^\/]+\.ladytopi\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.lanscope\.jp\/?$/$document
@@ -194,7 +187,6 @@
 /^https?:\/\/[^\/]+\.microsoft\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.military38\.com\/?$/$document
 /^https?:\/\/[^\/]+\.mindhack2ch\.com\/?$/$document
-/^https?:\/\/[^\/]+\.mk\/?$/$document
 /^https?:\/\/[^\/]+\.mn\/?$/$document
 /^https?:\/\/[^\/]+\.mobi\-connect\.net\/?$/$document
 /^https?:\/\/[^\/]+\.modfyp\.com\/?$/$document
@@ -202,7 +194,6 @@
 /^https?:\/\/[^\/]+\.mw\/?$/$document
 /^https?:\/\/[^\/]+\.mx\/?$/$document
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
-/^https?:\/\/[^\/]+\.na\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
 /^https?:\/\/[^\/]+\.nanjgod\.com\/?$/$document
@@ -221,7 +212,6 @@
 /^https?:\/\/[^\/]+\.note\.com/norito_hiraoka\/?$/$document
 /^https?:\/\/[^\/]+\.okaimonoclub\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.okikuhabataku\.blog\/?$/$document
-/^https?:\/\/[^\/]+\.om\/?$/$document
 /^https?:\/\/[^\/]+\.onamae\.com\/?$/$document
 /^https?:\/\/[^\/]+\.onecall2ch\.com\/?$/$document
 /^https?:\/\/[^\/]+\.oniyomech\.livedoor\.biz\/?$/$document
@@ -300,7 +290,6 @@
 /^https?:\/\/[^\/]+\.qa\.1r1g\.com\/?$/$document
 /^https?:\/\/[^\/]+\.qa\.55276\.net\/?$/$document
 /^https?:\/\/[^\/]+\.qa\.icopy\.site\/?$/$document
-/^https?:\/\/[^\/]+\.qa\/?$/$document
 /^https?:\/\/[^\/]+\.qapicks\.com\/?$/$document
 /^https?:\/\/[^\/]+\.qaru\.site\/?$/$document
 /^https?:\/\/[^\/]+\.qathai\.com\/?$/$document
@@ -340,10 +329,8 @@
 /^https?:\/\/[^\/]+\.sd\/?$/$document
 /^https?:\/\/[^\/]+\.seika\-riron\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.seimei\-handan\.net\/?$/$document
-/^https?:\/\/[^\/]+\.sg\/?$/$document
 /^https?:\/\/[^\/]+\.shabakngy\.com\/?$/$document
 /^https?:\/\/[^\/]+\.siwib\.org\/?$/$document
-/^https?:\/\/[^\/]+\.sk\/?$/$document
 /^https?:\/\/[^\/]+\.sl\/?$/$document
 /^https?:\/\/[^\/]+\.slot\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.smdcgldv\.art\/?$/$document
@@ -403,13 +390,11 @@
 /^https?:\/\/[^\/]+\.titanwolf\.org\/?$/$document
 /^https?:\/\/[^\/]+\.tj\/?$/$document
 /^https?:\/\/[^\/]+\.tlcpv\.org\/?$/$document
-/^https?:\/\/[^\/]+\.tn\/?$/$document
 /^https?:\/\/[^\/]+\.today\/?$/$document
 /^https?:\/\/[^\/]+\.tohyotalk\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tomeon\.net\/?$/$document
 /^https?:\/\/[^\/]+\.top\/?$/$document
 /^https?:\/\/[^\/]+\.tousu\.in\/?$/$document
-/^https?:\/\/[^\/]+\.tr\/?$/$document
 /^https?:\/\/[^\/]+\.try2explore\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tuber\-review\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tutorialguruji\.com\/?$/$document
@@ -428,7 +413,6 @@
 /^https?:\/\/[^\/]+\.usersuper\.ru\/?$/$document
 /^https?:\/\/[^\/]+\.utyatnishna\.ru\/?$/$document
 /^https?:\/\/[^\/]+\.uwenku\.com\/?$/$document
-/^https?:\/\/[^\/]+\.uy\/?$/$document
 /^https?:\/\/[^\/]+\.vfwpost8762\.org\/?$/$document
 /^https?:\/\/[^\/]+\.visual\-foxpro\-programmer\.com\/?$/$document
 /^https?:\/\/[^\/]+\.voidcc\.com\/?$/$document
