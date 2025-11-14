@@ -34,7 +34,6 @@
 *://*.bd/*
 *://*.beauty/*
 *://*.best/*
-*://*.bh/*
 *://*.bi/*
 *://*.bid/*
 *://*.bigbike.jp/*
@@ -66,8 +65,6 @@
 *://*.cfd/*
 *://*.chaos2ch.com/*
 *://*.ci/*
-*://*.ck/*
-*://*.cl/*
 *://*.click/*
 *://*.cloudflare.com.vn/*
 *://*.club/*
@@ -77,12 +74,10 @@
 *://*.crx7601.com/*
 *://*.cyou/*
 *://*.dj/*
-*://*.dk/*
 *://*.doujinsokuhou45.com/*
 *://*.dz/*
 *://*.ebay.com.vn/*
 *://*.efire-matome.com/*
-*://*.eg/*
 *://*.enamae.net/*
 *://*.englishconversationcoaching.hatenablog.jp/*
 *://*.facebook.com.vn/*
