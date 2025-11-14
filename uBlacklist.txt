@@ -349,7 +349,6 @@
 *://*.spoiledcatreviews.com/*
 *://*.sqlite.in/*
 *://*.squallchannel.com/*
-*://*.st/*
 *://*.stackfinder.net/*
 *://*.stacknoob.com/*
 *://*.stackoom.com/*
