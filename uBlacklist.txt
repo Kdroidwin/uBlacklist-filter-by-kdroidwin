@@ -112,11 +112,8 @@
 *://*.imasoku.com/*
 *://*.inazumanews2.com/*
 *://*.instagram.com.vn/*
-*://*.iq/*
-*://*.ir/*
 *://*.itainews.com/*
 *://*.jin115.com/*
-*://*.jo/*
 *://*.jp.af/*
 *://*.jp.al/*
 *://*.jp.ar/*
@@ -180,13 +177,11 @@
 *://*.kn/*
 *://*.kokunanmonomousu.com/*
 *://*.kushi-mc.net/*
-*://*.kw/*
 *://*.kz/*
 *://*.ladytopi.jp/*
 *://*.lanscope.jp/*
 *://*.lat/*
 *://*.latestmodapks.com/*
-*://*.lb/*
 *://*.lifehack2ch.livedoor.biz/*
 *://*.linkedin.com.vn/*
 *://*.loan/*
