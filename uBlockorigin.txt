@@ -343,7 +343,6 @@
 /^https?:\/\/[^\/]+\.spoiledcatreviews\.com\/?$/$document
 /^https?:\/\/[^\/]+\.sqlite\.in\/?$/$document
 /^https?:\/\/[^\/]+\.squallchannel\.com\/?$/$document
-/^https?:\/\/[^\/]+\.st\/?$/$document
 /^https?:\/\/[^\/]+\.stackfinder\.net\/?$/$document
 /^https?:\/\/[^\/]+\.stacknoob\.com\/?$/$document
 /^https?:\/\/[^\/]+\.stackoom\.com\/?$/$document
