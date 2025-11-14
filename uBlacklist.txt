@@ -31,7 +31,6 @@
 *://*.awaisora.com/*
 *://*.ayacnews2nd.com/*
 *://*.az/*
-*://*.ba/*
 *://*.bcqqvtlk.property/*
 *://*.bd/*
 *://*.beauty/*
