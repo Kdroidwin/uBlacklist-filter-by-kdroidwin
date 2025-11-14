@@ -75,7 +75,6 @@
 *://*.cyou/*
 *://*.dj/*
 *://*.doujinsokuhou45.com/*
-*://*.dz/*
 *://*.ebay.com.vn/*
 *://*.efire-matome.com/*
 *://*.enamae.net/*
@@ -85,7 +84,6 @@
 *://*.fileplanet.com/*
 *://*.filkhabr.com/*
 *://*.firebaseapp.com/*
-*://*.fo/*
 *://*.futosoku.com/*
 *://*.fyi/*
 *://*.ga/*
@@ -107,8 +105,6 @@
 *://*.himatsubushi-shindan-test.com/*
 *://*.hokkaidougurashi.com/*
 *://*.hosyusokuhou.jp/*
-*://*.hr/*
-*://*.hu/*
 *://*.huat.jp/*
 *://*.icrt.cu/*
 *://*.icu/*
