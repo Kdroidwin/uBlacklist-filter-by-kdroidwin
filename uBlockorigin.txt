@@ -415,7 +415,6 @@
 /^https?:\/\/[^\/]+\.vfwpost8762\.org\/?$/$document
 /^https?:\/\/[^\/]+\.visual\-foxpro\-programmer\.com\/?$/$document
 /^https?:\/\/[^\/]+\.voidcc\.com\/?$/$document
-/^https?:\/\/[^\/]+\.vpn\-taizen\.com\/?$/$document
 /^https?:\/\/[^\/]+\.vstats\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.vtuber\-laboratory\.com\/?$/$document
 /^https?:\/\/[^\/]+\.vtuber\-matome\-media\.com\/?$/$document
