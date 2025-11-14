@@ -21,7 +21,6 @@
 *://*.apktodo.io/*
 *://*.apple.com.nnns/*
 *://*.apple.com.vn/*
-*://*.ar/*
 *://*.art-vision.jp/*
 *://*.ashfuf/*
 *://*.asterisk0.jp/*
