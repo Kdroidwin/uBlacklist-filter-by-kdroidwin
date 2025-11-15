@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://*.ad.in/*
-*://*.ad/*
 *://*.adobe.com.vn/*
-*://*.af/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -106,7 +103,6 @@
 *://*.icrt.cu/*
 *://*.icu/*
 *://*.idol-jolt.com/*
-*://*.im/*
 *://*.imasoku.com/*
 *://*.inazumanews2.com/*
 *://*.instagram.com.vn/*
