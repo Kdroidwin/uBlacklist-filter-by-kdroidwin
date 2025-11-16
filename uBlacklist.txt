@@ -10041,6 +10041,7 @@
 title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
 title/- App Store/
 title/- Apps on Google Play/
+title/HOT !/
 title/OFFでまとめ買/
 title/Sign in - Google Accounts/
 title/Wiki経歴/
