@@ -2124,7 +2124,6 @@
 ||di-academy.org^$document
 ||diadozer.my1.ru^$document
 ||dialhello.com^$document
-||diamond.jp^$document
 ||diamondcarremovals.com.au^$document
 ||diamondsrental.com^$document
 ||diary.ponkichi01.com^$document
