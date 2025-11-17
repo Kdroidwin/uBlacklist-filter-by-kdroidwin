@@ -6179,7 +6179,6 @@
 ||qlgreer.soisweb.uwm.edu^$document
 ||qliziwo.cn^$document
 ||qltone.com^$document
-||qoly.jp^$document
 ||qoo-weblife.com^$document
 ||qoob.name^$document
 ||qoupyoo771-ocn.xyz^$document
