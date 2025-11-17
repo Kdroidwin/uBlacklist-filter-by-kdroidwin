@@ -6112,7 +6112,6 @@
 *://qlgreer.soisweb.uwm.edu/*
 *://qliziwo.cn/*
 *://qltone.com/*
-*://qoly.jp/*
 *://qoo-weblife.com/*
 *://qoob.name/*
 *://qoupyoo771-ocn.xyz/*
