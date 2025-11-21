@@ -3452,7 +3452,6 @@
 ||hnv.jp^$document
 ||hoalanfoods.vn^$document
 ||hobby-band-association.com^$document
-||hochi.news^$document
 ||hodacieus.com^$document
 ||hodgkinvzw.be^$document
 ||hokanko-alt.com^$document
