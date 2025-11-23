@@ -802,6 +802,7 @@
 ||ahoa3iet.woslx.xyz^$document
 ||ahozura.kasu.me^$document
 ||ahpc.org.pk^$document
+||ai-ffiliate.net^$document
 ||ai-official.jp^$document
 ||ai-uruoi.com^$document
 ||aianimal.p2.weblife.me^$document
@@ -933,6 +934,7 @@
 ||amanioil.com^$document
 ||amberdeer6769896.com^$document
 ||ameblo.jp/akiaki150^$document
+||ameblo.jp/am123456789a^$document
 ||ameblo.jp/and-gretel*^$document
 ||ameblo.jp/aniroom*^$document
 ||ameblo.jp/cheongdambyeol^$document
@@ -1675,6 +1677,7 @@
 ||cebidm8t.tambuntuition.com^$document
 ||cedarfarm.info^$document
 ||cefoce.com^$document
+||celeb-hot.com^$document
 ||celeb.tokyo^$document
 ||celebrity-news-site.online^$document
 ||celebrity.awaisora.com^$document
@@ -1755,6 +1758,7 @@
 ||childrensprograms.whittlesea.ymca.org.au^$document
 ||chile6bt.acuhealing.care^$document
 ||chill-is-blogger.com^$document
+||chillseasons.com^$document
 ||chillyourmind.live^$document
 ||china-wp-3ekxbwgmwq-an.a.run.app^$document
 ||chineko-blog.com^$document
@@ -2347,6 +2351,7 @@
 ||ecsanseito.square.site^$document
 ||ecssc17.com^$document
 ||ecsuchi.cn^$document
+||eden-emulator.com^$document
 ||ediflights.co.uk^$document
 ||edisontae.com^$document
 ||edobryggan.se^$document
@@ -2400,6 +2405,7 @@
 ||elysmexicangrill.online^$document
 ||em.weed-dev.online^$document
 ||emangablog.com^$document
+||embarrassed-bridge.com^$document
 ||emerald-energies.com^$document
 ||emery.me.uk^$document
 ||emi-life.net^$document
@@ -2639,6 +2645,7 @@
 ||famipay.onelink.me^$document
 ||famitime.jp^$document
 ||fan-rim-park.com^$document
+||fan.main.jp^$document
 ||fanblogs.jp^$document
 ||fandane.com^$document
 ||fanza.coideco.jp^$document
@@ -3435,6 +3442,7 @@
 ||hitorisanfan.com^$document
 ||hitoshitorendo.blog.ss-blog.jp^$document
 ||hitoyoshi-hp.jp^$document
+||hitsukeyaku.com^$document
 ||hituzinokegari.com^$document
 ||hiwatashishachu.jp^$document
 ||hiyasuma.com^$document
@@ -4125,6 +4133,7 @@
 ||kirakira-t-y.com^$document
 ||kirapara.onelink.me^$document
 ||kirari-n.com^$document
+||kirarinaruto.jp^$document
 ||kireinotane.jp^$document
 ||kiritoblog.com^$document
 ||kirovskuiraion.ru^$document
@@ -4132,6 +4141,7 @@
 ||kisetsuneta.info^$document
 ||kisetsuno-osusume.com^$document
 ||kisocook.com^$document
+||kisscos.net^$document
 ||kitakyu-cb.jp^$document
 ||kitchenbathetc.com^$document
 ||kitchenbypro.com^$document
@@ -4505,6 +4515,7 @@
 ||luckymotors.ee^$document
 ||luckystar2010.com^$document
 ||lumogumu.xyz^$document
+||lunablog1.com^$document
 ||lunahapi.com^$document
 ||lunch.orders.lfs.bg^$document
 ||lusogamer.com^$document
@@ -5512,6 +5523,7 @@
 ||note.com/lovely_impala245^$document
 ||note.com/loyal_otter6207^$document
 ||note.com/lucid_weasel5472^$document
+||note.com/maiko_muri^$document
 ||note.com/mainichigadget^$document
 ||note.com/mangach^$document
 ||note.com/mankensensei^$document
@@ -5542,6 +5554,7 @@
 ||note.com/open_hare4661^$document
 ||note.com/orisusarusan^$document
 ||note.com/outdoorlifestyle^$document
+||note.com/parsonalsecret^$document
 ||note.com/paul1211^$document
 ||note.com/pet_supply^$document
 ||note.com/pixel8a9^$document
@@ -5550,6 +5563,7 @@
 ||note.com/poppson^$document
 ||note.com/powertanishi*^$document
 ||note.com/prorautatie^$document
+||note.com/pure_donkey1452^$document
 ||note.com/pure_eider7665^$document
 ||note.com/q17q^$document
 ||note.com/quality_compass^$document
@@ -5558,6 +5572,7 @@
 ||note.com/ramenkt5^$document
 ||note.com/ramenkt5^$document
 ||note.com/ready_bison5376^$document
+||note.com/ready_newt6023^$document
 ||note.com/realme_note^$document
 ||note.com/reraco^$document
 ||note.com/restruct^$document
@@ -5572,6 +5587,7 @@
 ||note.com/sayakablog^$document
 ||note.com/sekinogen1^$document
 ||note.com/shiba_inunosuke^$document
+||note.com/shin_kon^$document
 ||note.com/shinkouya_1453^$document
 ||note.com/sim_mobile^$document
 ||note.com/simsmagadget^$document
@@ -5589,6 +5605,7 @@
 ||note.com/takkxi^$document
 ||note.com/takumi333^$document
 ||note.com/takumi_hakata^$document
+||note.com/tasty_holly7883^$document
 ||note.com/tbola^$document
 ||note.com/teamo_kidzania/n/nb60ef983e453^$document
 ||note.com/techdaichi^$document
@@ -5760,6 +5777,7 @@
 ||one-carat.com^$document
 ||one-more-life.jp^$document
 ||one-search.net^$document
+||one-step-each-day.com^$document
 ||one-way-life.com^$document
 ||oneby1.jp^$document
 ||onecall2ch.com^$document
@@ -6042,6 +6060,7 @@
 ||playcreativelab.com^$document
 ||playforparkinsons.org^$document
 ||playruneterra.cn^$document
+||playwithyuzu.com^$document
 ||plazaosaka-database.113110.online^$document
 ||pleasanter.org^$document
 ||plrm.me^$document
@@ -6136,6 +6155,7 @@
 ||profit-judge.com^$document
 ||prog56.com^$document
 ||programmercollege.jp^$document
+||programming-door.com^$document
 ||progroup.pt^$document
 ||projectorrenter.com^$document
 ||projetos.planomestre.com^$document
@@ -6641,6 +6661,7 @@
 ||sebastianoarmelibattana.com^$document
 ||second.ux-design.blog^$document
 ||secure.taberu.me^$document
+||securitysoftguide.com^$document
 ||see-d.jp^$document
 ||seebeck.co.jp^$document
 ||seed-pocket2.com^$document
@@ -6667,6 +6688,7 @@
 ||semicon-hub.tech^$document
 ||senchimentarubodo.com^$document
 ||sendai-startups.org^$document
+||sensitive-changes.com^$document
 ||sensitiveimages.com^$document
 ||sentou.jp^$document
 ||septem-notes.com^$document
@@ -7061,6 +7083,10 @@
 ||subscnavi.com^$document
 ||success-areas.com^$document
 ||success-sword.com^$document
+||sudachi-emu.org^$document
+||sudachiemu.org^$document
+||sudachiemulator.org^$document
+||sudachiemulators.org^$document
 ||sudsies.net^$document
 ||sug-mag3.com^$document
 ||sug-web.jp^$document
@@ -7117,6 +7143,7 @@
 ||support.apple.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||support.apple.ex1.https.443.ipv6.faw.com.cn^$document
 ||support.apple.ex1.https.443.ipv6.yunfu.gov.cn^$document
+||support.avast.com^$document
 ||support.caseplay.shop^$document
 ||support.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
 ||support.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn^$document
@@ -7271,6 +7298,7 @@
 ||teatrsobytie.ru^$document
 ||techacademy.jp^$document
 ||techcoheights.com^$document
+||techgym.jp^$document
 ||techlogixzone.online^$document
 ||technicoloursigns.com^$document
 ||techno-wing.info^$document
@@ -8220,6 +8248,8 @@
 ||www.avantiegypt.com^$document
 ||www.avanza-events.com^$document
 ||www.avast.co.jp^$document
+||www.avast.com^$document
+||www.avast.ua^$document
 ||www.avatargames.jp^$document
 ||www.avg.com^$document
 ||www.aviatorgamess.com^$document
@@ -8485,6 +8515,7 @@
 ||www.ecopowersecurities.com^$document
 ||www.ecsuchi.cn^$document
 ||www.ecust.edu.cn^$document
+||www.eden-emu.me^$document
 ||www.edion.com/special.html?identificationid=studentpc*^$document
 ||www.edjx.io^$document
 ||www.edwin.cn^$document
@@ -10042,6 +10073,9 @@
 ||yuyu7.blog^$document
 ||yuyufirst.com^$document
 ||yuzen-ichiba.jp^$document
+||yuzu-emulator.com^$document
+||yuzuemulator.dev^$document
+||yuzuemulators.com^$document
 ||yuzugon-blog.com^$document
 ||yxbhtbx.info^$document
 ||yxlvvcabinet.com^$document
@@ -10167,6 +10201,7 @@
 @@||asiaon.top^$document
 @@||audioforyou.top^$document
 @@||audioforyou.top^$document
+@@||auri.ga^document
 @@||av.av4us.sbs^$document
 @@||av.av4us.sbs^$document
 @@||awavenue.top^$document
@@ -10177,6 +10212,7 @@
 @@||baby-beamup.club^$document
 @@||base.shop^$document
 @@||bbs.eddibb.cc^$document
+@@||blog.uehi.ro^document
 @@||blueprotocol.swiki.jp^$document
 @@||blueprotocol.swiki.jp^$document
 @@||business.qiita.com^$document
@@ -10202,6 +10238,7 @@
 @@||chinaq.fun^$document
 @@||chinaq.fun^$document
 @@||chinaq.fun^$document
+@@||comix.fyi^document
 @@||contest.japias.jp^$document
 @@||contest.japias.jp^$document
 @@||corriente.top^$document
@@ -10217,12 +10254,14 @@
 @@||dramacool.com.bo^$document
 @@||dtman.info^$document
 @@||dtman.info^$document
+@@||dze.ro^document
 @@||edgeless.top^$document
 @@||eeo.today^$document
 @@||emulation.gametechwiki.com^$document
 @@||emulation.gametechwiki.com^$document
 @@||erogamescape.org^$document
 @@||erogamescape.org^$document
+@@||exact-tours.ro^document
 @@||expo2025.fun^$document
 @@||expo2025.fun^$document
 @@||expo2025.fun^$document
@@ -10235,6 +10274,8 @@
 @@||fujiq.info^$document
 @@||fujiq.info^$document
 @@||futurology.today^$document
+@@||fuze.dj^document
+@@||gabonexposition.ga^document
 @@||galge.top^$document
 @@||galge.top^$document
 @@||gdtot.top^$document
@@ -10243,14 +10284,17 @@
 @@||ghostpia.xyz^$document
 @@||gonzobacca.bitfan.id^$document
 @@||gonzobacca.bitfan.id^$document
+@@||green.co.ug^document
 @@||hack.club^$document
 @@||hack.club^$document
 @@||hammertime.cyou^$document
 @@||hammertime.cyou^$document
+@@||hanabishi.win^document
 @@||hd-olimpo.club^$document
 @@||hd-olimpo.club^$document
 @@||hostingowy.top^$document
 @@||hostingowy.top^$document
+@@||ibarakirobots.win^document
 @@||iboxs.top^$document
 @@||iboxs.top^$document
 @@||iicoto.info^$document
@@ -10294,10 +10338,12 @@
 @@||mee6.xyz^$document
 @@||melonbooks.info^$document
 @@||melonbooks.info^$document
+@@||mfa.tj^document
 @@||mianbeian.top^$document
 @@||mianbeian.top^$document
 @@||miotele.top^$document
 @@||miotele.top^$document
+@@||mirrormedia.mg^document
 @@||missav.ws^$document
 @@||missav.ws^$document
 @@||molly.im^$document
@@ -10313,6 +10359,7 @@
 @@||nothing.tech^$document
 @@||nothing.tech^$document
 @@||oldweb.today^$document
+@@||onsen.ag^document
 @@||ossme.top^$document
 @@||ossme.top^$document
 @@||passt.top^$document
@@ -10344,6 +10391,7 @@
 @@||qr-code.click^$document
 @@||qwertycxz.top^$document
 @@||qwertycxz.top^$document
+@@||rave.dj^document
 @@||ravelin.click^$document
 @@||ravelin.click^$document
 @@||rebates.jp^$document
@@ -10383,6 +10431,7 @@
 @@||superalps.info^$document
 @@||t-satoru.top^$document
 @@||t-satoru.top^$document
+@@||tafaol.sa^document
 @@||taikosim.click^$document
 @@||taikosim.click^$document
 @@||taimanin-rpg.wikiru.jp$document
@@ -10394,6 +10443,7 @@
 @@||thelemmy.club^$document
 @@||thelemmy.club^$document
 @@||to^$document
+@@||tocaro.im^document
 @@||tokiwasushi.top^$document
 @@||tokiwasushi.top^$document
 @@||toushibu.fun^$document
@@ -10403,6 +10453,10 @@
 @@||tver.jp^$document
 @@||tver.jp^$document
 @@||type.today^$document
+@@||upmedia.mg^document
+@@||ushi.ml^document
+@@||visa.gov.tj^document
+@@||voicechanger.im^document
 @@||voxel.top^$document
 @@||voxel.top^$document
 @@||vsdb.top^$document
@@ -10426,24 +10480,4 @@
 @@||xn--dbh-cj4e260f.xyz^$document
 @@||xn--dbh-cj4e260f.xyz^$document
 @@||yggtorrent.top^$document
-@@||onsen.ag^document
-@@||rave.dj^document
-@@||fuze.dj^document
-@@||comix.fyi^document
-@@||auri.ga^document
-@@||gabonexposition.ga^document
-@@||voicechanger.im^document
-@@||tocaro.im^document
-@@||upmedia.mg^document
-@@||mirrormedia.mg^document
-@@||ushi.ml^document
-@@||blog.uehi.ro^document
-@@||exact-tours.ro^document
-@@||dze.ro^document
-@@||tafaol.sa^document
-@@||mfa.tj^document
-@@||visa.gov.tj^document
-@@||green.co.ug^document
-@@||ibarakirobots.win^document
-@@||hanabishi.win^document
 @@||zeri-m.top^$document

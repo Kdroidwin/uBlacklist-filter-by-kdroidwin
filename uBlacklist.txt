@@ -1,39 +1,4 @@
 *://*.000webhostapp.com/*
-*://note.com/shin_kon/*
-*://note.com/pure_donkey1452/*
-*://techgym.jp/*
-*://programming-door.com/*
-*://sudachiemu.org/*
-*://sudachiemulator.org/*
-*://sudachiemulators.org/*
-*://sudachi-emu.org/*
-*://www.eden-emu.me/*
-*://eden-emulator.com/*
-*://yuzu-emulator.com/*
-*://yuzuemulator.dev/*
-*://yuzuemulators.com/*
-*://playwithyuzu.com/*
-*://www.avast.com/*
-*://www.avast.ua/*
-*://support.avast.com/*
-*://securitysoftguide.com/*
-*://note.com/tasty_holly7883/*
-*://ai-ffiliate.net/*
-*://mond.how/ja/pkpk_pa*
-*://ameblo.jp/am123456789a/*
-*://hitsukeyaku.com/*
-*://fan.main.jp/*
-*://embarrassed-bridge.com/*
-*://lunablog1.com/*
-*://sensitive-changes.com/*
-*://one-step-each-day.com/*
-*://note.com/ready_newt6023/*
-*://chillseasons.com/*
-*://celeb-hot.com/*
-*://kirarinaruto.jp/*
-*://note.com/parsonalsecret/*
-*://note.com/maiko_muri/*
-*://kisscos.net/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -837,6 +802,7 @@
 *://ahoa3iet.woslx.xyz/*
 *://ahozura.kasu.me/*
 *://ahpc.org.pk/*
+*://ai-ffiliate.net/*
 *://ai-official.jp/*
 *://ai-uruoi.com/*
 *://aianimal.p2.weblife.me/*
@@ -965,6 +931,7 @@
 *://amanioil.com/*
 *://amberdeer6769896.com/*
 *://ameblo.jp/akiaki150/*
+*://ameblo.jp/am123456789a/*
 *://ameblo.jp/and-gretel*
 *://ameblo.jp/aniroom*
 *://ameblo.jp/ann-ogura/entry-12872686061.html
@@ -1700,6 +1667,7 @@
 *://cebidm8t.tambuntuition.com/*
 *://cedarfarm.info/*
 *://cefoce.com/*
+*://celeb-hot.com/*
 *://celeb.tokyo/*
 *://celebrity-news-site.online/*
 *://celebrity.awaisora.com/*
@@ -1778,6 +1746,7 @@
 *://childrensprograms.whittlesea.ymca.org.au/*
 *://chile6bt.acuhealing.care/*
 *://chill-is-blogger.com/*
+*://chillseasons.com/*
 *://chillyourmind.live/*
 *://china-wp-3ekxbwgmwq-an.a.run.app/*
 *://chineko-blog.com/*
@@ -2365,6 +2334,7 @@
 *://ecsanseito.square.site/*
 *://ecssc17.com/*
 *://ecsuchi.cn/*
+*://eden-emulator.com/*
 *://ediflights.co.uk/*
 *://edisontae.com/*
 *://edobryggan.se/*
@@ -2418,6 +2388,7 @@
 *://elysmexicangrill.online/*
 *://em.weed-dev.online/*
 *://emangablog.com/*
+*://embarrassed-bridge.com/*
 *://emerald-energies.com/*
 *://emery.me.uk/*
 *://emi-life.net/*
@@ -2654,6 +2625,7 @@
 *://famipay.onelink.me/*
 *://famitime.jp/*
 *://fan-rim-park.com/*
+*://fan.main.jp/*
 *://fanblogs.jp/*
 *://fandane.com/*
 *://fanza.coideco.jp/*
@@ -3446,6 +3418,7 @@
 *://hitorisanfan.com/*
 *://hitoshitorendo.blog.ss-blog.jp/*
 *://hitoyoshi-hp.jp/*
+*://hitsukeyaku.com/*
 *://hituzinokegari.com/*
 *://hiwatashishachu.jp/*
 *://hiyasuma.com/*
@@ -4128,6 +4101,7 @@
 *://kirakira-t-y.com/*
 *://kirapara.onelink.me/*
 *://kirari-n.com/*
+*://kirarinaruto.jp/*
 *://kireinotane.jp/*
 *://kiritoblog.com/*
 *://kirovskuiraion.ru/*
@@ -4135,6 +4109,7 @@
 *://kisetsuneta.info/*
 *://kisetsuno-osusume.com/*
 *://kisocook.com/*
+*://kisscos.net/*
 *://kitakyu-cb.jp/*
 *://kitchenbathetc.com/*
 *://kitchenbypro.com/*
@@ -4506,6 +4481,7 @@
 *://luckymotors.ee/*
 *://luckystar2010.com/*
 *://lumogumu.xyz/*
+*://lunablog1.com/*
 *://lunahapi.com/*
 *://lunch.orders.lfs.bg/*
 *://lusogamer.com/*
@@ -5007,6 +4983,7 @@
 *://moms-happylife.com/*
 *://monadnockmidrange.com/*
 *://monamona2525.com/*
+*://mond.how/ja/pkpk_pa*
 *://mondo-libre.com/*
 *://mondra.jp/*
 *://monesblog.com/*
@@ -5496,6 +5473,7 @@
 *://note.com/lovely_impala245/*
 *://note.com/loyal_otter6207/*
 *://note.com/lucid_weasel5472/*
+*://note.com/maiko_muri/*
 *://note.com/mainichigadget/*
 *://note.com/mangach/*
 *://note.com/mankensensei/*
@@ -5525,6 +5503,7 @@
 *://note.com/open_hare4661/*
 *://note.com/orisusarusan/*
 *://note.com/outdoorlifestyle/*
+*://note.com/parsonalsecret/*
 *://note.com/paul1211/*
 *://note.com/pet_supply/*
 *://note.com/pixel8a9/*
@@ -5533,6 +5512,7 @@
 *://note.com/poppson/*
 *://note.com/powertanishi*
 *://note.com/prorautatie/*
+*://note.com/pure_donkey1452/*
 *://note.com/pure_eider7665/*
 *://note.com/q17q/*
 *://note.com/quality_compass*
@@ -5540,6 +5520,7 @@
 *://note.com/rakuten_mobile22/*
 *://note.com/ramenkt5/*
 *://note.com/ready_bison5376/*
+*://note.com/ready_newt6023/*
 *://note.com/realme_note/*
 *://note.com/reraco/*
 *://note.com/restruct/*
@@ -5553,6 +5534,7 @@
 *://note.com/sayakablog/*
 *://note.com/sekinogen1/*
 *://note.com/shiba_inunosuke/*
+*://note.com/shin_kon/*
 *://note.com/shinkouya_1453/*
 *://note.com/sim_mobile/*
 *://note.com/simsmagadget/*
@@ -5568,6 +5550,7 @@
 *://note.com/takkxi/*
 *://note.com/takumi333/*
 *://note.com/takumi_hakata/*
+*://note.com/tasty_holly7883/*
 *://note.com/tbola/*
 *://note.com/teamo_kidzania/n/nb60ef983e453
 *://note.com/techdaichi/*
@@ -5731,6 +5714,7 @@
 *://one-carat.com/*
 *://one-more-life.jp/*
 *://one-search.net/*
+*://one-step-each-day.com/*
 *://one-way-life.com/*
 *://oneby1.jp/*
 *://onecall2ch.com/*
@@ -6012,6 +5996,7 @@
 *://playcreativelab.com/*
 *://playforparkinsons.org/*
 *://playruneterra.cn/*
+*://playwithyuzu.com/*
 *://plazaosaka-database.113110.online/*
 *://pleasanter.org/*
 *://plrm.me/*
@@ -6106,6 +6091,7 @@
 *://profit-judge.com/*
 *://prog56.com/*
 *://programmercollege.jp/*
+*://programming-door.com/*
 *://progroup.pt/*
 *://projectorrenter.com/*
 *://projetos.planomestre.com/*
@@ -6604,6 +6590,7 @@
 *://sebastianoarmelibattana.com/*
 *://second.ux-design.blog/*
 *://secure.taberu.me/*
+*://securitysoftguide.com/*
 *://see-d.jp/*
 *://seebeck.co.jp/*
 *://seed-pocket2.com/*
@@ -6628,6 +6615,7 @@
 *://semicon-hub.tech/*
 *://senchimentarubodo.com/*
 *://sendai-startups.org/*
+*://sensitive-changes.com/*
 *://sensitiveimages.com/*
 *://sentou.jp/*
 *://septem-notes.com/*
@@ -7019,6 +7007,10 @@
 *://subscnavi.com/*
 *://success-areas.com/*
 *://success-sword.com/*
+*://sudachi-emu.org/*
+*://sudachiemu.org/*
+*://sudachiemulator.org/*
+*://sudachiemulators.org/*
 *://sudsies.net/*
 *://sug-mag3.com/*
 *://sug-web.jp/*
@@ -7075,6 +7067,7 @@
 *://support.apple.ex1.https.443.ipv6.cqust.edu.cn/*
 *://support.apple.ex1.https.443.ipv6.faw.com.cn/*
 *://support.apple.ex1.https.443.ipv6.yunfu.gov.cn/*
+*://support.avast.com/*
 *://support.caseplay.shop/*
 *://support.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
 *://support.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
@@ -7228,6 +7221,7 @@
 *://teatrsobytie.ru/*
 *://techacademy.jp/*
 *://techcoheights.com/*
+*://techgym.jp/*
 *://techlogixzone.online/*
 *://technicoloursigns.com/*
 *://techno-wing.info/*
@@ -8171,6 +8165,8 @@
 *://www.avantiegypt.com/*
 *://www.avanza-events.com/*
 *://www.avast.co.jp/*
+*://www.avast.com/*
+*://www.avast.ua/*
 *://www.avatargames.jp/*
 *://www.avg.com/*
 *://www.aviatorgamess.com/*
@@ -8435,6 +8431,7 @@
 *://www.ecopowersecurities.com/*
 *://www.ecsuchi.cn/*
 *://www.ecust.edu.cn/*
+*://www.eden-emu.me/*
 *://www.edion.com/special.html?identificationid=studentpc*
 *://www.edjx.io/*
 *://www.edwin.cn/*
@@ -9969,6 +9966,9 @@
 *://yuyu7.blog/*
 *://yuyufirst.com/*
 *://yuzen-ichiba.jp/*
+*://yuzu-emulator.com/*
+*://yuzuemulator.dev/*
+*://yuzuemulators.com/*
 *://yuzugon-blog.com/*
 *://yxbhtbx.info/*
 *://yxlvvcabinet.com/*
