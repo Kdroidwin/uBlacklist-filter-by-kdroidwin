@@ -1,5 +1,13 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
+*://note.com/hit_ranking/*
+*://note.com/2ch3ch/*
+*://*.z36.web.core.windows.net/*
+*://torrent-hayakawa.com/*
+*://note.com/kamanyan01/*
+*://note.com/ama_zon_smart/*
+*://note.com/sane_pothos8184/*
+*://note.com/koreaiimono/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
