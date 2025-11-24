@@ -5419,6 +5419,7 @@
 ||nostalghia11.com^$document
 ||nostalgicdorama.com^$document
 ||note.com/0219toton/n/n010fc309fe3e*^$document
+||note.com/2ch3ch^$document
 ||note.com/4jinooyaji^$document
 ||note.com/50it^$document
 ||note.com/5656remon5656^$document
@@ -5431,6 +5432,7 @@
 ||note.com/akausa28^$document
 ||note.com/akausa28^$document
 ||note.com/alive_dahlia5267^$document
+||note.com/ama_zon_smart^$document
 ||note.com/amagitsune^$document
 ||note.com/amazon_sale_now^$document
 ||note.com/androiddimension^$document
@@ -5484,6 +5486,7 @@
 ||note.com/hakutoumomo^$document
 ||note.com/hamako14^$document
 ||note.com/hamu_3nd^$document
+||note.com/hit_ranking^$document
 ||note.com/hitotsu_ai^$document
 ||note.com/holy_beetle811^$document
 ||note.com/holy_beetle811^$document
@@ -5509,11 +5512,13 @@
 ||note.com/kadenz^$document
 ||note.com/kakaokakao1230^$document
 ||note.com/kakip0115^$document
+||note.com/kamanyan01^$document
 ||note.com/kara0323^$document
 ||note.com/kaz_kashiwagi^$document
 ||note.com/kazu_feelin^$document
 ||note.com/kimetsu_mania^$document
 ||note.com/koh7166^$document
+||note.com/koreaiimono^$document
 ||note.com/kouichi_0703^$document
 ||note.com/kuma_ai_studio^$document
 ||note.com/kumakuma3desu^$document
@@ -5581,6 +5586,7 @@
 ||note.com/roshalke^$document
 ||note.com/saa617^$document
 ||note.com/safe_panda2627^$document
+||note.com/sane_pothos8184^$document
 ||note.com/sato_c117127^$document
 ||note.com/sawai100^$document
 ||note.com/sawai100^$document
@@ -7517,6 +7523,7 @@
 ||toretore-news.jp^$document
 ||toriore.com^$document
 ||toronto-new-wp-3ekxbwgmwq-an.a.run.app^$document
+||torrent-hayakawa.com^$document
 ||torrent48.com^$document
 ||torrent822.blog.fc2.com^$document
 ||torrentcomicwiki.blog.fc2.com^$document
