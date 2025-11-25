@@ -1,17 +1,4 @@
 *://*.000webhostapp.com/*
-*://lemonso-da.hatenablog.com/*
-*://tre-memo-go.com/*
-*://hoccorito.com/*
-*://ryomemoblog.com/*
-*://skyanimeblog.com/*
-*://sachimomo88.blog/*
-*://reiwabook.blog/*
-*://nagasaki-ouenten.com/*
-*://necrosm.com/*
-*://mangazok.com/*
-*://rakeruma.com/*
-*://animenian.com/*
-*://gaiman.jp/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -1024,6 +1011,7 @@
 *://animekangeki.com/*
 *://animekiki.com/*
 *://animemiru.jp/*
+*://animenian.com/*
 *://animenome.jp/*
 *://animepupiokun.doorblog.jp/*
 *://animesoku.com/*
@@ -2898,6 +2886,7 @@
 *://gadget888.hatenablog.com/*
 *://gaffriggauge.com/*
 *://gaikotsumatsuri.com/*
+*://gaiman.jp/*
 *://gainoheya.com/*
 *://gaito666.blog.fc2.com/*
 *://gal.cocoloni.jp/*
@@ -3450,6 +3439,7 @@
 *://hnv.jp/*
 *://hoalanfoods.vn/*
 *://hobby-band-association.com/*
+*://hoccorito.com/*
 *://hodacieus.com/*
 *://hodgkinvzw.be/*
 *://hokanko-alt.com/*
@@ -4359,6 +4349,7 @@
 *://lemino-subdomain.onelink.me/*
 *://lemon-hiraya.com/*
 *://lemon-humming.com/*
+*://lemonso-da.hatenablog.com/*
 *://lenclosduruisseau.re/*
 *://lesac.ru/*
 *://lestermods.com/*
@@ -4658,6 +4649,7 @@
 *://mangamotomaru.com/*
 *://mangan1.seesaa.net/*
 *://manganista.net/*
+*://mangazok.com/*
 *://mangazuki-314159.com/*
 *://mango.co.jp/*
 *://mankaikana.com/*
@@ -5131,6 +5123,7 @@
 *://nafomusic.com/*
 *://nagamonblog.com/*
 *://nagano-kensanpin-gift.jp/*
+*://nagasaki-ouenten.com/*
 *://nagasaki.china-consulate.gov.cn/*
 *://nagisa.online/*
 *://nagomiyamadoromi.jp/*
@@ -5215,6 +5208,7 @@
 *://nbtkoshi.com/*
 *://ncgm-dm.webpage-creation-support.info/*
 *://necoarashi.com/*
+*://necrosm.com/*
 *://neetola.com/*
 *://negiblo.com/*
 *://nehohaho.com/*
@@ -6195,6 +6189,7 @@
 *://raise3d.jp/*
 *://raityo.com/*
 *://rajakuberar.com/*
+*://rakeruma.com/*
 *://rakiam.com/*
 *://rakko.cc/*
 *://rakuenta.com/*
@@ -6261,6 +6256,7 @@
 *://reglisse.jp/*
 *://regmah95.redeagle-security.com/*
 *://reicherumama.com/*
+*://reiwabook.blog/*
 *://rekisiru.com/*
 *://relationshipannex.com/*
 *://relaxandslowly-soh.com/*
@@ -6464,6 +6460,7 @@
 *://ryo-ishikawa.fun/*
 *://ryocuu.hatenablog.com/*
 *://ryoko-rta.com/*
+*://ryomemoblog.com/*
 *://ryoryokura.com/*
 *://ryoto-seeking-dailylife.com/*
 *://ryouteikoujyou-shop.jp/*
@@ -6491,6 +6488,7 @@
 *://sac-a-main.org/*
 *://sacchinjaiblog.com/*
 *://sachiko-blog.com/*
+*://sachimomo88.blog/*
 *://sacksoenterprises.com/*
 *://saduni.edu.ge/*
 *://saeriho.com/*
@@ -6819,6 +6817,7 @@
 *://skorsch.com/*
 *://skudaddy.com/*
 *://skulerceines.tk/*
+*://skyanimeblog.com/*
 *://skyddaskolan.com/*
 *://skydrive.live.ru/*
 *://skyfall.co.jp/*
@@ -7497,6 +7496,7 @@
 *://trashbox.ru/*
 *://travel-life-magazine.com/*
 *://travel4thesoul.com/*
+*://tre-memo-go.com/*
 *://tre-monte.com/*
 *://treeomkjadsenejpxrx.xyz/*
 *://trekatribe.com/*
