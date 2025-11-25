@@ -1,4 +1,17 @@
 *://*.000webhostapp.com/*
+*://lemonso-da.hatenablog.com/*
+*://tre-memo-go.com/*
+*://hoccorito.com/*
+*://ryomemoblog.com/*
+*://skyanimeblog.com/*
+*://sachimomo88.blog/*
+*://reiwabook.blog/*
+*://nagasaki-ouenten.com/*
+*://necrosm.com/*
+*://mangazok.com/*
+*://rakeruma.com/*
+*://animenian.com/*
+*://gaiman.jp/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
