@@ -2904,6 +2904,7 @@
 ||gadget-app.com^$document
 ||gadget-choice.net^$document
 ||gadget888.hatenablog.com^$document
+||gadgetech.jp^$document
 ||gaffriggauge.com^$document
 ||gaikotsumatsuri.com^$document
 ||gaiman.jp^$document
@@ -7518,6 +7519,7 @@
 ||topgun.ffwpu.app^$document
 ||topic-lab.com^$document
 ||topicks.jp^$document
+||topics.smt.docomo.ne.jp^$document
 ||topilog.net^$document
 ||topitane.net^$document
 ||topitopi-life.com^$document

@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
-*://topics.smt.docomo.ne.jp/*
-*://gadgetech.jp/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -2886,6 +2884,7 @@
 *://gadget-app.com/*
 *://gadget-choice.net/*
 *://gadget888.hatenablog.com/*
+*://gadgetech.jp/*
 *://gaffriggauge.com/*
 *://gaikotsumatsuri.com/*
 *://gaiman.jp/*
@@ -7441,6 +7440,7 @@
 *://topgun.ffwpu.app/*
 *://topic-lab.com/*
 *://topicks.jp/*
+*://topics.smt.docomo.ne.jp/*
 *://topilog.net/*
 *://topitane.net/*
 *://topitopi-life.com/*
