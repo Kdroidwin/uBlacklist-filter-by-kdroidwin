@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://sachimomo88.blog/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
