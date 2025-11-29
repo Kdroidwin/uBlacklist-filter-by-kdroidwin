@@ -752,6 +752,7 @@
 ||actualizate.ar^$document
 ||ad5a0.cn^$document
 ||adathi-havicoco.com^$document
+||adblockluna.com^$document
 ||addchannel.net^$document
 ||addness.co.jp^$document
 ||addspice.jp^$document
@@ -3349,6 +3350,7 @@
 ||hayarimono.work^$document
 ||hayawakari11.com^$document
 ||hbox-webcomic.adult-h.com^$document
+||hbr-square.com^$document
 ||healcipe.com^$document
 ||healingisland3103.com^$document
 ||healthistanbulgroup.com^$document
@@ -4520,6 +4522,7 @@
 ||luckymotors.ee^$document
 ||luckystar2010.com^$document
 ||lumogumu.xyz^$document
+||luna-vpn.com^$document
 ||lunablog1.com^$document
 ||lunahapi.com^$document
 ||lunch.orders.lfs.bg^$document
@@ -5216,6 +5219,7 @@
 ||narimusicpublishing.com^$document
 ||naroom-blog.com^$document
 ||naruhodo-wifi.co.jp/vpn-app^$document
+||naruhodo-wifi.co.jp^$document
 ||nasubigfarm.com^$document
 ||nasupapa.com^$document
 ||natamamablog.com^$document
@@ -7676,6 +7680,7 @@
 ||tuition.tamilcube.com^$document
 ||tukuriba.jp^$document
 ||tunejpn.jwbni.com^$document
+||turbovpn.com^$document
 ||tureduresuzume.com^$document
 ||turezurenaru-zakki.com^$document
 ||turutinblog.com^$document
@@ -10091,6 +10096,7 @@
 ||yuutan-yuuyuuziteki.com^$document
 ||yuuublogkakutou.com^$document
 ||yuuunplog.com^$document
+||yuuuugablog.com^$document
 ||yuyamatsushita.com^$document
 ||yuyu7.blog^$document
 ||yuyufirst.com^$document

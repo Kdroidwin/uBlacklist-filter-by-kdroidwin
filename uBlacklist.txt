@@ -1,12 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
-*://hbr-square.com/*
-*://adblockluna.com/*
-*://luna-vpn.com/*
-*://yuuuugablog.com/*
-*://turbovpn.com/*
-*://naruhodo-wifi.co.jp/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -761,6 +755,7 @@
 *://actualizate.ar/*
 *://ad5a0.cn/*
 *://adathi-havicoco.com/*
+*://adblockluna.com/*
 *://addchannel.net/*
 *://addness.co.jp/*
 *://addspice.jp/*
@@ -3333,6 +3328,7 @@
 *://hayarimono.work/*
 *://hayawakari11.com/*
 *://hbox-webcomic.adult-h.com/*
+*://hbr-square.com/*
 *://healcipe.com/*
 *://healingisland3103.com/*
 *://healthistanbulgroup.com/*
@@ -4493,6 +4489,7 @@
 *://luckymotors.ee/*
 *://luckystar2010.com/*
 *://lumogumu.xyz/*
+*://luna-vpn.com/*
 *://lunablog1.com/*
 *://lunahapi.com/*
 *://lunch.orders.lfs.bg/*
@@ -5183,6 +5180,7 @@
 *://narayama-planetary-village.jp/*
 *://narimusicpublishing.com/*
 *://naroom-blog.com/*
+*://naruhodo-wifi.co.jp/*
 *://naruhodo-wifi.co.jp/vpn-app/*
 *://nasubigfarm.com/*
 *://nasupapa.com/*
@@ -7601,6 +7599,7 @@
 *://tuition.tamilcube.com/*
 *://tukuriba.jp/*
 *://tunejpn.jwbni.com/*
+*://turbovpn.com/*
 *://tureduresuzume.com/*
 *://turezurenaru-zakki.com/*
 *://turutinblog.com/*
@@ -9991,6 +9990,7 @@
 *://yuutan-yuuyuuziteki.com/*
 *://yuuublogkakutou.com/*
 *://yuuunplog.com/*
+*://yuuuugablog.com/*
 *://yuyamatsushita.com/*
 *://yuyu7.blog/*
 *://yuyufirst.com/*
