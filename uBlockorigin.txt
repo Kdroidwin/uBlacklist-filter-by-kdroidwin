@@ -3189,7 +3189,6 @@
 ||greenwof.top^$document
 ||greetingbling.com^$document
 ||greywolf.ru^$document
-||gridinsoft.com^$document
 ||grina.info^$document
 ||griselymasajistas.com^$document
 ||grnmaquinarias.com^$document
