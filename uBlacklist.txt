@@ -1,4 +1,12 @@
 *://*.000webhostapp.com/*
+*://www.mcafee.com/*
+*://www.nitrokey.com/*
+*://shop.nitrokey.com/*
+*://vod-guide.com/*
+*://supjav-debut.com/*
+*://www.truecaller.com/*
+*://play.google.com/store/apps/details?id=com.truecaller*
+*://note.com/gajepapa/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
