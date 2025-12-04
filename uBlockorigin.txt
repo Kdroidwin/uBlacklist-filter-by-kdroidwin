@@ -5483,6 +5483,7 @@
 ||note.com/fuku_chie^$document
 ||note.com/gad_hammocchi^$document
 ||note.com/gadget_news^$document
+||note.com/gajepapa^$document
 ||note.com/galaxy_s2526^$document
 ||note.com/gamer_zundamon^$document
 ||note.com/getgadgetgot^$document
@@ -6811,6 +6812,7 @@
 ||shop.ghogphoto.com^$document
 ||shop.hammockmusic.com^$document
 ||shop.mitgard.com^$document
+||shop.nitrokey.com^$document
 ||shop.paipai.com/497998902^$document
 ||shop.style-rose.jp^$document
 ||shop.tayostation.com^$document
@@ -7153,6 +7155,7 @@
 ||superdysale.nl^$document
 ||superiorspamfilter.com^$document
 ||supershuttle.jp^$document
+||supjav-debut.com^$document
 ||supjav.jp^$document
 ||supo-tu-fan.com^$document
 ||support--apple--com---z72bdwww--hbcredit--gov--cn.ipv6.hbzw.gov.cn^$document
@@ -7891,6 +7894,7 @@
 ||vnsport.ru^$document
 ||vnufubiwo.shop^$document
 ||vod-channel.net^$document
+||vod-guide.com^$document
 ||vod-media.com^$document
 ||vod-memonet.com^$document
 ||vod-site.org^$document
@@ -9023,6 +9027,7 @@
 ||www.maxmediaweb.net^$document
 ||www.mazda-favorit-motors.ru^$document
 ||www.mazoni.pt^$document
+||www.mcafee.com^$document
 ||www.mceyy.site^$document
 ||www.mclarencars.cn^$document
 ||www.mculnqe.cn^$document
@@ -9144,6 +9149,7 @@
 ||www.niksonline.com^$document
 ||www.nishino-it-office.com^$document
 ||www.nishinomiya-city.jp^$document
+||www.nitrokey.com^$document
 ||www.njwanhui.com.cn^$document
 ||www.nkselfdrive.com^$document
 ||www.nliwfyz.cn^$document
@@ -9593,6 +9599,7 @@
 ||www.tresor.gov.bf^$document
 ||www.tricompany.ru^$document
 ||www.triptravel.me^$document
+||www.truecaller.com^$document
 ||www.trusted-addon.xyz^$document
 ||www.trywork-chiba.com^$document
 ||www.tsuzukiblog.org^$document

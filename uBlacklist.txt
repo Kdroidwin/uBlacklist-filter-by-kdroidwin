@@ -1,12 +1,4 @@
 *://*.000webhostapp.com/*
-*://www.mcafee.com/*
-*://www.nitrokey.com/*
-*://shop.nitrokey.com/*
-*://vod-guide.com/*
-*://supjav-debut.com/*
-*://www.truecaller.com/*
-*://play.google.com/store/apps/details?id=com.truecaller*
-*://note.com/gajepapa/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -5448,6 +5440,7 @@
 *://note.com/fuku_chie/*
 *://note.com/gad_hammocchi/*
 *://note.com/gadget_news/*
+*://note.com/gajepapa/*
 *://note.com/galaxy_s2526/*
 *://note.com/gamer_zundamon/*
 *://note.com/getgadgetgot/*
@@ -6017,6 +6010,7 @@
 *://platinmods.com/threads/youtube-revanced-extended-v19-16-39-non-root-2-224-0.218220/?amp=1*
 *://play.google.com/store/apps/datasafety?id=com.bimilyoncu.sscoderr.revanced*
 *://play.google.com/store/apps/datasafety?id=com.morgandev.snake&hl=ja&gl=US*
+*://play.google.com/store/apps/details?id=com.truecaller*
 *://play.google.com/store/apps/dev?id=6891936352065498609&hl=ja*
 *://play.suitsme.xyz/*
 *://playcreativelab.com/*
@@ -6747,6 +6741,7 @@
 *://shop.ghogphoto.com/*
 *://shop.hammockmusic.com/*
 *://shop.mitgard.com/*
+*://shop.nitrokey.com/*
 *://shop.paipai.com/497998902/*
 *://shop.style-rose.jp/*
 *://shop.tayostation.com/*
@@ -7086,6 +7081,7 @@
 *://superdysale.nl/*
 *://superiorspamfilter.com/*
 *://supershuttle.jp/*
+*://supjav-debut.com/*
 *://supjav.jp/*
 *://supo-tu-fan.com/*
 *://support--apple--com---z72bdwww--hbcredit--gov--cn.ipv6.hbzw.gov.cn/*
@@ -7817,6 +7813,7 @@
 *://vnsport.ru/*
 *://vnufubiwo.shop/*
 *://vod-channel.net/*
+*://vod-guide.com/*
 *://vod-media.com/*
 *://vod-memonet.com/*
 *://vod-site.org/*
@@ -8940,6 +8937,7 @@
 *://www.maxmediaweb.net/*
 *://www.mazda-favorit-motors.ru/*
 *://www.mazoni.pt/*
+*://www.mcafee.com/*
 *://www.mceyy.site/*
 *://www.mclarencars.cn/*
 *://www.mculnqe.cn/*
@@ -9061,6 +9059,7 @@
 *://www.niksonline.com/*
 *://www.nishino-it-office.com/*
 *://www.nishinomiya-city.jp/*
+*://www.nitrokey.com/*
 *://www.njwanhui.com.cn/*
 *://www.nkselfdrive.com/*
 *://www.nliwfyz.cn/*
@@ -9503,6 +9502,7 @@
 *://www.tresor.gov.bf/*
 *://www.tricompany.ru/*
 *://www.triptravel.me/*
+*://www.truecaller.com/*
 *://www.trusted-addon.xyz/*
 *://www.trywork-chiba.com/*
 *://www.tsuzukiblog.org/*
