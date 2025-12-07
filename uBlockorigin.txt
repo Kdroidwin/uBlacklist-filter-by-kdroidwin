@@ -4773,6 +4773,7 @@
 ||maturi.info^$document
 ||mawtoload.com/youtube-revanced-extended^$document
 ||max77.shop^$document
+||maxdebrid.com^$document
 ||maxfordesign.art^$document
 ||maxtendes.com^$document
 ||maymay05.com^$document
@@ -5757,6 +5758,7 @@
 ||okaimono-navigation.com^$document
 ||okannoyomeiri-stage.jp^$document
 ||okboook.com^$document
+||okdebrid.com^$document
 ||oki-itsmylife.com^$document
 ||okiam-02.com^$document
 ||okigourmet.com^$document
@@ -8053,6 +8055,7 @@
 ||wingkola.pkmunggul.com^$document
 ||winksuv8.formachasia.com^$document
 ||winoogov.com^$document
+||wiple-service.com/column^$document
 ||wise-media-factory.com^$document
 ||wisteriablog.net^$document
 ||wizbiz.me^$document
@@ -8479,6 +8482,7 @@
 ||www.davidpetts.org^$document
 ||www.dd-mona.com^$document
 ||www.ddtrans.am^$document
+||www.debridleech.com^$document
 ||www.decoracioarc.com^$document
 ||www.deep-exp.cn^$document
 ||www.delarte.cl^$document

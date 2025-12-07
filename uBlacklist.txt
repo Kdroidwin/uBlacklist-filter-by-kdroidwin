@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://wiple-service.com/column/*
-*://maxdebrid.com/*
-*://www.debridleech.com/*
-*://okdebrid.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
@@ -4743,6 +4739,7 @@
 *://maturi.info/*
 *://mawtoload.com/youtube-revanced-extended/*
 *://max77.shop/*
+*://maxdebrid.com/*
 *://maxfordesign.art/*
 *://maxtendes.com/*
 *://maymay05.com/*
@@ -5700,6 +5697,7 @@
 *://okaimono-navigation.com/*
 *://okannoyomeiri-stage.jp/*
 *://okboook.com/*
+*://okdebrid.com/*
 *://oki-itsmylife.com/*
 *://okiam-02.com/*
 *://okigourmet.com/*
@@ -7976,6 +7974,7 @@
 *://wingkola.pkmunggul.com/*
 *://winksuv8.formachasia.com/*
 *://winoogov.com/*
+*://wiple-service.com/column/*
 *://wise-media-factory.com/*
 *://wisteriablog.net/*
 *://wizbiz.me/*
@@ -8402,6 +8401,7 @@
 *://www.davidpetts.org/*
 *://www.dd-mona.com/*
 *://www.ddtrans.am/*
+*://www.debridleech.com/*
 *://www.decoracioarc.com/*
 *://www.deep-exp.cn/*
 *://www.delarte.cl/*
