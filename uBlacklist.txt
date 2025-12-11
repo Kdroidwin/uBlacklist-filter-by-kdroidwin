@@ -1,18 +1,4 @@
 *://*.000webhostapp.com/*
-*://note.com/rex1234/*
-*://toorublog.com/*
-*://ib2056792.exblog.jp/*
-*://www.kininarublog.com/*
-*://sanpo19.jp/*
-*://heibon-heyboom.com/*
-*://snufkinheart.com/*
-*://styleproud-labo.com/*
-*://trend-to.jp/*
-*://posg.jp/*
-*://suzu-bell.com/*
-*://www.ichigo-macaron.com/*
-*://geinou-family.com/*
-*://junchandream.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -2973,6 +2959,7 @@
 *://geino.press/*
 *://geinoidolfan.hatenablog.com/*
 *://geinoiroiro.com/*
+*://geinou-family.com/*
 *://geinou-kekkon.jp/*
 *://geinou-media.com/*
 *://geinou-now.net/*
@@ -3347,6 +3334,7 @@
 *://healthistanbulgroup.com/*
 *://healthykidshealthyfuture.org/*
 *://heart-made-cafe.info/*
+*://heibon-heyboom.com/*
 *://heim.jp/*
 *://heipowersystem.com/*
 *://heliumboss.xyz/*
@@ -3549,6 +3537,7 @@
 *://i711.com/*
 *://ias.tongji.edu.cn/*
 *://iasbanenge.co.in/*
+*://ib2056792.exblog.jp/*
 *://ibaraki.dijifinex.online/*
 *://ibeidou.top/*
 *://ibkps.com.au/*
@@ -3903,6 +3892,7 @@
 *://juliatrofimenko.ru/*
 *://jump-netabare.love/*
 *://junabroadinfo.com/*
+*://junchandream.com/*
 *://juncook.com/*
 *://junkfreeemail.com/*
 *://junrin.xyz/*
@@ -5557,6 +5547,7 @@
 *://note.com/realme_note/*
 *://note.com/reraco/*
 *://note.com/restruct/*
+*://note.com/rex1234/*
 *://note.com/rich_shark9469/*
 *://note.com/rinks_shop1288/*
 *://note.com/roshalke/*
@@ -6083,6 +6074,7 @@
 *://poroshop.online/*
 *://portable4pc.com/*
 *://pos.eapp168.com/*
+*://posg.jp/*
 *://posgradounap.com/*
 *://positive-lab365days.com/*
 *://positivelog.net/*
@@ -6560,6 +6552,7 @@
 *://sandstoneairportparking.com/*
 *://sanluisobispogasprices.com/*
 *://sanosemi.info/*
+*://sanpo19.jp/*
 *://sanro.cc/*
 *://sanservhygiene.co.zw/*
 *://sansyuen.jp/*
@@ -6880,6 +6873,7 @@
 *://snowjourney.net/*
 *://snowpeak.me/*
 *://snsdays.com/*
+*://snufkinheart.com/*
 *://soccer.gatecoin.online/*
 *://soccerlove.jp/*
 *://soci-journal.com/*
@@ -7039,6 +7033,7 @@
 *://stube.info/*
 *://studioebi.com/*
 *://studionobres.com/*
+*://styleproud-labo.com/*
 *://suava-boutique.com/*
 *://sub2-30.aairwwq.online/*
 *://subarashii.me/*
@@ -7127,6 +7122,7 @@
 *://suqsaudi.com/*
 *://surfshark.com/ja/blog/surfshark-vs-mullvad*
 *://surgeonsatya.com/*
+*://suzu-bell.com/*
 *://suzukitakao.jp/*
 *://suzured.com/*
 *://svencioniuprc.lt/*
@@ -7457,6 +7453,7 @@
 *://ton-union.de/*
 *://toolbox.app/*
 *://tools.anquanclub.cn/*
+*://toorublog.com/*
 *://tootsietoes.com.au/*
 *://topcasinosdirectory.com/*
 *://topfifty.uk/*
@@ -7546,6 +7543,7 @@
 *://trend-scrap.com/*
 *://trend-spark.net/*
 *://trend-spider-blog.com/*
+*://trend-to.jp/*
 *://trend-tracer.com/*
 *://trend-usagi.com/*
 *://trend-wide.com/*
@@ -8716,6 +8714,7 @@
 *://www.hs-partner.hamburg/*
 *://www.hybrid-analysis.com/*
 *://www.ibaozhen.xyz/*
+*://www.ichigo-macaron.com/*
 *://www.icomu-master.info/*
 *://www.idealhomeappliances.com/*
 *://www.idobata.online/*
@@ -8832,6 +8831,7 @@
 *://www.kidscollegeindore.in/*
 *://www.kilkareraceway.com/*
 *://www.kina-recipe.com/*
+*://www.kininarublog.com/*
 *://www.kippis.online/*
 *://www.kirstenmomsen.com/*
 *://www.kitaharima-hi.com/*
