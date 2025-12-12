@@ -8748,6 +8748,7 @@
 ||www.hachioji-orimono.jp^$document
 ||www.hacocoro.com^$document
 ||www.haitenjp.com^$document
+||www.hakone-chan.jp^$document
 ||www.hakone-yamatoya.com^$document
 ||www.hakutea.jp^$document
 ||www.hallaron.com^$document

@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://www.hakone-chan.jp/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -8661,6 +8660,7 @@
 *://www.hachioji-orimono.jp/*
 *://www.hacocoro.com/*
 *://www.haitenjp.com/*
+*://www.hakone-chan.jp/*
 *://www.hakone-yamatoya.com/*
 *://www.hakutea.jp/*
 *://www.hallaron.com/*
