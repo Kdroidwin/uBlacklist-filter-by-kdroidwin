@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://www.hakone-chan.jp/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
