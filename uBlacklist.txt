@@ -1,12 +1,4 @@
 *://*.000webhostapp.com/*
-*://toronexclk.com/*
-*://noudoofees.net/*
-*://cdn.99kia.com/*
-*://22hgc.com/*
-*://phortaub.com/*
-*://psaunsooksuthi.com/*
-*://advancemotorsllc.com/*
-*://tourukaustoglee.net/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -542,6 +534,7 @@
 *://2211933.slot47.online/*
 *://22220.xyz/*
 *://2255573.slot15.online/*
+*://22hgc.com/*
 *://22kininaru.com/*
 *://23.jl.cn/*
 *://233302.dijifinex.online/*
@@ -784,6 +777,7 @@
 *://adusasan.com/*
 *://advancecommunity.org/*
 *://advancedgloskinclinicpune.com/*
+*://advancemotorsllc.com/*
 *://advansteadily2310.com/*
 *://aeonculture.info/*
 *://afacarlit.cat/*
@@ -1674,6 +1668,7 @@
 *://cccrecord.com/*
 *://ccs-sakusei.onelink.me/*
 *://ccsggw.cn/*
+*://cdn.99kia.com/*
 *://ceapronutrdcongo.org/*
 *://cebidm8t.tambuntuition.com/*
 *://cedarfarm.info/*
@@ -5617,6 +5612,7 @@
 *://note.com/yuueki_osusume/*
 *://note.com/zatsugaku_iroiro/*
 *://notsu08.com/*
+*://noudoofees.net/*
 *://nougaku.saloon.jp/*
 *://noureldin-lawfirm.com/*
 *://novel-device-166659.framer.app/*
@@ -5964,6 +5960,7 @@
 *://phl-wp-3ekxbwgmwq-an.a.run.app/*
 *://phoenixglass.co.th/*
 *://phoenixss.com.au/*
+*://phortaub.com/*
 *://photo-app.online/*
 *://php.rinet.ru/*
 *://phpa.me/*
@@ -6139,6 +6136,7 @@
 *://proyectolibelulaverde.com/*
 *://prwireonline.com/*
 *://psalmsforkids.com/*
+*://psaunsooksuthi.com/*
 *://psd-drugstore.com/*
 *://psicoterapieonline.com/*
 *://psikodramatist.com/*
@@ -7485,6 +7483,7 @@
 *://toretopic.com/*
 *://toretore-news.jp/*
 *://toriore.com/*
+*://toronexclk.com/*
 *://toronto-new-wp-3ekxbwgmwq-an.a.run.app/*
 *://torrent-hayakawa.com/*
 *://torrent822.blog.fc2.com/*
@@ -7504,6 +7503,7 @@
 *://totutottuan.com/*
 *://touhoku-shigoto.jp/*
 *://touhokujrst.club/*
+*://tourukaustoglee.net/*
 *://towakon.com/*
 *://toy-box777.com/*
 *://toyama-asbb.com/*

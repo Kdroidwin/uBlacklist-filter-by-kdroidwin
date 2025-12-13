@@ -531,6 +531,7 @@
 ||2211933.slot47.online^$document
 ||22220.xyz^$document
 ||2255573.slot15.online^$document
+||22hgc.com^$document
 ||22kininaru.com^$document
 ||23.jl.cn^$document
 ||233302.dijifinex.online^$document
@@ -773,6 +774,7 @@
 ||adusasan.com^$document
 ||advancecommunity.org^$document
 ||advancedgloskinclinicpune.com^$document
+||advancemotorsllc.com^$document
 ||advansteadily2310.com^$document
 ||ae^$doc,domain=~eightone.ae
 ||aeonculture.info^$document
@@ -1675,6 +1677,7 @@
 ||cccrecord.com^$document
 ||ccs-sakusei.onelink.me^$document
 ||ccsggw.cn^$document
+||cdn.99kia.com^$document
 ||ceapronutrdcongo.org^$document
 ||cebidm8t.tambuntuition.com^$document
 ||cedarfarm.info^$document
@@ -5669,6 +5672,7 @@
 ||note.com/yuueki_osusume^$document
 ||note.com/zatsugaku_iroiro^$document
 ||notsu08.com^$document
+||noudoofees.net^$document
 ||nougaku.saloon.jp^$document
 ||noureldin-lawfirm.com^$document
 ||novel-device-166659.framer.app^$document
@@ -6019,6 +6023,7 @@
 ||phl-wp-3ekxbwgmwq-an.a.run.app^$document
 ||phoenixglass.co.th^$document
 ||phoenixss.com.au^$document
+||phortaub.com^$document
 ||photo-app.online^$document
 ||php.rinet.ru^$document
 ||phpa.me^$document
@@ -6194,6 +6199,7 @@
 ||prtimes.jp^$document
 ||prwireonline.com^$document
 ||psalmsforkids.com^$document
+||psaunsooksuthi.com^$document
 ||psd-drugstore.com^$document
 ||psicoterapieonline.com^$document
 ||psikodramatist.com^$document
@@ -7555,6 +7561,7 @@
 ||toretopic.com^$document
 ||toretore-news.jp^$document
 ||toriore.com^$document
+||toronexclk.com^$document
 ||toronto-new-wp-3ekxbwgmwq-an.a.run.app^$document
 ||torrent-hayakawa.com^$document
 ||torrent48.com^$document
@@ -7575,6 +7582,7 @@
 ||totutottuan.com^$document
 ||touhoku-shigoto.jp^$document
 ||touhokujrst.club^$document
+||tourukaustoglee.net^$document
 ||towakon.com^$document
 ||toy-box777.com^$document
 ||toyama-asbb.com^$document
@@ -10255,6 +10263,7 @@
 @@||audioforyou.top^$document
 @@||audioforyou.top^$document
 @@||auri.ga^document
+@@||auri.ga^document
 @@||av.av4us.sbs^$document
 @@||av.av4us.sbs^$document
 @@||awavenue.top^$document
@@ -10265,6 +10274,7 @@
 @@||baby-beamup.club^$document
 @@||base.shop^$document
 @@||bbs.eddibb.cc^$document
+@@||blog.uehi.ro^document
 @@||blog.uehi.ro^document
 @@||blueprotocol.swiki.jp^$document
 @@||blueprotocol.swiki.jp^$document
@@ -10292,6 +10302,7 @@
 @@||chinaq.fun^$document
 @@||chinaq.fun^$document
 @@||comix.fyi^document
+@@||comix.fyi^document
 @@||contest.japias.jp^$document
 @@||contest.japias.jp^$document
 @@||corriente.top^$document
@@ -10308,12 +10319,14 @@
 @@||dtman.info^$document
 @@||dtman.info^$document
 @@||dze.ro^document
+@@||dze.ro^document
 @@||edgeless.top^$document
 @@||eeo.today^$document
 @@||emulation.gametechwiki.com^$document
 @@||emulation.gametechwiki.com^$document
 @@||erogamescape.org^$document
 @@||erogamescape.org^$document
+@@||exact-tours.ro^document
 @@||exact-tours.ro^document
 @@||expo2025.fun^$document
 @@||expo2025.fun^$document
@@ -10328,6 +10341,8 @@
 @@||fujiq.info^$document
 @@||futurology.today^$document
 @@||fuze.dj^document
+@@||fuze.dj^document
+@@||gabonexposition.ga^document
 @@||gabonexposition.ga^document
 @@||galge.top^$document
 @@||galge.top^$document
@@ -10338,15 +10353,18 @@
 @@||gonzobacca.bitfan.id^$document
 @@||gonzobacca.bitfan.id^$document
 @@||green.co.ug^document
+@@||green.co.ug^document
 @@||hack.club^$document
 @@||hack.club^$document
 @@||hammertime.cyou^$document
 @@||hammertime.cyou^$document
 @@||hanabishi.win^document
+@@||hanabishi.win^document
 @@||hd-olimpo.club^$document
 @@||hd-olimpo.club^$document
 @@||hostingowy.top^$document
 @@||hostingowy.top^$document
+@@||ibarakirobots.win^document
 @@||ibarakirobots.win^document
 @@||iboxs.top^$document
 @@||iboxs.top^$document
@@ -10392,10 +10410,12 @@
 @@||melonbooks.info^$document
 @@||melonbooks.info^$document
 @@||mfa.tj^document
+@@||mfa.tj^document
 @@||mianbeian.top^$document
 @@||mianbeian.top^$document
 @@||miotele.top^$document
 @@||miotele.top^$document
+@@||mirrormedia.mg^document
 @@||mirrormedia.mg^document
 @@||missav.ws^$document
 @@||missav.ws^$document
@@ -10412,6 +10432,7 @@
 @@||nothing.tech^$document
 @@||nothing.tech^$document
 @@||oldweb.today^$document
+@@||onsen.ag^document
 @@||onsen.ag^document
 @@||ossme.top^$document
 @@||ossme.top^$document
@@ -10444,6 +10465,7 @@
 @@||qr-code.click^$document
 @@||qwertycxz.top^$document
 @@||qwertycxz.top^$document
+@@||rave.dj^document
 @@||rave.dj^document
 @@||ravelin.click^$document
 @@||ravelin.click^$document
@@ -10485,6 +10507,7 @@
 @@||t-satoru.top^$document
 @@||t-satoru.top^$document
 @@||tafaol.sa^document
+@@||tafaol.sa^document
 @@||taikosim.click^$document
 @@||taikosim.click^$document
 @@||taimanin-rpg.wikiru.jp$document
@@ -10497,6 +10520,7 @@
 @@||thelemmy.club^$document
 @@||to^$document
 @@||tocaro.im^document
+@@||tocaro.im^document
 @@||tokiwasushi.top^$document
 @@||tokiwasushi.top^$document
 @@||toushibu.fun^$document
@@ -10507,8 +10531,12 @@
 @@||tver.jp^$document
 @@||type.today^$document
 @@||upmedia.mg^document
+@@||upmedia.mg^document
+@@||ushi.ml^document
 @@||ushi.ml^document
 @@||visa.gov.tj^document
+@@||visa.gov.tj^document
+@@||voicechanger.im^document
 @@||voicechanger.im^document
 @@||voxel.top^$document
 @@||voxel.top^$document
@@ -10532,27 +10560,7 @@
 @@||xiaoron.xyz^$document
 @@||xn--dbh-cj4e260f.xyz^$document
 @@||xn--dbh-cj4e260f.xyz^$document
+@@||xprime.today^$document
 @@||yggtorrent.top^$document
 @@||zeri-m.top^$document
-@@||onsen.ag^document
-@@||rave.dj^document
-@@||fuze.dj^document
-@@||comix.fyi^document
-@@||auri.ga^document
-@@||gabonexposition.ga^document
-@@||voicechanger.im^document
-@@||tocaro.im^document
-@@||upmedia.mg^document
-@@||mirrormedia.mg^document
-@@||ushi.ml^document
-@@||blog.uehi.ro^document
-@@||exact-tours.ro^document
-@@||dze.ro^document
-@@||tafaol.sa^document
-@@||mfa.tj^document
-@@||visa.gov.tj^document
-@@||green.co.ug^document
-@@||ibarakirobots.win^document
-@@||hanabishi.win^document
 @@||zeri-m.top^$document
-@@||xprime.today^$document
