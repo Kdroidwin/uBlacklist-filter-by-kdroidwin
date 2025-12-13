@@ -8877,7 +8877,6 @@
 *://www.ldplayer.net/*
 *://www.ldv17z2.cn/*
 *://www.le-grand-gala.com/*
-*://www.leawo.org/*
 *://www.lecavistegourmand.fr/*
 *://www.leedsuniv.us/*
 *://www.legame-gr.jp/*
