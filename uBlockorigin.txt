@@ -8967,7 +8967,6 @@
 ||www.ldplayer.net^$document
 ||www.ldv17z2.cn^$document
 ||www.le-grand-gala.com^$document
-||www.leawo.org^$document
 ||www.lecavistegourmand.fr^$document
 ||www.leedsuniv.us^$document
 ||www.legame-gr.jp^$document
