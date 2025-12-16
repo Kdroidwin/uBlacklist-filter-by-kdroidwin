@@ -1091,6 +1091,9 @@
 ||apkmodget.com^$document
 ||apkmody.com/apps/youtube-revanced*^$document
 ||apkmos.com^$document
+||apkpure.com/revanced-extended^$document
+||apkpure.com/youtube-revanced^$document
+||apkpure.net/youtube-revanced^$document
 ||apkresult.io^$document
 ||apksfull.com^$document
 ||apksim.com^$document
@@ -2622,6 +2625,7 @@
 ||expressbox.nl^$document
 ||expression-of-gratitude.com^$document
 ||extendedrevanced.com^$document
+||extendedrevanced.org^$document
 ||extns.notion.site^$document
 ||extra-newspaper.com^$document
 ||eylamermer.5bweb.com^$document
@@ -5477,6 +5481,7 @@
 ||note.com/cream_corone^$document
 ||note.com/crisp_avocet516^$document
 ||note.com/crypto_y^$document
+||note.com/cute_dietes883^$document
 ||note.com/cute_ruff6801^$document
 ||note.com/cutecreaturecli^$document
 ||note.com/dapper_boar1528*^$document
@@ -6390,6 +6395,7 @@
 ||revanced-apks.pages.dev^$document
 ||revanced-auto-apk.pages.dev^$document
 ||revanced-extended.com^$document
+||revanced-extended.en.uptodown.com^$document
 ||revanced-extended.jp.malavida.com^$document
 ||revanced-extended.jp.uptodown.com^$document
 ||revanced-mininxd.vercel.app^$document
@@ -6918,6 +6924,7 @@
 ||skyfall.co.jp^$document
 ||skytouchservices.com^$document
 ||skywave-net.com^$document
+||slashdot.jp^$document
 ||slolita.taobao.com^$document
 ||slope-media.jp^$document
 ||smahangtuah5.sch.id^$document
@@ -9570,6 +9577,7 @@
 ||www.tesonline.ru^$document
 ||www.testmart.cn^$document
 ||www.testwebsite2024.online^$document
+||www.tetsu7017.com^$document
 ||www.tevetamw.com^$document
 ||www.thaiaochi.com^$document
 ||www.thaicreativestudio.com^$document

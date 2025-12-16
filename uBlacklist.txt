@@ -1,13 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://apkpure.com/youtube-revanced/*
-*://apkpure.net/youtube-revanced/*
-*://extendedrevanced.org/*
-*://revanced-extended.en.uptodown.com/*
-*://apkpure.com/revanced-extended/*
-*://www.tetsu7017.com/*
-*://note.com/cute_dietes883/*
-*://slashdot.jp/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
@@ -1098,6 +1090,9 @@
 *://apkmodget.com/*
 *://apkmody.com/apps/youtube-revanced*
 *://apkmos.com/*
+*://apkpure.com/revanced-extended/*
+*://apkpure.com/youtube-revanced/*
+*://apkpure.net/youtube-revanced/*
 *://apkresult.io/*
 *://apksfull.com/*
 *://apksim.com/*
@@ -2611,6 +2606,7 @@
 *://expressbox.nl/*
 *://expression-of-gratitude.com/*
 *://extendedrevanced.com/*
+*://extendedrevanced.org/*
 *://extns.notion.site/*
 *://extra-newspaper.com/*
 *://eylamermer.5bweb.com/*
@@ -5443,6 +5439,7 @@
 *://note.com/cream_corone/*
 *://note.com/crisp_avocet516/*
 *://note.com/crypto_y/*
+*://note.com/cute_dietes883/*
 *://note.com/cute_ruff6801/*
 *://note.com/cutecreaturecli/*
 *://note.com/dapper_boar1528*
@@ -6334,6 +6331,7 @@
 *://revanced-apks.pages.dev/*
 *://revanced-auto-apk.pages.dev/*
 *://revanced-extended.com/*
+*://revanced-extended.en.uptodown.com/*
 *://revanced-extended.jp.malavida.com/*
 *://revanced-extended.jp.uptodown.com/*
 *://revanced-mininxd.vercel.app/*
@@ -6853,6 +6851,7 @@
 *://skyfall.co.jp/*
 *://skytouchservices.com/*
 *://skywave-net.com/*
+*://slashdot.jp/*
 *://slolita.taobao.com/*
 *://slope-media.jp/*
 *://smahangtuah5.sch.id/*
@@ -9482,6 +9481,7 @@
 *://www.tesonline.ru/*
 *://www.testmart.cn/*
 *://www.testwebsite2024.online/*
+*://www.tetsu7017.com/*
 *://www.tevetamw.com/*
 *://www.thaiaochi.com/*
 *://www.thaicreativestudio.com/*
