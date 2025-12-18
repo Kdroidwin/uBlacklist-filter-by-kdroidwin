@@ -781,6 +781,7 @@
 ||af^$doc,domain=~m.aqr.af
 ||afacarlit.cat^$document
 ||affigolrich.com^$document
+||affiliatebook.net^$document
 ||afghan-info.com^$document
 ||afiri-star.com^$document
 ||aflciopokerroom.com^$document
@@ -1469,6 +1470,7 @@
 ||blogjuicy.com^$document
 ||blogkanbee.info^$document
 ||blogmura.com^$document
+||blogrou.com^$document
 ||blogs.ergotron.com^$document
 ||blogs.esri-cis.ru^$document
 ||blogs.mcafee.jp^$document
@@ -1840,6 +1842,7 @@
 ||cmeventslimited.co.uk^$document
 ||cmlife2015.com^$document
 ||cmmhw.taobao.com^$document
+||cmnfew.com^$document
 ||cndl.synology.cn^$document
 ||co-family.net^$document
 ||coachlovey.com^$document
@@ -1856,6 +1859,7 @@
 ||cocomirai.com^$document
 ||cocone.app^$document
 ||cocoppa.com^$document
+||cocoyomi.com^$document
 ||code.ooaks.co.jp^$document
 ||codeacademyug.org^$document
 ||codevia.io^$document
@@ -2013,6 +2017,7 @@
 ||cyou^$doc,domain=~www.midori.cyou|~ac.miyoav.cyou|~rengougensen.cyou|~btmovi.cyou|~blog.chenx221.cyou|~www.xaavv.cyou|~tizu.cyou|~www.skunkgirl.cyou|~hmoegirl.cyou
 ||cyteka.com^$document
 ||czumtabim.blog72.fc2.com^$document
+||d.excite.co.jp^$document
 ||d315.cn^$document
 ||d4d.online^$document
 ||da-shinta.hatenablog.com^$document
@@ -3506,6 +3511,7 @@
 ||horror-panic-manga.tokyo^$document
 ||hoshi-boutique.com^$document
 ||hoshi-hitomi.marouge.jp^$document
+||hoshi.uraraca-web.jp^$document
 ||hoshimemo.com^$document
 ||hosigumi.hatenablog.com^$document
 ||hosoho.jp^$document
@@ -3767,6 +3773,7 @@
 ||item.woomy.me^$document
 ||itemcube.jp^$document
 ||iti-inc.co.jp^$document
+||itone.co.jp^$document
 ||itssicani.it^$document
 ||itudemodokodemo.com^$document
 ||itzmysnow.com^$document
@@ -4030,6 +4037,7 @@
 ||karin-zakki.com^$document
 ||karlovackagimnazija.rs^$document
 ||kashimayunohana.jp^$document
+||kasiiyuyu.com^$document
 ||kasimakadar.online^$document
 ||kasparblumen.ch^$document
 ||kasu-min.com^$document
@@ -5466,6 +5474,7 @@
 ||note.com/aomushi_15^$document
 ||note.com/aquafish^$document
 ||note.com/at549^$document
+||note.com/avectois^$document
 ||note.com/ayanofx^$document
 ||note.com/beckett_8492^$document
 ||note.com/belnon^$document
@@ -5488,6 +5497,7 @@
 ||note.com/cute_ruff6801^$document
 ||note.com/cutecreaturecli^$document
 ||note.com/dapper_boar1528*^$document
+||note.com/denka_life^$document
 ||note.com/der3^$document
 ||note.com/dream1004*^$document
 ||note.com/egao_no_care_nao^$document
@@ -5495,6 +5505,7 @@
 ||note.com/fair_godwit545^$document
 ||note.com/fine_gerbil9006^$document
 ||note.com/fit_hyssop6243^$document
+||note.com/fit_quince2164^$document
 ||note.com/fuku_chie^$document
 ||note.com/fuku_chie^$document
 ||note.com/gad_hammocchi^$document
@@ -5514,6 +5525,8 @@
 ||note.com/hakutoumomo^$document
 ||note.com/hamako14^$document
 ||note.com/hamu_3nd^$document
+||note.com/happy_cobra8643^$document
+||note.com/hirokazumineral^$document
 ||note.com/hit_ranking^$document
 ||note.com/hitotsu_ai^$document
 ||note.com/holy_beetle811^$document
@@ -5549,6 +5562,7 @@
 ||note.com/kimetsu_mania^$document
 ||note.com/koh7166^$document
 ||note.com/koreaiimono^$document
+||note.com/kototamashacho^$document
 ||note.com/kouichi_0703^$document
 ||note.com/kuma_ai_studio^$document
 ||note.com/kumakuma3desu^$document
@@ -5619,9 +5633,11 @@
 ||note.com/ready_bison5376^$document
 ||note.com/ready_newt6023^$document
 ||note.com/realme_note^$document
+||note.com/renai_mbti^$document
 ||note.com/reraco^$document
 ||note.com/restruct^$document
 ||note.com/rex1234^$document
+||note.com/rich_mole9262^$document
 ||note.com/rich_shark9469^$document
 ||note.com/rinks_shop1288^$document
 ||note.com/roshalke^$document
@@ -5661,6 +5677,7 @@
 ||note.com/tenorsharejp^$document
 ||note.com/teraweb^$document
 ||note.com/teraweb^$document
+||note.com/thase70^$document
 ||note.com/tmobile_kevin^$document
 ||note.com/tokotoko_2025^$document
 ||note.com/tom485^$document
@@ -5679,6 +5696,7 @@
 ||note.com/wareomou_yueni^$document
 ||note.com/wataru057/n/n1616ce92e51f^$document
 ||note.com/watawata555^$document
+||note.com/webcommu_sub^$document
 ||note.com/wise_liger7796^$document
 ||note.com/yamaguchi3forza*^$document
 ||note.com/yarunara_ima^$document
@@ -5686,6 +5704,7 @@
 ||note.com/yokatorock^$document
 ||note.com/yokatorock^$document
 ||note.com/yoki0119^$document
+||note.com/yolohealth^$document
 ||note.com/yoshino_uranai^$document
 ||note.com/youichi0989^$document
 ||note.com/youmadesign^$document
@@ -6680,6 +6699,7 @@
 ||satomusubi.jp^$document
 ||satori88.com^$document
 ||satoristudio.net^$document
+||satoritalk.jp^$document
 ||satoru-try.com^$document
 ||satoyurulife.xyz^$document
 ||satsuma-imo-blog.net^$document
@@ -6756,6 +6776,7 @@
 ||sensitiveimages.com^$document
 ||sentou.jp^$document
 ||septem-notes.com^$document
+||sequence-hayatomo.net^$document
 ||sergiolevinsky.com^$document
 ||serorino-hitorigoto.com^$document
 ||server2.jpware.com^$document
@@ -6892,6 +6913,7 @@
 ||sibadeji.net^$document
 ||siberiatech.ru^$document
 ||signin.samsung.cn^$document
+||sigyou-school.biz^$document
 ||siihamu.com^$document
 ||sikanosima.jp^$document
 ||sikiroom.com^$document
@@ -6916,6 +6938,7 @@
 ||sirokumama-ikuji.com^$document
 ||siryou.jp^$document
 ||site.libecity.com^$document
+||sitecreation.co.jp^$document
 ||sivbp.moonarama.za.com^$document
 ||sixany.com^$document
 ||sizaroyl.afibrake.com^$document
@@ -7033,6 +7056,7 @@
 ||southsidemibor.com^$document
 ||souzoku-yokohama.net^$document
 ||sozhaatimes.com^$document
+||sp.gettersiida.net^$document
 ||spaceshipearth.jp^$document
 ||spang8vz.exoticmods.com^$document
 ||sparkle-sparkle.com^$document
@@ -7169,6 +7193,7 @@
 ||suigeneric00001728.imweb.me^$document
 ||suika-v4.com^$document
 ||suimin.biz^$document
+||suishotamako.net^$document
 ||sujibori.com^$document
 ||suketorioblog.com^$document
 ||sukhadniwas.com^$document
@@ -7719,6 +7744,7 @@
 ||tsukiakari-boutique.com^$document
 ||tsukuhote.jp^$document
 ||tsumuji-kosodate.com^$document
+||tsunagu.cloud^$document
 ||tsup-eis.ru^$document
 ||tsuru.top^$document
 ||tsurumatsu-shoten.com^$document
@@ -7823,7 +7849,9 @@
 ||uprobrocher.ucoz.ru^$document
 ||upteck.cl^$document
 ||uquum.com^$document
+||uranai-mugen.jp^$document
 ||uranai.nosv.org^$document
+||uranaizamurai.com^$document
 ||urara-world.com^$document
 ||urayasu-brighton.netlify.app^$document
 ||uriboumiracle.com^$document
@@ -8861,6 +8889,7 @@
 ||www.imrisk.com^$document
 ||www.indiegogo.jp^$document
 ||www.indigocowork.space^$document
+||www.infotop.jp^$document
 ||www.innocentcapitaltax.com^$document
 ||www.inspiracionkohler.com^$document
 ||www.insta360.cn^$document
@@ -8924,6 +8953,7 @@
 ||www.jon123.com^$document
 ||www.jooaywg.cn^$document
 ||www.joystage.online^$document
+||www.jp-vipshop.com^$document
 ||www.jpachecoferreira.pt^$document
 ||www.jpkjaxn.cn^$document
 ||www.jpzentai.com^$document
@@ -9676,6 +9706,7 @@
 ||www.twlrnet.tw^$document
 ||www.tyo2l.uk^$document
 ||www.uasb.edu.bo^$document
+||www.uchina-web.co.jp^$document
 ||www.uhrcgeneva.org^$document
 ||www.ulster.ac.uk^$document
 ||www.underconnection.com^$document
@@ -9687,6 +9718,7 @@
 ||www.upgradad.com^$document
 ||www.ura-akiba.jp^$document
 ||www.urakyoku555.com^$document
+||www.uranai-town.net^$document
 ||www.uranai3.com^$document
 ||www.usachan.co.jp^$document
 ||www.ushigomepark-cl.com^$document
@@ -9774,6 +9806,7 @@
 ||www.xjajdvg.cn^$document
 ||www.xmjsc.cn^$document
 ||www.xn--eck3aaz4a3oyhh.xyz^$document
+||www.xn--q9js4nqcxfya8d9mb5974lbbyb.com^$document
 ||www.xn--u9j5h4aofc9l3j1081ad69aw3n.jp^$document
 ||www.xn--u9jy52gkffn9q8qbux6ab4xi9c4wsx57a.com^$document
 ||www.xpertit.co.nz^$document
