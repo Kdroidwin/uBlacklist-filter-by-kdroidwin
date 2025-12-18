@@ -27,6 +27,7 @@
 /^https?:\/\/[^\/]+\.asusno22\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.atlaq\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ayacnews2nd\.com\/?$/$document
+/^https?:\/\/[^\/]+\.baby\/?$/$document
 /^https?:\/\/[^\/]+\.bcqqvtlk\.property\/?$/$document
 /^https?:\/\/[^\/]+\.bd\/?$/$document
 /^https?:\/\/[^\/]+\.beauty\/?$/$document
@@ -193,6 +194,7 @@
 /^https?:\/\/[^\/]+\.moeeeani\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.mw\/?$/$document
 /^https?:\/\/[^\/]+\.mx\/?$/$document
+/^https?:\/\/[^\/]+\.my\/?$/$document
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
@@ -295,6 +297,7 @@
 /^https?:\/\/[^\/]+\.qathai\.com\/?$/$document
 /^https?:\/\/[^\/]+\.qedev\.com\/?$/$document
 /^https?:\/\/[^\/]+\.qna\.habr\.com\/?$/$document
+/^https?:\/\/[^\/]+\.qpon\/?$/$document
 /^https?:\/\/[^\/]+\.quabr\.com\/?$/$document
 /^https?:\/\/[^\/]+\.quares\.ru\/?$/$document
 /^https?:\/\/[^\/]+\.question\-it\.com\/?$/$document
@@ -312,6 +315,7 @@
 /^https?:\/\/[^\/]+\.risposta\.org\/?$/$document
 /^https?:\/\/[^\/]+\.ro\/?$/$document
 /^https?:\/\/[^\/]+\.rotadev\.com\/?$/$document
+/^https?:\/\/[^\/]+\.ru\.com\/?$/$document
 /^https?:\/\/[^\/]+\.runebook\.dev\/?$/$document
 /^https?:\/\/[^\/]+\.rupython\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ryoban\-disc\.com\/?$/$document
