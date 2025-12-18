@@ -1,9 +1,4 @@
 *://*.000webhostapp.com/*
-*://note.com/long_dove4226/*
-*://note.com/mingaje333/*
-*://note.com/vast_arnica5001/*
-*://note.com/mdsmys/*
-*://note.com/light_right_/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -5505,7 +5500,9 @@
 *://note.com/kumakuma3desu/*
 *://note.com/kyari_mon/*
 *://note.com/lenslover/*
+*://note.com/light_right_/*
 *://note.com/lofty_skink4202/*
+*://note.com/long_dove4226/*
 *://note.com/lovely_impala245/*
 *://note.com/loyal_otter6207/*
 *://note.com/lucid_weasel5472/*
@@ -5515,9 +5512,11 @@
 *://note.com/mankensensei/*
 *://note.com/maron2023/*
 *://note.com/marumaruikuji/*
+*://note.com/mdsmys/*
 *://note.com/michaeldx/*
 *://note.com/midori_no_kaden/*
 *://note.com/mild_ruff676/*
+*://note.com/mingaje333/*
 *://note.com/mippasan/*
 *://note.com/mizuu_note1/*
 *://note.com/moeuhane22*
@@ -5602,6 +5601,7 @@
 *://note.com/uber_tantan02*
 *://note.com/unique_chimp63/*
 *://note.com/ushi_sd/*
+*://note.com/vast_arnica5001/*
 *://note.com/vast_rue955/*
 *://note.com/vivid_cosmos9883/*
 *://note.com/wareomou_yueni/*

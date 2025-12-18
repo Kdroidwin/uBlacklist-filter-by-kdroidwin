@@ -5549,7 +5549,9 @@
 ||note.com/kumakuma3desu^$document
 ||note.com/kyari_mon^$document
 ||note.com/lenslover^$document
+||note.com/light_right_^$document
 ||note.com/lofty_skink4202^$document
+||note.com/long_dove4226^$document
 ||note.com/lovely_impala245^$document
 ||note.com/loyal_otter6207^$document
 ||note.com/lucid_weasel5472^$document
@@ -5559,10 +5561,12 @@
 ||note.com/mankensensei^$document
 ||note.com/maron2023^$document
 ||note.com/marumaruikuji^$document
+||note.com/mdsmys^$document
 ||note.com/michaeldx^$document
 ||note.com/midori_no_kaden^$document
 ||note.com/midori_no_kaden^$document
 ||note.com/mild_ruff676^$document
+||note.com/mingaje333^$document
 ||note.com/mippasan^$document
 ||note.com/mizuu_note1^$document
 ||note.com/moeuhane22*^$document
@@ -5653,6 +5657,7 @@
 ||note.com/uber_tantan02*^$document
 ||note.com/unique_chimp63^$document
 ||note.com/ushi_sd^$document
+||note.com/vast_arnica5001^$document
 ||note.com/vast_rue955^$document
 ||note.com/vivid_cosmos9883^$document
 ||note.com/vivid_cosmos9883^$document
