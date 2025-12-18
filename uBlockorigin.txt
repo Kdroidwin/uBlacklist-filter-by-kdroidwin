@@ -7551,6 +7551,7 @@
 ||tools.anquanclub.cn^$document
 ||toorublog.com^$document
 ||tootsietoes.com.au^$document
+||top^$document,from=~1stream.top|~adrules.top|~ambr.top|~asiaon.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~changlam10.top|~changlam11.top|~chillx.top|~corriente.top|~doubledouble.top|~gdtot.top|~hostingowy.top|~iboxs.top|~magocoro.top|~nicenature.top|~passt.top|~pdcdn1.top|~polar.top|~pressplay.top|~reminder.top|~reyhub.top|~rifton.top|~rugaming.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~to|~voxel.top|~yggtorrent.top|~doujinantena.top|~www.minesweeper.top|~cqdh26.top|~mangakoma01.top|~kmansin09.top|~spoilerraw.top
 ||topcasinosdirectory.com^$document
 ||topfifty.uk^$document
 ||topgun.ffwpu.app^$document
