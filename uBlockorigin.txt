@@ -1423,6 +1423,7 @@
 ||bismillahfoodbd.com^$document
 ||bitbucket.org^$document
 ||bitcash.me^$document
+||biter.shorrt.live^$document
 ||bitregions.com^$document
 ||bitsend.jp^$document
 ||biturl.top^$document
@@ -5442,6 +5443,7 @@
 ||nostalghia11.com^$document
 ||nostalgicdorama.com^$document
 ||note.com/0219toton/n/n010fc309fe3e*^$document
+||note.com/24hs_ksrr44^$document
 ||note.com/2ch3ch^$document
 ||note.com/4jinooyaji^$document
 ||note.com/50it^$document
@@ -5466,6 +5468,7 @@
 ||note.com/at549^$document
 ||note.com/ayanofx^$document
 ||note.com/beckett_8492^$document
+||note.com/belnon^$document
 ||note.com/berry_0702^$document
 ||note.com/bolojobsko/n/n47cfa6a8b9a7*^$document
 ||note.com/brave_borage2759^$document
@@ -5541,6 +5544,8 @@
 ||note.com/kara0323^$document
 ||note.com/kaz_kashiwagi^$document
 ||note.com/kazu_feelin^$document
+||note.com/kenhonda^$document
+||note.com/keshikakeuranai^$document
 ||note.com/kimetsu_mania^$document
 ||note.com/koh7166^$document
 ||note.com/koreaiimono^$document
@@ -5555,13 +5560,16 @@
 ||note.com/lovely_impala245^$document
 ||note.com/loyal_otter6207^$document
 ||note.com/lucid_weasel5472^$document
+||note.com/lucky_ai^$document
 ||note.com/maiko_muri^$document
 ||note.com/mainichigadget^$document
 ||note.com/mangach^$document
 ||note.com/mankensensei^$document
 ||note.com/maron2023^$document
 ||note.com/marumaruikuji^$document
+||note.com/mayako_room^$document
 ||note.com/mdsmys^$document
+||note.com/mental_marcy^$document
 ||note.com/michaeldx^$document
 ||note.com/midori_no_kaden^$document
 ||note.com/midori_no_kaden^$document
@@ -5573,15 +5581,18 @@
 ||note.com/monetking0209*^$document
 ||note.com/morin4g4^$document
 ||note.com/motokoku^$document
+||note.com/muratooo^$document
 ||note.com/muryoudouga*^$document
 ||note.com/nakanaka_2025^$document
 ||note.com/nanopapa_world11^$document
 ||note.com/naoki_iphone^$document
+||note.com/nft_tactics^$document
 ||note.com/nifty_cosmos4076^$document
 ||note.com/nifty_viper3044^$document
 ||note.com/noble_guppy6313^$document
 ||note.com/nommy_465^$document
 ||note.com/note_rakuten23^$document
+||note.com/nyam_stady^$document
 ||note.com/ojirolian^$document
 ||note.com/okinisezu^$document
 ||note.com/omochi0014^$document
@@ -5625,6 +5636,7 @@
 ||note.com/shiba_inunosuke^$document
 ||note.com/shin_kon^$document
 ||note.com/shinkouya_1453^$document
+||note.com/shure8888^$document
 ||note.com/sim_mobile^$document
 ||note.com/simsmagadget^$document
 ||note.com/sknet_sougou*^$document
@@ -5638,6 +5650,7 @@
 ||note.com/syashinsuki^$document
 ||note.com/syashinsuki^$document
 ||note.com/syuroriiman^$document
+||note.com/t1944h^$document
 ||note.com/takkxi^$document
 ||note.com/takumi333^$document
 ||note.com/takumi_hakata^$document
@@ -5649,6 +5662,7 @@
 ||note.com/teraweb^$document
 ||note.com/teraweb^$document
 ||note.com/tmobile_kevin^$document
+||note.com/tokotoko_2025^$document
 ||note.com/tom485^$document
 ||note.com/torataka50^$document
 ||note.com/toy_hobby^$document
@@ -5656,6 +5670,7 @@
 ||note.com/trivia_kingdom^$document
 ||note.com/uber_tantan02*^$document
 ||note.com/unique_chimp63^$document
+||note.com/ura_okuribito^$document
 ||note.com/ushi_sd^$document
 ||note.com/vast_arnica5001^$document
 ||note.com/vast_rue955^$document
@@ -5671,6 +5686,7 @@
 ||note.com/yokatorock^$document
 ||note.com/yokatorock^$document
 ||note.com/yoki0119^$document
+||note.com/yoshino_uranai^$document
 ||note.com/youichi0989^$document
 ||note.com/youmadesign^$document
 ||note.com/yubaku^$document
@@ -7748,6 +7764,7 @@
 ||twitter.nuxt.xyz^$document
 ||twn-rt.onelink.me^$document
 ||twtwmatome.hatenablog.com^$document
+||txp.fxisvpiw.my^$document
 ||tyerukun.com^$document
 ||tyubetyube.com^$document
 ||tyunntyunn1988.hatenadiary.jp^$document
