@@ -315,7 +315,6 @@
 /^https?:\/\/[^\/]+\.risposta\.org\/?$/$document
 /^https?:\/\/[^\/]+\.ro\/?$/$document
 /^https?:\/\/[^\/]+\.rotadev\.com\/?$/$document
-/^https?:\/\/[^\/]+\.ru\.com\/?$/$document
 /^https?:\/\/[^\/]+\.runebook\.dev\/?$/$document
 /^https?:\/\/[^\/]+\.rupython\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ryoban\-disc\.com\/?$/$document
@@ -6566,6 +6565,7 @@
 ||rtnet2.xyz^$document
 ||rtrend365.com^$document
 ||rttyinfo.com^$document
+||ru.com^$document,~inline-font
 ||ru-nestjs-docs.netlify.app^$document
 ||rudrasurgiwell.online^$document
 ||rueproductions.com^$document
