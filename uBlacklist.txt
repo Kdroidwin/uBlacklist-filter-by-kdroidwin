@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://harubo-blog.com/*
-*://keezeightrsa.xyz/*
-*://micdx.com/*
-*://satsutabato-onsen.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
@@ -3325,6 +3321,7 @@
 *://haru-journal.com/*
 *://haru-lab.jp/*
 *://harublooming.jp/*
+*://harubo-blog.com/*
 *://harugon12.com/*
 *://haruhana2023.com/*
 *://haruhaya0829.com/*
@@ -4047,6 +4044,7 @@
 *://keazikane.shop/*
 *://keeeeeke.com/*
 *://keepvid.ch/*
+*://keezeightrsa.xyz/*
 *://keeztwelversa.xyz/*
 *://kei-siroikumo.com/*
 *://keijserskoning.com/*
@@ -4875,6 +4873,7 @@
 *://mi715.cloudoo.site/*
 *://miacreativelab.com.co/*
 *://miaotenten.com/*
+*://micdx.com/*
 *://micheleandjon.com/*
 *://microphone-global.ru/*
 *://microsoftstore.ru/*
@@ -6645,6 +6644,7 @@
 *://satoru-try.com/*
 *://satoyurulife.xyz/*
 *://satsuma-imo-blog.net/*
+*://satsutabato-onsen.com/*
 *://sattelite.eu/*
 *://satukiti.com/*
 *://saudi-newsy.com/*

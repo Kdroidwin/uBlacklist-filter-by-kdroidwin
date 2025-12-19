@@ -1090,7 +1090,6 @@
 ||apkdone.com^$document
 ||apkdownloadforwindows.com^$document
 ||apkfab.com^$document
-||forese.life^$document
 ||apklite.me/youtube-revanced-apk^$document
 ||apkmb.com^$document
 ||apkmodget.com^$document
@@ -2782,6 +2781,7 @@
 ||footforwardfootwear.com^$document
 ||for-food.online^$document
 ||forbiddenwhisper.com^$document
+||forese.life^$document
 ||forester-fan-blog.com^$document
 ||forestvpn.com^$document
 ||foret-aventure-kimetsu.jp^$document
@@ -3341,6 +3341,7 @@
 ||haru-journal.com^$document
 ||haru-lab.jp^$document
 ||harublooming.jp^$document
+||harubo-blog.com^$document
 ||harugon12.com^$document
 ||haruhana2023.com^$document
 ||haruhaya0829.com^$document
@@ -4072,6 +4073,7 @@
 ||keazikane.shop^$document
 ||keeeeeke.com^$document
 ||keepvid.ch^$document
+||keezeightrsa.xyz^$document
 ||keeztwelversa.xyz^$document
 ||kei-siroikumo.com^$document
 ||keijserskoning.com^$document
@@ -4905,6 +4907,7 @@
 ||mi715.cloudoo.site^$document
 ||miacreativelab.com.co^$document
 ||miaotenten.com^$document
+||micdx.com^$document
 ||micheleandjon.com^$document
 ||microphone-global.ru^$document
 ||microsoftstore.ru^$document
@@ -6708,6 +6711,7 @@
 ||satoru-try.com^$document
 ||satoyurulife.xyz^$document
 ||satsuma-imo-blog.net^$document
+||satsutabato-onsen.com^$document
 ||sattelite.eu^$document
 ||satukiti.com^$document
 ||saudi-newsy.com^$document
