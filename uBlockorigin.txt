@@ -1202,7 +1202,6 @@
 ||ashine-gr.com^$document
 ||ashitamohare.com^$document
 ||ashradar.com^$document
-||asia^$doc,domain=~amzn.asia|~autoads.asia|~bandainamcoent.asia|~dbankcloud.asia|~disney.asia|~elgaucho.asia|~homelands.asia|~livwell.asia|~pansci.asia|~rainviewer.asia|~shopdisney.asia
 ||asifkhanshakir.com^$document
 ||asigau.com.pg^$document
 ||asilisas.buzz^$document
