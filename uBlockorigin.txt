@@ -10320,7 +10320,6 @@
 @@||ambr.top^$document
 @@||animescape.link^$document
 @@||anitabi.cn^$document
-@@||apps.apple.com^$document
 @@||archive.today^$document
 @@||asiaon.top^$document
 @@||audioforyou.top^$document
@@ -10401,7 +10400,6 @@
 @@||mastodon.top^$document
 @@||mbcherohub.club^$document
 @@||mee6.xyz^$document
-@@||melonbooks.info^$document
 @@||mfa.tj^document
 @@||mianbeian.top^$document
 @@||miotele.top^$document
@@ -10420,7 +10418,6 @@
 @@||patterncraft.fun^$document
 @@||pdcdn1.top^$document
 @@||pegelinux.top^$document
-@@||play.google.com^$document
 @@||playerzglove.thebase.in^$document
 @@||polar.top^$document
 @@||popcat.click^$document
@@ -10443,7 +10440,6 @@
 @@||shellshockers.xyz^$document
 @@||shucks.top^$document
 @@||skin.club^$document
-@@||smhn.info^$document
 @@||sobanomi-ikkanjin.top^$document
 @@||strem.fun^$document
 @@||strims.top^$document
@@ -10456,7 +10452,6 @@
 @@||tally.so^$document
 @@||thedesk.top^$document
 @@||thelemmy.club^$document
-@@||to^$document
 @@||tocaro.im^document
 @@||tokiwasushi.top^$document
 @@||toushibu.fun^$document
@@ -10470,7 +10465,6 @@
 @@||voxel.top^$document
 @@||vsdb.top^$document
 @@||wa3.i-3-i.info^$document
-@@||webmanga.info^$document
 @@||wiki3.xyz^$document
 @@||wmg.click^$document
 @@||ww1.dramacool.com.tr^$document
