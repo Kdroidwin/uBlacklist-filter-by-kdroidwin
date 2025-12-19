@@ -1090,6 +1090,7 @@
 ||apkdone.com^$document
 ||apkdownloadforwindows.com^$document
 ||apkfab.com^$document
+||forese.life^$document
 ||apklite.me/youtube-revanced-apk^$document
 ||apkmb.com^$document
 ||apkmodget.com^$document
