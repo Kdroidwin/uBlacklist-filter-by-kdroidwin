@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://ureba.jp/*
-*://*.forese.life/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
@@ -82,6 +80,7 @@
 *://*.fileplanet.com/*
 *://*.filkhabr.com/*
 *://*.firebaseapp.com/*
+*://*.forese.life/*
 *://*.futosoku.com/*
 *://*.fyi/*
 *://*.ga/*
@@ -7780,6 +7779,7 @@
 *://uranaizamurai.com/*
 *://urara-world.com/*
 *://urayasu-brighton.netlify.app/*
+*://ureba.jp/*
 *://uriboumiracle.com/*
 *://urls.g.forms.cn/*
 *://urotanblog.com/*
