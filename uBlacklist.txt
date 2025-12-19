@@ -1,5 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
+*://harubo-blog.com/*
+*://keezeightrsa.xyz/*
+*://micdx.com/*
+*://satsutabato-onsen.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
