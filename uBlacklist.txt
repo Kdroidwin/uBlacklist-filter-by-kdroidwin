@@ -1,19 +1,4 @@
 *://*.000webhostapp.com/*
-*://pilosaleltd.com/*
-*://tiffanycoshop.com/*
-*://sheingivesback.com/*
-*://luvasti.com/*
-*://bedbathclose.com/*
-*://brookshoeoutlet.com/*
-*://suewhitehurst.shop/*
-*://wilkoclosing.com/*
-*://zamzbuy.com/*
-*://bhspecial.com/*
-*://christmas-bigsales.com/*
-*://outletfinalsale.com/*
-*://bh-clearance.com/*
-*://balsmhillforsale.shop/*
-*://bhoutletsale.shop/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -1324,6 +1309,7 @@
 *://balesw7v.phai.ie/*
 *://ballet-info.com/*
 *://balmsf8u.mydees.com/*
+*://balsmhillforsale.shop/*
 *://bambitoblog.com/*
 *://ban-zai.jp/*
 *://bananya-anime.com/*
@@ -1372,6 +1358,7 @@
 *://beautybest.jp/*
 *://beaver-global.com/*
 *://bebordeaux.jp/*
+*://bedbathclose.com/*
 *://bedrockinfra.com/*
 *://beerprice.life/*
 *://befree-life.com/*
@@ -1410,7 +1397,10 @@
 *://bethelcc.net/*
 *://better-information.com/*
 *://bg-mania.jp/*
+*://bh-clearance.com/*
 *://bh3cth2q.r.ap-northeast-1.awstrack.me/*
+*://bhoutletsale.shop/*
+*://bhspecial.com/*
 *://bi-love.net/*
 *://bibi-star.jp/*
 *://bibitobleague.club/*
@@ -1584,6 +1574,7 @@
 *://broadcastutopia.com/*
 *://broccoli014.com/*
 *://bronzesdefrance.com/*
+*://brookshoeoutlet.com/*
 *://brownalumnipoker.com/*
 *://brownlind.xyz/*
 *://brummell.jp/*
@@ -1797,6 +1788,7 @@
 *://chordal-modal.com/*
 *://chouchou.jp/*
 *://christinacooks.com/*
+*://christmas-bigsales.com/*
 *://chrome.google.com/webstore/detail/revanced-extended-latest/hhbckenadhgffcgbacbalchajeccplmj*
 *://chrome.zzzmh.cn/*
 *://chronictacos.jp/*
@@ -4538,6 +4530,7 @@
 *://lusogamer.com/*
 *://luuhoo.cn/*
 *://luupy.net/*
+*://luvasti.com/*
 *://luxecathaven.com/*
 *://luxio-tarou.com/*
 *://luxury-biz.com/*
@@ -5914,6 +5907,7 @@
 *://outdoor-daisuki.com/*
 *://outerbanksrentalsmap.com/*
 *://outidesigoto.com/*
+*://outletfinalsale.com/*
 *://outlookfestival.jp/*
 *://overforty-man.com/*
 *://overlack.jp/*
@@ -6052,6 +6046,7 @@
 *://pikeplacedesign.com/*
 *://piku-home.com/*
 *://pilas-maths.com/*
+*://pilosaleltd.com/*
 *://pilotz.jp/*
 *://pimpandhochicago.com/*
 *://pingpongbytoulet.com/*
@@ -6758,6 +6753,7 @@
 *://shaunkentarme-zakkiblog.com/*
 *://shawn620.online/*
 *://sheeny.com.tw/*
+*://sheingivesback.com/*
 *://shiawaseninaritai.com/*
 *://shibutaisai.com/*
 *://shicony.com/*
@@ -7132,6 +7128,7 @@
 *://sudachiemulator.org/*
 *://sudachiemulators.org/*
 *://sudsies.net/*
+*://suewhitehurst.shop/*
 *://sug-mag3.com/*
 *://sug-web.jp/*
 *://sugadaira-trail.jp/*
@@ -7465,6 +7462,7 @@
 *://tienda-smattcom.com/*
 *://tiendinhnamviet.com/*
 *://tiesrenraku.com/*
+*://tiffanycoshop.com/*
 *://tii-healthy.com/*
 *://tiktikpremium.com/*
 *://tiktokrevanced.com/*
@@ -8063,6 +8061,7 @@
 *://wigo.media/*
 *://wih5u.icu/*
 *://wiketrend77.hatenablog.com/*
+*://wilkoclosing.com/*
 *://win10.au/*
 *://wind2016.seesaa.net/*
 *://windows-10-permanent-activator-ultimate.software.informer.com/*
@@ -10161,6 +10160,7 @@
 *://zakki-saito.com/*
 *://zakkinews.hatenablog.com/*
 *://zakoshacho.jp/*
+*://zamzbuy.com/*
 *://zandfine.com/*
 *://zao.slot60.online/*
 *://zatsugaku111.com/*

@@ -1312,6 +1312,7 @@
 ||balesw7v.phai.ie^$document
 ||ballet-info.com^$document
 ||balmsf8u.mydees.com^$document
+||balsmhillforsale.shop^$document
 ||bambitoblog.com^$document
 ||ban-zai.jp^$document
 ||bananya-anime.com^$document
@@ -1360,6 +1361,7 @@
 ||beautybest.jp^$document
 ||beaver-global.com^$document
 ||bebordeaux.jp^$document
+||bedbathclose.com^$document
 ||bedrockinfra.com^$document
 ||beerprice.life^$document
 ||befree-life.com^$document
@@ -1399,7 +1401,10 @@
 ||bethelcc.net^$document
 ||better-information.com^$document
 ||bg-mania.jp^$document
+||bh-clearance.com^$document
 ||bh3cth2q.r.ap-northeast-1.awstrack.me^$document
+||bhoutletsale.shop^$document
+||bhspecial.com^$document
 ||bi-love.net^$document
 ||bibi-star.jp^$document
 ||bibitobleague.club^$document
@@ -1576,6 +1581,7 @@
 ||broadcastutopia.com^$document
 ||broccoli014.com^$document
 ||bronzesdefrance.com^$document
+||brookshoeoutlet.com^$document
 ||brownalumnipoker.com^$document
 ||brownlind.xyz^$document
 ||brummell.jp^$document
@@ -1791,6 +1797,7 @@
 ||chordal-modal.com^$document
 ||chouchou.jp^$document
 ||christinacooks.com^$document
+||christmas-bigsales.com^$document
 ||chrome.google.com/webstore/detail/revanced-extended-latest/hhbckenadhgffcgbacbalchajeccplmj*^$document
 ||chrome.zzzmh.cn^$document
 ||chronictacos.jp^$document
@@ -4555,6 +4562,7 @@
 ||lusogamer.com^$document
 ||luuhoo.cn^$document
 ||luupy.net^$document
+||luvasti.com^$document
 ||luxecathaven.com^$document
 ||luxio-tarou.com^$document
 ||luxury-biz.com^$document
@@ -5960,6 +5968,7 @@
 ||outdoor-daisuki.com^$document
 ||outerbanksrentalsmap.com^$document
 ||outidesigoto.com^$document
+||outletfinalsale.com^$document
 ||outlookfestival.jp^$document
 ||overforty-man.com^$document
 ||overlack.jp^$document
@@ -6099,6 +6108,7 @@
 ||pikeplacedesign.com^$document
 ||piku-home.com^$document
 ||pilas-maths.com^$document
+||pilosaleltd.com^$document
 ||pilotz.jp^$document
 ||pimpandhochicago.com^$document
 ||pingpongbytoulet.com^$document
@@ -6814,6 +6824,7 @@
 ||shaunkentarme-zakkiblog.com^$document
 ||shawn620.online^$document
 ||sheeny.com.tw^$document
+||sheingivesback.com^$document
 ||shiawaseninaritai.com^$document
 ||shibutaisai.com^$document
 ||shicony.com^$document
@@ -7191,6 +7202,7 @@
 ||sudachiemulator.org^$document
 ||sudachiemulators.org^$document
 ||sudsies.net^$document
+||suewhitehurst.shop^$document
 ||sug-mag3.com^$document
 ||sug-web.jp^$document
 ||sugadaira-trail.jp^$document
@@ -7526,6 +7538,7 @@
 ||tienda-smattcom.com^$document
 ||tiendinhnamviet.com^$document
 ||tiesrenraku.com^$document
+||tiffanycoshop.com^$document
 ||tii-healthy.com^$document
 ||tiktikpremium.com^$document
 ||tiktokrevanced.com^$document
@@ -8130,6 +8143,7 @@
 ||wigo.media^$document
 ||wih5u.icu^$document
 ||wiketrend77.hatenablog.com^$document
+||wilkoclosing.com^$document
 ||win10.au^$document
 ||wind2016.seesaa.net^$document
 ||windows-10-permanent-activator-ultimate.software.informer.com^$document
@@ -10250,6 +10264,7 @@
 ||zakki-saito.com^$document
 ||zakkinews.hatenablog.com^$document
 ||zakoshacho.jp^$document
+||zamzbuy.com^$document
 ||zandfine.com^$document
 ||zao.slot60.online^$document
 ||zatsugaku111.com^$document
