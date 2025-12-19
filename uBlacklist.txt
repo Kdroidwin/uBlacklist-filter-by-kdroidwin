@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
+*://ureba.jp/*
+*://*.forese.life/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
