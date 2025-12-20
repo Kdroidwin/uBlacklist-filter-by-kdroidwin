@@ -110,6 +110,7 @@
 /^https?:\/\/[^\/]+\.himasoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.himatsubushi\-shindan\-test\.com\/?$/$document
 /^https?:\/\/[^\/]+\.hokkaidougurashi\.com\/?$/$document
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.skin/
 /^https?:\/\/[^\/]+\.hosyusokuhou\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.huat\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.icrt\.cu\/?$/$document
