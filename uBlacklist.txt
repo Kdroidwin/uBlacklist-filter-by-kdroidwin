@@ -1,25 +1,4 @@
 *://*.000webhostapp.com/*
-*://www.mikuramall.com/*
-*://www.nuddlifetokyo.com/*
-*://www.joygons.com/*
-*://atelier-takahashi.com/*
-*://homeofbead.com/*
-*://miciks.com/*
-*://jp-yooho.com/*
-*://iseawee.com/*
-*://zofe-warszawa.com/*
-*://theosopht.com/*
-*://fpfjzjvxtbf.com/*
-*://saito-fukuoka.com/*
-*://popstoretokyo.com/*
-*://www.tokyomartstore.com/*
-*://hometechgglab.com/*
-*://lunalucasjewel.com/*
-*://nattoumarket.com/*
-*://zwcassrw.com/*
-*://ocaec.com/*
-*://yunnmu.com/*
-*://sloloura.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
@@ -1246,6 +1225,7 @@
 *://atamii.jp/*
 *://ate.lpro-chat.com//*
 *://atelier--pink.com/*
+*://atelier-takahashi.com/*
 *://atelierpurcell.com/*
 *://athlete-information.com/*
 *://athlete-media.com/*
@@ -2811,6 +2791,7 @@
 *://forum.blackrussia.online/*
 *://forums.goha.ru/*
 *://foux3ut3.rallye-photo-avord.fr/*
+*://fpfjzjvxtbf.com/*
 *://fphrc.groupzu.com/*
 *://franchiseconnect.us/*
 *://fratermusic.com/*
@@ -3507,7 +3488,9 @@
 *://holy-saito-8151.parallel.jp/*
 *://home-medical.online/*
 *://homeloanteam.com.au/*
+*://homeofbead.com/*
 *://homeparty-select.com/*
+*://hometechgglab.com/*
 *://homl.info/*
 *://honcierge.jp/*
 *://hondastjohns.com/*
@@ -3760,6 +3743,7 @@
 *://irumakg.jp/*
 *://isao001.com/*
 *://isaoblog.com/*
+*://iseawee.com/*
 *://ishiishiishi.com/*
 *://ishiwon.com/*
 *://isidorus-ex-camera.com/*
@@ -3917,6 +3901,7 @@
 *://joyuu-media.com/*
 *://jp-2.dogge.info/*
 *://jp-m.banggood.com/*
+*://jp-yooho.com/*
 *://jp.adorable-pet.com/*
 *://jp.amp.xhamster.com/*
 *://jp.china-embassy.gov.cn/*
@@ -4550,6 +4535,7 @@
 *://luna-vpn.com/*
 *://lunablog1.com/*
 *://lunahapi.com/*
+*://lunalucasjewel.com/*
 *://lunch.orders.lfs.bg/*
 *://lusogamer.com/*
 *://luuhoo.cn/*
@@ -4907,6 +4893,7 @@
 *://miaotenten.com/*
 *://micdx.com/*
 *://micheleandjon.com/*
+*://miciks.com/*
 *://microphone-global.ru/*
 *://microsoftstore.ru/*
 *://midorikiryu-navi.com/*
@@ -5259,6 +5246,7 @@
 *://natsumifightingblog.com/*
 *://natsusachi.com/*
 *://natti404.com/*
+*://nattoumarket.com/*
 *://naturetarou.com/*
 *://natusma.com/*
 *://nav.muyuanhuck.cn/*
@@ -5759,6 +5747,7 @@
 *://oa-kanji.com/*
 *://obediently.shop/*
 *://obnal-babosov.ru/*
+*://ocaec.com/*
 *://occhocoyomeko.com/*
 *://oceanmemo.com/*
 *://oceanofgames.com/*
@@ -6163,6 +6152,7 @@
 *://popo4141happy.com/*
 *://popsfanlife.com/*
 *://popsokuhou.com/*
+*://popstoretokyo.com/*
 *://popteen.co.jp/*
 *://popularahora.com/*
 *://popversemix.com/*
@@ -6612,6 +6602,7 @@
 *://saha.cl/*
 *://sahuyuki.hatenablog.com/*
 *://saisin-news.com/*
+*://saito-fukuoka.com/*
 *://saitomo0908.com/*
 *://sak0425.com/*
 *://sakaagari-blog.com/*
@@ -6947,6 +6938,7 @@
 *://skywave-net.com/*
 *://slashdot.jp/*
 *://slolita.taobao.com/*
+*://sloloura.com/*
 *://slope-media.jp/*
 *://smahangtuah5.sch.id/*
 *://smahospital.jp/column/recommend/*
@@ -7458,6 +7450,7 @@
 *://themagisk.com/*
 *://thenewlifehospitals.com/*
 *://thenhawk.xyz/*
+*://theosopht.com/*
 *://thepickup1010.com/*
 *://thepizzapig.com.hk/*
 *://thepowerofostrich.com/*
@@ -8916,6 +8909,7 @@
 *://www.jokky.net/*
 *://www.jon123.com/*
 *://www.jooaywg.cn/*
+*://www.joygons.com/*
 *://www.joystage.online/*
 *://www.jp-vipshop.com/*
 *://www.jpachecoferreira.pt/*
@@ -9114,6 +9108,7 @@
 *://www.mijardincentroinfantil.com.co/*
 *://www.mika-rika-free.jp/*
 *://www.mikecar.co.th/*
+*://www.mikuramall.com/*
 *://www.milanoo.com/jp/c1109/1.html/*
 *://www.mimarketingsolutions.in/*
 *://www.mindjeweller.com/*
@@ -9213,6 +9208,7 @@
 *://www.novodigitalllc.com/*
 *://www.nrowbyu.cn/*
 *://www.nttpc.co.jp/column/network/vpn_service.html*
+*://www.nuddlifetokyo.com/*
 *://www.nuplas-uae.com/*
 *://www.nutre.com.co/*
 *://www.nvidia.cn/*
@@ -9626,6 +9622,7 @@
 *://www.tokei365.xyz/*
 *://www.tokyofashionapp.com/*
 *://www.tokyoheadline.com/*
+*://www.tokyomartstore.com/*
 *://www.torccleanenergy.com.au/*
 *://www.torrent48.com/*
 *://www.totalav.com/*
@@ -10123,6 +10120,7 @@
 *://yumeslushlife.com/*
 *://yumisblog.com/*
 *://yunhoyunho.com/*
+*://yunnmu.com/*
 *://yuno-1031.com/*
 *://yunoche.com/*
 *://yuran.work/*
@@ -10241,12 +10239,14 @@
 *://zlibrary.lol/*
 *://zlibrary.to/*
 *://zlmmafzfeb.xyz/*
+*://zofe-warszawa.com/*
 *://zoroastrian.net/*
 *://zsa9q04de98.xn--d1aby4ah.xn--p1ai/*
 *://zuboraaa-64.com/*
 *://zuckyzczc.com/*
 *://zuhair-studios.com/*
 *://zuzukuntrend.com/*
+*://zwcassrw.com/*
 *://zwly9k6z.r.us-east-1.awstrack.me/*
 *://zx32.xyz/*
 *://zyupodotyu.com/*

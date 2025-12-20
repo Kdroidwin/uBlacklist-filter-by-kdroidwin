@@ -3,12 +3,15 @@
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world/
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.asia/
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cards/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.homes/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.ink/
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.link/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.live/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.lol/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.rest/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.sale/
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.skin/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.surf/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.|pubsure\.)[^\/]+\.[^\/]+\.life/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.|seitai\.)[^\/]+\.[^\/]+\.fit/
@@ -31,8 +34,6 @@
 /^https?:\/\/[^\/]+\.amazon\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.amprime\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.anige\-sokuhouvip\.com\/?$/$document
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.link/
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cards/
 /^https?:\/\/[^\/]+\.apk\.dog\/?$/$document
 /^https?:\/\/[^\/]+\.apktodo\.io\/?$/$document
 /^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
@@ -110,7 +111,6 @@
 /^https?:\/\/[^\/]+\.himasoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.himatsubushi\-shindan\-test\.com\/?$/$document
 /^https?:\/\/[^\/]+\.hokkaidougurashi\.com\/?$/$document
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.skin/
 /^https?:\/\/[^\/]+\.hosyusokuhou\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.huat\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.icrt\.cu\/?$/$document
@@ -1240,6 +1240,7 @@
 ||atamii.jp^$document
 ||ate.lpro-chat.com/^$document
 ||atelier--pink.com^$document
+||atelier-takahashi.com^$document
 ||atelierpurcell.com^$document
 ||athlete-information.com^$document
 ||athlete-media.com^$document
@@ -2820,6 +2821,7 @@
 ||forum.blackrussia.online^$document
 ||forums.goha.ru^$document
 ||foux3ut3.rallye-photo-avord.fr^$document
+||fpfjzjvxtbf.com^$document
 ||fphrc.groupzu.com^$document
 ||franchiseconnect.us^$document
 ||fratermusic.com^$document
@@ -3521,7 +3523,9 @@
 ||holy-saito-8151.parallel.jp^$document
 ||home-medical.online^$document
 ||homeloanteam.com.au^$document
+||homeofbead.com^$document
 ||homeparty-select.com^$document
+||hometechgglab.com^$document
 ||homl.info^$document
 ||honcierge.jp^$document
 ||hondastjohns.com^$document
@@ -3779,6 +3783,7 @@
 ||irumakg.jp^$document
 ||isao001.com^$document
 ||isaoblog.com^$document
+||iseawee.com^$document
 ||ishiishiishi.com^$document
 ||ishiwon.com^$document
 ||isidorus-ex-camera.com^$document
@@ -3937,6 +3942,7 @@
 ||joyuu-media.com^$document
 ||jp-2.dogge.info^$document
 ||jp-m.banggood.com^$document
+||jp-yooho.com^$document
 ||jp.adorable-pet.com^$document
 ||jp.amp.xhamster.com^$document
 ||jp.china-embassy.gov.cn^$document
@@ -4574,6 +4580,7 @@
 ||luna-vpn.com^$document
 ||lunablog1.com^$document
 ||lunahapi.com^$document
+||lunalucasjewel.com^$document
 ||lunch.orders.lfs.bg^$document
 ||lusogamer.com^$document
 ||luuhoo.cn^$document
@@ -4934,6 +4941,7 @@
 ||miaotenten.com^$document
 ||micdx.com^$document
 ||micheleandjon.com^$document
+||miciks.com^$document
 ||microphone-global.ru^$document
 ||microsoftstore.ru^$document
 ||midorikiryu-navi.com^$document
@@ -5288,6 +5296,7 @@
 ||natsumifightingblog.com^$document
 ||natsusachi.com^$document
 ||natti404.com^$document
+||nattoumarket.com^$document
 ||naturetarou.com^$document
 ||natusma.com^$document
 ||nav.muyuanhuck.cn^$document
@@ -5811,6 +5820,7 @@
 ||oa-kanji.com^$document
 ||obediently.shop^$document
 ||obnal-babosov.ru^$document
+||ocaec.com^$document
 ||occhocoyomeko.com^$document
 ||oceanmemo.com^$document
 ||oceanofgames.com^$document
@@ -6216,6 +6226,7 @@
 ||popo4141happy.com^$document
 ||popsfanlife.com^$document
 ||popsokuhou.com^$document
+||popstoretokyo.com^$document
 ||popteen.co.jp^$document
 ||popularahora.com^$document
 ||popversemix.com^$document
@@ -6671,6 +6682,7 @@
 ||saha.cl^$document
 ||sahuyuki.hatenablog.com^$document
 ||saisin-news.com^$document
+||saito-fukuoka.com^$document
 ||saitomo0908.com^$document
 ||sak0425.com^$document
 ||sakaagari-blog.com^$document
@@ -7012,6 +7024,7 @@
 ||skywave-net.com^$document
 ||slashdot.jp^$document
 ||slolita.taobao.com^$document
+||sloloura.com^$document
 ||slope-media.jp^$document
 ||smahangtuah5.sch.id^$document
 ||smahospital.jp/column/recommend^$document
@@ -7525,6 +7538,7 @@
 ||themagisk.com^$document
 ||thenewlifehospitals.com^$document
 ||thenhawk.xyz^$document
+||theosopht.com^$document
 ||thepickup1010.com^$document
 ||thepizzapig.com.hk^$document
 ||thepowerofostrich.com^$document
@@ -8998,6 +9012,7 @@
 ||www.jokky.net^$document
 ||www.jon123.com^$document
 ||www.jooaywg.cn^$document
+||www.joygons.com^$document
 ||www.joystage.online^$document
 ||www.jp-vipshop.com^$document
 ||www.jpachecoferreira.pt^$document
@@ -9195,6 +9210,7 @@
 ||www.mijardincentroinfantil.com.co^$document
 ||www.mika-rika-free.jp^$document
 ||www.mikecar.co.th^$document
+||www.mikuramall.com^$document
 ||www.milanoo.com/jp/c1109/1.html^$document
 ||www.mimarketingsolutions.in^$document
 ||www.mindjeweller.com^$document
@@ -9294,6 +9310,7 @@
 ||www.novodigitalllc.com^$document
 ||www.nrowbyu.cn^$document
 ||www.nttpc.co.jp/column/network/vpn_service.html*^$document
+||www.nuddlifetokyo.com^$document
 ||www.nuplas-uae.com^$document
 ||www.nutre.com.co^$document
 ||www.nvidia.cn^$document
@@ -9714,6 +9731,7 @@
 ||www.tokei365.xyz^$document
 ||www.tokyofashionapp.com^$document
 ||www.tokyoheadline.com^$document
+||www.tokyomartstore.com^$document
 ||www.torccleanenergy.com.au^$document
 ||www.torrent48.com^$document
 ||www.totalav.com^$document
@@ -10219,6 +10237,7 @@
 ||yumeslushlife.com^$document
 ||yumisblog.com^$document
 ||yunhoyunho.com^$document
+||yunnmu.com^$document
 ||yuno-1031.com^$document
 ||yunoche.com^$document
 ||yuran.work^$document
@@ -10338,12 +10357,14 @@
 ||zlibrary.lol^$document
 ||zlibrary.to^$document
 ||zlmmafzfeb.xyz^$document
+||zofe-warszawa.com^$document
 ||zoroastrian.net^$document
 ||zsa9q04de98.xn--d1aby4ah.xn--p1ai^$document
 ||zuboraaa-64.com^$document
 ||zuckyzczc.com^$document
 ||zuhair-studios.com^$document
 ||zuzukuntrend.com^$document
+||zwcassrw.com^$document
 ||zwly9k6z.r.us-east-1.awstrack.me^$document
 ||zx32.xyz^$document
 ||zyupodotyu.com^$document
