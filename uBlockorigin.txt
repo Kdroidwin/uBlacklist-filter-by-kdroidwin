@@ -1,8 +1,12 @@
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
+/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world/
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.asia/
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.homes/
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.ink/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.live/
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.lol/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.rest/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.sale/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.surf/
@@ -14,10 +18,6 @@
 /^https?:\/\/[^\/]+\.ac\.id\/?$/$document
 /^https?:\/\/[^\/]+\.ac\.in\/?$/$document
 /^https?:\/\/[^\/]+\.ad\/?$/$document
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.homes/
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.lol/
-/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world/
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.ink/
 /^https?:\/\/[^\/]+\.adobe\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.ahh1008\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.aiarty\.com\/?$/$document
@@ -864,6 +864,7 @@
 ||akase.xsrv.jp^$document
 ||akasofa.hatenablog.com^$document
 ||akayoshisite.com^$document
+||akeontokyo.jp^$document
 ||akhbar-tibiya.shop^$document
 ||akibablog.blog.jp^$document
 ||akieabe.jp^$document
@@ -2464,6 +2465,7 @@
 ||endlesstripgoo.com^$document
 ||endride.jp^$document
 ||ene-po.com^$document
+||energeful.com^$document
 ||enerjialbana.online^$document
 ||enews-one.com^$document
 ||engaging.jp^$document
@@ -6205,6 +6207,7 @@
 ||pontiyo.com^$document
 ||popclinic.net.br^$document
 ||popcultura.com.br^$document
+||popmart-jp.com^$document
 ||popnews.info^$document
 ||popo-entame.work^$document
 ||popo4141happy.com^$document
@@ -6783,6 +6786,7 @@
 ||see-d.jp^$document
 ||seebeck.co.jp^$document
 ||seed-pocket2.com^$document
+||seedo.augfund.biz^$document
 ||seiai690152.ocnk.me^$document
 ||seidentest.com^$document
 ||seijikanews.com^$document

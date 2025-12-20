@@ -2,10 +2,6 @@
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
-*://popmart-jp.com/*
-*://akeontokyo.jp/*
-*://energeful.com/*
-*://seedo.augfund.biz/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -860,6 +856,7 @@
 *://akase.xsrv.jp/*
 *://akasofa.hatenablog.com/*
 *://akayoshisite.com/*
+*://akeontokyo.jp/*
 *://akhbar-tibiya.shop/*
 *://akibablog.blog.jp/*
 *://akieabe.jp/*
@@ -2445,6 +2442,7 @@
 *://endlesstripgoo.com/*
 *://endride.jp/*
 *://ene-po.com/*
+*://energeful.com/*
 *://enerjialbana.online/*
 *://enews-one.com/*
 *://engaging.jp/*
@@ -6138,6 +6136,7 @@
 *://pontiyo.com/*
 *://popclinic.net.br/*
 *://popcultura.com.br/*
+*://popmart-jp.com/*
 *://popnews.info/*
 *://popo-entame.work/*
 *://popo4141happy.com/*
@@ -6708,6 +6707,7 @@
 *://see-d.jp/*
 *://seebeck.co.jp/*
 *://seed-pocket2.com/*
+*://seedo.augfund.biz/*
 *://seiai690152.ocnk.me/*
 *://seidentest.com/*
 *://seijikanews.com/*
