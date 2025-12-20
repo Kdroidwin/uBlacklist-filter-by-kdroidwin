@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://*.paridom.wiki/*
-*://paridom.wiki/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
@@ -226,6 +224,7 @@
 *://*.oomonoyoutubersokuhou.blogo.jp/*
 *://*.oryouri.2chblog.jp/*
 *://*.ozawaren.com/*
+*://*.paridom.wiki/*
 *://*.paypal.com.vn/*
 *://*.pin.it/*
 *://*.pinimg.com/*
@@ -5961,6 +5960,7 @@
 *://paralymart.or.jp/*
 *://pararazom.com/*
 *://parcomun.org/*
+*://paridom.wiki/*
 *://parkourtokyo.com/*
 *://partner-gitlab.mioffice.cn/*
 *://partner.kkday.me/*

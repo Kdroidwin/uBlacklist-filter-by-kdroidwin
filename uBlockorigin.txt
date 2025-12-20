@@ -6027,6 +6027,7 @@
 ||paralymart.or.jp^$document
 ||pararazom.com^$document
 ||parcomun.org^$document
+||paridom.wiki^$document
 ||parkourtokyo.com^$document
 ||partner-gitlab.mioffice.cn^$document
 ||partner.kkday.me^$document
