@@ -6,10 +6,6 @@
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
-*://xnicesvs.life/*
-*://www.pandora-japan.jp/*
-*://newbalanlife.com/*
-*://ptro.live/*
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
@@ -5295,6 +5291,7 @@
 *://new-challenge123.com/*
 *://new.artecpractice.com/*
 *://new.cdsm.cl/*
+*://newbalanlife.com/*
 *://newdays-fresh.com/*
 *://newerlokas.online/*
 *://newmexicocountryland.com/*
@@ -6212,6 +6209,7 @@
 *://pswriter1129.com/*
 *://psychguidelines.com/*
 *://psychicsacredinsights.com/*
+*://ptro.live/*
 *://ptsllxs.casa/*
 *://publicbarlive.com/*
 *://pukecco.com/*
@@ -9228,6 +9226,7 @@
 *://www.ozzy.com.cn/*
 *://www.padlay-er.net/*
 *://www.palegreen.jp/*
+*://www.pandora-japan.jp/*
 *://www.pankhalo.com/*
 *://www.pantheondelachanson.fr/*
 *://www.papa-super.jp/*
@@ -9901,6 +9900,7 @@
 *://xn--zck9awe6d1989b6fc70ptid.com/*
 *://xn--zck9awe6dp62p093dusc.com/*
 *://xn--zck9awe6dr30vjfzcuscny2b.com/*
+*://xnicesvs.life/*
 *://xnkjsmdwh.aarmarcalderas.es/*
 *://xnus-sports.jp/*
 *://xnxxcom.xyz/*
