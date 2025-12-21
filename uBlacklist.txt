@@ -1,5 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
+*://yenudesa.com/*
+*://www.phonecasejapanshop.com/*
+*://sesses.info/*
+*://teg.sesses.info/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
