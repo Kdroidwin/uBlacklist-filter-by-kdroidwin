@@ -11,7 +11,6 @@
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
 *://*.amazon.com.vn/*
-*://sumaho-susume.com/*
 *://*.ambiify.cards/*
 *://*.amprime.hatenablog.com/*
 *://*.anige-sokuhouvip.com/*
@@ -7193,6 +7192,7 @@
 *://sukita-movie.com/*
 *://sukyauto.com/*
 *://sumaho-okayama.com/*
+*://sumaho-susume.com/*
 *://sumahodigest.com/*
 *://sumaholife-plus.jp/*
 *://sumahomangayomi.com/*

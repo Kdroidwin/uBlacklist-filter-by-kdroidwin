@@ -7279,6 +7279,7 @@
 ||sukita-movie.com^$document
 ||sukyauto.com^$document
 ||sumaho-okayama.com^$document
+||sumaho-susume.com^$document
 ||sumahodigest.com^$document
 ||sumaholife-plus.jp^$document
 ||sumahomangayomi.com^$document
