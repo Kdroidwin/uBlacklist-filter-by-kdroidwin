@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://playkull.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
@@ -6107,6 +6106,7 @@
 *://play.suitsme.xyz/*
 *://playcreativelab.com/*
 *://playforparkinsons.org/*
+*://playkull.com/*
 *://playruneterra.cn/*
 *://playwithyuzu.com/*
 *://plazaosaka-database.113110.online/*

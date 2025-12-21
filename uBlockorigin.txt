@@ -34,7 +34,6 @@
 /^https?:\/\/[^\/]+\.amazon\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.amprime\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.anige\-sokuhouvip\.com\/?$/$document
-||example.com^$document
 /^https?:\/\/[^\/]+\.apk\.dog\/?$/$document
 /^https?:\/\/[^\/]+\.apktodo\.io\/?$/$document
 /^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
@@ -2646,6 +2645,7 @@
 ||ex-wifi.jp^$document
 ||ex1.heroku.peraichiapp-stg.xyz^$document
 ||exa000.com^$document
+||example.com^$document
 ||exawarosu.net^$document
 ||excelbook.cn^$document
 ||excesssecurity.com/recommended-vpn^$document
@@ -6181,6 +6181,7 @@
 ||play.suitsme.xyz^$document
 ||playcreativelab.com^$document
 ||playforparkinsons.org^$document
+||playkull.com^$document
 ||playruneterra.cn^$document
 ||playwithyuzu.com^$document
 ||plazaosaka-database.113110.online^$document
