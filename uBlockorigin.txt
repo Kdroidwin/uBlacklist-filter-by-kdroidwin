@@ -2645,7 +2645,6 @@
 ||ex-wifi.jp^$document
 ||ex1.heroku.peraichiapp-stg.xyz^$document
 ||exa000.com^$document
-||example.com^$document
 ||exawarosu.net^$document
 ||excelbook.cn^$document
 ||excesssecurity.com/recommended-vpn^$document
