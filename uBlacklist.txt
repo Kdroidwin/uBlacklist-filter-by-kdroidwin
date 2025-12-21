@@ -1,5 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
+*://playkull.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
