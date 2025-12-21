@@ -24,20 +24,15 @@ jobs:
 
           mkdir -p sites
 
-          # 1. note.com のユーザー名を抽出
-          # 2. 重複排除
-          # 3. アルファベット順ソート
-          users=$(grep -oP '\*://note\.com/\K[^/*]+' "$INPUT" \
-            | sort -u)
+          # note.com ユーザー名抽出 → ソート → 重複排除
+          users=$(grep -oP '\*://note\.com/\K[^/*]+' "$INPUT" | sort -u)
 
-          # 上書き
+          # 完全上書き
           : > "$OUTPUT"
 
           for user in $users; do
-            cat >> "$OUTPUT" <<EOF
-note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/$user"])
-note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/$user"])
-EOF
+            echo "note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*=\"/$user\"])" >> "$OUTPUT"
+            echo "note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*=\"/$user\"])" >> "$OUTPUT"
           done
 
       - name: Commit changes
