@@ -2,7 +2,6 @@
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
-*://www.nicosuma.com/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -9212,6 +9211,7 @@
 *://www.nhrenshou.cn/*
 *://www.nhyxmsy.cn/*
 *://www.nicigas.shop/*
+*://www.nicosuma.com/*
 *://www.nigehbancompoundingpharmacy.com/*
 *://www.niksonline.com/*
 *://www.nishino-it-office.com/*
