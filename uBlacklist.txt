@@ -11,6 +11,7 @@
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
 *://*.amazon.com.vn/*
+*://sumaho-susume.com/*
 *://*.ambiify.cards/*
 *://*.amprime.hatenablog.com/*
 *://*.anige-sokuhouvip.com/*
