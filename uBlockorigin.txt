@@ -6855,6 +6855,7 @@
 ||services.awaisora.com^$document
 ||servletcentral.com^$document
 ||seshiminblog.com^$document
+||sesses.info^$document
 ||sessioncam.jp^$document
 ||seu.gwcbpgnp.shop^$document
 ||seven-knives.online^$document
@@ -7482,6 +7483,7 @@
 ||tecnohumanismo.online^$document
 ||tee1515.com^$document
 ||teeeerapon.com^$document
+||teg.sesses.info^$document
 ||tele-play.jp^$document
 ||telegra.ph^$document
 ||telemarketingmadeeasy.com^$document
@@ -9398,6 +9400,7 @@
 ||www.pgauhhz.cn^$document
 ||www.phatmansafterschool.com^$document
 ||www.phoenixresidences-okp.com^$document
+||www.phonecasejapanshop.com^$document
 ||www.phsmdcshineresidences.com^$document
 ||www.physiosalud.com.mx^$document
 ||www.physiotherapie-trudering.com^$document
@@ -10113,6 +10116,7 @@
 ||ydenki.jp^$document
 ||ydmblog.com^$document
 ||ydxlanhai.taobao.com^$document
+||yenudesa.com^$document
 ||yes-sports.com^$document
 ||yesbud.online^$document
 ||yesterday-tv.com^$document

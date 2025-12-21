@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://yenudesa.com/*
-*://www.phonecasejapanshop.com/*
-*://sesses.info/*
-*://teg.sesses.info/*
 *://*.adobe.com.vn/*
 *://*.ahh1008.blog.jp/*
 *://*.aiarty.com/*
@@ -6775,6 +6771,7 @@
 *://services.awaisora.com/*
 *://servletcentral.com/*
 *://seshiminblog.com/*
+*://sesses.info/*
 *://sessioncam.jp/*
 *://seu.gwcbpgnp.shop/*
 *://seven-knives.online/*
@@ -7398,6 +7395,7 @@
 *://tecnohumanismo.online/*
 *://tee1515.com/*
 *://teeeerapon.com/*
+*://teg.sesses.info/*
 *://tele-play.jp/*
 *://telegra.ph/*
 *://telemarketingmadeeasy.com/*
@@ -9300,6 +9298,7 @@
 *://www.pgauhhz.cn/*
 *://www.phatmansafterschool.com/*
 *://www.phoenixresidences-okp.com/*
+*://www.phonecasejapanshop.com/*
 *://www.phsmdcshineresidences.com/*
 *://www.physiosalud.com.mx/*
 *://www.physiotherapie-trudering.com/*
@@ -10000,6 +9999,7 @@
 *://ydenki.jp/*
 *://ydmblog.com/*
 *://ydxlanhai.taobao.com/*
+*://yenudesa.com/*
 *://yes-sports.com/*
 *://yesbud.online/*
 *://yesterday-tv.com/*
