@@ -4822,6 +4822,7 @@
 ||matomeplus.sakura.ne.jp^$document
 ||matomesan.jp^$document
 ||matomesokuhou.tokyo^$document
+||matometanews.com^$document
 ||matsuchiyomuu.com^$document
 ||matsukazechiri.blog^$document
 ||matsuri-eiga.com^$document

@@ -187,7 +187,6 @@
 *://*.makoto5711.blog.jp/*
 *://*.mangasokuhou.com/*
 *://*.manpukunews.blog.jp/*
-*://matometanews.com/*
 *://*.maxinformation.blog.jp/*
 *://*.men/*
 *://*.mg/*
@@ -4776,6 +4775,7 @@
 *://matomeplus.sakura.ne.jp/*
 *://matomesan.jp/*
 *://matomesokuhou.tokyo/*
+*://matometanews.com/*
 *://matsuchiyomuu.com/*
 *://matsukazechiri.blog/*
 *://matsuri-eiga.com/*
