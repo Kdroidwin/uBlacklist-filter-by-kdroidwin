@@ -17,7 +17,6 @@
 *://*.apple.com.nnns/*
 *://*.apple.com.vn/*
 *://*.art-vision.jp/*
-*://*.ashfuf/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
 *://*.atlaq.com/*
@@ -30,10 +29,10 @@
 *://*.best/*
 *://*.bi/*
 *://*.bid/*
-*://*.bigbike.jp/*
-*://*.bipblog.com/*
-*://*.bitdefenderantivirus.jp/*
-*://*.bitubu.blog.jp/*
+*://bigbike.jp/*
+*://bipblog.com/*
+*://bitdefenderantivirus.jp/*
+*://bitubu.blog.jp/*
 *://*.bond/*
 *://*.brow2ing.com/*
 *://*.carnival00inkochi.jp/*
@@ -51,9 +50,9 @@
 *://*.crx7601.com/*
 *://*.cyou/*
 *://*.dj/*
-*://*.doujinsokuhou45.com/*
+*://doujinsokuhou45.com/*
 *://*.ebay.com.vn/*
-*://*.efire-matome.com/*
+*://efire-matome.com/*
 *://*.enamae.net/*
 *://*.facebook.com.vn/*
 *://*.filkhabr.com/*
@@ -61,7 +60,7 @@
 *://*.forese.life/*
 *://*.fyi/*
 *://*.ga/*
-*://*.gekka-bunko.com/*
+*://gekka-bunko.com/*
 *://*.gm/*
 *://*.goog/*
 *://*.gq/*
