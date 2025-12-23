@@ -187,7 +187,7 @@
 *://*.makoto5711.blog.jp/*
 *://*.mangasokuhou.com/*
 *://*.manpukunews.blog.jp/*
-*://*.matometanews.com/*
+*://matometanews.com/*
 *://*.maxinformation.blog.jp/*
 *://*.men/*
 *://*.mg/*
