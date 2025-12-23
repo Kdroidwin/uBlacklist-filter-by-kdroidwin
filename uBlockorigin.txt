@@ -1484,11 +1484,26 @@
 ||blog.kyanny.me^$document
 ||blog.lebara.co.uk^$document
 ||blog.livedoor.jp/anikitorrent*^$document
+||blog.livedoor.jp/chihhylove^$document
 ||blog.livedoor.jp/christmas1224^$document
+||blog.livedoor.jp/dqnplus^$document
+||blog.livedoor.jp/goldennews^$document
 ||blog.livedoor.jp/kinisoku*^$document
+||blog.livedoor.jp/kinisoku^$document
 ||blog.livedoor.jp/kumakazu1207^$document
+||blog.livedoor.jp/love120331^$document
 ||blog.livedoor.jp/news23vip*^$document
+||blog.livedoor.jp/news23vip^$document
+||blog.livedoor.jp/nico3q3q^$document
+||blog.livedoor.jp/nwknews^$document
+||blog.livedoor.jp/rbkyn844^$document
+||blog.livedoor.jp/ringotomomin^$document
+||blog.livedoor.jp/rock1963roll^$document
+||blog.livedoor.jp/schoolunderground^$document
 ||blog.livedoor.jp/tricktreat-eroge^$document
+||blog.livedoor.jp/youtubelives^$document
+||blog.livedoor.jp/zetusoku^$document
+||blog.livedoor.jp/zzcj^$document
 ||blog.lorentzca.me^$document
 ||blog.myplace-events.com^$document
 ||blog.stardream.online^$document
@@ -1626,6 +1641,7 @@
 ||burgundy-movie.jp^$document
 ||burly3qm.amisha.co.uk^$document
 ||burning-down.com^$document
+||burusoku-vip.com^$document
 ||business.ntt-east.co.jp/service/vpnwide/column/vpn_recommend_service3/index.html*^$document
 ||business.site^$document
 ||business.slot42.online^$document
@@ -2732,6 +2748,7 @@
 ||filecr.com^$document
 ||filehippo.com^$document
 ||filehippo.jp^$document
+||fileplanet.com^$document
 ||filmora.wondershare.jp^$document
 ||filmsjp.com^$document
 ||filmsrpa.redeagle-security.com^$document
@@ -2917,6 +2934,7 @@
 ||futae.hungry.jp^$document
 ||futamato.blog.jp^$document
 ||futboltactix.com^$document
+||futosoku.com^$document
 ||future-sparkling.com^$document
 ||futurepark.team-lab.cn^$document
 ||futurerobot.online^$document
@@ -3101,6 +3119,8 @@
 ||girls-movie.com^$document
 ||girlsgundan.com^$document
 ||girlshour.net^$document
+||girlsreport.net^$document
+||girlsvip-matome.com^$document
 ||girlswalker.com^$document
 ||girlyf.com^$document
 ||girnsdzv.bizits.com^$document
@@ -3288,6 +3308,7 @@
 ||haibandvd.com^$document
 ||haikara-syokudo.jp^$document
 ||hairandthere.frontwp.no^$document
+||haisoku.jp^$document
 ||haitenjp.com.cutestat.com^$document
 ||haitenjp.com.siteindices.com^$document
 ||haiyu-dorama.com^$document
@@ -3524,6 +3545,7 @@
 ||hodacieus.com^$document
 ||hodgkinvzw.be^$document
 ||hokanko-alt.com^$document
+||hokkaidougurashi.com^$document
 ||holabeauty.center^$document
 ||holidaymelon.com^$document
 ||hollyhappy.com^$document
@@ -8805,6 +8827,7 @@
 ||www.fiabpjm.cn^$document
 ||www.figures-makaizou.com^$document
 ||www.filehorse.com^$document
+||www.fileplanet.com^$document
 ||www.fileviewpro.com^$document
 ||www.firat.co.ao^$document
 ||www.fire-method.com^$document
