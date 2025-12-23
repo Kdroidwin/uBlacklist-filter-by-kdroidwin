@@ -11,9 +11,7 @@
 *://*.all-nationz.com/*
 *://*.amazon.com.vn/*
 *://*.ambiify.cards/*
-*://amprime.hatenablog.com/*
 *://*.anige-sokuhouvip.com/*
-*://apktodo.io/*
 *://*.apple.com.vn/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
@@ -914,6 +912,7 @@
 *://amour-takarazuka.jp/*
 *://amp.amebaownd.com/*
 *://amp.theguardian.com/*
+*://amprime.hatenablog.com/*
 *://amy1181.com/*
 *://analogkaka.com/*
 *://analytics.slot47.online/*
@@ -1037,6 +1036,7 @@
 *://apkresult.io/*
 *://apksfull.com/*
 *://apksim.com/*
+*://apktodo.io/*
 *://app-games-casmanuus.xyz/*
 *://app-games-outrundersele.xyz/*
 *://app-info.xyz/*

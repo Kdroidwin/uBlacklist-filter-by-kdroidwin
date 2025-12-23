@@ -996,6 +996,7 @@
 ||amour-takarazuka.jp^$document
 ||amp.amebaownd.com^$document
 ||amp.theguardian.com^$document
+||amprime.hatenablog.com^$document
 ||amy1181.com^$document
 ||analogkaka.com^$document
 ||analytics.slot47.online^$document
@@ -1119,6 +1120,7 @@
 ||apkresult.io^$document
 ||apksfull.com^$document
 ||apksim.com^$document
+||apktodo.io^$document
 ||app-games-casmanuus.xyz^$document
 ||app-games-outrundersele.xyz^$document
 ||app-info.xyz^$document
