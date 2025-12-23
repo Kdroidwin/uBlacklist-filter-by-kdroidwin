@@ -11,12 +11,10 @@
 *://*.all-nationz.com/*
 *://*.amazon.com.vn/*
 *://*.ambiify.cards/*
-*://*.amprime.hatenablog.com/*
+*://amprime.hatenablog.com/*
 *://*.anige-sokuhouvip.com/*
-*://*.apktodo.io/*
-*://*.apple.com.nnns/*
+*://apktodo.io/*
 *://*.apple.com.vn/*
-*://*.art-vision.jp/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
 *://*.atlaq.com/*
