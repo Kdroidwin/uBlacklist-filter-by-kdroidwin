@@ -29,10 +29,6 @@
 *://*.best/*
 *://*.bi/*
 *://*.bid/*
-*://bigbike.jp/*
-*://bipblog.com/*
-*://bitdefenderantivirus.jp/*
-*://bitubu.blog.jp/*
 *://*.bond/*
 *://*.brow2ing.com/*
 *://*.carnival00inkochi.jp/*
@@ -50,9 +46,7 @@
 *://*.crx7601.com/*
 *://*.cyou/*
 *://*.dj/*
-*://doujinsokuhou45.com/*
 *://*.ebay.com.vn/*
-*://efire-matome.com/*
 *://*.enamae.net/*
 *://*.facebook.com.vn/*
 *://*.filkhabr.com/*
@@ -60,7 +54,6 @@
 *://*.forese.life/*
 *://*.fyi/*
 *://*.ga/*
-*://gekka-bunko.com/*
 *://*.gm/*
 *://*.goog/*
 *://*.gq/*
@@ -1353,6 +1346,7 @@
 *://bicycle-select.jp/*
 *://big-celeb.jp/*
 *://big-name.blog.ss-blog.jp/*
+*://bigbike.jp/*
 *://bignews77.com/*
 *://bijyomato.com/*
 *://bikefixup.com/*
@@ -1367,15 +1361,18 @@
 *://biochar.studiodavinci.rs/*
 *://biohacklabperformance.com/*
 *://biomedicalng.com/*
+*://bipblog.com/*
 *://bird-daikanyama.online/*
 *://birthday.sdl.com/*
 *://biscoteca.it/*
 *://bismillahfoodbd.com/*
 *://bitbucket.org/*
 *://bitcash.me/*
+*://bitdefenderantivirus.jp/*
 *://biter.shorrt.live/*
 *://bitregions.com/*
 *://bitsend.jp/*
+*://bitubu.blog.jp/*
 *://biturl.top/*
 *://bitwave.showcase-tv.com/*
 *://biyoudaisukijyoshi.com/*
@@ -2219,6 +2216,7 @@
 *://doujinrepublic.com/*
 *://doujinshiblog.com/*
 *://doujinshiman.com/*
+*://doujinsokuhou45.com/*
 *://douzin.archimedes.jp/*
 *://douzinnsi-eromannga.com/*
 *://download.capcutvip.top/*
@@ -2332,6 +2330,7 @@
 *://edutec.edu.do/*
 *://edwardsbike.com/*
 *://effectivedutchlessons.nl/*
+*://efire-matome.com/*
 *://efuyuiblog.com/*
 *://egao888.com/*
 *://egaomama.com/*
@@ -2976,6 +2975,7 @@
 *://geitopi.com/*
 *://gekibuzz.com/*
 *://gekidan-shiki.com/*
+*://gekka-bunko.com/*
 *://gekkan-bushi.com/*
 *://gekkanmensphysique.com/*
 *://gemala.me/*

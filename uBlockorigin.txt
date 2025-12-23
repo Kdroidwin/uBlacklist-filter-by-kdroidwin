@@ -1430,6 +1430,7 @@
 ||bicycle-select.jp^$document
 ||big-celeb.jp^$document
 ||big-name.blog.ss-blog.jp^$document
+||bigbike.jp^$document
 ||bignews77.com^$document
 ||bijyomato.com^$document
 ||bikefixup.com^$document
@@ -1444,15 +1445,18 @@
 ||biochar.studiodavinci.rs^$document
 ||biohacklabperformance.com^$document
 ||biomedicalng.com^$document
+||bipblog.com^$document
 ||bird-daikanyama.online^$document
 ||birthday.sdl.com^$document
 ||biscoteca.it^$document
 ||bismillahfoodbd.com^$document
 ||bitbucket.org^$document
 ||bitcash.me^$document
+||bitdefenderantivirus.jp^$document
 ||biter.shorrt.live^$document
 ||bitregions.com^$document
 ||bitsend.jp^$document
+||bitubu.blog.jp^$document
 ||biturl.top^$document
 ||bitwave.showcase-tv.com^$document
 ||biyoudaisukijyoshi.com^$document
@@ -2305,6 +2309,7 @@
 ||doujinrepublic.com^$document
 ||doujinshiblog.com^$document
 ||doujinshiman.com^$document
+||doujinsokuhou45.com^$document
 ||douzin.archimedes.jp^$document
 ||douzinnsi-eromannga.com^$document
 ||download.capcutvip.top^$document
@@ -2418,6 +2423,7 @@
 ||edutec.edu.do^$document
 ||edwardsbike.com^$document
 ||effectivedutchlessons.nl^$document
+||efire-matome.com^$document
 ||efuyuiblog.com^$document
 ||egao888.com^$document
 ||egaomama.com^$document
@@ -3067,6 +3073,7 @@
 ||geitopi.com^$document
 ||gekibuzz.com^$document
 ||gekidan-shiki.com^$document
+||gekka-bunko.com^$document
 ||gekkan-bushi.com^$document
 ||gekkanmensphysique.com^$document
 ||gemala.me^$document
