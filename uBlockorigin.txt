@@ -821,6 +821,7 @@
 ||agrenes.org^$document
 ||agrifuture.africa^$document
 ||ahedou.com^$document
+||ahh1008.blog.jp^$document
 ||ahoa3iet.woslx.xyz^$document
 ||ahozura.kasu.me^$document
 ||ahpc.org.pk^$document
@@ -1095,6 +1096,7 @@
 ||api.wteam.xyz^$document
 ||apicodes.hatenablog.com^$document
 ||apil3.org^$document
+||apk.dog^$document
 ||apk.tools^$document
 ||apk4free.net^$document
 ||apkcombo.com/ja/revanced^$document
@@ -2478,6 +2480,7 @@
 ||english-fastlink.com^$document
 ||english.is.cas.cn^$document
 ||english.tameroutine.net^$document
+||englishconversationcoaching.hatenablog.jp^$document
 ||enhoko.com^$document
 ||enimiron.com^$document
 ||enishi-izumo.com^$document
@@ -2949,6 +2952,7 @@
 ||gadget888.hatenablog.com^$document
 ||gadgetech.jp^$document
 ||gaffriggauge.com^$document
+||gahalog.2chblog.jp^$document
 ||gaikotsumatsuri.com^$document
 ||gaiman.jp^$document
 ||gainoheya.com^$document
@@ -2964,6 +2968,7 @@
 ||gamedva.com^$document
 ||gamefabrique.com^$document
 ||gamegadget.jp^$document
+||gamejksokuhou.com^$document
 ||gamenexus.jp/wutheringwaves/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9Se^$document
 ||gamepcfull.com^$document
 ||gamerom.blog129.fc2.com^$document
@@ -2975,6 +2980,7 @@
 ||gamushara-lab.jp^$document
 ||ganbarinote.net^$document
 ||ganbariyasan.com^$document
+||ganbaruri-man.hatenablog.com^$document
 ||ganmen-houkai.com^$document
 ||garantpost.ru^$document
 ||gardabhayangkara.online^$document
@@ -3015,6 +3021,7 @@
 ||ge-noumatome.com^$document
 ||ge999c62.muragon.com^$document
 ||gegege-sensei.jp^$document
+||geikosai2022.jp^$document
 ||geinininfo.com^$document
 ||geino-news.mystrikingly.com^$document
 ||geino-taro.com^$document
@@ -3301,6 +3308,7 @@
 ||hamerahomes.com^$document
 ||hamlimit-blog.com^$document
 ||hamuracity.jp^$document
+||hamusoku.com^$document
 ||hana-naya.jp^$document
 ||hana-okane.com/temu-reviews^$document
 ||hanahanahappy.com^$document
@@ -3454,6 +3462,8 @@
 ||hilokume.jp^$document
 ||himalayas.app^$document
 ||himamanga.com^$document
+||himasoku.com^$document
+||himatsubushi-shindan-test.com^$document
 ||himatsui.com^$document
 ||himawari-lys.com^$document
 ||himawari-record.com^$document
@@ -3677,6 +3687,7 @@
 ||imakarada.jp^$document
 ||imari-wakamatsuya.net^$document
 ||imashun-navi.com^$document
+||imasoku.com^$document
 ||imasugunews.com^$document
 ||imayorimotto.net^$document
 ||imepesoboh.webrychlo.sk^$document
@@ -3801,6 +3812,7 @@
 ||it-trend.jp/vpn/article/48-0076*^$document
 ||it-trend.jp^$document
 ||it.it-news-and-events.info^$document
+||itainews.com^$document
 ||italkyou.cn^$document
 ||itc-pex.ru^$document
 ||itd-company.com^$document
@@ -4559,6 +4571,7 @@
 ||lovegraph.me^$document
 ||lovelive-sif.top^$document
 ||loveliveallstar.top^$document
+||lovelivematocha.com^$document
 ||lovely-media.jp^$document
 ||lovelys.jp^$document
 ||lovemanga-recommend.com^$document
@@ -4676,6 +4689,7 @@
 ||maitri.nyc^$document
 ||maji-topi.com^$document
 ||majihure.jp^$document
+||majikichi.com^$document
 ||majinews.com^$document
 ||majisuka.net^$document
 ||major.yoshilover.com^$document
@@ -4684,6 +4698,7 @@
 ||makemiracle-blog.com^$document
 ||makeyourbenefit.com^$document
 ||makito.me^$document
+||makoto5711.blog.jp^$document
 ||makpro.cl^$document
 ||makuring.jp/internet/best-vpn^$document
 ||makuring.jp/internet/paid-vpn^$document
@@ -4749,6 +4764,7 @@
 ||mango.co.jp^$document
 ||mankaikana.com^$document
 ||manpukubiyori.com^$document
+||manpukunews.blog.jp^$document
 ||manzana40.com^$document
 ||maonkurosaki.com^$document
 ||map.welcomekyushu.cn^$document
@@ -4834,6 +4850,7 @@
 ||max77.shop^$document
 ||maxdebrid.com^$document
 ||maxfordesign.art^$document
+||maxinformation.blog.jp^$document
 ||maxtendes.com^$document
 ||maymay05.com^$document
 ||maymaymama.com^$document
@@ -4984,6 +5001,7 @@
 ||minagu.co.jp^$document
 ||minahina.com^$document
 ||minamikublog.com^$document
+||mindhack2ch.com^$document
 ||mindsk.ru^$document
 ||mindundermuscle.com^$document
 ||mine-chan.com^$document
@@ -5067,6 +5085,7 @@
 ||modder.me^$document
 ||moddroid.com^$document
 ||modern-works.net^$document
+||modfyp.com^$document
 ||modhello.com^$document
 ||modspoti.com^$document
 ||moduloasr.com^$document
@@ -5074,6 +5093,7 @@
 ||modyolo.com^$document
 ||modzod.com^$document
 ||moedigi.com^$document
+||moeeeani.blog.jp^$document
 ||moes.taobao.com^$document
 ||moffy-aya-entame.com^$document
 ||mofumofunews.com^$document
@@ -5260,6 +5280,7 @@
 ||nancreator.com^$document
 ||nandeyanen-news.com^$document
 ||nanisore77.com^$document
+||nanjgod.com^$document
 ||nanjolno.app^$document
 ||nanjya.jp^$document
 ||nankihinameguri.com^$document
@@ -5316,6 +5337,7 @@
 ||necrosm.com^$document
 ||neetola.com^$document
 ||negiblo.com^$document
+||negisoku.com^$document
 ||nehohaho.com^$document
 ||nejdriver.com^$document
 ||neko-ashiato.com^$document
@@ -5338,6 +5360,7 @@
 ||neroeule96blog.com^$document
 ||neroin.com^$document
 ||net-entame.com^$document
+||netaatoz.jp^$document
 ||netacheck.com^$document
 ||netalstation.com^$document
 ||netatori.com^$document
@@ -5370,6 +5393,7 @@
 ||news-hunter.net^$document
 ||news-media-life.com^$document
 ||news-news-news.net^$document
+||news-us.jp^$document
 ||news-wakaru.com^$document
 ||news.careerconnection.jp^$document
 ||news.cube-soft.jp^$document
@@ -5416,6 +5440,7 @@
 ||nhaxephuonganhphanthiet.com^$document
 ||nhrenshou.cn^$document
 ||ni.nogomi.ru^$document
+||nice-voicetraining.com^$document
 ||nicelee.top^$document
 ||nicenature.top^$document
 ||nicespicerestaurant.com^$document
@@ -5426,6 +5451,7 @@
 ||nihon-ichi.jp^$document
 ||niigata.china-consulate.gov.cn^$document
 ||niji.e-r-o-anime.xyz^$document
+||nijiholo-local.jp^$document
 ||nijihorosokuvtubermatome.com^$document
 ||nijiironosakana.com^$document
 ||nijtbsupply.com^$document
@@ -6373,6 +6399,7 @@
 ||r40quest.com^$document
 ||raasenterprises.co.in^$document
 ||rabbanmoto.com^$document
+||rabitsokuhou.2chblog.jp^$document
 ||rabwatalriyad.com^$document
 ||radiolav.ru^$document
 ||radiopica.net^$document

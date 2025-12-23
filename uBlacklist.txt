@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
-*://ahh1008.blog.jp/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -14,7 +13,6 @@
 *://*.ambiify.cards/*
 *://*.amprime.hatenablog.com/*
 *://*.anige-sokuhouvip.com/*
-*://apk.dog/*
 *://*.apktodo.io/*
 *://*.apple.com.nnns/*
 *://*.apple.com.vn/*
@@ -74,9 +72,7 @@
 *://*.ebay.com.vn/*
 *://*.efire-matome.com/*
 *://*.enamae.net/*
-*://englishconversationcoaching.hatenablog.jp/*
 *://*.facebook.com.vn/*
-*://fesoku.net/*
 *://*.fileplanet.com/*
 *://*.filkhabr.com/*
 *://*.firebaseapp.com/*
@@ -84,10 +80,6 @@
 *://*.futosoku.com/*
 *://*.fyi/*
 *://*.ga/*
-*://gahalog.2chblog.jp/*
-*://gamejksokuhou.com/*
-*://ganbaruri-man.hatenablog.com/*
-*://geikosai2022.jp/*
 *://*.gekka-bunko.com/*
 *://*.girlsreport.net/*
 *://*.girlsvip-matome.com/*
@@ -97,20 +89,14 @@
 *://*.gq/*
 *://*.hair/*
 *://*.haisoku.jp/*
-*://hamusoku.com/*
-*://himasoku.com/*
-*://himatsubushi-shindan-test.com/*
 *://*.hokkaidougurashi.com/*
 *://*.hosyusokuhou.jp/*
 *://*.huat.jp/*
 *://*.icrt.cu/*
 *://*.icu/*
 *://*.idol-jolt.com/*
-*://imasoku.com/*
 *://*.inazumanews2.com/*
 *://*.instagram.com.vn/*
-*://itainews.com/*
-*://jin115.com/*
 *://*.jp.af/*
 *://*.jp.al/*
 *://*.jp.ar/*
@@ -182,35 +168,21 @@
 *://*.lifehack2ch.livedoor.biz/*
 *://*.linkedin.com.vn/*
 *://*.loan/*
-*://lovelivematocha.com/*
-*://majikichi.com/*
-*://makoto5711.blog.jp/*
 *://*.mangasokuhou.com/*
-*://manpukunews.blog.jp/*
-*://maxinformation.blog.jp/*
 *://*.men/*
 *://*.mg/*
 *://*.microsoft.com.vn/*
 *://*.military38.com/*
-*://mindhack2ch.com/*
 *://*.ml/*
 *://*.mn/*
-*://modfyp.com/*
-*://moeeeani.blog.jp/*
 *://*.mw/*
 *://*.my/*
 *://*.myxstalk.lol/*
 *://*.namaejiten.com/*
 *://*.namaeuranai.biz/*
-*://nanjgod.com/*
-*://negisoku.com/*
-*://netaatoz.jp/*
 *://*.netflix.com.vn/*
-*://news-us.jp/*
 *://*.news30over.com/*
 *://*.news4wide.livedoor.biz/*
-*://nice-voicetraining.com/*
-*://nijiholo-local.jp/*
 *://*.nogomi.ru/*
 *://*.okaimonoclub.jp/*
 *://*.okikuhabataku.blog/*
@@ -299,7 +271,6 @@
 *://*.quabr.com/*
 *://*.quares.ru/*
 *://*.question-it.com/*
-*://rabitsokuhou.2chblog.jp/*
 *://*.railstoolkit.com/*
 *://*.read01.com/*
 *://*.removemalware-jp.com/*
@@ -806,6 +777,7 @@
 *://agrenes.org/*
 *://agrifuture.africa/*
 *://ahedou.com/*
+*://ahh1008.blog.jp/*
 *://ahoa3iet.woslx.xyz/*
 *://ahozura.kasu.me/*
 *://ahpc.org.pk/*
@@ -1078,6 +1050,7 @@
 *://api.wteam.xyz/*
 *://apicodes.hatenablog.com/*
 *://apil3.org/*
+*://apk.dog/*
 *://apk.tools/*
 *://apk4free.net/*
 *://apkcombo.com/*
@@ -2448,6 +2421,7 @@
 *://english-fastlink.com/*
 *://english.is.cas.cn/*
 *://english.tameroutine.net/*
+*://englishconversationcoaching.hatenablog.jp/*
 *://enhoko.com/*
 *://enimiron.com/*
 *://enishi-izumo.com/*
@@ -2914,6 +2888,7 @@
 *://gadget888.hatenablog.com/*
 *://gadgetech.jp/*
 *://gaffriggauge.com/*
+*://gahalog.2chblog.jp/*
 *://gaikotsumatsuri.com/*
 *://gaiman.jp/*
 *://gainoheya.com/*
@@ -2929,6 +2904,7 @@
 *://gamedva.com/*
 *://gamefabrique.com/*
 *://gamegadget.jp/*
+*://gamejksokuhou.com/*
 *://gamenexus.jp/wutheringwaves/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9Se/*
 *://gamepcfull.com/*
 *://gamerom.blog129.fc2.com/*
@@ -2940,6 +2916,7 @@
 *://gamushara-lab.jp/*
 *://ganbarinote.net/*
 *://ganbariyasan.com/*
+*://ganbaruri-man.hatenablog.com/*
 *://ganmen-houkai.com/*
 *://garantpost.ru/*
 *://gardabhayangkara.online/*
@@ -2980,6 +2957,7 @@
 *://ge-noumatome.com/*
 *://ge999c62.muragon.com/*
 *://gegege-sensei.jp/*
+*://geikosai2022.jp/*
 *://geinininfo.com/*
 *://geino-news.mystrikingly.com/*
 *://geino-taro.com/*
@@ -3264,6 +3242,7 @@
 *://hamerahomes.com/*
 *://hamlimit-blog.com/*
 *://hamuracity.jp/*
+*://hamusoku.com/*
 *://hana-naya.jp/*
 *://hana-okane.com/temu-reviews/*
 *://hanahanahappy.com/*
@@ -3415,6 +3394,8 @@
 *://hilokume.jp/*
 *://himalayas.app/*
 *://himamanga.com/*
+*://himasoku.com/*
+*://himatsubushi-shindan-test.com/*
 *://himatsui.com/*
 *://himawari-lys.com/*
 *://himawari-record.com/*
@@ -3635,6 +3616,7 @@
 *://imakarada.jp/*
 *://imari-wakamatsuya.net/*
 *://imashun-navi.com/*
+*://imasoku.com/*
 *://imasugunews.com/*
 *://imayorimotto.net/*
 *://imepesoboh.webrychlo.sk/*
@@ -3757,6 +3739,7 @@
 *://it-trend.jp/*
 *://it-trend.jp/vpn/article/48-0076*
 *://it.it-news-and-events.info/*
+*://itainews.com/*
 *://italkyou.cn/*
 *://itc-pex.ru/*
 *://itd-company.com/*
@@ -4510,6 +4493,7 @@
 *://lovegraph.me/*
 *://lovelive-sif.top/*
 *://loveliveallstar.top/*
+*://lovelivematocha.com/*
 *://lovely-media.jp/*
 *://lovelys.jp/*
 *://lovemanga-recommend.com/*
@@ -4627,6 +4611,7 @@
 *://maitri.nyc/*
 *://maji-topi.com/*
 *://majihure.jp/*
+*://majikichi.com/*
 *://majinews.com/*
 *://majisuka.net/*
 *://major.yoshilover.com/*
@@ -4635,6 +4620,7 @@
 *://makemiracle-blog.com/*
 *://makeyourbenefit.com/*
 *://makito.me/*
+*://makoto5711.blog.jp/*
 *://makpro.cl/*
 *://makuring.jp/internet/best-vpn/*
 *://makuring.jp/internet/paid-vpn/*
@@ -4699,6 +4685,7 @@
 *://mango.co.jp/*
 *://mankaikana.com/*
 *://manpukubiyori.com/*
+*://manpukunews.blog.jp/*
 *://manzana40.com/*
 *://maonkurosaki.com/*
 *://map.welcomekyushu.cn/*
@@ -4784,6 +4771,7 @@
 *://max77.shop/*
 *://maxdebrid.com/*
 *://maxfordesign.art/*
+*://maxinformation.blog.jp/*
 *://maxtendes.com/*
 *://maymay05.com/*
 *://maymaymama.com/*
@@ -4932,6 +4920,7 @@
 *://minagu.co.jp/*
 *://minahina.com/*
 *://minamikublog.com/*
+*://mindhack2ch.com/*
 *://mindsk.ru/*
 *://mindundermuscle.com/*
 *://mine-chan.com/*
@@ -5013,6 +5002,7 @@
 *://modder.me/*
 *://moddroid.com/*
 *://modern-works.net/*
+*://modfyp.com/*
 *://modhello.com/*
 *://modspoti.com/*
 *://moduloasr.com/*
@@ -5020,6 +5010,7 @@
 *://modyolo.com/revanced.html*
 *://modzod.com/*
 *://moedigi.com/*
+*://moeeeani.blog.jp/*
 *://moes.taobao.com/*
 *://moffy-aya-entame.com/*
 *://mofumofunews.com/*
@@ -5206,6 +5197,7 @@
 *://nancreator.com/*
 *://nandeyanen-news.com/*
 *://nanisore77.com/*
+*://nanjgod.com/*
 *://nanjolno.app/*
 *://nanjya.jp/*
 *://nankihinameguri.com/*
@@ -5262,6 +5254,7 @@
 *://necrosm.com/*
 *://neetola.com/*
 *://negiblo.com/*
+*://negisoku.com/*
 *://nehohaho.com/*
 *://nejdriver.com/*
 *://neko-ashiato.com/*
@@ -5284,6 +5277,7 @@
 *://neroeule96blog.com/*
 *://neroin.com/*
 *://net-entame.com/*
+*://netaatoz.jp/*
 *://netacheck.com/*
 *://netalstation.com/*
 *://netatori.com/*
@@ -5316,6 +5310,7 @@
 *://news-hunter.net/*
 *://news-media-life.com/*
 *://news-news-news.net/*
+*://news-us.jp/*
 *://news-wakaru.com/*
 *://news.careerconnection.jp/*
 *://news.cube-soft.jp/*
@@ -5361,6 +5356,7 @@
 *://nhaxephuonganhphanthiet.com/*
 *://nhrenshou.cn/*
 *://ni.nogomi.ru/*
+*://nice-voicetraining.com/*
 *://nicelee.top/*
 *://nicenature.top/*
 *://nicespicerestaurant.com/*
@@ -5371,6 +5367,7 @@
 *://nihon-ichi.jp/*
 *://niigata.china-consulate.gov.cn/*
 *://niji.e-r-o-anime.xyz/*
+*://nijiholo-local.jp/*
 *://nijihorosokuvtubermatome.com/*
 *://nijiironosakana.com/*
 *://nijtbsupply.com/*
@@ -6293,6 +6290,7 @@
 *://r40quest.com/*
 *://raasenterprises.co.in/*
 *://rabbanmoto.com/*
+*://rabitsokuhou.2chblog.jp/*
 *://rabwatalriyad.com/*
 *://radiolav.ru/*
 *://radiopica.net/*
