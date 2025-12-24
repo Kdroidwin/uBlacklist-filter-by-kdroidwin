@@ -564,6 +564,7 @@
 ||296.fm^$document
 ||2b633168.xyz^$document
 ||2bighazameen.com^$document
+||2ch.0726.biz^$document
 ||2ddvkfb.zbgraf16.pl^$document
 ||2l.glitch.me^$document
 ||2ndlabo.com^$document
@@ -1379,6 +1380,7 @@
 ||beatriceinsurance.com^$document
 ||beautybest.jp^$document
 ||beaver-global.com^$document
+||beblack.jp^$document
 ||bebordeaux.jp^$document
 ||bedbathclose.com^$document
 ||bedrockinfra.com^$document
@@ -1760,6 +1762,7 @@
 ||cg-corp.com^$document
 ||cgif.net^$document
 ||ch0l4.cn^$document
+||ch24.jp^$document
 ||cha-ta6.com^$document
 ||chachachalog.com^$document
 ||chain-of-entertainment.com^$document
@@ -1912,6 +1915,7 @@
 ||code.ooaks.co.jp^$document
 ||codeacademyug.org^$document
 ||codevia.io^$document
+||coetas.jp^$document
 ||cofure.hatenablog.com^$document
 ||cogl3d.org^$document
 ||coin-media.jp^$document
@@ -2012,6 +2016,7 @@
 ||cp.onamae.ne.jp^$document
 ||cpr74.ru^$document
 ||cpslzfdv.qpon^$document
+||cpstyle.jp^$document
 ||cracked-games.org^$document
 ||crackingpatching.com^$document
 ||cracklemovie.org^$document
@@ -2799,6 +2804,7 @@
 ||fitgirlrepacksite.com^$document
 ||fitgirlrepackz.com^$document
 ||fitgirltorrent.com^$document
+||fitvate-inc.com^$document
 ||flakep1l.cvs.com.my^$document
 ||flashff-blog.com^$document
 ||flathub.org/apps/org.polymc.PolyMC*^$document
@@ -2873,6 +2879,7 @@
 ||freevpn.one^$document
 ||freeworkroom.com^$document
 ||freiermann.com^$document
+||fresco-salon.amebaownd.com^$document
 ||freshgreenxcoatl.com^$document
 ||froebel-kan.tameshiyo.me^$document
 ||frog-kero.com^$document
@@ -2922,6 +2929,7 @@
 ||fumako.net^$document
 ||fumi2019.com^$document
 ||fumienaffi.com^$document
+||fun-frisco.co.jp^$document
 ||fun^$doc,domain=~www.limetorrents.fun
 ||funbid.com.hk^$document
 ||funbox.wpx.jp^$document
@@ -3168,6 +3176,7 @@
 ||gllosqf.work^$document
 ||global-funlife.com^$document
 ||globalpop-trend.com^$document
+||globalsun.jp^$document
 ||globaxiscorp.com^$document
 ||globeflightdeals.com^$document
 ||glowluxv.com^$document
@@ -3445,6 +3454,7 @@
 ||helloroomies-stkgz.com^$document
 ||help.cocoloni.jp^$document
 ||help.cybozu.cn^$document
+||help.nudge.works^$document
 ||helpcurenow.org^$document
 ||helpfulinfo-byrc.com^$document
 ||helporganisemyeverything.app^$document
@@ -3462,6 +3472,7 @@
 ||hhdistributors.com^$document
 ||hi-mylife15.com^$document
 ||hi-tech.mail.ru^$document
+||hi-ya-ke.com^$document
 ||hianimeapk.com^$document
 ||hibiki888.com^$document
 ||hibilog-sh.com^$document
@@ -4022,6 +4033,7 @@
 ||justiciable.ca^$document
 ||justlivemylifemyownwaymy.com^$document
 ||justnews.jp^$document
+||justtan24.com^$document
 ||juutakuguide.com^$document
 ||juvfli.com^$document
 ||jwa-niigata.jp^$document
@@ -4066,6 +4078,7 @@
 ||kailnokankaku.com^$document
 ||kaimanga.info^$document
 ||kainagi.com^$document
+||kaiten-portal.jp^$document
 ||kaitori-janiyard.jp^$document
 ||kaitouranmei.com^$document
 ||kaiuntrip.co.jp^$document
@@ -4076,6 +4089,7 @@
 ||kalikosa.com.tr^$document
 ||kamabokoworks.jp^$document
 ||kamaenitachiyoru.com^$document
+||kamana-black.jp^$document
 ||kameshiba1212.com^$document
 ||kan8oskar.com^$document
 ||kanagawa-yc.jp^$document
@@ -4213,6 +4227,7 @@
 ||kimitagolf.com^$document
 ||kimootoko.net^$document
 ||kims-001.com^$document
+||kindai.raku-uru.jp^$document
 ||kingbraintech.com^$document
 ||kingdom10.jp^$document
 ||kingdomlegacyministries.org^$document
@@ -4275,6 +4290,7 @@
 ||koe-voice.jp^$document
 ||kohiyoto.com^$document
 ||kohjiro.jp^$document
+||kohtaroblog.com^$document
 ||koicha1990.com^$document
 ||koidora.com^$document
 ||koimitsu.com^$document
@@ -4420,6 +4436,7 @@
 ||laborica.jp^$document
 ||lac-ker.com^$document
 ||laces213.prolintas.com.my^$document
+||lacosta-tokyo.com^$document
 ||ladylabo.tokyo^$document
 ||ladysonly.online^$document
 ||laevoyle.virtual-na.org^$document
@@ -4619,6 +4636,7 @@
 ||luckykonami.com^$document
 ||luckymotors.ee^$document
 ||luckystar2010.com^$document
+||luminare.shop^$document
 ||lumogumu.xyz^$document
 ||luna-vpn.com^$document
 ||lunablog1.com^$document
@@ -4928,6 +4946,7 @@
 ||meg2525.com^$document
 ||megabot.vn^$document
 ||megaone.one^$document
+||megasunjapan.jp^$document
 ||meghalayaroots.com^$document
 ||megumi344.com^$document
 ||megumi37.com^$document
@@ -5364,6 +5383,7 @@
 ||nbtkoshi.com^$document
 ||ncgm-dm.webpage-creation-support.info^$document
 ||necoarashi.com^$document
+||necocoto.com^$document
 ||necrosm.com^$document
 ||neetola.com^$document
 ||negiblo.com^$document
@@ -5480,6 +5500,7 @@
 ||nigiwasu.com^$document
 ||nihon-ichi.jp^$document
 ||niigata.china-consulate.gov.cn^$document
+||niigata.mypl.net^$document
 ||niji.e-r-o-anime.xyz^$document
 ||nijiholo-local.jp^$document
 ||nijihorosokuvtubermatome.com^$document
@@ -5863,6 +5884,8 @@
 ||ntryomimono.com^$document
 ||ntvsports.jp^$document
 ||nudesystems.com^$document
+||nudge.cards^$document
+||nudge.works^$document
 ||nufu.online^$document
 ||nukitashi.xyzapk.com^$document
 ||nukkadusa.com^$document
@@ -6604,6 +6627,7 @@
 ||revengers115.com^$document
 ||review-we126.com^$document
 ||revistasaga.org^$document
+||revolt-tokyo.com^$document
 ||rhc-web-app.vercel.app^$document
 ||rhino3d.online^$document
 ||rhk.me^$document
@@ -6784,7 +6808,9 @@
 ||saladbowl.net^$document
 ||sale-cartoons.hatenablog.com^$document
 ||salecialadd.com^$document
+||salon-ray.net^$document
 ||salon.jp^$document
+||salondebeautelani.com^$document
 ||salongmaryamm.online^$document
 ||salvajebynatysilva.com^$document
 ||samba8fe.bizits.com^$document
@@ -7138,6 +7164,7 @@
 ||snsclub.snscool-22.com^$document
 ||snsdays.com^$document
 ||snufkinheart.com^$document
+||so-le.com^$document
 ||soccer.gatecoin.online^$document
 ||soccerlove.jp^$document
 ||soci-journal.com^$document
@@ -7349,6 +7376,8 @@
 ||summersetcontinentalhotel.com^$document
 ||sunao-journal.com^$document
 ||sunglasses-dz.com^$document
+||sunlounge-higashisapporo.com^$document
+||sunlounge.co.jp^$document
 ||sunny-idea.com^$document
 ||sunoharablog.com^$document
 ||sunscreendirect.com^$document
@@ -8528,6 +8557,7 @@
 ||www.bbc2021.jp^$document
 ||www.bdo-mingo7244.net^$document
 ||www.bdzmfcq.cn^$document
+||www.beach-time.jp^$document
 ||www.beaujones.nl^$document
 ||www.bebit.info^$document
 ||www.bedruthan.com^$document
@@ -8551,8 +8581,10 @@
 ||www.bl-n.com^$document
 ||www.blackrocklimosf.com^$document
 ||www.blancpain.cn^$document
+||www.blast-sibuya.tokyo^$document
 ||www.blickconnect.net^$document
 ||www.blstweb.jp^$document
+||www.blue-fitness24.com^$document
 ||www.blueoceandesignsbywalt.com^$document
 ||www.bluestacks.com/*/apps^$document
 ||www.bluestacks.com/apps*^$document
@@ -8570,8 +8602,10 @@
 ||www.brandnew-amy.com^$document
 ||www.brandycampcrew.com^$document
 ||www.breguet.cn^$document
+||www.brenzebra.com^$document
 ||www.brighteazy.com^$document
 ||www.broadcom.cn^$document
+||www.bronze-paradise-sun-lover.com^$document
 ||www.browsercam.com^$document
 ||www.btervbaranya.hu^$document
 ||www.btf.top^$document
@@ -8613,6 +8647,7 @@
 ||www.centralesderiesgo.com^$document
 ||www.centresource.com^$document
 ||www.cfp-offset.jp^$document
+||www.ch24.jp^$document
 ||www.chaen-cafe.com^$document
 ||www.challeup.com^$document
 ||www.chanelal.com^$document
@@ -8730,11 +8765,13 @@
 ||www.diskgarage.com^$document
 ||www.displayexpo.jp^$document
 ||www.djengduedd.com^$document
+||www.dm-s.co.jp^$document
 ||www.doctorgreen.com^$document
 ||www.dohc.ie^$document
 ||www.domainsherpa.com^$document
 ||www.doodsoft.cn^$document
 ||www.doorkeeper.jp^$document
+||www.dope-salon.com^$document
 ||www.dosaaf79region.ru^$document
 ||www.doujin-log.com^$document
 ||www.dq-9.info^$document
@@ -8774,6 +8811,7 @@
 ||www.ehhp.xyz^$document
 ||www.eiga-yokai.jp^$document
 ||www.eighty6.xyz^$document
+||www.ekiten.jp^$document
 ||www.elanfurs.com^$document
 ||www.elitehome.rs^$document
 ||www.ellasgenetica.com^$document
@@ -8951,6 +8989,7 @@
 ||www.guedo.fr^$document
 ||www.guilty-soft.com^$document
 ||www.guru99.com^$document
+||www.gurutto-fukushima.com^$document
 ||www.gyudon4625.com^$document
 ||www.hachioji-orimono.jp^$document
 ||www.hacocoro.com^$document
@@ -8988,6 +9027,9 @@
 ||www.himatubushisp.com^$document
 ||www.hira2.jp^$document
 ||www.hive2bottle.co.tz^$document
+||www.hiyake-flare.com^$document
+||www.hiyake-salon-b-max.jp^$document
+||www.hiyake.com^$document
 ||www.hjpnznv.cn^$document
 ||www.hksgxw.cn^$document
 ||www.hlj.co.jp^$document
@@ -9058,6 +9100,7 @@
 ||www.ivlim.ru^$document
 ||www.iwachu.info^$document
 ||www.iwako-light.com^$document
+||www.j-bronze.jp^$document
 ||www.j-love.info^$document
 ||www.jabra.cn^$document
 ||www.jaeger-lecoultre.cn^$document
@@ -9346,6 +9389,7 @@
 ||www.nagai50ten.com^$document
 ||www.nagarekawa-naka.com^$document
 ||www.nagmarkets.com.au^$document
+||www.nahls.co.jp^$document
 ||www.nakasete.com^$document
 ||www.nakbangla.com^$document
 ||www.namimonogatari.com^$document
@@ -9566,6 +9610,7 @@
 ||www.resonanciadomed.com^$document
 ||www.revancedapp.download^$document
 ||www.revitapeel.ru^$document
+||www.revolt.co.jp^$document
 ||www.rhipe-katsuyo.jp^$document
 ||www.riaj.or.jp^$document
 ||www.ricambifacili.com^$document
@@ -9602,6 +9647,7 @@
 ||www.saavifashion.com^$document
 ||www.saba6.com^$document
 ||www.sadeempc.com^$document
+||www.safetytan.org^$document
 ||www.sagesfoundation.org^$document
 ||www.sahinbangla.com^$document
 ||www.sakai-setsubi.com^$document
@@ -9689,11 +9735,13 @@
 ||www.sme.net.cn^$document
 ||www.smiletech360.com^$document
 ||www.smis.info^$document
+||www.so-le.net^$document
 ||www.soft222.com^$document
 ||www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml*^$document
 ||www.softproinnovations.com^$document
 ||www.softwareskills.eu^$document
 ||www.sog-rc27.org^$document
+||www.soltron.jp^$document
 ||www.solumed.com.do^$document
 ||www.sonpunoyumeburogu.com^$document
 ||www.sony.ru^$document
@@ -9722,6 +9770,7 @@
 ||www.studioworks.co.in^$document
 ||www.sudzfundraising.com^$document
 ||www.sugudeki-tateshina.jp^$document
+||www.sunlounge-go-ya-gym.com^$document
 ||www.sunshinecoast.surf^$document
 ||www.supergenji.jp^$document
 ||www.superstarpledis.jp^$document
@@ -9735,6 +9784,7 @@
 ||www.sxwllm.cn^$document
 ||www.symsunm.cn^$document
 ||www.syounotalkstrend.com^$document
+||www.t-hiyake.jp^$document
 ||www.tabishsaroshassociates.org^$document
 ||www.tahamarket.shop^$document
 ||www.tahaweelcom.com^$document

@@ -1,60 +1,4 @@
 *://*.000webhostapp.com/*
-*://kohtaroblog.com/*
-*://nudge.cards/*
-*://nudge.works/*
-*://play.google.com/store/apps/details?id=inc.nudge.prod&hl=ja*
-*://apps.apple.com/jp/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E3%82%AF%E3%83%AC%E3%82%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353?platform=ipad*
-*://apps.apple.com/au/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8C%E3%82%8Bvisa%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353*
-*://play.google.com/store/apps/details?id=inc.nudge.prod&hl*
-*://help.nudge.works/*
-*://coetas.jp/*
-*://povo.jp/service/nudge-data-bonus/
-*://necocoto.com/*
-title/日焼けサロン/
-*://justtan24.com/*
-*://www.so-le.net/*
-*://sunlounge-higashisapporo.com/*
-*://globalsun.jp/*
-*://niigata.mypl.net/*
-*://sunlounge.co.jp/*
-*://www.soltron.jp/*
-*://www.hiyake-flare.com/*
-*://ch24.jp/*
-*://www.blast-sibuya.tokyo/*
-*://fresco-salon.amebaownd.com/*
-*://www.brenzebra.com/*
-*://lacosta-tokyo.com/*
-*://www.safetytan.org/*
-*://www.hiyake.com/*
-*://luminare.shop/*
-*://fitvate-inc.com/*
-*://www.beach-time.jp/*
-*://salon-ray.net/*
-*://www.gurutto-fukushima.com/*
-*://www.j-bronze.jp/*
-*://beblack.jp/*
-*://www.revolt.co.jp/*
-*://www.bronze-paradise-sun-lover.com/*
-*://fun-frisco.co.jp/*
-*://www.ch24.jp/*
-*://www.hiyake-salon-b-max.jp/*
-*://www.ekiten.jp/*
-*://kindai.raku-uru.jp/*
-*://kaiten-portal.jp/*
-*://kamana-black.jp/*
-*://megasunjapan.jp/*
-*://salondebeautelani.com/*
-*://www.nahls.co.jp/*
-*://www.dm-s.co.jp/*
-*://so-le.com/*
-*://hi-ya-ke.com/*
-*://cpstyle.jp/*
-*://www.sunlounge-go-ya-gym.com/*
-*://www.dope-salon.com/*
-*://revolt-tokyo.com/*
-*://www.blue-fitness24.com/*
-*://www.t-hiyake.jp/*
-*://2ch.0726.biz/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
@@ -541,6 +485,7 @@ title/日焼けサロン/
 *://296.fm/*
 *://2b633168.xyz/*
 *://2bighazameen.com/*
+*://2ch.0726.biz/*
 *://2ddvkfb.zbgraf16.pl/*
 *://2l.glitch.me/*
 *://2ndlabo.com/*
@@ -1116,7 +1061,9 @@ title/日焼けサロン/
 *://appoholow.xyz/*
 *://apprev.smt.docomo.ne.jp/*
 *://apprimo.info/*
+*://apps.apple.com/au/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8C%E3%82%8Bvisa%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353*
 *://apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja*
+*://apps.apple.com/jp/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E3%82%AF%E3%83%AC%E3%82%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353?platform=ipad*
 *://apps.kepanjeneyecenter.com/*
 *://apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP
 *://appsonwindows.com/*
@@ -1349,6 +1296,7 @@ title/日焼けサロン/
 *://beatriceinsurance.com/*
 *://beautybest.jp/*
 *://beaver-global.com/*
+*://beblack.jp/*
 *://bebordeaux.jp/*
 *://bedbathclose.com/*
 *://bedrockinfra.com/*
@@ -1724,6 +1672,7 @@ title/日焼けサロン/
 *://cg-corp.com/*
 *://cgif.net/*
 *://ch0l4.cn/*
+*://ch24.jp/*
 *://cha-ta6.com/*
 *://chachachalog.com/*
 *://chain-of-entertainment.com/*
@@ -1874,6 +1823,7 @@ title/日焼けサロン/
 *://code.ooaks.co.jp/*
 *://codeacademyug.org/*
 *://codevia.io/*
+*://coetas.jp/*
 *://cofure.hatenablog.com/*
 *://cogl3d.org/*
 *://coin-media.jp/*
@@ -1974,6 +1924,7 @@ title/日焼けサロン/
 *://cp.onamae.ne.jp/*
 *://cpr74.ru/*
 *://cpslzfdv.qpon/*
+*://cpstyle.jp/*
 *://cracked-games.org/*
 *://crackingpatching.com/*
 *://cracklemovie.org/*
@@ -2756,6 +2707,7 @@ title/日焼けサロン/
 *://fitgirlrepacksite.com/*
 *://fitgirlrepackz.com/*
 *://fitgirltorrent.com/*
+*://fitvate-inc.com/*
 *://flakep1l.cvs.com.my/*
 *://flashff-blog.com/*
 *://flathub.org/apps/org.polymc.PolyMC*
@@ -2829,6 +2781,7 @@ title/日焼けサロン/
 *://freevpn.one/*
 *://freeworkroom.com/*
 *://freiermann.com/*
+*://fresco-salon.amebaownd.com/*
 *://freshgreenxcoatl.com/*
 *://froebel-kan.tameshiyo.me/*
 *://frog-kero.com/*
@@ -2878,6 +2831,7 @@ title/日焼けサロン/
 *://fumako.net/*
 *://fumi2019.com/*
 *://fumienaffi.com/*
+*://fun-frisco.co.jp/*
 *://funbid.com.hk/*
 *://funbox.wpx.jp/*
 *://fund.lifeplay.co.jp/*
@@ -3123,6 +3077,7 @@ title/日焼けサロン/
 *://gllosqf.work/*
 *://global-funlife.com/*
 *://globalpop-trend.com/*
+*://globalsun.jp/*
 *://globaxiscorp.com/*
 *://globeflightdeals.com/*
 *://glowluxv.com/*
@@ -3397,6 +3352,7 @@ title/日焼けサロン/
 *://helloroomies-stkgz.com/*
 *://help.cocoloni.jp/*
 *://help.cybozu.cn/*
+*://help.nudge.works/*
 *://helpcurenow.org/*
 *://helpfulinfo-byrc.com/*
 *://helporganisemyeverything.app/*
@@ -3414,6 +3370,7 @@ title/日焼けサロン/
 *://hhdistributors.com/*
 *://hi-mylife15.com/*
 *://hi-tech.mail.ru/*
+*://hi-ya-ke.com/*
 *://hibiki888.com/*
 *://hibilog-sh.com/*
 *://hibiomo.com/*
@@ -3967,6 +3924,7 @@ title/日焼けサロン/
 *://justiciable.ca/*
 *://justlivemylifemyownwaymy.com/*
 *://justnews.jp/*
+*://justtan24.com/*
 *://juutakuguide.com/*
 *://juvfli.com/*
 *://jwa-niigata.jp/*
@@ -4010,6 +3968,7 @@ title/日焼けサロン/
 *://kailnokankaku.com/*
 *://kaimanga.info/*
 *://kainagi.com/*
+*://kaiten-portal.jp/*
 *://kaitori-janiyard.jp/*
 *://kaitouranmei.com/*
 *://kaiuntrip.co.jp/*
@@ -4020,6 +3979,7 @@ title/日焼けサロン/
 *://kalikosa.com.tr/*
 *://kamabokoworks.jp/*
 *://kamaenitachiyoru.com/*
+*://kamana-black.jp/*
 *://kameshiba1212.com/*
 *://kan8oskar.com/*
 *://kanagawa-yc.jp/*
@@ -4156,6 +4116,7 @@ title/日焼けサロン/
 *://kimitagolf.com/*
 *://kimootoko.net/*
 *://kims-001.com/*
+*://kindai.raku-uru.jp/*
 *://kingbraintech.com/*
 *://kingdom10.jp/*
 *://kingdomlegacyministries.org/*
@@ -4218,6 +4179,7 @@ title/日焼けサロン/
 *://koe-voice.jp/*
 *://kohiyoto.com/*
 *://kohjiro.jp/*
+*://kohtaroblog.com/*
 *://koicha1990.com/*
 *://koidora.com/*
 *://koimitsu.com/*
@@ -4363,6 +4325,7 @@ title/日焼けサロン/
 *://laborica.jp/*
 *://lac-ker.com/*
 *://laces213.prolintas.com.my/*
+*://lacosta-tokyo.com/*
 *://ladylabo.tokyo/*
 *://ladysonly.online/*
 *://laevoyle.virtual-na.org/*
@@ -4560,6 +4523,7 @@ title/日焼けサロン/
 *://luckykonami.com/*
 *://luckymotors.ee/*
 *://luckystar2010.com/*
+*://luminare.shop/*
 *://lumogumu.xyz/*
 *://luna-vpn.com/*
 *://lunablog1.com/*
@@ -4868,6 +4832,7 @@ title/日焼けサロン/
 *://meg2525.com/*
 *://megabot.vn/*
 *://megaone.one/*
+*://megasunjapan.jp/*
 *://meghalayaroots.com/*
 *://megumi344.com/*
 *://megumi37.com/*
@@ -5300,6 +5265,7 @@ title/日焼けサロン/
 *://nbtkoshi.com/*
 *://ncgm-dm.webpage-creation-support.info/*
 *://necoarashi.com/*
+*://necocoto.com/*
 *://necrosm.com/*
 *://neetola.com/*
 *://negiblo.com/*
@@ -5415,6 +5381,7 @@ title/日焼けサロン/
 *://nigiwasu.com/*
 *://nihon-ichi.jp/*
 *://niigata.china-consulate.gov.cn/*
+*://niigata.mypl.net/*
 *://niji.e-r-o-anime.xyz/*
 *://nijiholo-local.jp/*
 *://nijihorosokuvtubermatome.com/*
@@ -5777,6 +5744,8 @@ title/日焼けサロン/
 *://ntryomimono.com/*
 *://ntvsports.jp/*
 *://nudesystems.com/*
+*://nudge.cards/*
+*://nudge.works/*
 *://nufu.online/*
 *://nukitashi.xyzapk.com/*
 *://nukkadusa.com/*
@@ -6163,6 +6132,8 @@ title/日焼けサロン/
 *://play.google.com/store/apps/datasafety?id=com.bimilyoncu.sscoderr.revanced*
 *://play.google.com/store/apps/datasafety?id=com.morgandev.snake&hl=ja&gl=US*
 *://play.google.com/store/apps/details?id=com.truecaller*
+*://play.google.com/store/apps/details?id=inc.nudge.prod&hl*
+*://play.google.com/store/apps/details?id=inc.nudge.prod&hl=ja*
 *://play.google.com/store/apps/dev?id=6891936352065498609&hl=ja*
 *://play.suitsme.xyz/*
 *://playcreativelab.com/*
@@ -6232,6 +6203,7 @@ title/日焼けサロン/
 *://poteton.com/*
 *://pouchs.jp/*
 *://poundtimes.com/*
+*://povo.jp/service/nudge-data-bonus/
 *://powakitchen.site/*
 *://powerplatform.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
 *://powertee.com/*
@@ -6513,6 +6485,7 @@ title/日焼けサロン/
 *://revengers115.com/*
 *://review-we126.com/*
 *://revistasaga.org/*
+*://revolt-tokyo.com/*
 *://rhc-web-app.vercel.app/*
 *://rhino3d.online/*
 *://rhk.me/*
@@ -6690,7 +6663,9 @@ title/日焼けサロン/
 *://saladbowl.net/*
 *://sale-cartoons.hatenablog.com/*
 *://salecialadd.com/*
+*://salon-ray.net/*
 *://salon.jp/*
+*://salondebeautelani.com/*
 *://salongmaryamm.online/*
 *://salvajebynatysilva.com/*
 *://samba8fe.bizits.com/*
@@ -7037,6 +7012,7 @@ title/日焼けサロン/
 *://snowpeak.me/*
 *://snsdays.com/*
 *://snufkinheart.com/*
+*://so-le.com/*
 *://soccer.gatecoin.online/*
 *://soccerlove.jp/*
 *://soci-journal.com/*
@@ -7248,6 +7224,8 @@ title/日焼けサロン/
 *://summersetcontinentalhotel.com/*
 *://sunao-journal.com/*
 *://sunglasses-dz.com/*
+*://sunlounge-higashisapporo.com/*
+*://sunlounge.co.jp/*
 *://sunny-idea.com/*
 *://sunoharablog.com/*
 *://sunscreendirect.com/*
@@ -8419,6 +8397,7 @@ title/日焼けサロン/
 *://www.bbc2021.jp/*
 *://www.bdo-mingo7244.net/*
 *://www.bdzmfcq.cn/*
+*://www.beach-time.jp/*
 *://www.beaujones.nl/*
 *://www.bebit.info/*
 *://www.bedruthan.com/*
@@ -8442,8 +8421,10 @@ title/日焼けサロン/
 *://www.bl-n.com/*
 *://www.blackrocklimosf.com/*
 *://www.blancpain.cn/*
+*://www.blast-sibuya.tokyo/*
 *://www.blickconnect.net/*
 *://www.blstweb.jp/*
+*://www.blue-fitness24.com/*
 *://www.blueoceandesignsbywalt.com/*
 *://www.bluestacks.com/*/apps/*
 *://www.bluestacks.com/apps*
@@ -8461,8 +8442,10 @@ title/日焼けサロン/
 *://www.brandnew-amy.com/*
 *://www.brandycampcrew.com/*
 *://www.breguet.cn/*
+*://www.brenzebra.com/*
 *://www.brighteazy.com/*
 *://www.broadcom.cn/*
+*://www.bronze-paradise-sun-lover.com/*
 *://www.browsercam.com/*
 *://www.btervbaranya.hu/*
 *://www.btf.top/*
@@ -8504,6 +8487,7 @@ title/日焼けサロン/
 *://www.centralesderiesgo.com/*
 *://www.centresource.com/*
 *://www.cfp-offset.jp/*
+*://www.ch24.jp/*
 *://www.chaen-cafe.com/*
 *://www.challeup.com/*
 *://www.chanelal.com/*
@@ -8621,11 +8605,13 @@ title/日焼けサロン/
 *://www.diskgarage.com/*
 *://www.displayexpo.jp/*
 *://www.djengduedd.com/*
+*://www.dm-s.co.jp/*
 *://www.doctorgreen.com/*
 *://www.dohc.ie/*
 *://www.domainsherpa.com/*
 *://www.doodsoft.cn/*
 *://www.doorkeeper.jp/*
+*://www.dope-salon.com/*
 *://www.dosaaf79region.ru/*
 *://www.doujin-log.com/*
 *://www.dq-9.info/*
@@ -8664,6 +8650,7 @@ title/日焼けサロン/
 *://www.ehhp.xyz/*
 *://www.eiga-yokai.jp/*
 *://www.eighty6.xyz/*
+*://www.ekiten.jp/*
 *://www.elanfurs.com/*
 *://www.elitehome.rs/*
 *://www.ellasgenetica.com/*
@@ -8835,6 +8822,7 @@ title/日焼けサロン/
 *://www.guedo.fr/*
 *://www.guilty-soft.com/*
 *://www.guru99.com/*
+*://www.gurutto-fukushima.com/*
 *://www.gyudon4625.com/*
 *://www.hachioji-orimono.jp/*
 *://www.hacocoro.com/*
@@ -8872,6 +8860,9 @@ title/日焼けサロン/
 *://www.himatubushisp.com/*
 *://www.hira2.jp/*
 *://www.hive2bottle.co.tz/*
+*://www.hiyake-flare.com/*
+*://www.hiyake-salon-b-max.jp/*
+*://www.hiyake.com/*
 *://www.hjpnznv.cn/*
 *://www.hksgxw.cn/*
 *://www.hlj.co.jp/*
@@ -8941,6 +8932,7 @@ title/日焼けサロン/
 *://www.ivlim.ru/*
 *://www.iwachu.info/*
 *://www.iwako-light.com/*
+*://www.j-bronze.jp/*
 *://www.j-love.info/*
 *://www.jabra.cn/*
 *://www.jaeger-lecoultre.cn/*
@@ -9230,6 +9222,7 @@ title/日焼けサロン/
 *://www.nagai50ten.com/*
 *://www.nagarekawa-naka.com/*
 *://www.nagmarkets.com.au/*
+*://www.nahls.co.jp/*
 *://www.nakasete.com/*
 *://www.nakbangla.com/*
 *://www.namimonogatari.com/*
@@ -9450,6 +9443,7 @@ title/日焼けサロン/
 *://www.resonanciadomed.com/*
 *://www.revancedapp.download/*
 *://www.revitapeel.ru/*
+*://www.revolt.co.jp/*
 *://www.rhipe-katsuyo.jp/*
 *://www.riaj.or.jp/*
 *://www.ricambifacili.com/*
@@ -9486,6 +9480,7 @@ title/日焼けサロン/
 *://www.saavifashion.com/*
 *://www.saba6.com/*
 *://www.sadeempc.com/*
+*://www.safetytan.org/*
 *://www.sagesfoundation.org/*
 *://www.sahinbangla.com/*
 *://www.sakai-setsubi.com/*
@@ -9573,11 +9568,13 @@ title/日焼けサロン/
 *://www.sme.net.cn/*
 *://www.smiletech360.com/*
 *://www.smis.info/*
+*://www.so-le.net/*
 *://www.soft222.com/*
 *://www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml*
 *://www.softproinnovations.com/*
 *://www.softwareskills.eu/*
 *://www.sog-rc27.org/*
+*://www.soltron.jp/*
 *://www.solumed.com.do/*
 *://www.sonpunoyumeburogu.com/*
 *://www.sony.ru/*
@@ -9604,6 +9601,7 @@ title/日焼けサロン/
 *://www.studioworks.co.in/*
 *://www.sudzfundraising.com/*
 *://www.sugudeki-tateshina.jp/*
+*://www.sunlounge-go-ya-gym.com/*
 *://www.sunshinecoast.surf/*
 *://www.superstarpledis.jp/*
 *://www.suunto.cn/*
@@ -9616,6 +9614,7 @@ title/日焼けサロン/
 *://www.sxwllm.cn/*
 *://www.symsunm.cn/*
 *://www.syounotalkstrend.com/*
+*://www.t-hiyake.jp/*
 *://www.tabishsaroshassociates.org/*
 *://www.tahamarket.shop/*
 *://www.tahaweelcom.com/*
@@ -10389,6 +10388,7 @@ title/彼女がいるか/
 title/彼氏はいるの？/
 title/感謝価格/
 title/料漫画を楽しめるサービス12選/
+title/日焼けサロン/
 title/本名は？/
 title/正規品販促激安/
 title/歴代彼/
