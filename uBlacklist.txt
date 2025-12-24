@@ -1,14 +1,4 @@
 *://*.000webhostapp.com/*
-*://nudge.cards/*
-*://hideamari-m.com/*
-*://nude.owener.pro/*
-*://eat.badate.work/*
-*://tarsi.testdom.work/*
-*://jdvx.rylbiqsf.biz/*
-*://iksr.aqcjhlvy.cloud/*
-*://disad.engyate.run/*
-*://novah.jp/*
-*://www.ourgifts.jp/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
@@ -2132,6 +2122,7 @@
 *://diomandeshoes.com/*
 *://direct-app.onelink.me/*
 *://disability-talent.com/*
+*://disad.engyate.run/*
 *://disagreeable.biz/*
 *://disc-keep.com/*
 *://discountdepoo.com/*
@@ -2303,6 +2294,7 @@
 *://e849001b-b592-4312-ada6-f359392cf4f0.ct0.app/*
 *://earbuds.aspsv.com/*
 *://earnie-frogs.jp/*
+*://eat.badate.work/*
 *://ebisu-selection.com/*
 *://ebook-house.com/*
 *://ebook-trend.com/*
@@ -3385,6 +3377,7 @@
 *://hibilog-sh.com/*
 *://hibiomo.com/*
 *://hid.cftest6.cn/*
+*://hideamari-m.com/*
 *://hideyoshi123.com/*
 *://hieloprisma.com/*
 *://hien-rt.net/*
@@ -3615,6 +3608,7 @@
 *://ikigome.com/*
 *://ikkyusan.jp/*
 *://iknowte.com/*
+*://iksr.aqcjhlvy.cloud/*
 *://ikujipapa.net/*
 *://ikumen-smile.com/*
 *://ikuno-koreatown.com/*
@@ -3829,6 +3823,7 @@
 *://jcnundb.org/*
 *://jdipper.com/*
 *://jdvoyoti.beer/*
+*://jdvx.rylbiqsf.biz/*
 *://jeannespaey.com/*
 *://jenak.net/*
 *://jetbrains.ru/*
@@ -5728,6 +5723,7 @@
 *://noudoofees.net/*
 *://nougaku.saloon.jp/*
 *://noureldin-lawfirm.com/*
+*://novah.jp/*
 *://novel-device-166659.framer.app/*
 *://novel-nagasaki.com/*
 *://now-branch.com/*
@@ -5753,6 +5749,7 @@
 *://ntg-guinee.com/*
 *://ntryomimono.com/*
 *://ntvsports.jp/*
+*://nude.owener.pro/*
 *://nudesystems.com/*
 *://nudge.cards/*
 *://nudge.works/*
@@ -7393,6 +7390,7 @@
 *://taro-column.com/*
 *://taronii.com/*
 *://tarosoku.com/*
+*://tarsi.testdom.work/*
 *://taskerapk.net/*
 *://taskr.uk/*
 *://tat22.com/*
@@ -9312,6 +9310,7 @@
 *://www.ottoitcare.in/*
 *://www.ouchi-time.blog/*
 *://www.ouni.org/*
+*://www.ourgifts.jp/*
 *://www.owarikara.com/*
 *://www.owltech.co.jp/*
 *://www.oxygenint.com/*
