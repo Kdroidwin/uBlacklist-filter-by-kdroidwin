@@ -530,3 +530,4 @@
 @*://xx.knit.bid/*
 @*://www.nma.gov.sl/*
 @*://urdunovelsghar.pk/*
+@*://qa.dermatol.or.jp/*
