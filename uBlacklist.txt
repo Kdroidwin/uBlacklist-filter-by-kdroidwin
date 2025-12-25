@@ -1,13 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
-*://ahgbtju.com/*
-*://acer.onerise.info/*
-*://zld.mjlhepii.biz/*
-*://pokesalear.live/*
-*://zqye.aztgxvrd.biz/*
-*://knotniceet.live/*
-*://generative-ai.sejuku.net/*
-*://*.sejuku.net/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -272,6 +264,7 @@
 *://*.sd/*
 *://*.seika-riron.hatenablog.com/*
 *://*.seimei-handan.net/*
+*://*.sejuku.net/*
 *://*.shabakngy.com/*
 *://*.siwib.org/*
 *://*.sl/*
@@ -688,6 +681,7 @@
 *://accocolorpencil99.com/*
 *://accounts.recustomer.xyz/*
 *://acehmediacenter.com/*
+*://acer.onerise.info/*
 *://acgi.jp/*
 *://acil.co.jp/*
 *://acl-2022.jp/*
@@ -748,6 +742,7 @@
 *://agrenes.org/*
 *://agrifuture.africa/*
 *://ahedou.com/*
+*://ahgbtju.com/*
 *://ahh1008.blog.jp/*
 *://ahoa3iet.woslx.xyz/*
 *://ahozura.kasu.me/*
@@ -2999,6 +2994,7 @@
 *://gemala.me/*
 *://genalphaup.com/*
 *://gendai-torendo.online/*
+*://generative-ai.sejuku.net/*
 *://genfunlife.com/*
 *://gengmovie.net/*
 *://genkideru.info/*
@@ -4181,6 +4177,7 @@
 *://kmspico.io/*
 *://kn-q.com/*
 *://knocknockblog.com/*
+*://knotniceet.live/*
 *://knotyet.jp/*
 *://knowledge-cafe.net/*
 *://knowledgerooms.net/*
@@ -6177,6 +6174,7 @@
 *://poke0418hobbyblog.com/*
 *://pokebras.jp/*
 *://pokemon-matome.net/*
+*://pokesalear.live/*
 *://pokmon-tcg-pocket-mod.latestmodapks.com/*
 *://polarusso.com/*
 *://polimats.com/*
@@ -10316,6 +10314,7 @@
 *://zjkqcbx.cn/*
 *://zkimtm.com/*
 *://zkteco-ea.com/*
+*://zld.mjlhepii.biz/*
 *://zlib-official.com/*
 *://zlib.is/*
 *://zlib.to/*
@@ -10327,6 +10326,7 @@
 *://zlmmafzfeb.xyz/*
 *://zofe-warszawa.com/*
 *://zoroastrian.net/*
+*://zqye.aztgxvrd.biz/*
 *://zsa9q04de98.xn--d1aby4ah.xn--p1ai/*
 *://zuboraaa-64.com/*
 *://zuckyzczc.com/*

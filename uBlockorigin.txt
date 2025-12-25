@@ -759,6 +759,7 @@
 ||accocolorpencil99.com^$document
 ||accounts.recustomer.xyz^$document
 ||acehmediacenter.com^$document
+||acer.onerise.info^$document
 ||acgi.jp^$document
 ||acil.co.jp^$document
 ||acl-2022.jp^$document
@@ -821,6 +822,7 @@
 ||agrenes.org^$document
 ||agrifuture.africa^$document
 ||ahedou.com^$document
+||ahgbtju.com^$document
 ||ahh1008.blog.jp^$document
 ||ahoa3iet.woslx.xyz^$document
 ||ahozura.kasu.me^$document
@@ -3090,6 +3092,7 @@
 ||gemala.me^$document
 ||genalphaup.com^$document
 ||gendai-torendo.online^$document
+||generative-ai.sejuku.net^$document
 ||genfunlife.com^$document
 ||gengmovie.net^$document
 ||genkideru.info^$document
@@ -4284,6 +4287,7 @@
 ||kmspico.io^$document
 ||kn-q.com^$document
 ||knocknockblog.com^$document
+||knotniceet.live^$document
 ||knotyet.jp^$document
 ||knowledge-cafe.net^$document
 ||knowledgerooms.net^$document
@@ -6309,6 +6313,7 @@
 ||poke0418hobbyblog.com^$document
 ||pokebras.jp^$document
 ||pokemon-matome.net^$document
+||pokesalear.live^$document
 ||pokmon-tcg-pocket-mod.latestmodapks.com^$document
 ||polarusso.com^$document
 ||polimats.com^$document
@@ -10491,6 +10496,7 @@
 ||zjkqcbx.cn^$document
 ||zkimtm.com^$document
 ||zkteco-ea.com^$document
+||zld.mjlhepii.biz^$document
 ||zlib-official.com^$document
 ||zlib.is^$document
 ||zlib.to^$document
@@ -10502,6 +10508,7 @@
 ||zlmmafzfeb.xyz^$document
 ||zofe-warszawa.com^$document
 ||zoroastrian.net^$document
+||zqye.aztgxvrd.biz^$document
 ||zsa9q04de98.xn--d1aby4ah.xn--p1ai^$document
 ||zuboraaa-64.com^$document
 ||zuckyzczc.com^$document
