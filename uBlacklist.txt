@@ -1,5 +1,13 @@
 *://*.000webhostapp.com/*
 *://*.a3erf.com/*
+*://ahgbtju.com/*
+*://acer.onerise.info/*
+*://zld.mjlhepii.biz/*
+*://pokesalear.live/*
+*://zqye.aztgxvrd.biz/*
+*://knotniceet.live/*
+*://generative-ai.sejuku.net/*
+*://*.sejuku.net/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
