@@ -35,7 +35,6 @@
 /^https?:\/\/[^\/]+\.amprime\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.anige\-sokuhouvip\.com\/?$/$document
 /^https?:\/\/[^\/]+\.apk\.dog\/?$/$document
-||sejuku.net^$document
 /^https?:\/\/[^\/]+\.apktodo\.io\/?$/$document
 /^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.asterisk0\.jp\/?$/$document
@@ -1424,6 +1423,7 @@
 ||beta.hyderi.org.uk^$document
 ||bethelcc.net^$document
 ||better-information.com^$document
+||beypark7.com^$document
 ||bg-mania.jp^$document
 ||bh-clearance.com^$document
 ||bh3cth2q.r.ap-northeast-1.awstrack.me^$document
@@ -6929,6 +6929,7 @@
 ||seirith.com^$document
 ||seiyufan.livedoor.biz^$document
 ||seiyuu-voiceactor.com^$document
+||sejuku.net^$document
 ||sekai-kawaru.com^$document
 ||sekaimanga-hitomi.com^$document
 ||sekainoowari-rehabilitation.com^$document
@@ -10564,6 +10565,7 @@
 @@||gabonexposition.ga^document
 @@||galge.top^$document
 @@||gdtot.top^$document
+@@||get.activated.win^$document
 @@||gonzobacca.bitfan.id^$document
 @@||green.co.ug^document
 @@||hack.club^$document
@@ -10647,4 +10649,3 @@
 @@||xprime.today^$document
 @@||yggtorrent.top^$document
 @@||zeri-m.top^$document
-@@||get.activated.win^$document

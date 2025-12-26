@@ -2,7 +2,6 @@
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
-*://beypark7.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -1340,6 +1339,7 @@
 *://beta.hyderi.org.uk/*
 *://bethelcc.net/*
 *://better-information.com/*
+*://beypark7.com/*
 *://bg-mania.jp/*
 *://bh-clearance.com/*
 *://bh3cth2q.r.ap-northeast-1.awstrack.me/*
