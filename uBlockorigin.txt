@@ -1,5 +1,6 @@
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
+/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cloud/
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world/
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.asia/
@@ -26,7 +27,6 @@
 /^https?:\/\/[^\/]+\.aiarty\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ajjnoj\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.akachan\-meimei\.com\/?$/$document
-/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cloud/
 /^https?:\/\/[^\/]+\.akb48matomemory\.com\/?$/$document
 /^https?:\/\/[^\/]+\.akhbara24\.news\/?$/$document
 /^https?:\/\/[^\/]+\.akirakaminagara\.blog\.jp\/?$/$document
@@ -802,6 +802,7 @@
 ||afacarlit.cat^$document
 ||affigolrich.com^$document
 ||affiliatebook.net^$document
+||afghaehego.com^$document
 ||afghan-info.com^$document
 ||afiri-star.com^$document
 ||aflciopokerroom.com^$document
@@ -1023,6 +1024,7 @@
 ||angular-ja.netlify.app^$document
 ||anianitarou.com^$document
 ||aniberuu.fc2.net^$document
+||anidapsale.com^$document
 ||anijin.com^$document
 ||anikaru.jp^$document
 ||anikoma-movie.jp^$document
@@ -1786,6 +1788,7 @@
 ||character-movie.jp^$document
 ||characterland.jp^$document
 ||chasochaso.com^$document
+||chat.badate.work^$document
 ||chateauduroi.co^$document
 ||chatgpt4000.com^$document
 ||chatgptmod-apk.com^$document
@@ -4391,6 +4394,7 @@
 ||krjlaw.com^$document
 ||krownews.jp^$document
 ||krtjinbei.hatenablog.com^$document
+||kru.clkcfbmv.cloud^$document
 ||ksarjouamaa.com^$document
 ||ksmlc.cn^$document
 ||ksualumnipoker.com^$document
@@ -4638,6 +4642,7 @@
 ||lovewagonblog.wordpress.com^$document
 ||lowcostoutsource.com^$document
 ||lps.nanoartmarket.com^$document
+||lrkdn.kvjody.biz^$document
 ||ls6z1wg.h-arlt-fotografie.de^$document
 ||lsanaqz.live^$document
 ||lsboardservices.com^$document
@@ -5653,6 +5658,7 @@
 ||note.com/getgadgetgot^$document
 ||note.com/getgadgetgot^$document
 ||note.com/getpoint_frommno^$document
+||note.com/gifted_dietes453^$document
 ||note.com/go_cameraman^$document
 ||note.com/goen_grapgic^$document
 ||note.com/goen_grapgic^$document
@@ -5694,6 +5700,7 @@
 ||note.com/kakaokakao1230^$document
 ||note.com/kakip0115^$document
 ||note.com/kamanyan01^$document
+||note.com/kankare^$document
 ||note.com/kara0323^$document
 ||note.com/kaz_kashiwagi^$document
 ||note.com/kazu_feelin^$document
@@ -5709,6 +5716,7 @@
 ||note.com/kyari_mon^$document
 ||note.com/lenslover^$document
 ||note.com/light_right_^$document
+||note.com/lively_impala470^$document
 ||note.com/lofty_skink4202^$document
 ||note.com/long_dove4226^$document
 ||note.com/lovely_impala245^$document
@@ -5730,8 +5738,10 @@
 ||note.com/mild_ruff676^$document
 ||note.com/mingaje333^$document
 ||note.com/mippasan^$document
+||note.com/mitsubachi0088^$document
 ||note.com/mizuu_note1^$document
 ||note.com/moeuhane22*^$document
+||note.com/mofu_pan^$document
 ||note.com/monetking0209*^$document
 ||note.com/morin4g4^$document
 ||note.com/motokoku^$document
@@ -5783,6 +5793,7 @@
 ||note.com/rex1234^$document
 ||note.com/rich_mole9262^$document
 ||note.com/rich_shark9469^$document
+||note.com/rin_142356^$document
 ||note.com/rinks_shop1288^$document
 ||note.com/roshalke^$document
 ||note.com/ruria_aria88^$document
@@ -9882,6 +9893,7 @@
 ||www.tokyofashionapp.com^$document
 ||www.tokyoheadline.com^$document
 ||www.tokyomartstore.com^$document
+||www.tokyoroomfashion.com^$document
 ||www.torccleanenergy.com.au^$document
 ||www.torrent48.com^$document
 ||www.totalav.com^$document

@@ -2,18 +2,6 @@
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
-*://note.com/rin_142356/*
-*://note.com/mofu_pan/*
-*://note.com/mitsubachi0088/*
-*://note.com/gifted_dietes453/*
-*://note.com/lively_impala470/*
-*://note.com/kankare/*
-*://anidapsale.com/*
-*://kru.clkcfbmv.cloud/*
-*://chat.badate.work/*
-*://lrkdn.kvjody.biz/*
-*://afghaehego.com/*
-*://www.tokyoroomfashion.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -733,6 +721,7 @@
 *://afacarlit.cat/*
 *://affigolrich.com/*
 *://affiliatebook.net/*
+*://afghaehego.com/*
 *://afghan-info.com/*
 *://afiri-star.com/*
 *://aflciopokerroom.com/*
@@ -952,6 +941,7 @@
 *://angular-ja.netlify.app/*
 *://anianitarou.com/*
 *://aniberuu.fc2.net/*
+*://anidapsale.com/*
 *://anijin.com/*
 *://anikaru.jp/*
 *://anikoma-movie.jp/*
@@ -1708,6 +1698,7 @@
 *://character-movie.jp/*
 *://characterland.jp/*
 *://chasochaso.com/*
+*://chat.badate.work/*
 *://chateauduroi.co/*
 *://chatgpt4000.com/*
 *://chatgptmod-apk.com/*
@@ -4292,6 +4283,7 @@
 *://krjlaw.com/*
 *://krownews.jp/*
 *://krtjinbei.hatenablog.com/*
+*://kru.clkcfbmv.cloud/*
 *://ksarjouamaa.com/*
 *://ksmlc.cn/*
 *://ksualumnipoker.com/*
@@ -4537,6 +4529,7 @@
 *://lovewagonblog.wordpress.com/*
 *://lowcostoutsource.com/*
 *://lps.nanoartmarket.com/*
+*://lrkdn.kvjody.biz/*
 *://ls6z1wg.h-arlt-fotografie.de/*
 *://lsanaqz.live/*
 *://lsboardservices.com/*
@@ -5541,6 +5534,7 @@
 *://note.com/genial_okapi1028/*
 *://note.com/getgadgetgot/*
 *://note.com/getpoint_frommno/*
+*://note.com/gifted_dietes453/*
 *://note.com/go_cameraman/*
 *://note.com/goen_grapgic/*
 *://note.com/gominogomidame/*
@@ -5577,6 +5571,7 @@
 *://note.com/kakaokakao1230/*
 *://note.com/kakip0115/*
 *://note.com/kamanyan01/*
+*://note.com/kankare/*
 *://note.com/kara0323/*
 *://note.com/kaz_kashiwagi/*
 *://note.com/kazu_feelin/*
@@ -5592,6 +5587,7 @@
 *://note.com/kyari_mon/*
 *://note.com/lenslover/*
 *://note.com/light_right_/*
+*://note.com/lively_impala470/*
 *://note.com/lofty_skink4202/*
 *://note.com/long_dove4226/*
 *://note.com/lovely_impala245/*
@@ -5612,8 +5608,10 @@
 *://note.com/mild_ruff676/*
 *://note.com/mingaje333/*
 *://note.com/mippasan/*
+*://note.com/mitsubachi0088/*
 *://note.com/mizuu_note1/*
 *://note.com/moeuhane22*
+*://note.com/mofu_pan/*
 *://note.com/monetking0209*
 *://note.com/morin4g4/*
 *://note.com/motokoku/*
@@ -5664,6 +5662,7 @@
 *://note.com/rex1234/*
 *://note.com/rich_mole9262/*
 *://note.com/rich_shark9469/*
+*://note.com/rin_142356/*
 *://note.com/rinks_shop1288/*
 *://note.com/roshalke/*
 *://note.com/ruria_aria88/*
@@ -9719,6 +9718,7 @@
 *://www.tokyofashionapp.com/*
 *://www.tokyoheadline.com/*
 *://www.tokyomartstore.com/*
+*://www.tokyoroomfashion.com/*
 *://www.torccleanenergy.com.au/*
 *://www.torrent48.com/*
 *://www.totalav.com/*
