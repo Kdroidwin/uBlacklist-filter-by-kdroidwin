@@ -26,6 +26,7 @@
 /^https?:\/\/[^\/]+\.aiarty\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ajjnoj\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.akachan\-meimei\.com\/?$/$document
+/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cloud/
 /^https?:\/\/[^\/]+\.akb48matomemory\.com\/?$/$document
 /^https?:\/\/[^\/]+\.akhbara24\.news\/?$/$document
 /^https?:\/\/[^\/]+\.akirakaminagara\.blog\.jp\/?$/$document
