@@ -2,6 +2,9 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
+*://1link.jp/*
+*://lite.tiktok.com/*
+*://www.tiktok.com/ug/incentive/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
