@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://ja.copress.shop/*
+*://www.yuruazabu.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
