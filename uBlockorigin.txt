@@ -159,6 +159,15 @@
 /^https?:\/\/[^\/]+\.jp\.my\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.ng\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.nl\/?$/$document
+/https?:\/\/[a-z0-9-]+-co-jp\.net/
+/https?:\/\/[a-z0-9-]+-co-jp\.com/
+/https?:\/\/[a-z0-9-]+-co-jp\.online/
+/https?:\/\/[a-z0-9-]+-co-jp\.org/
+/https?:\/\/[a-z0-9-]+-co-jp\.xyz/
+/https?:\/\/[a-z0-9-]+-co-jp\.cn/
+/https?:\/\/[a-z0-9-]+-co-jp\.mobi/
+/https?:\/\/[a-z0-9-]+-co-jp\.ru/
+/^https?:\/\/[^\/]+\.jp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.no\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.nz\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.pe\/?$/$document
