@@ -2,9 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://1link.jp/*
-*://lite.tiktok.com/*
-*://www.tiktok.com/ug/incentive/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
@@ -477,6 +474,7 @@
 *://1fd.online/*
 *://1geireki.com/*
 *://1l5nbj1.cn/*
+*://1link.jp/*
 *://1m7z6nzzl.nordic-walking-schule-brita-becker.de/*
 *://1mcl.xyz/*
 *://1mmsusumu.com/*
@@ -4534,6 +4532,7 @@
 *://linosy.com/*
 *://lisae.me.uk/*
 *://liskul.com/*
+*://lite.tiktok.com/*
 *://little-busters.ldblog.jp/*
 *://littlelittlelife.com/*
 *://littleprince.jp/*
@@ -9843,6 +9842,7 @@
 *://www.thousandsmiles.uk/*
 *://www.threescoops.shop/*
 *://www.tienkenandassociates.com/*
+*://www.tiktok.com/ug/incentive/*
 *://www.timbukdo.in/*
 *://www.tm-robot.com.cn/*
 *://www.tnfinskills.com/*

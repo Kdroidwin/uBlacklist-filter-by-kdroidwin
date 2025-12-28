@@ -139,6 +139,7 @@
 /^https?:\/\/[^\/]+\.jp\.cl\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.cn\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.co\/?$/$document
+/^https?:\/\/[^\/]+\.jp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.cz\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.de\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.dk\/?$/$document
@@ -159,15 +160,6 @@
 /^https?:\/\/[^\/]+\.jp\.my\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.ng\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.nl\/?$/$document
-/https?:\/\/[a-z0-9-]+-co-jp\.net/
-/https?:\/\/[a-z0-9-]+-co-jp\.com/
-/https?:\/\/[a-z0-9-]+-co-jp\.online/
-/https?:\/\/[a-z0-9-]+-co-jp\.org/
-/https?:\/\/[a-z0-9-]+-co-jp\.xyz/
-/https?:\/\/[a-z0-9-]+-co-jp\.cn/
-/https?:\/\/[a-z0-9-]+-co-jp\.mobi/
-/https?:\/\/[a-z0-9-]+-co-jp\.ru/
-/^https?:\/\/[^\/]+\.jp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.no\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.nz\/?$/$document
 /^https?:\/\/[^\/]+\.jp\.pe\/?$/$document
@@ -491,6 +483,14 @@
 /^https?:\/\/[^\/]+\.zhouni\.net\/?$/$document
 /^https?:\/\/[^\/]+\.zinroonline\.wiki\.fc2\.com\/?$/$document
 /^https?:\/\/[^\/]+\.zweryfikowac\.pl\/?$/$document
+/https?:\/\/[a-z0-9-]+-co-jp\.cn/
+/https?:\/\/[a-z0-9-]+-co-jp\.com/
+/https?:\/\/[a-z0-9-]+-co-jp\.mobi/
+/https?:\/\/[a-z0-9-]+-co-jp\.net/
+/https?:\/\/[a-z0-9-]+-co-jp\.online/
+/https?:\/\/[a-z0-9-]+-co-jp\.org/
+/https?:\/\/[a-z0-9-]+-co-jp\.ru/
+/https?:\/\/[a-z0-9-]+-co-jp\.xyz/
 ||/^https:\/\/www\.pinterest\./^$document
 ||/^https:\/\/www\.qinterest\./^$document
 ||0-scholar-google-com.brum.beds.ac.uk^$document
@@ -537,6 +537,7 @@
 ||1fd.online^$document
 ||1geireki.com^$document
 ||1l5nbj1.cn^$document
+||1link.jp^$document
 ||1m7z6nzzl.nordic-walking-schule-brita-becker.de^$document
 ||1mcl.xyz^$document
 ||1mmsusumu.com^$document
@@ -4628,6 +4629,7 @@
 ||linosy.com^$document
 ||lisae.me.uk^$document
 ||liskul.com^$document
+||lite.tiktok.com^$document
 ||little-busters.ldblog.jp^$document
 ||littlelittlelife.com^$document
 ||littleprince.jp^$document
@@ -10004,6 +10006,7 @@
 ||www.threescoops.shop^$document
 ||www.ticket.co.jp^$document
 ||www.tienkenandassociates.com^$document
+||www.tiktok.com/ug/incentive^$document
 ||www.timbukdo.in^$document
 ||www.tm-robot.com.cn^$document
 ||www.tnfinskills.com^$document
