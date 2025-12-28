@@ -5341,13 +5341,8 @@
 *://news-hunter.net/*
 *://news-media-life.com/*
 *://news-news-news.net/*
-*://news-us.jp/*
 *://news-wakaru.com/*
-*://news.careerconnection.jp/*
-*://news.cube-soft.jp/*
 *://news.eeany.cn/*
-*://news.ganma.jp/*
-*://news.guideme.jp/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
 *://news.vodfan.com/*
 *://newscomic.net/*
