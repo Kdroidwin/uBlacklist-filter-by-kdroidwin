@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://ja.copress.shop/*
-*://www.yuruazabu.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
@@ -3844,6 +3842,7 @@
 *://j-rocklove.com/*
 *://ja-beta-reactjs-org.vercel.app/*
 *://ja.all10soft.com/*
+*://ja.copress.shop/*
 *://ja.miki.com/*
 *://ja.safetydetectives.com/*
 *://ja.taiwebs.com/*
@@ -10016,6 +10015,7 @@
 *://www.yurikago-blogu.com/*
 *://www.yurimmm3.com/*
 *://www.yuroblog.site/*
+*://www.yuruazabu.com/*
 *://www.yurunoblog.com/*
 *://www.yurusupo.com/*
 *://www.yxssp.com/*

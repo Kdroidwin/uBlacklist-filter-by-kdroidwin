@@ -3925,6 +3925,7 @@
 ||j-rocklove.com^$document
 ||ja-beta-reactjs-org.vercel.app^$document
 ||ja.all10soft.com^$document
+||ja.copress.shop^$document
 ||ja.miki.com^$document
 ||ja.safetydetectives.com^$document
 ||ja.taiwebs.com^$document
@@ -10173,6 +10174,7 @@
 ||www.yurikago-blogu.com^$document
 ||www.yurimmm3.com^$document
 ||www.yuroblog.site^$document
+||www.yuruazabu.com^$document
 ||www.yurunoblog.com^$document
 ||www.yurusupo.com^$document
 ||www.yxssp.com^$document
