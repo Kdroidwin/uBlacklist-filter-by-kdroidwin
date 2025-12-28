@@ -845,6 +845,7 @@
 ||aidarquitetura.com^$document
 ||aidoly.net^$document
 ||aieromanga-aierocomic.com^$document
+||aifuku5.com^$document
 ||aigamo8.com^$document
 ||aigazo.com^$document
 ||aiiku3.com^$document
@@ -1611,6 +1612,7 @@
 ||bq2ldnzzl.nordic-walking-schule-brita-becker.de^$document
 ||bqt.sakura.ne.jp^$document
 ||br-vestnik.online^$document
+||brain-contents.com^$document
 ||brain-market.com^$document
 ||brain-market.com^$document
 ||brains.hatenablog.com^$document
@@ -2763,6 +2765,7 @@
 ||favorite-blog.com^$document
 ||fb.me^$document
 ||fba.azurewebsites.net^$document
+||fbfcmt27.autosns.app/^$document
 ||fd.5201961.xyz^$document
 ||fe30a5b4.xyz^$document
 ||fearless-fitness.uk^$document
@@ -4072,6 +4075,7 @@
 ||junchandream.com^$document
 ||juncook.com^$document
 ||junkfreeemail.com^$document
+||junpei-sugiyama.com^$document
 ||junrin.xyz^$document
 ||jupontyi.jettysuites.com^$document
 ||jurimojo.com^$document
@@ -4162,6 +4166,7 @@
 ||kaoriblog0808.com^$document
 ||kaoru5.com^$document
 ||kapa.eus^$document
+||kapok.testdom.work^$document
 ||kappa-mam.com^$document
 ||karakuri.link^$document
 ||karanpc.com^$document
@@ -4980,6 +4985,7 @@
 ||mechoice.jp^$document
 ||meconnect.ru^$document
 ||media-athlete.com^$document
+||media.brain-market.com^$document
 ||media.mar-cari.jp^$document
 ||media.yamatop.com^$document
 ||medianomoriblog.com^$document
@@ -5702,6 +5708,7 @@
 ||note.com/hachiojiiphone^$document
 ||note.com/haken_se_30manen^$document
 ||note.com/hakutoumomo^$document
+||note.com/hama_zaitaku^$document
 ||note.com/hamako14^$document
 ||note.com/hamu_3nd^$document
 ||note.com/happy_cobra8643^$document
@@ -5822,6 +5829,7 @@
 ||note.com/ready_bison5376^$document
 ||note.com/ready_newt6023^$document
 ||note.com/realme_note^$document
+||note.com/reiwamoney1^$document
 ||note.com/renai_mbti^$document
 ||note.com/reraco^$document
 ||note.com/restruct^$document
@@ -5912,6 +5920,7 @@
 ||note.com/yutori_kurashi^$document
 ||note.com/yuueki_osusume^$document
 ||note.com/zatsugaku_iroiro^$document
+||note.com/zenipen^$document
 ||notsu08.com^$document
 ||noudoofees.net^$document
 ||nougaku.saloon.jp^$document
@@ -7200,6 +7209,7 @@
 ||ske48-audition-11th.jp^$document
 ||sketchfab.com^$document
 ||skets.jp^$document
+||skill-hacks.co.jp^$document
 ||skillhub.jp^$document
 ||skinvy.in^$document
 ||skipnpk.top^$document
@@ -7422,6 +7432,7 @@
 ||studionobres.com^$document
 ||styleproud-labo.com^$document
 ||suava-boutique.com^$document
+||sub.sako-edutech.com^$document
 ||sub2-30.aairwwq.online^$document
 ||subarashii.me^$document
 ||subaru71.ru^$document
@@ -10495,6 +10506,7 @@
 ||yukinko17.com^$document
 ||yukiq.com^$document
 ||yukirinhappy.com^$document
+||yukisako.com^$document
 ||yukitokyo.jp^$document
 ||yuko0125.com^$document
 ||yukoblog.net^$document

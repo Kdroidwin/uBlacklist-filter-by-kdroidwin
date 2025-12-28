@@ -1,17 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://note.com/reiwamoney1/*
-*://fbfcmt27.autosns.app//*
-*://sub.sako-edutech.com/*
-*://yukisako.com/*
-*://brain-contents.com/*
-*://note.com/hama_zaitaku/*
-*://skill-hacks.co.jp/*
-*://junpei-sugiyama.com/*
-*://media.brain-market.com/*
-*://aifuku5.com/*
-*://note.com/zenipen/*
-*://kapok.testdom.work/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
@@ -801,6 +789,7 @@
 *://aidarquitetura.com/*
 *://aidoly.net/*
 *://aieromanga-aierocomic.com/*
+*://aifuku5.com/*
 *://aigamo8.com/*
 *://aigazo.com/*
 *://aiiku3.com/*
@@ -1561,6 +1550,7 @@
 *://bpbr.ai-li.xyz/*
 *://bq2ldnzzl.nordic-walking-schule-brita-becker.de/*
 *://br-vestnik.online/*
+*://brain-contents.com/*
 *://brain-market.com/*
 *://brains.hatenablog.com/*
 *://brand-website-alpha.vercel.app/*
@@ -2703,6 +2693,7 @@
 *://favorite-blog.com/*
 *://fb.me/*
 *://fba.azurewebsites.net/*
+*://fbfcmt27.autosns.app//*
 *://fd.5201961.xyz/*
 *://fe30a5b4.xyz/*
 *://fearless-fitness.uk/*
@@ -4000,6 +3991,7 @@
 *://junchandream.com/*
 *://juncook.com/*
 *://junkfreeemail.com/*
+*://junpei-sugiyama.com/*
 *://junrin.xyz/*
 *://jupontyi.jettysuites.com/*
 *://jurimojo.com/*
@@ -4089,6 +4081,7 @@
 *://kaoriblog0808.com/*
 *://kaoru5.com/*
 *://kapa.eus/*
+*://kapok.testdom.work/*
 *://kappa-mam.com/*
 *://karakuri.link/*
 *://karanpc.com/*
@@ -4903,6 +4896,7 @@
 *://mechoice.jp/*
 *://meconnect.ru/*
 *://media-athlete.com/*
+*://media.brain-market.com/*
 *://media.mar-cari.jp/*
 *://media.yamatop.com/*
 *://medianomoriblog.com/*
@@ -5609,6 +5603,7 @@
 *://note.com/hachiojiiphone/*
 *://note.com/haken_se_30manen/*
 *://note.com/hakutoumomo/*
+*://note.com/hama_zaitaku/*
 *://note.com/hamako14/*
 *://note.com/hamu_3nd/*
 *://note.com/happy_cobra8643/*
@@ -5723,6 +5718,7 @@
 *://note.com/ready_bison5376/*
 *://note.com/ready_newt6023/*
 *://note.com/realme_note/*
+*://note.com/reiwamoney1/*
 *://note.com/renai_mbti/*
 *://note.com/reraco/*
 *://note.com/restruct/*
@@ -5804,6 +5800,7 @@
 *://note.com/yutori_kurashi/*
 *://note.com/yuueki_osusume/*
 *://note.com/zatsugaku_iroiro/*
+*://note.com/zenipen/*
 *://notsu08.com/*
 *://noudoofees.net/*
 *://nougaku.saloon.jp/*
@@ -7080,6 +7077,7 @@
 *://ske48-audition-11th.jp/*
 *://sketchfab.com/*
 *://skets.jp/*
+*://skill-hacks.co.jp/*
 *://skillhub.jp/*
 *://skinvy.in/*
 *://skipnpk.top/*
@@ -7301,6 +7299,7 @@
 *://studionobres.com/*
 *://styleproud-labo.com/*
 *://suava-boutique.com/*
+*://sub.sako-edutech.com/*
 *://sub2-30.aairwwq.online/*
 *://subarashii.me/*
 *://subaru71.ru/*
@@ -10344,6 +10343,7 @@
 *://yukinko17.com/*
 *://yukiq.com/*
 *://yukirinhappy.com/*
+*://yukisako.com/*
 *://yukitokyo.jp/*
 *://yuko0125.com/*
 *://yukoblog.net/*
