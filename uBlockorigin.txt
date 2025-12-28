@@ -660,6 +660,7 @@
 ||6sc6sh.cn^$document
 ||6xz1gd.cn^$document
 ||6yfik268.r.us-east-1.awstrack.me^$document
+||711web.com^$document
 ||7227125.slot47.online^$document
 ||73569.gatecoin.online^$document
 ||74n5c4m7.r.eu-west-1.awstrack.me^$document
@@ -704,6 +705,7 @@
 ||9lick.me^$document
 ||9mod.com^$document
 ||9qh8qcxb.r.us-east-1.awstrack.me^$document
+||9to5answer.com^$document
 ||9yfwmoisk.melanie-reinecke.de^$document
 ||@*://4pda.to^$document
 ||a-1construction.com^$document
@@ -863,6 +865,7 @@
 ||aiuemam-new.com^$document
 ||aiyyfu.com^$document
 ||ajansdiaspora.com^$document
+||ajaxhispano.com^$document
 ||ajesonbansnk-loans-jp.com^$document
 ||ak.akhbara24.news^$document
 ||akaitasuki.com^$document
@@ -1068,6 +1071,7 @@
 ||anooblog.com^$document
 ||anosaka.com^$document
 ||anotherstorysign.com^$document
+||answer-id.com^$document
 ||answers.microsoft.com^$document
 ||answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||antenatarou.warotamaker2.com^$document
@@ -1233,7 +1237,9 @@
 ||asilisas.buzz^$document
 ||asitanokakehasi.blog.ss-blog.jp^$document
 ||asjapanesu.click^$document
+||ask-dev.ru^$document
 ||askchords.com^$document
+||askcodez.com^$document
 ||askmrcoupon.com^$document
 ||asobell.jp^$document
 ||asoboolog.com^$document
@@ -1462,6 +1468,7 @@
 ||bismillahfoodbd.com^$document
 ||bitbucket.org^$document
 ||bitcash.me^$document
+||bitcoden.com^$document
 ||bitdefenderantivirus.jp^$document
 ||biter.shorrt.live^$document
 ||bitregions.com^$document
@@ -1694,6 +1701,7 @@
 ||cafe-makky.com^$document
 ||cafe-mario.jp^$document
 ||cafedent.vn^$document
+||cainiaojiaocheng.com^$document
 ||californialistings.com^$document
 ||calleo.be^$document
 ||caltechbd.com^$document
@@ -1920,8 +1928,13 @@
 ||cocone.app^$document
 ||cocoppa.com^$document
 ||cocoyomi.com^$document
+||code-examples.net^$document
 ||code.ooaks.co.jp^$document
 ||codeacademyug.org^$document
+||codegrepr.com^$document
+||codeguides.site^$document
+||coderoad.ru^$document
+||codeutility.org^$document
 ||codevia.io^$document
 ||coetas.jp^$document
 ||cofure.hatenablog.com^$document
@@ -2000,6 +2013,7 @@
 ||copayeoh.jettysuites.com^$document
 ||copilot.6m6c.cn^$document
 ||copyeg.ru^$document
+||copyprogramming.com^$document
 ||corasa.com.ec^$document
 ||core.ac.uk^$document
 ||coremaji-media.com^$document
@@ -2113,6 +2127,7 @@
 ||daohang.zzhvip.top^$document
 ||daohang365.top^$document
 ||dapf.ru^$document
+||daplus.net^$document
 ||darakichi2023.com^$document
 ||darenanimono.com^$document
 ||dario-blog.com^$document
@@ -2133,6 +2148,7 @@
 ||dcryptobuzz.com^$document
 ||ddhacks.com^$document
 ||ddnavi.com^$document
+||de-vraag.com^$document
 ||de2.45rina.com^$document
 ||deai-wakare.tokyo^$document
 ||deaino-onayami.com^$document
@@ -2216,6 +2232,7 @@
 ||digicamenote.com^$document
 ||digispacestudio.com^$document
 ||digital-shift.jp^$document
+||digitrain.ru^$document
 ||digitspring.com^$document
 ||dignicolombia.org^$document
 ||digtopi.com^$document
@@ -2297,6 +2314,7 @@
 ||dorama-netabare.com^$document
 ||doramamiyo-yo.com^$document
 ||doramonxx.com^$document
+||doraprojects.net^$document
 ||doraraku.com^$document
 ||dorischasen.com^$document
 ||dorukoma.online^$document
@@ -2645,6 +2663,7 @@
 ||erosummary.2chblog.jp^$document
 ||erotiti.com^$document
 ||erp.nexessence.com^$document
+||errorsfixing.com^$document
 ||ertwas.com^$document
 ||ertyws.com^$document
 ||erumaru.com^$document
@@ -2689,6 +2708,7 @@
 ||exawarosu.net^$document
 ||excelbook.cn^$document
 ||excesssecurity.com/recommended-vpn^$document
+||exchangetuts.com^$document
 ||excite-matome.com^$document
 ||exhearts.com^$document
 ||exileds1.planettravel.com.uy^$document
@@ -2830,10 +2850,12 @@
 ||floridianvacationhomes.com^$document
 ||flower1.xyz^$document
 ||flowerh.work^$document
+||flutterhq.com^$document
 ||flyqfxzz.property^$document
 ||flywxt.com.cn^$document
 ||fmax7.com^$document
 ||fmcicesports.com^$document
+||fmihm.org^$document
 ||fmovies.to^$document
 ||fmovies2u.com^$document
 ||fmovieus.com^$document
@@ -2936,6 +2958,7 @@
 ||fullgra.jp^$document
 ||fullmoviesells.com^$document
 ||fullmovieso.net^$document
+||fullstackuser.com^$document
 ||fumako.net^$document
 ||fumi2019.com^$document
 ||fumienaffi.com^$document
@@ -3799,6 +3822,7 @@
 ||instatool.nu^$document
 ||int-stroy.ru^$document
 ||int64.me^$document
+||intellipaat.com^$document
 ||interactionbrand.com^$document
 ||interconnect.cc^$document
 ||interested-media.com^$document
@@ -3828,6 +3852,7 @@
 ||ipsw.me^$document
 ||iptvservicenow.com^$document
 ||iqf.education^$document
+||iquestion.pro^$document
 ||ir^$doc,domain=~parstoday.ir
 ||irannkotosii.seesaa.net^$document
 ||ireeianzjind.xyz^$document
@@ -3854,6 +3879,7 @@
 ||isidorus-ex-camera.com^$document
 ||isihia.doubletraveller.cz^$document
 ||isk94mhm.krankengymnastikneukirchen.de^$document
+||isolution.pro^$document
 ||isshin48.website^$document
 ||isshousch.main.jp^$document
 ||issuetracker.revi.xyz^$document
@@ -3870,6 +3896,9 @@
 ||italkyou.cn^$document
 ||itc-pex.ru^$document
 ||itd-company.com^$document
+||itecnote.com^$document
+||itecnotes.com^$document
+||itectec.com^$document
 ||item.woomy.me^$document
 ||itemcube.jp^$document
 ||iti-inc.co.jp^$document
@@ -4031,6 +4060,7 @@
 ||jtb-hotspringtickets.vip^$document
 ||jtb-hotspringtickets.xyz^$document
 ||jtbmusic.jp^$document
+||jtuto.com^$document
 ||judymzungu.com^$document
 ||jufusion.com^$document
 ||jujumaru-website.com^$document
@@ -4440,6 +4470,7 @@
 ||kyoutei-report.com^$document
 ||kyozon.net/list/vpn-recommended^$document
 ||kyun2-girls.com^$document
+||kzen.dev^$document
 ||l-kyojin01.jp^$document
 ||l-ma.info^$document
 ||l.instagram.com^$document
@@ -4594,6 +4625,7 @@
 ||liver.doneru.jp^$document
 ||livetune.jp^$document
 ||livetv787.me^$document
+||living-sun.com^$document
 ||livingproof.com.gt^$document
 ||livingservice.g.kuroco-front.app^$document
 ||ljla.uk^$document
@@ -5026,6 +5058,7 @@
 ||micdx.com^$document
 ||micheleandjon.com^$document
 ||miciks.com^$document
+||microeducate.tech^$document
 ||microphone-global.ru^$document
 ||microsoftstore.ru^$document
 ||midorikiryu-navi.com^$document
@@ -5445,6 +5478,7 @@
 ||new.artecpractice.com^$document
 ||new.cdsm.cl^$document
 ||newbalanlife.com^$document
+||newbedev.com^$document
 ||newdays-fresh.com^$document
 ||newerlokas.online^$document
 ||newmexicocountryland.com^$document
@@ -6042,6 +6076,7 @@
 ||onsetvzq.formachasia.com^$document
 ||onzedesetembre.com^$document
 ||oodoori.com^$document
+||oomake.com^$document
 ||oota01.com^$document
 ||op1.info^$document
 ||opc3.bandom.info^$document
@@ -6120,6 +6155,7 @@
 ||outidesigoto.com^$document
 ||outletfinalsale.com^$document
 ||outlookfestival.jp^$document
+||overcoder.net^$document
 ||overforty-man.com^$document
 ||overlack.jp^$document
 ||ovnseuclyz.smart-home-company.com.ua^$document
@@ -6206,6 +6242,7 @@
 ||peakproductivitycoaching.com^$document
 ||peaks-comic.com^$document
 ||peaksmarketing.co.jp^$document
+||peaku.co^$document
 ||pearl-veteran.com^$document
 ||peasun.jp^$document
 ||peavyuai.styr.solutions^$document
@@ -6403,7 +6440,10 @@
 ||profiles-vkontakte.ru^$document
 ||profit-judge.com^$document
 ||prog56.com^$document
+||progi.pro^$document
+||prograide.com^$document
 ||programmercollege.jp^$document
+||programmierfrage.com^$document
 ||programming-door.com^$document
 ||progroup.pt^$document
 ||projectorrenter.com^$document
@@ -6442,7 +6482,24 @@
 ||pxle.me^$document
 ||pybli.com.my^$document
 ||pyby.eu^$document
+||qa-stack.pl^$document
 ||qapla.com.ph^$document
+||qastack.cn^$document
+||qastack.co.in^$document
+||qastack.com.br^$document
+||qastack.com.de^$document
+||qastack.com.ua^$document
+||qastack.fr^$document
+||qastack.id^$document
+||qastack.in.th^$document
+||qastack.info.tr^$document
+||qastack.it^$document
+||qastack.jp^$document
+||qastack.kr^$document
+||qastack.mx^$document
+||qastack.net.bd^$document
+||qastack.ru^$document
+||qastack.vn^$document
 ||qatchdigital.com^$document
 ||qazuaqh.guru^$document
 ||qiita.com/jahidulseo^$document
@@ -6460,7 +6517,9 @@
 ||qualist.jp^$document
 ||quality-of-life-ryoblog.com^$document
 ||quareclare.ie^$document
+||question-it.com^$document
 ||questmom.com^$document
+||questu.ru^$document
 ||quick-timez.com^$document
 ||quickget.jp^$document
 ||quitoko.com^$document
@@ -6726,6 +6785,7 @@
 ||rotae.bike^$document
 ||rouge-letter.com^$document
 ||roundyearfun.org^$document
+||routinepanic.com^$document
 ||royaltravelcetinje.me^$document
 ||rpr.me^$document
 ||rpytb9kc.r.ap-northeast-1.awstrack.me^$document
@@ -6989,6 +7049,7 @@
 ||shawn620.online^$document
 ||sheeny.com.tw^$document
 ||sheingivesback.com^$document
+||shenghuobao.net^$document
 ||shiawaseninaritai.com^$document
 ||shibutaisai.com^$document
 ||shicony.com^$document
@@ -7192,6 +7253,7 @@
 ||snsdays.com^$document
 ||snufkinheart.com^$document
 ||so-le.com^$document
+||so.muouseo.com^$document
 ||soccer.gatecoin.online^$document
 ||soccerlove.jp^$document
 ||soci-journal.com^$document
@@ -7213,6 +7275,7 @@
 ||solife-a.com^$document
 ||sollastudio.net^$document
 ||solutionsbyswain.com^$document
+||solveforum.com^$document
 ||sonasgrill.com^$document
 ||sonicmovie.net^$document
 ||sonix8.rssing.com^$document
@@ -7260,6 +7323,7 @@
 ||spinaltap.jp^$document
 ||splashpages-dev.hm.com^$document
 ||splatoonv.hatenablog.com^$document
+||splunktool.com^$document
 ||spocale.com^$document
 ||spodoori.com^$document
 ||spoilerplus.net^$document
@@ -7293,6 +7357,9 @@
 ||sswirables.com^$document
 ||st65.demo-samples-website.xyz^$document
 ||stablepharmacy.com^$document
+||stackguides.com^$document
+||stackoom.com^$document
+||stackovergo.com^$document
 ||staffety.com^$document
 ||stageonthenews.com^$document
 ||staging.thesignbuilder.co.uk^$document
@@ -7412,6 +7479,7 @@
 ||suntoranosuke.com^$document
 ||suo.su^$document
 ||supadou.blogism.jp^$document
+||super-unix.com^$document
 ||supercourt.hooop.me^$document
 ||superdysale.nl^$document
 ||superiorspamfilter.com^$document
@@ -7460,6 +7528,7 @@
 ||sykesfdu.jiwasihat.com^$document
 ||syn-ad.com^$document
 ||synergetic.ru^$document
+||syntaxfix.com^$document
 ||synthesistorren.blog2.fc2.com^$document
 ||syokusamen.com^$document
 ||syosetume.wixsite.com^$document
@@ -7587,6 +7656,7 @@
 ||techacademy.jp^$document
 ||techcoheights.com^$document
 ||techgym.jp^$document
+||techhelpnotes.com^$document
 ||techlogixzone.online^$document
 ||technicoloursigns.com^$document
 ||techno-wing.info^$document
@@ -7958,6 +8028,7 @@
 ||tureduresuzume.com^$document
 ||turezurenaru-zakki.com^$document
 ||turutinblog.com^$document
+||tutorialmore.com^$document
 ||tuttataka.com^$document
 ||tuuburo001.com^$document
 ||tuyetthevolam.vn^$document
@@ -7996,6 +8067,7 @@
 ||uberpartner.hatenablog.com^$document
 ||ublock-origin-lite.softonic.ru^$document
 ||ubulira.immunityassist.sk^$document
+||ubuntubin.com^$document
 ||ucbl.cn^$document
 ||uchihapmarathon.jp^$document
 ||uchina-times.com^$document
@@ -8281,6 +8353,8 @@
 ||web-online-blog.com^$document
 ||web.illumina.com.cn^$document
 ||webdesignmagazine.net^$document
+||webdevask.com^$document
+||webdevdesigner.com^$document
 ||webdienstleistung.com^$document
 ||webku.jp^$document
 ||websites.milonic.com^$document
@@ -8417,6 +8491,7 @@
 ||www.5550666.xyz^$document
 ||www.57nxxbd.cn^$document
 ||www.5942dj.cn^$document
+||www.5axxw.com^$document
 ||www.5cq7gx.cn^$document
 ||www.5drdzhz.cn^$document
 ||www.5gz1sd.cn^$document
@@ -8517,9 +8592,11 @@
 ||www.anlogtimes.com^$document
 ||www.anon.me^$document
 ||www.anoniwa.jp^$document
+||www.answerlib.com^$document
 ||www.anthonybaildon.com^$document
 ||www.antonelladestefano.ch^$document
 ||www.antriavi.com^$document
+||www.anycodings.com^$document
 ||www.aoimori-norin.jp^$document
 ||www.aoritsuito.com^$document
 ||www.apk3.com^$document
@@ -8532,6 +8609,7 @@
 ||www.apple.ex1.https.443.ipv6.yunfu.gov.cn^$document
 ||www.apple.info^$document
 ||www.appps.jp^$document
+||www.appsloveworld.com^$document
 ||www.arakawa-bpc.com^$document
 ||www.ario-fukaya.jp^$document
 ||www.aromastyle.info^$document
@@ -8597,6 +8675,7 @@
 ||www.biglobe-hikari.net^$document
 ||www.bikingaway.com^$document
 ||www.bilingualmama.net^$document
+||www.binarydevelop.com^$document
 ||www.bioeumf.cn^$document
 ||www.bioverde.jp^$document
 ||www.biscuit-online.com^$document
@@ -8708,6 +8787,9 @@
 ||www.cloudskills.io^$document
 ||www.clubcio.ru^$document
 ||www.cmmathewco.com^$document
+||www.codebaoku.com^$document
+||www.codenong.com^$document
+||www.coder.work^$document
 ||www.coimbranoivos.com^$document
 ||www.colomboezio.com^$document
 ||www.colorfulbox.jp^$document
@@ -8764,6 +8846,8 @@
 ||www.dd-mona.com^$document
 ||www.ddtrans.am^$document
 ||www.debridleech.com^$document
+||www.debugcn.com^$document
+||www.debugko.com^$document
 ||www.decoracioarc.com^$document
 ||www.deep-exp.cn^$document
 ||www.delarte.cl^$document
@@ -8777,6 +8861,7 @@
 ||www.dentalassistanttraininginlasvegasnv.com^$document
 ||www.depossbangunan.com^$document
 ||www.desejoviajar.com^$document
+||www.desenv-web-rp.com^$document
 ||www.designqueenpapia.com^$document
 ||www.deusmgu.cn^$document
 ||www.deutsche-bank.com.cn^$document
@@ -8835,6 +8920,7 @@
 ||www.eden-emu.me^$document
 ||www.edion.com/special.html?identificationid=studentpc*^$document
 ||www.edjx.io^$document
+||www.edureka.co^$document
 ||www.edwin.cn^$document
 ||www.ehhp.xyz^$document
 ||www.eiga-yokai.jp^$document
@@ -8909,6 +8995,7 @@
 ||www.firstplacetokyo.jp^$document
 ||www.fitceratops.com^$document
 ||www.fitoscan.com^$document
+||www.fixes.pub^$document
 ||www.fjcorreia.com^$document
 ||www.fjrqf.cn^$document
 ||www.flavoursrooftop.com^$document
@@ -8964,6 +9051,7 @@
 ||www.gecidq.com^$document
 ||www.gekiura.press^$document
 ||www.gemkok.com^$document
+||www.generacodice.com^$document
 ||www.gequbao.flashlyrics.com^$document
 ||www.gerexpanama.net^$document
 ||www.geriatricseniorresources.com^$document
@@ -9117,6 +9205,10 @@
 ||www.island-golf.co.jp^$document
 ||www.islegitsite.com/check/infinitytweet.me^$document
 ||www.it-pack.co.tz^$document
+||www.it-swarm-fr.com^$document
+||www.it-swarm-ja.com^$document
+||www.it-swarm-ja.tech^$document
+||www.it-swarm.jp.net^$document
 ||www.it.ucg.ac.me^$document
 ||www.it3.net.au^$document
 ||www.italkyou.cn^$document
@@ -9140,6 +9232,8 @@
 ||www.japex.ru^$document
 ||www.jassdf.info^$document
 ||www.jav24.com^$document
+||www.javaer101.com^$document
+||www.javafixing.com^$document
 ||www.jb51.net^$document
 ||www.jcd56.com.cn^$document
 ||www.jchi.jp^$document
@@ -9225,6 +9319,7 @@
 ||www.kumibellejournal.com^$document
 ||www.kurakurakurarin.com^$document
 ||www.kurisu.me^$document
+||www.kutombawewe.net^$document
 ||www.kwkoeey.cn^$document
 ||www.kwurfreaplur224-nifty.xyz^$document
 ||www.kyodotokyo.com^$document
@@ -9260,6 +9355,7 @@
 ||www.linkedin.cn^$document
 ||www.linker.ru^$document
 ||www.linn.amsterdam^$document
+||www.linuxfixes.com^$document
 ||www.liupanlove.me^$document
 ||www.live-srl.com^$document
 ||www.livingkidsbooks.com^$document
@@ -9341,6 +9437,7 @@
 ||www.megase.ru^$document
 ||www.meimeinote.com^$document
 ||www.meister-stylist.jp^$document
+||www.mejorcodigo.com^$document
 ||www.mekan0.com^$document
 ||www.memuplay.com/*/how-to-use-*-on-pc.html^$document
 ||www.memuplay.com/how-to-use-*-download-on-pc.html*^$document
@@ -9592,6 +9689,7 @@
 ||www.quakeprediction.com^$document
 ||www.quareclare.ie^$document
 ||www.queerstreet.uk^$document
+||www.querythreads.com^$document
 ||www.quick-drink.at^$document
 ||www.qygzknr.cn^$document
 ||www.qztc.edu.cn^$document
@@ -9709,6 +9807,7 @@
 ||www.sejuku.net^$document
 ||www.selby.shop^$document
 ||www.seleqt.net^$document
+||www.semicolonworld.com^$document
 ||www.sengawa-gekijo.jp^$document
 ||www.setesdal.info^$document
 ||www.sewellbedliningsinc.com^$document
@@ -9772,6 +9871,7 @@
 ||www.sog-rc27.org^$document
 ||www.soltron.jp^$document
 ||www.solumed.com.do^$document
+||www.solveforum.com^$document
 ||www.sonpunoyumeburogu.com^$document
 ||www.sony.ru^$document
 ||www.sophia-sw.jp^$document
@@ -9789,6 +9889,7 @@
 ||www.srcboat.fi^$document
 ||www.sreemahadevgroup9.com^$document
 ||www.st-johnfisher.ealing.sch.uk^$document
+||www.stackfinder.ru^$document
 ||www.stapletechinc.com^$document
 ||www.starblog.jp^$document
 ||www.starjohomagazine.com^$document
@@ -9997,6 +10098,7 @@
 ||www.vubfvubf.xyz^$document
 ||www.w3campus.lk^$document
 ||www.wacom.com.cn^$document
+||www.wake-up-neo.net^$document
 ||www.walkerplus.com^$document
 ||www.wallop.tv^$document
 ||www.wandoutv.cn^$document
@@ -10005,6 +10107,10 @@
 ||www.wastemanagers.africa^$document
 ||www.wdf122333.online^$document
 ||www.wearemoroccotravel.com^$document
+||www.web-dev-qa-db-fr.com^$document
+||www.web-dev-qa-db-ja.com^$document
+||www.web-dev-qa-db-pt.com^$document
+||www.web-dev-qa.com^$document
 ||www.websitefactory.jp^$document
 ||www.webtorrent.app^$document
 ||www.welcome-studio.com^$document
@@ -10214,6 +10320,7 @@
 ||xserver-1.com^$document
 ||xsokuhou.net^$document
 ||xsokuhou.net^$document
+||xstack.us^$document
 ||xxx.report^$document
 ||xxxyuxxxka.com^$document
 ||y3r710.r.eu-west-1.awstrack.me^$document
@@ -10239,6 +10346,7 @@
 ||yamucollege.com^$document
 ||yancane-shukatsu.com^$document
 ||yang678.xyz^$document
+||yaoply.com^$document
 ||yappalie.com^$document
 ||yaraktaraki.online^$document
 ||yaraon-blog.com^$document
