@@ -55,15 +55,18 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt
 ```
+<br>
+<br>
 
-# uBlock Origin Cromite用 フィルターの種類
+# uBlock Origin 用フィルターの種類
 
 
 - フィルターリストのインポートから追加できます。検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
 - 2つめはuBlacklistが使えない人向け、もしくはuBlock origin以外の拡張機能をインストールしたくない人向け SearXNGの検索結果から非表示にします。SearXNG以外は対応していません。
 - Androidアプリ版AdGuardにも対応していますが、誤検知したときにアプリを開く必要があるのであまり推奨はしていないです。
 
- 
+<br>
+<br>
 
 - Block malicious websites by Kdroidwin
 ```
