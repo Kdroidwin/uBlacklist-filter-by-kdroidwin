@@ -7886,7 +7886,6 @@
 ||topgun.ffwpu.app^$document
 ||topic-lab.com^$document
 ||topicks.jp^$document
-||topics.smt.docomo.ne.jp^$document
 ||topilog.net^$document
 ||topitane.net^$document
 ||topitopi-life.com^$document
