@@ -1,4 +1,4 @@
-# uBlacklist-filter-by-kdroidwin
+# uBlacklist-filter-by-kdroidwin (Block malicious websites by Kdroidwin)
 
 
 uBlacklist,uBlock Origin用のフィルター　
@@ -18,10 +18,10 @@ uBlacklist,uBlock Origin用のフィルター　
  2. chromeユーザーは下の購読を押してください。Firefox、SafariユーザーはURLをコピーボタンを押してコピーしてください。
 
 ※uBlock Origin用のフィルターはuBlacklistには使えません。
-ABP形式のコンテンツブロッカーの機能があるブラウザ(cromiteなど)にも対応しています。フィルターリストのインポートから指定されたURLを入力してください。
+ABP形式のコンテンツブロッカーの機能があるブラウザ(1DMブラウザなどにも対応しています。フィルターリストのインポートから指定されたURLを入力してください。
 
 # uBlacklist用 フィルターの種類
-- １つ目のは基本的にインストール推奨です。
+- １つ目のは基本的なフィルターです。
 - 2つ目の購読の方は多少の誤ブロックが許せる方向けです。本来ブロックするべきではないサイトもブロックされる恐れがあります。実験的です。1つ目のフィルターに加えて使ってください。
 - 3つ目の除外用は購読必須です。1つめと2つめのフィルターの誤爆を減らすためのものです。
 
@@ -87,6 +87,9 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 ```
 一部の中身のないnote記事をnote内のおすすめやnote内の検索結果から非表示にします。（実験的）
 
+<br>
+<br>
+
 # 対象サイト
 
 - いかがでしたかサイト(芸能ゴシップ記事など)
@@ -103,6 +106,8 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 - 悪質なまとめサイト（多すぎるので一部の悪質なサイトのみ）
 - 誤った情報を多く含むサイト(AIのハルシネーション等)
 
+<br>
+<br>
 
 # 貢献
 
