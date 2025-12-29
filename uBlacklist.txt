@@ -1,6 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
+*://hp.addness.com/*
+*://www.addness.com/*
+*://nabeyan-media.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
