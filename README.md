@@ -63,19 +63,26 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 - 2つめはuBlacklistが使えない人向け、もしくはuBlock origin以外の拡張機能をインストールしたくない人向け SearXNGの検索結果から非表示にします。SearXNG以外は対応していません。
 - Androidアプリ版AdGuardにも対応していますが、誤検知したときにアプリを開く必要があるのであまり推奨はしていないです。
 
-- uBlock Origin 用フィルター URL
+ 
+
+- Block malicious websites by Kdroidwin
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
-uBlock Origin用はメールアプリやSNSなどのアプリからリンクしたときなどに使えます。
+uBlock Originです。メールアプリやSNSなどのアプリからリンクしたときなどに使えます。
 ⚠検索結果には表示されますがリンククリックするとuBlock Originのポップアップが出ます。
 
 - uBlock Origin 用フィルター URL 検索結果非表示
 ```
+https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/sites/uBO-note.txt
+```
+SearXNGの一部のインスタンスにしか対応していません。 更新頻度は低いです。（実験的）
+
+- Block specific note by Kdroidwin
+```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt
 ```
-SearXNGの一部のインスタンスにしか対応していません。
-更新頻度は低いです。
+一部の中身のないnote記事をnote内のおすすめやnote内の検索結果から非表示にします。（実験的）
 
 # 対象サイト
 
