@@ -7739,7 +7739,6 @@
 *://topgun.ffwpu.app/*
 *://topic-lab.com/*
 *://topicks.jp/*
-*://topics.smt.docomo.ne.jp/*
 *://topilog.net/*
 *://topitane.net/*
 *://topitopi-life.com/*
