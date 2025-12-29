@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://hp.addness.com/*
-*://www.addness.com/*
-*://nabeyan-media.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -3578,6 +3575,7 @@
 *://how-to-write-a-novel.net/*
 *://howellinjurylaw.com/*
 *://hozukino-reitetsu-app.com/*
+*://hp.addness.com/*
 *://hpexcess.com/*
 *://hpsm.jp/*
 *://hreed.co.jp/*
@@ -5257,6 +5255,7 @@
 *://n2-ch.com/*
 *://nabe03.net/*
 *://nabeaffiliate.com/*
+*://nabeyan-media.com/*
 *://nachablog.com/*
 *://nachi-trend.com/*
 *://naclover.com/*
@@ -8398,6 +8397,7 @@
 *://www.acldglobal.com/*
 *://www.actagainstaids.com/*
 *://www.adachi-kiyoshi.com/*
+*://www.addness.com/*
 *://www.adobe.ex1.https.443.g3.ipv6.lbq.gov.cn/*
 *://www.advancedpf.ca/*
 *://www.aeltcc.org/*

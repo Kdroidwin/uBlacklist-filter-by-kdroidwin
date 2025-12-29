@@ -3662,6 +3662,7 @@
 ||how-to-write-a-novel.net^$document
 ||howellinjurylaw.com^$document
 ||hozukino-reitetsu-app.com^$document
+||hp.addness.com^$document
 ||hpexcess.com^$document
 ||hpsm.jp^$document
 ||hreed.co.jp^$document
@@ -5356,6 +5357,7 @@
 ||n2-ch.com^$document
 ||nabe03.net^$document
 ||nabeaffiliate.com^$document
+||nabeyan-media.com^$document
 ||nachablog.com^$document
 ||nachi-trend.com^$document
 ||naclover.com^$document
@@ -8545,6 +8547,7 @@
 ||www.acldglobal.com^$document
 ||www.actagainstaids.com^$document
 ||www.adachi-kiyoshi.com^$document
+||www.addness.com^$document
 ||www.adobe.ex1.https.443.g3.ipv6.lbq.gov.cn^$document
 ||www.advancedpf.ca^$document
 ||www.aeltcc.org^$document
