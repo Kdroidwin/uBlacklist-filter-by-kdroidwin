@@ -78,7 +78,8 @@ ABP形式のコンテンツブロッカーの機能があるブラウザ(1DMブ�
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
-uBlock Originです。メールアプリやSNSなどのアプリからリンクしたときなどに使えます。
+購読推奨
+メールアプリやSNSなどのアプリからリンクしたときなどに使えます。
 ⚠検索結果には表示されますがリンククリックするとuBlock Originのポップアップが出ます。
 
 - uBlock Origin 用フィルター URL 検索結果非表示
