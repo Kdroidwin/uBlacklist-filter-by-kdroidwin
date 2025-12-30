@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://note.com/s4chax_/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -5738,6 +5737,7 @@
 *://note.com/rinks_shop1288/*
 *://note.com/roshalke/*
 *://note.com/ruria_aria88/*
+*://note.com/s4chax_/*
 *://note.com/saa617/*
 *://note.com/safe_panda2627/*
 *://note.com/sane_pothos8184/*
