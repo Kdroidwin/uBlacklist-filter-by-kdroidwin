@@ -10,15 +10,16 @@ uBlacklist,uBlock Origin用のフィルター　
 5/6 除外用のURL変更に伴い、再度uBlacklistに登録が必要
 
 [完全な変更履歴](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/commits/main/)
+<br>
+<br>
 
-
-# フィルター購読 やり方
+# uBlacklist用フィルター購読方法
 
  1. [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
  2. chromeユーザーは下の購読を押してください。Firefox、SafariユーザーはURLをコピーボタンを押してコピーしてください。
 
 ※uBlock Origin用のフィルターはuBlacklistには使えません。
-ABP形式のコンテンツブロッカーの機能があるブラウザ(1DMブラウザなどにも対応しています。フィルターリストのインポートから指定されたURLを入力してください。
+
 
 # uBlacklist用 フィルターの種類
 - １つ目のは基本的なフィルターです。
@@ -57,6 +58,11 @@ chrome(chromiumの派生)ユーザー向け
 
 <br>
 <br>
+
+# uBlock Origin用フィルターの購読方法
+
+フィルターリストのインポートから指定されたURLを入力してください。
+ABP形式のコンテンツブロッカーの機能があるブラウザ(1DMブラウザなどにも対応しています。
 
 # uBlock Origin 用フィルターの種類
 
