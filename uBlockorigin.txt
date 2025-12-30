@@ -1966,6 +1966,7 @@
 ||colors-ent.jp^$document
 ||colourful-audition.jp^$document
 ||columbia-xxx.com^$document
+||columbia.jp^$document
 ||comaco325.com^$document
 ||comedian-marriage.com^$document
 ||comfortable-life.site^$document
@@ -2791,6 +2792,7 @@
 ||feteenfolie.com^$document
 ||fetishp.com^$document
 ||fezyygqo.auslagerung-pastservice.de^$document
+||ffwpu.jp^$document
 ||fgaaaae.bar^$document
 ||fgworks.jp^$document
 ||fh-47c11dec2589de30---ken-prod-docker-3cdn7xgrva-uc.a.run.app^$document
@@ -4580,6 +4582,7 @@
 ||liberalu-mania.com^$document
 ||liberog.net^$document
 ||liberty-life-style.com^$document
+||liberty-tokyo.co.jp^$document
 ||libertysao.com^$document
 ||libote.jp^$document
 ||librabewindvoering.nl^$document
@@ -8819,6 +8822,7 @@
 ||www.colomboezio.com^$document
 ||www.colorfulbox.jp^$document
 ||www.columbia-fit.com^$document
+||www.comic-highway.com^$document
 ||www.comicgum.com^$document
 ||www.comingnext.jp^$document
 ||www.commufa.jp^$document
@@ -9139,6 +9143,7 @@
 ||www.hakone-yamatoya.com^$document
 ||www.hakutea.jp^$document
 ||www.hallaron.com^$document
+||www.hamamatsukitach.com^$document
 ||www.hamayurigakuen.jp^$document
 ||www.hammock-cafe.jp^$document
 ||www.hanaranurseries.com^$document
@@ -9462,6 +9467,7 @@
 ||www.megase.ru^$document
 ||www.meimeinote.com^$document
 ||www.meister-stylist.jp^$document
+||www.meitouhan.com^$document
 ||www.mejorcodigo.com^$document
 ||www.mekan0.com^$document
 ||www.memuplay.com/*/how-to-use-*-on-pc.html^$document
