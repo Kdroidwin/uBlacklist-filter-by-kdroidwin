@@ -24,10 +24,7 @@ ABP形式のコンテンツブロッカーの機能があるブラウザ(1DMブ�
 - １つ目のは基本的なフィルターです。
 - 2つ目の購読の方は多少の誤ブロックが許せる方向けです。本来ブロックするべきではないサイトもブロックされる恐れがあります。実験的です。1つ目のフィルターに加えて使ってください。
 - 3つ目の除外用は購読必須です。1つめと2つめのフィルターの誤爆を減らすためのものです。
-
-
-> [!IMPORTANT]
->Firefox,Safariユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。
+- uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。
 
 
 下記はURL 
@@ -55,6 +52,9 @@ chrome(chromiumの派生)ユーザー向け
 [購読2](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin2&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist2.txt)
 
 [除外用の購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin_exclusion&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt)
+> [!IMPORTANT]
+>Firefox,Safariユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。
+
 <br>
 <br>
 
