@@ -1,4 +1,10 @@
 *://*.000webhostapp.com/*
+*://ffwpu.jp/*
+*://www.hamamatsukitach.com/*
+*://columbia.jp/*
+*://liberty-tokyo.co.jp/*
+*://www.meitouhan.com/*
+*://www.comic-highway.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
