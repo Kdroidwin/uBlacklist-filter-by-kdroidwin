@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://ginsalo.com/*
+*://tk196054.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
