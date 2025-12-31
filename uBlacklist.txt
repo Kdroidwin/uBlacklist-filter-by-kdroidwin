@@ -10512,13 +10512,12 @@
 *://zzaowbey.art/*
 *://zzdusxkchhxzrbgs.com/*
 /.*(tomoyoafuta).*/
-/^https:\/\/www\.pinterest\./
-/^https:\/\/www\.qinterest\./
-@*://4pda.to/*
 title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
 title/- App Store/
 title/- Apps on Google Play/
 title/HOT !/
+title/HOT!/
+title/(プロフ要確認)様/
 title/OFFでまとめ買/
 title/Sign in - Google Accounts/
 title/Wiki経歴/
@@ -10622,3 +10621,5 @@ title/顔画像やフェイスブック/
 title/馴れ初めなど紹介/
 title/馴れ初めは/
 title/馴れ初めも/
+title/様 専用/
+title/様専用/
