@@ -16,6 +16,7 @@
 *://*.shop/*
 *://*.site/*
 *://*.tn/*
+*://*.vip/*
 *://*.xyz/*
 *://*.gizmodo.jp/*
 *://*.lifehacker.jp/*
