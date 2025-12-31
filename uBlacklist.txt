@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://wonderful-wife.net/*
-*://prtimes.jp/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -6358,6 +6356,7 @@
 *://promotions.champs-sportsclub.com/*
 *://proteamworks.com/*
 *://proyectolibelulaverde.com/*
+*://prtimes.jp/*
 *://prwireonline.com/*
 *://psalmsforkids.com/*
 *://psaunsooksuthi.com/*
