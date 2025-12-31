@@ -91,11 +91,9 @@
 @*://*.tuta.com/*
 @*://*.keizai.biz/*
 @*://gonzobacca.bitfan.id/*
-@*://manus.im/*
 @*://t-satoru.top/*
 @*://www.sayafx.top/*
 @*://wiki.archlinux.jp/*
-@*://molly.im/*
 @*://taikosim.click/*
 @*://musicfm.vip/*
 @*://av.av4us.sbs/*
@@ -473,15 +471,6 @@
 @*://tizu.cyou/*
 @*://www.skunkgirl.cyou/*
 @*://hmoegirl.cyou/*
-@*://east.im/*
-@*://humanize.im/*
-@*://www.monica.im/*
-@*://monica.im/*
-@*://mizuki.numb.im/*
-@*://base64.im/*
-@*://www.happylives.tyo.im/*
-@*://happylives.tyo.im/*
-@*://ip.outv.im/*
 @*://montsame.mn/*
 @*://mongoru-ryoko.mn/*
 @*://*.navi.mn/*
