@@ -3774,7 +3774,6 @@
 ||ilovetrend.hatenablog.com^$document
 ||ilrun.com^$document
 ||iluvlog.com^$document
-||im^$doc,domain=~east.im|~humanize.im|~www.monica.im|~monica.im|~mizuki.numb.im|~base64.im|~www.happylives.tyo.im|~happylives.tyo.im|~ip.outv.im
 ||ima-coco369.com^$document
 ||ima.goo.ne.jp^$document
 ||imaginary.red^$document
