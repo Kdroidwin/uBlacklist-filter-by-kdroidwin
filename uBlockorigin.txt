@@ -23,6 +23,7 @@
 /^https?:\/\/[^\/]+\.ac\.id\/?$/$document
 /^https?:\/\/[^\/]+\.ac\.in\/?$/$document
 /^https?:\/\/[^\/]+\.ad\/?$/$document
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|www3\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.vip/
 /^https?:\/\/[^\/]+\.adobe\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.ahh1008\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.aiarty\.com\/?$/$document
@@ -8252,7 +8253,6 @@
 ||vile.eosose.ink^$document
 ||vin2chance.com^$document
 ||vinyland45.com^$document
-||vip^$doc,domain=~leveldevil.vip|~wetv.vip|~javhd.vip|~ranqingwu.vip|~jav8.vip
 ||virginiacontractorspainters.com^$document
 ||virtualmeetingsolutions.online^$document
 ||virtualviasa.top^$document
