@@ -5191,7 +5191,7 @@
 ||mmiimm.net^$document
 ||mmsgbr.com^$document
 ||mn.metaphase.cn^$document
-||mn^$doc,domain=~montsame.mn|~mongoru-ryoko.mn|~*.navi.mn
+||mn^$doc,domain=~montsame.mn|~mongoru-ryoko.mn|~navi.mn
 ||mnogosdelal.ru^$document
 ||mo-mo-town.com^$document
 ||moans759.malaysiainternationalschools.com^$document
@@ -10652,7 +10652,7 @@
 ||zimanin.blog.2nt.com^$document
 ||zimplow.co.zw^$document
 ||zintosuru.com^$document
-||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~makea.zip|~transfer.zip|~uploaded-files.zip|~voron.zip|~www.gas.zip|~zxcs.zip|~www.iwara.zip|~shadowban.
+||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~makea.zip|~transfer.zip|~uploaded-files.zip|~voron.zip|~www.gas.zip|~zxcs.zip|~www.iwara.zip|~shadowban.lami.zip
 ||zired.net^$document
 ||ziro83.com^$document
 ||zitakurouzyou.com^$document
