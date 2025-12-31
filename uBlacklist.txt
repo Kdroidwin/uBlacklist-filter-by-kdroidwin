@@ -372,7 +372,6 @@
 *://*.vigge.cn/*
 *://*.vigge.net/*
 *://*.vigges.net/*
-*://*.vip/*
 *://*.visual-foxpro-programmer.com/*
 *://*.voidcc.com/*
 *://*.vstats.jp/*
