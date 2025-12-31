@@ -2816,6 +2816,7 @@
 ||finangrowth.com^$document
 ||find-model.jp^$document
 ||findanimesque.com^$document
+||findcy.wiki^$document
 ||findnewkoreanactors.com^$document
 ||finetime.biz^$document
 ||fiorthocombi.xyz^$document
@@ -5389,6 +5390,7 @@
 ||naltupo-movie.work^$document
 ||namakemono-no-gogai.blog.ss-blog.jp^$document
 ||nami55.xyz^$document
+||namikyoto.com^$document
 ||namine-kairo.jp^$document
 ||naminotes.com^$document
 ||nanaco.onelink.me^$document
@@ -7247,6 +7249,7 @@
 ||slolita.taobao.com^$document
 ||sloloura.com^$document
 ||slope-media.jp^$document
+||slub.findcy.wiki^$document
 ||smahangtuah5.sch.id^$document
 ||smahospital.jp/column/recommend^$document
 ||small-realization.com^$document
@@ -8445,6 +8448,7 @@
 ||woads438.almgo.my^$document
 ||wolfsakusaku.net^$document
 ||wonda-onepiece22.jp^$document
+||wonderful-wife.net^$document
 ||wondia.net^$document
 ||woodlandgreencondo.com^$document
 ||woods-of-hamada.com^$document

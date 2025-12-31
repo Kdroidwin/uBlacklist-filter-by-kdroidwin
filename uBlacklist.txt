@@ -1,10 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://wonderful-wife.net/*
-*://namikyoto.com/*
-*://slub.findcy.wiki/*
-*://findcy.wiki/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -2739,6 +2735,7 @@
 *://finangrowth.com/*
 *://find-model.jp/*
 *://findanimesque.com/*
+*://findcy.wiki/*
 *://findnewkoreanactors.com/*
 *://finetime.biz/*
 *://fiorthocombi.xyz/*
@@ -5291,6 +5288,7 @@
 *://naltupo-movie.work/*
 *://namakemono-no-gogai.blog.ss-blog.jp/*
 *://nami55.xyz/*
+*://namikyoto.com/*
 *://namine-kairo.jp/*
 *://naminotes.com/*
 *://nanaco.onelink.me/*
@@ -7110,6 +7108,7 @@
 *://slolita.taobao.com/*
 *://sloloura.com/*
 *://slope-media.jp/*
+*://slub.findcy.wiki/*
 *://smahangtuah5.sch.id/*
 *://smahospital.jp/column/recommend/*
 *://small-realization.com/*
@@ -8299,6 +8298,7 @@
 *://woads438.almgo.my/*
 *://wolfsakusaku.net/*
 *://wonda-onepiece22.jp/*
+*://wonderful-wife.net/*
 *://wondia.net/*
 *://woodlandgreencondo.com/*
 *://woods-of-hamada.com/*
