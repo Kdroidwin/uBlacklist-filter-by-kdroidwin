@@ -10513,11 +10513,11 @@
 *://zzdusxkchhxzrbgs.com/*
 /.*(tomoyoafuta).*/
 title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
+title/(プロフ要確認)様/
 title/- App Store/
 title/- Apps on Google Play/
 title/HOT !/
 title/HOT!/
-title/(プロフ要確認)様/
 title/OFFでまとめ買/
 title/Sign in - Google Accounts/
 title/Wiki経歴/
@@ -10579,6 +10579,8 @@ title/感謝価格/
 title/料漫画を楽しめるサービス12選/
 title/日焼けサロン/
 title/本名は？/
+title/様 専用/
+title/様専用/
 title/正規品販促激安/
 title/歴代彼/
 title/漫画rawが閉鎖？復旧はいつ？代わりの無料サイト/
@@ -10621,5 +10623,3 @@ title/顔画像やフェイスブック/
 title/馴れ初めなど紹介/
 title/馴れ初めは/
 title/馴れ初めも/
-title/様 専用/
-title/様専用/
