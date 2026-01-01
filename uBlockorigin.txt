@@ -987,6 +987,7 @@
 ||ameblo.jp/direscare^$document
 ||ameblo.jp/dodesyoysedod^$document
 ||ameblo.jp/ether213*^$document
+||ameblo.jp/fashionbrandsbibi^$document
 ||ameblo.jp/hikariai17^$document
 ||ameblo.jp/hothari*^$document
 ||ameblo.jp/idleki6^$document
@@ -5730,6 +5731,7 @@
 ||note.com/getgadgetgot^$document
 ||note.com/getpoint_frommno^$document
 ||note.com/gifted_dietes453^$document
+||note.com/gifted_ixora193^$document
 ||note.com/go_cameraman^$document
 ||note.com/goen_grapgic^$document
 ||note.com/goen_grapgic^$document
@@ -6419,6 +6421,7 @@
 ||pon-chie.com^$document
 ||ponblog.xyz^$document
 ||ponco-ponco.com^$document
+||ponmitrend.com^$document
 ||ponpiece.com^$document
 ||ponpokopon0713.net^$document
 ||pontiyo.com^$document
@@ -7922,6 +7925,7 @@
 ||torekan.blog.fc2.com^$document
 ||torekichi.online^$document
 ||torendosokuhou.com^$document
+||toresube.com^$document
 ||toretateblog.com^$document
 ||toretopic.com^$document
 ||toretore-news.jp^$document
@@ -9081,6 +9085,7 @@
 ||www.g9116.cn^$document
 ||www.gacopy.ru^$document
 ||www.gadgetskool.com^$document
+||www.gaimaki.com^$document
 ||www.gainamatsuri.jp^$document
 ||www.gameapkz.com^$document
 ||www.gamegadget.jp^$document
@@ -9342,6 +9347,7 @@
 ||www.kenmori.jp^$document
 ||www.kenn-primary.devon.sch.uk^$document
 ||www.ketochow.xyz^$document
+||www.kicks-blog.com^$document
 ||www.kickstarter.love^$document
 ||www.kidscollegeindore.in^$document
 ||www.kilkareraceway.com^$document
@@ -10101,6 +10107,7 @@
 ||www.urakyoku555.com^$document
 ||www.uranai-town.net^$document
 ||www.uranai3.com^$document
+||www.uruhumidhiamu.com^$document
 ||www.usachan.co.jp^$document
 ||www.ushigomepark-cl.com^$document
 ||www.ustravelwatcher.xyz^$document
@@ -10436,6 +10443,7 @@
 ||yodleona.svtoma.com^$document
 ||yogozansu.jp^$document
 ||yoimono-matome.com^$document
+||yoitoki.jp^$document
 ||yoki-travel.com^$document
 ||yokkoi.com^$document
 ||yokomaru.blog^$document

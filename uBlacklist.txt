@@ -1,13 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://toresube.com/*
-*://ponmitrend.com/*
-*://www.kicks-blog.com/*
-*://ameblo.jp/fashionbrandsbibi/*
-*://yoitoki.jp/*
-*://www.gaimaki.com/*
-*://www.uruhumidhiamu.com/*
-*://note.com/gifted_ixora193/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
@@ -924,6 +916,7 @@
 *://ameblo.jp/direscare/*
 *://ameblo.jp/dodesyoysedod/*
 *://ameblo.jp/ether213*
+*://ameblo.jp/fashionbrandsbibi/*
 *://ameblo.jp/hikariai17/*
 *://ameblo.jp/hothari*
 *://ameblo.jp/idleki6/*
@@ -5623,6 +5616,7 @@
 *://note.com/getgadgetgot/*
 *://note.com/getpoint_frommno/*
 *://note.com/gifted_dietes453/*
+*://note.com/gifted_ixora193/*
 *://note.com/go_cameraman/*
 *://note.com/goen_grapgic/*
 *://note.com/gominogomidame/*
@@ -6296,6 +6290,7 @@
 *://pon-chie.com/*
 *://ponblog.xyz/*
 *://ponco-ponco.com/*
+*://ponmitrend.com/*
 *://ponpiece.com/*
 *://ponpokopon0713.net/*
 *://pontiyo.com/*
@@ -7782,6 +7777,7 @@
 *://torekan.blog.fc2.com/*
 *://torekichi.online/*
 *://torendosokuhou.com/*
+*://toresube.com/*
 *://toretateblog.com/*
 *://toretopic.com/*
 *://toretore-news.jp/*
@@ -8937,6 +8933,7 @@
 *://www.g9116.cn/*
 *://www.gacopy.ru/*
 *://www.gadgetskool.com/*
+*://www.gaimaki.com/*
 *://www.gainamatsuri.jp/*
 *://www.gameapkz.com/*
 *://www.gamegadget.jp/*
@@ -9191,6 +9188,7 @@
 *://www.kenmori.jp/*
 *://www.kenn-primary.devon.sch.uk/*
 *://www.ketochow.xyz/*
+*://www.kicks-blog.com/*
 *://www.kickstarter.love/*
 *://www.kidscollegeindore.in/*
 *://www.kilkareraceway.com/*
@@ -9944,6 +9942,7 @@
 *://www.urakyoku555.com/*
 *://www.uranai-town.net/*
 *://www.uranai3.com/*
+*://www.uruhumidhiamu.com/*
 *://www.usachan.co.jp/*
 *://www.ushigomepark-cl.com/*
 *://www.ustravelwatcher.xyz/*
@@ -10271,6 +10270,7 @@
 *://yodleona.svtoma.com/*
 *://yogozansu.jp/*
 *://yoimono-matome.com/*
+*://yoitoki.jp/*
 *://yoki-travel.com/*
 *://yokkoi.com/*
 *://yokomaru.blog/*
