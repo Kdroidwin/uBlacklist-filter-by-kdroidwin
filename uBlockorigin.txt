@@ -3,6 +3,7 @@
 /^https?:\/\/(?!([^\/]*\.)?coefont\.cloud\/)(?!([^\/]*\.)?mstdn\.cloud\/)(?!([^\/]*\.)?podcast\.sonicbowl\.cloud\/)(?!([^\/]*\.)?publis\.cloud\/)(?!furutty\.growi\.cloud\/)(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|web02\.|support\.|manga\.|video\.|lp\.|goodtree\.|discovery\.|watch\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cloud/
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world/
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|watch\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz/
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|kreva\.|siri\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|festival\.|my-private\.|park\.|besty\.|info\.|help\.|docs\.|about\.|news\.|connect\.|college\.|mazzel\.|mstdn\.)[^\/]+\.[^\/]+\.club/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|abema\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.link/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.asia/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cards/
@@ -18,7 +19,6 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.|seitai\.)[^\/]+\.[^\/]+\.fit/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|www3\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.vip/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|aya0205\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.mobi/
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|kreva\.|siri\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|festival\.|my-private\.|park\.|besty\.|info\.|help\.|docs\.|about\.|news\.|connect\.|college\.|mazzel\.|mstdn\.)[^\/]+\.[^\/]+\.club/
 /^https?:\/\/[^\/]+\.000webhostapp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.2chcopipe\.com\/?$/$document
 /^https?:\/\/[^\/]+\.a3erf\.com\/?$/$document
@@ -1676,6 +1676,7 @@
 ||burgundy-movie.jp^$document
 ||burly3qm.amisha.co.uk^$document
 ||burning-down.com^$document
+||burro.onerise.info^$document
 ||burusoku-vip.com^$document
 ||business.ntt-east.co.jp/service/vpnwide/column/vpn_recommend_service3/index.html*^$document
 ||business.site^$document
@@ -1721,6 +1722,7 @@
 ||caltechbd.com^$document
 ||cambridge-india.org^$document
 ||cameronlorenc.com^$document
+||camp-fire.jp^$document
 ||camp.trainocate.co.jp^$document
 ||campanellafishing.shogic.xyz^$document
 ||camplaurelcreek.com^$document
@@ -1757,6 +1759,7 @@
 ||catboy2019.com^$document
 ||catch-up-net.com^$document
 ||catchmove.net^$document
+||catorce.jp^$document
 ||cbsllc.me^$document
 ||cc-mayu.com^$document
 ||cccrecord.com^$document
@@ -1893,6 +1896,7 @@
 ||cirugiaplasticacbba.com^$document
 ||cityofchix.com^$document
 ||ciyoqprice.com^$document
+||ck.jp.ap.valuecommerce.com^$document
 ||ckba.ru^$document
 ||ckcdnhm.cn^$document
 ||ckd-ckd.jp^$document
@@ -1995,6 +1999,7 @@
 ||comitoon.sakura.ne.jp^$document
 ||common-topics.com^$document
 ||commonsphere.jp^$document
+||community.camp-fire.jp^$document
 ||community.fabric.microsoft.com^$document
 ||community.tubebuddy.com^$document
 ||comodohotel-oita.jp^$document
@@ -2921,6 +2926,7 @@
 ||freeconsul.co.jp^$document
 ||freehentaitorrent.jp^$document
 ||freelife55.net^$document
+||freelifefreetime.com^$document
 ||freelifeofkite.com^$document
 ||freelivemovies.net^$document
 ||freemoviespoint.com^$document
@@ -3504,6 +3510,7 @@
 ||heliumboss.xyz^$document
 ||hellofuture-inc.com^$document
 ||helloroomies-stkgz.com^$document
+||help.camp-fire.jp^$document
 ||help.cocoloni.jp^$document
 ||help.cybozu.cn^$document
 ||help.nudge.works^$document
@@ -3730,6 +3737,7 @@
 ||icrrvbuy.education^$document
 ||icu^$doc,domain=~iroiro.icu|~masaki.icu
 ||idea-noto.com^$document
+||idobata-salon.com^$document
 ||idobata1.com^$document
 ||idol-fanfare.com^$document
 ||idol-fav.com^$document
@@ -5267,6 +5275,7 @@
 ||moriken0801.com^$document
 ||morimo2.info^$document
 ||morimorimoritto.com^$document
+||moripi.com^$document
 ||morisakis-room.com^$document
 ||morlaine.fr^$document
 ||mormonchamber.com^$document
@@ -5591,6 +5600,7 @@
 ||ninnintrends.com^$document
 ||nipponnowadai.com^$document
 ||niravselection.com^$document
+||nisablog.xsrv.jp^$document
 ||nisanakadar.online^$document
 ||nishichibayk-dc.com^$document
 ||nishinono.com^$document
@@ -5813,6 +5823,7 @@
 ||note.com/nakanaka_2025^$document
 ||note.com/nanopapa_world11^$document
 ||note.com/naoki_iphone^$document
+||note.com/nester_sns^$document
 ||note.com/nft_tactics^$document
 ||note.com/nifty_cosmos4076^$document
 ||note.com/nifty_poppy4842^$document
@@ -6284,6 +6295,7 @@
 ||pentanews.net^$document
 ||pepms.icu^$document
 ||peppermint-angel.com^$document
+||peraichi.com^$document
 ||perfectworld.shop^$document
 ||performance-navi01.com^$document
 ||performancescience.ac.uk^$document
@@ -7624,6 +7636,7 @@
 ||takarazuka-life.com^$document
 ||takataka.jp^$document
 ||takatarou.xyz^$document
+||take0820.gymnastics47.com^$document
 ||takeo-datsusara.net^$document
 ||takeoff-site.jp^$document
 ||takepanblog.com^$document
@@ -8646,6 +8659,7 @@
 ||www.appsloveworld.com^$document
 ||www.arakawa-bpc.com^$document
 ||www.ario-fukaya.jp^$document
+||www.armacelljapan.com^$document
 ||www.aromastyle.info^$document
 ||www.arrazzi.com^$document
 ||www.artec3d.cn^$document
@@ -10380,6 +10394,7 @@
 ||yamasakijun.com^$document
 ||yamasanblog.com^$document
 ||yamatemama.com^$document
+||yamawake-estate.jp^$document
 ||yamayamaprivateroom.jp^$document
 ||yamomo12.com^$document
 ||yamucollege.com^$document
@@ -10640,6 +10655,7 @@
 ||zephyreden.com^$document
 ||zero-plus.io^$document
 ||zerocustom.jp^$document
+||zeroichi.media^$document
 ||zeroum.co.jp^$document
 ||zesty1pk.arcjav.com^$document
 ||zewiyig.live^$document

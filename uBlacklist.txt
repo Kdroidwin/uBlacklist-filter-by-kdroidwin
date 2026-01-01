@@ -1,22 +1,4 @@
 *://*.000webhostapp.com/*
-*://wonderful-wife.net/*
-*://prtimes.jp/*
-*://catorce.jp/*
-*://note.com/nester_sns/*
-*://community.camp-fire.jp/*
-*://camp-fire.jp/*
-*://help.camp-fire.jp/*
-*://peraichi.com/*
-*://idobata-salon.com/*
-*://moripi.com/*
-*://take0820.gymnastics47.com/*
-*://nisablog.xsrv.jp/*
-*://ck.jp.ap.valuecommerce.com/*
-*://yamawake-estate.jp/*
-*://burro.onerise.info/*
-*://freelifefreetime.com/*
-*://zeroichi.media/*
-*://www.armacelljapan.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
@@ -1618,6 +1600,7 @@
 *://burgundy-movie.jp/*
 *://burly3qm.amisha.co.uk/*
 *://burning-down.com/*
+*://burro.onerise.info/*
 *://burusoku-vip.com/*
 *://business.ntt-east.co.jp/service/vpnwide/column/vpn_recommend_service3/index.html*
 *://business.site/*
@@ -1663,6 +1646,7 @@
 *://caltechbd.com/*
 *://cambridge-india.org/*
 *://cameronlorenc.com/*
+*://camp-fire.jp/*
 *://camp.trainocate.co.jp/*
 *://campanellafishing.shogic.xyz/*
 *://camplaurelcreek.com/*
@@ -1699,6 +1683,7 @@
 *://catboy2019.com/*
 *://catch-up-net.com/*
 *://catchmove.net/*
+*://catorce.jp/*
 *://cbsllc.me/*
 *://cc-mayu.com/*
 *://cccrecord.com/*
@@ -1833,6 +1818,7 @@
 *://cirugiaplasticacbba.com/*
 *://cityofchix.com/*
 *://ciyoqprice.com/*
+*://ck.jp.ap.valuecommerce.com/*
 *://ckba.ru/*
 *://ckcdnhm.cn/*
 *://ckd-ckd.jp/*
@@ -1934,6 +1920,7 @@
 *://comitoon.sakura.ne.jp/*
 *://common-topics.com/*
 *://commonsphere.jp/*
+*://community.camp-fire.jp/*
 *://community.fabric.microsoft.com/*
 *://community.tubebuddy.com/*
 *://comodohotel-oita.jp/*
@@ -2854,6 +2841,7 @@
 *://freeconsul.co.jp/*
 *://freehentaitorrent.jp/*
 *://freelife55.net/*
+*://freelifefreetime.com/*
 *://freelifeofkite.com/*
 *://freelivemovies.net/*
 *://freemoviespoint.com/*
@@ -3433,6 +3421,7 @@
 *://heliumboss.xyz/*
 *://hellofuture-inc.com/*
 *://helloroomies-stkgz.com/*
+*://help.camp-fire.jp/*
 *://help.cocoloni.jp/*
 *://help.cybozu.cn/*
 *://help.nudge.works/*
@@ -3656,6 +3645,7 @@
 *://icpictokyo.jp/*
 *://icrrvbuy.education/*
 *://idea-noto.com/*
+*://idobata-salon.com/*
 *://idobata1.com/*
 *://idol-fanfare.com/*
 *://idol-fav.com/*
@@ -5182,6 +5172,7 @@
 *://moriken0801.com/*
 *://morimo2.info/*
 *://morimorimoritto.com/*
+*://moripi.com/*
 *://morisakis-room.com/*
 *://morlaine.fr/*
 *://mormonchamber.com/*
@@ -5499,6 +5490,7 @@
 *://ninnintrends.com/*
 *://nipponnowadai.com/*
 *://niravselection.com/*
+*://nisablog.xsrv.jp/*
 *://nisanakadar.online/*
 *://nishichibayk-dc.com/*
 *://nishinono.com/*
@@ -5710,6 +5702,7 @@
 *://note.com/nakanaka_2025/*
 *://note.com/nanopapa_world11/*
 *://note.com/naoki_iphone/*
+*://note.com/nester_sns/*
 *://note.com/nft_tactics/*
 *://note.com/nifty_cosmos4076/*
 *://note.com/nifty_poppy4842/*
@@ -6168,6 +6161,7 @@
 *://pentanews.net/*
 *://pepms.icu/*
 *://peppermint-angel.com/*
+*://peraichi.com/*
 *://perfectworld.shop/*
 *://performance-navi01.com/*
 *://performancescience.ac.uk/*
@@ -7498,6 +7492,7 @@
 *://takarazuka-life.com/*
 *://takataka.jp/*
 *://takatarou.xyz/*
+*://take0820.gymnastics47.com/*
 *://takeo-datsusara.net/*
 *://takeoff-site.jp/*
 *://takepanblog.com/*
@@ -8514,6 +8509,7 @@
 *://www.appsloveworld.com/*
 *://www.arakawa-bpc.com/*
 *://www.ario-fukaya.jp/*
+*://www.armacelljapan.com/*
 *://www.aromastyle.info/*
 *://www.arrazzi.com/*
 *://www.artec3d.cn/*
@@ -10225,6 +10221,7 @@
 *://yamasakijun.com/*
 *://yamasanblog.com/*
 *://yamatemama.com/*
+*://yamawake-estate.jp/*
 *://yamayamaprivateroom.jp/*
 *://yamomo12.com/*
 *://yamucollege.com/*
@@ -10485,6 +10482,7 @@
 *://zephyreden.com/*
 *://zero-plus.io/*
 *://zerocustom.jp/*
+*://zeroichi.media/*
 *://zeroum.co.jp/*
 *://zesty1pk.arcjav.com/*
 *://zewiyig.live/*
