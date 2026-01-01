@@ -40,7 +40,6 @@
 *://*.ci/*
 *://*.click/*
 *://*.cloudflare.com.vn/*
-*://*.club/*
 *://*.cm/*
 *://*.co.za/*
 *://*.coromoo.com/*
