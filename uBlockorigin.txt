@@ -5039,7 +5039,7 @@
 ||memomalog.com^$document
 ||memorog.com^$document
 ||memorylane-media.com^$document
-||men^$doc,domain=~inosho.men|~www.brei.men|~klmanga.men|~nobushi.men|~konaken.men|~oldergay.men
+||men^$document,from=~inosho.men|~klmanga.men|~konaken.men|~nobushi.men|~oldergay.men|~www.brei.men|~kaikai.men|~hgame.men|~honban.men|~soutong.men|~edlab.men|~stmen.men
 ||menbouyuzu.hatenablog.com^$document
 ||mendakonews.com^$document
 ||menrybe.buzz^$document
