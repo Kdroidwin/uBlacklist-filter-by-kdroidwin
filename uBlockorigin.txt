@@ -5718,6 +5718,7 @@
 ||note.com/fit_quince2164^$document
 ||note.com/fuku_chie^$document
 ||note.com/fuku_chie^$document
+||note.com/fukuzou^$document
 ||note.com/gad_hammocchi^$document
 ||note.com/gadget_news^$document
 ||note.com/gadgetmaniacs^$document
@@ -5738,6 +5739,7 @@
 ||note.com/gominogomidame^$document
 ||note.com/hachiojiiphone^$document
 ||note.com/haken_se_30manen^$document
+||note.com/hakushiki_san^$document
 ||note.com/hakutoumomo^$document
 ||note.com/hama_zaitaku^$document
 ||note.com/hamako14^$document
@@ -5782,6 +5784,7 @@
 ||note.com/keshikakeuranai^$document
 ||note.com/kimetsu_mania^$document
 ||note.com/koh7166^$document
+||note.com/koishitsu_^$document
 ||note.com/koreaiimono^$document
 ||note.com/kototamashacho^$document
 ||note.com/kouichi_0703^$document

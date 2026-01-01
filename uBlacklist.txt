@@ -1,8 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://note.com/hakushiki_san/*
-*://note.com/koishitsu_/*
-*://note.com/fukuzou/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
@@ -5607,6 +5604,7 @@
 *://note.com/fit_hyssop6243/*
 *://note.com/fit_quince2164/*
 *://note.com/fuku_chie/*
+*://note.com/fukuzou/*
 *://note.com/gad_hammocchi/*
 *://note.com/gadget_news/*
 *://note.com/gadgetmaniacs/*
@@ -5625,6 +5623,7 @@
 *://note.com/gominogomidame/*
 *://note.com/hachiojiiphone/*
 *://note.com/haken_se_30manen/*
+*://note.com/hakushiki_san/*
 *://note.com/hakutoumomo/*
 *://note.com/hama_zaitaku/*
 *://note.com/hamako14/*
@@ -5665,6 +5664,7 @@
 *://note.com/keshikakeuranai/*
 *://note.com/kimetsu_mania/*
 *://note.com/koh7166/*
+*://note.com/koishitsu_/*
 *://note.com/koreaiimono/*
 *://note.com/kototamashacho/*
 *://note.com/kouichi_0703/*
