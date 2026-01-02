@@ -38,6 +38,7 @@
 /^https?:\/\/[^\/]+\.amazon\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.amprime\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.anige\-sokuhouvip\.com\/?$/$document
+||web.core.windows.net^$domain=~minnadesonicmachisagashi.z11.web.core.windows.net|~browserpicker.z13.web.core.windows.net
 /^https?:\/\/[^\/]+\.apk\.dog\/?$/$document
 /^https?:\/\/[^\/]+\.apktodo\.io\/?$/$document
 /^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
