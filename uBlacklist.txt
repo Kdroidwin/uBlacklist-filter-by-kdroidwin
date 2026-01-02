@@ -6148,7 +6148,6 @@
 *://pcmac.download/*
 *://pcshopwell.com/*
 *://pdelect.com/*
-*://pdf.wondershare.jp/*
 *://pdilms.com/*
 *://pdspm.in/*
 *://peakproductivitycoaching.com/*
@@ -6202,7 +6201,6 @@
 *://picky-s.jp/college-student-laptop/*
 *://pico.inc/*
 *://pictureframeshub.com/*
-*://pigeon.info/*
 *://pignon.co.jp/*
 *://pikamama.com/*
 *://pikaonline.com/*
