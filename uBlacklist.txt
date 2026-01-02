@@ -2,6 +2,9 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
+*://note.com/ihci_adeki/*
+*://dldshare.net/*
+*://*.web.core.windows.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
