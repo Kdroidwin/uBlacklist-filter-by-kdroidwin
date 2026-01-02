@@ -38,7 +38,6 @@
 /^https?:\/\/[^\/]+\.amazon\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.amprime\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.anige\-sokuhouvip\.com\/?$/$document
-||web.core.windows.net^$domain=~minnadesonicmachisagashi.z11.web.core.windows.net|~browserpicker.z13.web.core.windows.net
 /^https?:\/\/[^\/]+\.apk\.dog\/?$/$document
 /^https?:\/\/[^\/]+\.apktodo\.io\/?$/$document
 /^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
@@ -5960,6 +5959,7 @@
 ||note.com/yuueki_osusume^$document
 ||note.com/zatsugaku_iroiro^$document
 ||note.com/zenipen^$document
+||note.com/zerozero_x^$document
 ||notsu08.com^$document
 ||noudoofees.net^$document
 ||nougaku.saloon.jp^$document
@@ -8404,6 +8404,7 @@
 ||web-camp.io^$document
 ||web-maket.info^$document
 ||web-online-blog.com^$document
+||web.core.windows.net^$domain=~minnadesonicmachisagashi.z11.web.core.windows.net|~browserpicker.z13.web.core.windows.net
 ||web.illumina.com.cn^$document
 ||webdesignmagazine.net^$document
 ||webdevask.com^$document

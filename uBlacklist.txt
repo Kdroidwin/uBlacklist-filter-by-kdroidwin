@@ -5,7 +5,6 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
-*://note.com/zerozero_x/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -5830,6 +5829,7 @@
 *://note.com/yuueki_osusume/*
 *://note.com/zatsugaku_iroiro/*
 *://note.com/zenipen/*
+*://note.com/zerozero_x/*
 *://notsu08.com/*
 *://noudoofees.net/*
 *://nougaku.saloon.jp/*
