@@ -6282,7 +6282,6 @@
 ||pcmac.download^$document
 ||pcshopwell.com^$document
 ||pdelect.com^$document
-||pdf.wondershare.jp^$document
 ||pdilms.com^$document
 ||pdspm.in^$document
 ||peakproductivitycoaching.com^$document
@@ -6336,7 +6335,6 @@
 ||picky-s.jp^$document
 ||pico.inc^$document
 ||pictureframeshub.com^$document
-||pigeon.info^$document
 ||pignon.co.jp^$document
 ||pikamama.com^$document
 ||pikaonline.com^$document
