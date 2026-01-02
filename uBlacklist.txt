@@ -2,9 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://note.com/ihci_adeki/*
-*://dldshare.net/*
-*://*.web.core.windows.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
@@ -397,6 +394,7 @@
 *://*.web-dev-qa-db-ja.com/*
 *://*.web-dev-qa.com/*
 *://*.web-gaebal-jilmun-dabbyeon-db.com/*
+*://*.web.core.windows.net/*
 *://*.webdevqa.jp.net/*
 *://*.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
 *://*.weeblysite.com/*
@@ -2202,6 +2200,7 @@
 *://dl-town.net/*
 *://dl20.myatro.shop/*
 *://dland-a.com/*
+*://dldshare.net/*
 *://dlmarket.jp/*
 *://dlounge.net/*
 *://dlsite-pro.adult-h.com/*
@@ -5639,6 +5638,7 @@
 *://note.com/holy_beetle811
 *://note.com/holy_beetle811/*
 *://note.com/icchi_thoughts/*
+*://note.com/ihci_adeki/*
 *://note.com/ikkyu_green/*
 *://note.com/imyfone_jp*
 *://note.com/investment_happy/*

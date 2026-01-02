@@ -2280,6 +2280,7 @@
 ||dl-town.net^$document
 ||dl20.myatro.shop^$document
 ||dland-a.com^$document
+||dldshare.net^$document
 ||dlmarket.jp^$document
 ||dlounge.net^$document
 ||dlsite-pro.adult-h.com^$document
@@ -5752,6 +5753,7 @@
 ||note.com/holy_beetle811^$document
 ||note.com/holy_beetle811^$document
 ||note.com/icchi_thoughts^$document
+||note.com/ihci_adeki^$document
 ||note.com/ikkyu_green^$document
 ||note.com/ikkyu_green^$document
 ||note.com/imyfone_jp*^$document
