@@ -44,11 +44,6 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt
 ```
 
-[購読](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist.txt)
-
-[購読2](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist2.txt)
-
-[除外用の購読](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist-Exclusion.txt)
 
 <br>
 <br>
@@ -59,8 +54,17 @@ chrome(chromiumの派生)ユーザー向け
 [購読2](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin2&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist2.txt)
 
 [除外用の購読](https://iorate.github.io/ublacklist/subscribe?name=uBlacklist-filter-by-kdroidwin_exclusion&url=https%3A%2F%2Fraw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt)
-> [!IMPORTANT]
->Firefox,Safariユーザーは購読が押せないです。uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。
+
+<br>
+
+Firefox及びそのフォークユーザー向け
+
+[購読](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist.txt)
+
+[購読2](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist2.txt)
+
+[除外用の購読](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist-Exclusion.txt)
+
 
 <br>
 <br>
