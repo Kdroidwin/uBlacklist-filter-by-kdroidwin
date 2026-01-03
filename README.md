@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 
 [購読2](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist2.txt)
 
-[購読2](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist-Exclusion.txt)
+[除外用の購読](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist-Exclusion.txt)
 
 <br>
 <br>
