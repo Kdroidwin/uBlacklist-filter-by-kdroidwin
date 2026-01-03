@@ -44,6 +44,12 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt
 ```
 
+[購読](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist.txt)
+
+[購読2](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist2.txt)
+
+[購読2](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist-Exclusion.txt)
+
 <br>
 <br>
 chrome(chromiumの派生)ユーザー向け
