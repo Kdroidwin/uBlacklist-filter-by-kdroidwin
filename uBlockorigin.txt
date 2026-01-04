@@ -493,6 +493,7 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.org/
 /https?:\/\/[a-z0-9-]+-co-jp\.ru/
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
+||antispy.shop^$script
 ||/^https:\/\/www\.pinterest\./^$document
 ||/^https:\/\/www\.qinterest\./^$document
 ||0-scholar-google-com.brum.beds.ac.uk^$document
