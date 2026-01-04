@@ -1164,6 +1164,7 @@
 ||appli-world.jp/posts/15380*^$document
 ||appli-world.jp/posts/18197*^$document
 ||applibito.com^$document
+||appmatch.jp^$document
 ||appnee.com^$document
 ||appoholow.xyz^$document
 ||apprev.smt.docomo.ne.jp^$document
@@ -3297,6 +3298,7 @@
 ||googlejapan.blogspot.co.uk^$document
 ||goopass.club^$document
 ||goopass.jp^$document
+||goosevpn.com^$document
 ||gordonreecegalleries.com^$document
 ||goread.xyz^$document
 ||gori.me^$document
@@ -3858,6 +3860,7 @@
 ||interlinkms.lk^$document
 ||intermedialabo.com^$document
 ||internet-various.com^$document
+||internet.netoff.co.jp^$document
 ||internetexpo.net^$document
 ||inthadoor.com^$document
 ||intilabs.com^$document
@@ -3957,6 +3960,7 @@
 ||ja.miki.com^$document
 ||ja.safetydetectives.com^$document
 ||ja.taiwebs.com^$document
+||ja.vpnmentor.com^$document
 ||ja.wikipedia.sky4k.top^$document
 ||ja.wizcase.com^$document
 ||jaccul.org^$document
@@ -4252,6 +4256,7 @@
 ||ken-sakulifehack.com^$document
 ||kenboo-weblife.com^$document
 ||kenjapower.com^$document
+||kenjintonblog.com^$document
 ||kenjiroo.com^$document
 ||kenken-movie.com^$document
 ||kenkoansin.com^$document
@@ -4542,6 +4547,7 @@
 ||laughbeauty.com^$document
 ||launchcontrol.us^$document
 ||lauriehuff.com^$document
+||lavie-mieux-quavant.tokyo^$document
 ||law-trend.xyz^$document
 ||lawcollege.co^$document
 ||lawson.tameshiyo.me^$document
@@ -5499,6 +5505,7 @@
 ||net-entame.com^$document
 ||netaatoz.jp^$document
 ||netacheck.com^$document
+||netalabo.net^$document
 ||netalstation.com^$document
 ||netatori.com^$document
 ||netflixis.com^$document
@@ -5924,6 +5931,7 @@
 ||note.com/torataka50^$document
 ||note.com/toy_hobby^$document
 ||note.com/toy_hobby^$document
+||note.com/travel_paya^$document
 ||note.com/trivia_kingdom^$document
 ||note.com/uber_tantan02*^$document
 ||note.com/unique_chimp63^$document
@@ -6070,6 +6078,7 @@
 ||okipro.co.jp^$document
 ||okipro.co.jp^$document
 ||okomechan6.com^$document
+||okomerium.com^$document
 ||okuraya.shop^$document
 ||okusama-news.com^$document
 ||olama.online^$document
@@ -6481,6 +6490,7 @@
 ||primasport.ru^$document
 ||prime1studio.shop^$document
 ||princefrequentbuyer.com^$document
+||privatevpn.com^$document
 ||pro-woodfactory.com^$document
 ||product.info^$document
 ||product.torex.com.cn^$document
@@ -6828,6 +6838,7 @@
 ||roowiwolu.shop^$document
 ||ropaestillo.com^$document
 ||roroau.com^$document
+||roronto.jp^$document
 ||rosaerie.com^$document
 ||rose-channel.net^$document
 ||rosyblog.com^$document
@@ -7419,6 +7430,7 @@
 ||star-7-lab.com^$document
 ||star-lucky108.com^$document
 ||starafin.com^$document
+||starcraft-n.co.jp^$document
 ||starfm.gm^$document
 ||stargood.xyz^$document
 ||stargossipbuzz.com^$document
@@ -7689,6 +7701,7 @@
 ||tarsi.testdom.work^$document
 ||taskerapk.net^$document
 ||taskr.uk^$document
+||tasukehub.com^$document
 ||tat22.com^$document
 ||tathykhojak.com^$document
 ||tatocrips.xyz^$document
@@ -7797,6 +7810,7 @@
 ||thekingoflimbs.jp^$document
 ||thelioninwinter.jp^$document
 ||themagisk.com^$document
+||themepark.o-u-ma.com^$document
 ||thenewlifehospitals.com^$document
 ||thenhawk.xyz^$document
 ||theosopht.com^$document
@@ -8322,6 +8336,7 @@
 ||vpncafe.net^$document
 ||vpninfo.jp^$document
 ||vpnjapan.wpx.jp^$document
+||vpnlove.me^$document
 ||vrcl.uk^$document
 ||vrmoqu.com^$document
 ||vscode.js.cn^$document
@@ -8341,6 +8356,7 @@
 ||w9y5xi8wr.onlinetanke.de^$document
 ||waarinbeleggen2021.nl^$document
 ||wacaru-net.co.jp^$document
+||wacarunet.jp^$document
 ||wack-idoll.com^$document
 ||wadai-are.com^$document
 ||wadai-journal.com^$document
@@ -8892,6 +8908,7 @@
 ||www.curatedcapital.com.au^$document
 ||www.curseforge.com^$document
 ||www.cxtechlabs.com^$document
+||www.cyberghostvpn.com^$document
 ||www.cyberowl.co.jp^$document
 ||www.cyberpatrolg.com/cpg^$document
 ||www.cyberuk.uk^$document
@@ -9259,6 +9276,7 @@
 ||www.intel.ru^$document
 ||www.interface.ru^$document
 ||www.ipaccelerator.info^$document
+||www.ippo.ne.jp^$document
 ||www.irigasi.info^$document
 ||www.iruka-travel.com^$document
 ||www.ishidasui-ten.com^$document
@@ -9728,6 +9746,7 @@
 ||www.prime-service.info^$document
 ||www.primeaudits.com^$document
 ||www.prius01.tokyo^$document
+||www.privateinternetaccess.com^$document
 ||www.priyagrown.com^$document
 ||www.procell.cn^$document
 ||www.profuture.co.jp^$document
@@ -9838,6 +9857,7 @@
 ||www.saavifashion.com^$document
 ||www.saba6.com^$document
 ||www.sadeempc.com^$document
+||www.safetydetectives.com^$document
 ||www.safetytan.org^$document
 ||www.sagesfoundation.org^$document
 ||www.sahinbangla.com^$document
@@ -10158,6 +10178,7 @@
 ||www.voiceofcharity.org^$document
 ||www.voila.lt^$document
 ||www.votelouann.com^$document
+||www.vpnmentor.com^$document
 ||www.vrarworld.cn^$document
 ||www.vrvr123.com^$document
 ||www.vrwanba.com^$document
@@ -10177,6 +10198,7 @@
 ||www.web-dev-qa-db-ja.com^$document
 ||www.web-dev-qa-db-pt.com^$document
 ||www.web-dev-qa.com^$document
+||www.webselenese.com^$document
 ||www.websitefactory.jp^$document
 ||www.webtorrent.app^$document
 ||www.welcome-studio.com^$document
@@ -10193,6 +10215,7 @@
 ||www.winzip.com^$document
 ||www.wirtschaftlicher-verband.de^$document
 ||www.wish.com^$document
+||www.wizcase.com^$document
 ||www.wood365.cn^$document
 ||www.wowdiy.com^$document
 ||www.wpbackdoor.com^$document
@@ -10320,6 +10343,7 @@
 ||xn--ickth539fgvd9p8cl5j.com^$document
 ||xn--icktho25pytlfkn.com^$document
 ||xn--j9j7hucs457a.com^$document
+||xn--kentsu-1t4e2n.com^$document
 ||xn--l8j8axevfb5647bmk0cgjya5iddp0e.com^$document
 ||xn--l8j8azdd5nhb8192d3hzcxx2bh8d.com^$document
 ||xn--l8jhd8l3b6b.com^$document
@@ -10388,6 +10412,7 @@
 ||xsokuhou.net^$document
 ||xsokuhou.net^$document
 ||xstack.us^$document
+||xtrust.jp^$document
 ||xxx.report^$document
 ||xxxyuxxxka.com^$document
 ||y3r710.r.eu-west-1.awstrack.me^$document
@@ -10412,6 +10437,7 @@
 ||yamayamaprivateroom.jp^$document
 ||yamomo12.com^$document
 ||yamucollege.com^$document
+||yanai-ke.com^$document
 ||yancane-shukatsu.com^$document
 ||yang678.xyz^$document
 ||yaoply.com^$document
@@ -10663,6 +10689,7 @@
 ||zellijj.com^$document
 ||zen-seer.com^$document
 ||zenipawer.com^$document
+||zenmate.com^$document
 ||zenn-news.net^$document
 ||zennnews.com^$document
 ||zensyaren.net^$document

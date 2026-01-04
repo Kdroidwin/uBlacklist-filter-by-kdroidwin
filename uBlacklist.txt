@@ -1,34 +1,4 @@
 *://*.000webhostapp.com/*
-*://xn--kentsu-1t4e2n.com/*
-*://themepark.o-u-ma.com/*
-*://www.vpnmentor.com/*
-*://zenmate.com/*
-*://www.cyberghostvpn.com/*
-*://www.safetydetectives.com/*
-*://www.webselenese.com/*
-*://goosevpn.com/*
-*://privatevpn.com/*
-*://www.wizcase.com/*
-*://tasukehub.com/*
-*://starcraft-n.co.jp/*
-*://internet.netoff.co.jp/*
-*://ja.vpnmentor.com/*
-*://yanai-ke.com/*
-*://roronto.jp/*
-*://xtrust.jp/*
-*://note.com/travel_paya/*
-*://wacarunet.jp/*
-*://iot.dxhub.co.jp/articles/14_pr76tg5
-*://www.privateinternetaccess.com/*
-*://kenjintonblog.com/*
-*://www.ippo.ne.jp/*
-*://vpnlove.me/*
-*://okomerium.com/*
-*://sekaishinbun.net/kaigai/china-vpn/
-*://sekaishinbun.net/kaigai/usa-vpn/
-*://appmatch.jp/*
-*://netalabo.net/*
-*://lavie-mieux-quavant.tokyo/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
@@ -1124,6 +1094,7 @@
 *://appli-world.jp/posts/15380*
 *://appli-world.jp/posts/18197*
 *://applibito.com/*
+*://appmatch.jp/*
 *://appnee.com/*
 *://appoholow.xyz/*
 *://apprev.smt.docomo.ne.jp/*
@@ -3241,6 +3212,7 @@
 *://googlejapan.blogspot.co.uk/*
 *://goopass.club/*
 *://goopass.jp/*
+*://goosevpn.com/*
 *://gordonreecegalleries.com/*
 *://goread.xyz/*
 *://gori.me/*
@@ -3796,6 +3768,7 @@
 *://interlinkms.lk/*
 *://intermedialabo.com/*
 *://internet-various.com/*
+*://internet.netoff.co.jp/*
 *://internetexpo.net/*
 *://inthadoor.com/*
 *://intilabs.com/*
@@ -3807,6 +3780,7 @@
 *://iodkdti.life/*
 *://iolingjapan.netlify.app/*
 *://iorieightrsa.xyz/*
+*://iot.dxhub.co.jp/articles/14_pr76tg5
 *://iowadotlandsales.com/*
 *://iphglobal.com/*
 *://iphone-displayreparatur.eu/*
@@ -3894,6 +3868,7 @@
 *://ja.miki.com/*
 *://ja.safetydetectives.com/*
 *://ja.taiwebs.com/*
+*://ja.vpnmentor.com/*
 *://ja.wikipedia.sky4k.top/*
 *://ja.wizcase.com/*
 *://jaccul.org/*
@@ -4186,6 +4161,7 @@
 *://ken-sakulifehack.com/*
 *://kenboo-weblife.com/*
 *://kenjapower.com/*
+*://kenjintonblog.com/*
 *://kenjiroo.com/*
 *://kenken-movie.com/*
 *://kenkoansin.com/*
@@ -4475,6 +4451,7 @@
 *://laughbeauty.com/*
 *://launchcontrol.us/*
 *://lauriehuff.com/*
+*://lavie-mieux-quavant.tokyo/*
 *://law-trend.xyz/*
 *://lawcollege.co/*
 *://lawson.tameshiyo.me/*
@@ -5426,6 +5403,7 @@
 *://net-entame.com/*
 *://netaatoz.jp/*
 *://netacheck.com/*
+*://netalabo.net/*
 *://netalstation.com/*
 *://netatori.com/*
 *://netflixis.com/*
@@ -5828,6 +5806,7 @@
 *://note.com/tom485/*
 *://note.com/torataka50/*
 *://note.com/toy_hobby/*
+*://note.com/travel_paya/*
 *://note.com/trivia_kingdom/*
 *://note.com/uber_tantan02*
 *://note.com/unique_chimp63/*
@@ -5968,6 +5947,7 @@
 *://okinawameguri.com/*
 *://okipro.co.jp/*
 *://okomechan6.com/*
+*://okomerium.com/*
 *://okuraya.shop/*
 *://okusama-news.com/*
 *://olama.online/*
@@ -6382,6 +6362,7 @@
 *://primasport.ru/*
 *://prime1studio.shop/*
 *://princefrequentbuyer.com/*
+*://privatevpn.com/*
 *://pro-woodfactory.com/*
 *://product.info/*
 *://product.torex.com.cn/*
@@ -6727,6 +6708,7 @@
 *://roowiwolu.shop/*
 *://ropaestillo.com/*
 *://roroau.com/*
+*://roronto.jp/*
 *://rosaerie.com/*
 *://rose-channel.net/*
 *://rosyblog.com/*
@@ -6947,6 +6929,8 @@
 *://sekai-kawaru.com/*
 *://sekaimanga-hitomi.com/*
 *://sekainoowari-rehabilitation.com/*
+*://sekaishinbun.net/kaigai/china-vpn/
+*://sekaishinbun.net/kaigai/usa-vpn/
 *://sekarikun.com/*
 *://sekilsem.click/*
 *://sekirara-nenkinseikathu.com/*
@@ -7307,6 +7291,7 @@
 *://star-7-lab.com/*
 *://star-lucky108.com/*
 *://starafin.com/*
+*://starcraft-n.co.jp/*
 *://starfm.gm/*
 *://stargood.xyz/*
 *://stargossipbuzz.com/*
@@ -7576,6 +7561,7 @@
 *://tarsi.testdom.work/*
 *://taskerapk.net/*
 *://taskr.uk/*
+*://tasukehub.com/*
 *://tat22.com/*
 *://tathykhojak.com/*
 *://tatocrips.xyz/*
@@ -7684,6 +7670,7 @@
 *://thekingoflimbs.jp/*
 *://thelioninwinter.jp/*
 *://themagisk.com/*
+*://themepark.o-u-ma.com/*
 *://thenewlifehospitals.com/*
 *://thenhawk.xyz/*
 *://theosopht.com/*
@@ -8203,6 +8190,7 @@
 *://vpncafe.net/*
 *://vpninfo.jp/*
 *://vpnjapan.wpx.jp/*
+*://vpnlove.me/*
 *://vrcl.uk/*
 *://vrmoqu.com/*
 *://vscode.js.cn/*
@@ -8222,6 +8210,7 @@
 *://w9y5xi8wr.onlinetanke.de/*
 *://waarinbeleggen2021.nl/*
 *://wacaru-net.co.jp/*
+*://wacarunet.jp/*
 *://wack-idoll.com/*
 *://wadai-are.com/*
 *://wadai-journal.com/*
@@ -8772,6 +8761,7 @@
 *://www.curatedcapital.com.au/*
 *://www.curseforge.com/*
 *://www.cxtechlabs.com/*
+*://www.cyberghostvpn.com/*
 *://www.cyberowl.co.jp/*
 *://www.cyberpatrolg.com/cpg/*
 *://www.cyberuk.uk/*
@@ -9130,6 +9120,7 @@
 *://www.intel.ru/*
 *://www.interface.ru/*
 *://www.ipaccelerator.info/*
+*://www.ippo.ne.jp/*
 *://www.irigasi.info/*
 *://www.iruka-travel.com/*
 *://www.ishidasui-ten.com/*
@@ -9600,6 +9591,7 @@
 *://www.prime-service.info/*
 *://www.primeaudits.com/*
 *://www.prius01.tokyo/*
+*://www.privateinternetaccess.com/*
 *://www.priyagrown.com/*
 *://www.procell.cn/*
 *://www.profuture.co.jp/*
@@ -9710,6 +9702,7 @@
 *://www.saavifashion.com/*
 *://www.saba6.com/*
 *://www.sadeempc.com/*
+*://www.safetydetectives.com/*
 *://www.safetytan.org/*
 *://www.sagesfoundation.org/*
 *://www.sahinbangla.com/*
@@ -10023,6 +10016,7 @@
 *://www.voiceofcharity.org/*
 *://www.voila.lt/*
 *://www.votelouann.com/*
+*://www.vpnmentor.com/*
 *://www.vrarworld.cn/*
 *://www.vrvr123.com/*
 *://www.vubfvubf.xyz/*
@@ -10041,6 +10035,7 @@
 *://www.web-dev-qa-db-ja.com/*
 *://www.web-dev-qa-db-pt.com/*
 *://www.web-dev-qa.com/*
+*://www.webselenese.com/*
 *://www.websitefactory.jp/*
 *://www.webtorrent.app/*
 *://www.welcome-studio.com/*
@@ -10056,6 +10051,7 @@
 *://www.winxdvd.com/*
 *://www.wirtschaftlicher-verband.de/*
 *://www.wish.com/*
+*://www.wizcase.com/*
 *://www.wood365.cn/*
 *://www.wowdiy.com/*
 *://www.wpbackdoor.com/*
@@ -10178,6 +10174,7 @@
 *://xn--ickth539fgvd9p8cl5j.com/*
 *://xn--icktho25pytlfkn.com/*
 *://xn--j9j7hucs457a.com/*
+*://xn--kentsu-1t4e2n.com/*
 *://xn--l8j8axevfb5647bmk0cgjya5iddp0e.com/*
 *://xn--l8j8azdd5nhb8192d3hzcxx2bh8d.com/*
 *://xn--l8jhd8l3b6b.com/*
@@ -10245,6 +10242,7 @@
 *://xserver-1.com/*
 *://xsokuhou.net/*
 *://xstack.us/*
+*://xtrust.jp/*
 *://xxx.report/*
 *://xxxyuxxxka.com/*
 *://y3r710.r.eu-west-1.awstrack.me/*
@@ -10269,6 +10267,7 @@
 *://yamayamaprivateroom.jp/*
 *://yamomo12.com/*
 *://yamucollege.com/*
+*://yanai-ke.com/*
 *://yancane-shukatsu.com/*
 *://yang678.xyz/*
 *://yaoply.com/*
@@ -10520,6 +10519,7 @@
 *://zellijj.com/*
 *://zen-seer.com/*
 *://zenipawer.com/*
+*://zenmate.com/*
 *://zenn-news.net/*
 *://zennnews.com/*
 *://zensyaren.net/*
