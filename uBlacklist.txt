@@ -288,7 +288,7 @@
 *://*.slot.2chblog.jp/*
 *://*.smdcgldv.art/*
 *://*.softmany.com/*
-*://*.softonic.*/*
+*://*.softonic.cn/*
 *://*.softonic.com/*
 *://*.softonic.jp/*
 *://*.softwareuser.asklobster.com/*
