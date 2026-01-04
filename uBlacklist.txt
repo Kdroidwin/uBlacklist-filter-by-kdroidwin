@@ -3,6 +3,8 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
+*://gen.paramore.su/*
+*://www.genp.tech/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
