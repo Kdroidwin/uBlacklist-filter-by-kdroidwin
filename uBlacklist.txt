@@ -1,26 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://privacyinthenetwork.com/*
-*://corp.omake.co.jp/*
-*://makuring.jp/*
-*://vpnnippon.jp/*
-*://vpnveteran.com/*
-*://vpn1.xsrv.jp/*
-*://accounts.millenvpn.jp/*
-*://support.millenvpn.jp/*
-*://mediafrap.com/*
-*://motorlife-world.com/*
-*://world-language-250.com/*
-*://rakuten-viki.hatenablog.com/*
-*://sites.google.com/view/mullvadd-vpn/rapidvpn-vs-%E4%BB%96%E3%81%AEvpn%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E9%81%B8%E6%8A%9E%E8%82%A2%E3%81%AF%E3%81%A9%E3%82%8C
-*://vpncafe.io/best-vpn/*
-*://no-sheep.org/*
-*://ns-phone1.peatix.com/*
-*://antispy.shop/pages/*
-*://antispy.shop/collections/*
-*://antispy.shop/products/*
-*://antispy.shop/checkouts/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -727,6 +707,7 @@
 *://access.line.me/*
 *://acchan-labo.com/*
 *://accocolorpencil99.com/*
+*://accounts.millenvpn.jp/*
 *://accounts.recustomer.xyz/*
 *://acehmediacenter.com/*
 *://acer.onerise.info/*
@@ -1045,6 +1026,10 @@
 *://anthology.blog/*
 *://anthonyleger.com/*
 *://antimatter-dimensions-mod.glitch.me/*
+*://antispy.shop/checkouts/*
+*://antispy.shop/collections/*
+*://antispy.shop/pages/*
+*://antispy.shop/products/*
 *://antmomew.com/*
 *://anturis.com/*
 *://anxious-topics.com/*
@@ -4764,6 +4749,7 @@
 *://makito.me/*
 *://makoto5711.blog.jp/*
 *://makpro.cl/*
+*://makuring.jp/*
 *://makuring.jp/internet/best-vpn/*
 *://makuring.jp/internet/paid-vpn/*
 *://malaylog.com/*
@@ -4948,6 +4934,7 @@
 *://media.brain-market.com/*
 *://media.mar-cari.jp/*
 *://media.yamatop.com/*
+*://mediafrap.com/*
 *://medianomoriblog.com/*
 *://mediatec-dif.com/*
 *://medicapa.com/*
@@ -5217,6 +5204,7 @@
 *://mot4932.com/*
 *://motetsu.com/*
 *://motochanblog.com/*
+*://motorlife-world.com/*
 *://motorx6d.sarangkkb.com/*
 *://motoyun-anl.com/*
 *://moukaku-san.com/*
@@ -5545,6 +5533,7 @@
 *://nnews.top/*
 *://no-dorama-no-life.info/*
 *://no-magazine.com/*
+*://no-sheep.org/*
 *://no-title-journal-next.com/*
 *://no111777666.com/*
 *://noako-style.com/*
@@ -5889,6 +5878,7 @@
 *://nrowbyu.cn/*
 *://ns-blog.com/*
 *://ns-kumaneko.com/*
+*://ns-phone1.peatix.com/*
 *://nsl-enter.com/*
 *://nsw2u.com/*
 *://nswdl.com/*
@@ -6515,6 +6505,7 @@
 *://rakiam.com/*
 *://rakko.cc/*
 *://rakuenta.com/*
+*://rakuten-viki.hatenablog.com/*
 *://rakuten.tameshiyo.me/*
 *://ramcoenterprises.com/*
 *://ranariosaoluis.com/*
@@ -7136,6 +7127,7 @@
 *://siryou.jp/*
 *://site.libecity.com/*
 *://sitecreation.co.jp/*
+*://sites.google.com/view/mullvadd-vpn/rapidvpn-vs-%E4%BB%96%E3%81%AEvpn%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E9%81%B8%E6%8A%9E%E8%82%A2%E3%81%AF%E3%81%A9%E3%82%8C
 *://sivbp.moonarama.za.com/*
 *://sixany.com/*
 *://sizaroyl.afibrake.com/*
@@ -7464,6 +7456,7 @@
 *://support.microsoft.ex1.https.443.ipv6.jiangmen.gov.cn/*
 *://support.microsoft.ex1.ipv6.cosl.com.cn/*
 *://support.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn/*
+*://support.millenvpn.jp/*
 *://support.myqnapcloud.cn/*
 *://support.qrio.me/*
 *://suqsaudi.com/*
@@ -8215,12 +8208,16 @@
 *://vpn.hikakusite.co.jp/*
 *://vpn.nsspirt-cashf2.com/*
 *://vpn.ooaks.co.jp/*
+*://vpn1.xsrv.jp/*
 *://vpnavi.jp/*
+*://vpncafe.io/best-vpn/*
 *://vpncafe.net/*
 *://vpninfo.jp/*
 *://vpnjapan.wpx.jp/*
 *://vpnlove.me/*
+*://vpnnippon.jp/*
 *://vpnserver.sakura.ne.jp/*
+*://vpnveteran.com/*
 *://vrcl.uk/*
 *://vrmoqu.com/*
 *://vscode.js.cn/*
@@ -8378,6 +8375,7 @@
 *://work-mama-life.com/*
 *://work-well.org/*
 *://world-entertainment-information.com/*
+*://world-language-250.com/*
 *://world.taobao.com/*
 *://worldofwarships.ru/*
 *://wovenmsz.bizandleisure.com/*

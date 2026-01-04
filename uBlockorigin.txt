@@ -493,7 +493,6 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.org/
 /https?:\/\/[a-z0-9-]+-co-jp\.ru/
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
-||antispy.shop^$script
 ||/^https:\/\/www\.pinterest\./^$document
 ||/^https:\/\/www\.qinterest\./^$document
 ||0-scholar-google-com.brum.beds.ac.uk^$document
@@ -774,6 +773,7 @@
 ||access.line.me^$document
 ||acchan-labo.com^$document
 ||accocolorpencil99.com^$document
+||accounts.millenvpn.jp^$document
 ||accounts.recustomer.xyz^$document
 ||acehmediacenter.com^$document
 ||acer.onerise.info^$document
@@ -1096,6 +1096,11 @@
 ||anthology.blog^$document
 ||anthonyleger.com^$document
 ||antimatter-dimensions-mod.glitch.me^$document
+||antispy.shop/checkouts^$document
+||antispy.shop/collections^$document
+||antispy.shop/pages^$document
+||antispy.shop/products^$document
+||antispy.shop^$script
 ||antmomew.com^$document
 ||anturis.com^$document
 ||anxious-topics.com^$document
@@ -4844,6 +4849,7 @@
 ||makpro.cl^$document
 ||makuring.jp/internet/best-vpn^$document
 ||makuring.jp/internet/paid-vpn^$document
+||makuring.jp^$document
 ||malaylog.com^$document
 ||malaysia-mokoko1717.blog^$document
 ||malonn.net^$document
@@ -5027,6 +5033,7 @@
 ||media.brain-market.com^$document
 ||media.mar-cari.jp^$document
 ||media.yamatop.com^$document
+||mediafrap.com^$document
 ||medianomoriblog.com^$document
 ||mediatec-dif.com^$document
 ||medicapa.com^$document
@@ -5299,6 +5306,7 @@
 ||mot4932.com^$document
 ||motetsu.com^$document
 ||motochanblog.com^$document
+||motorlife-world.com^$document
 ||motorx6d.sarangkkb.com^$document
 ||motoyun-anl.com^$document
 ||moukaku-san.com^$document
@@ -5634,6 +5642,7 @@
 ||nnews.top^$document
 ||no-dorama-no-life.info^$document
 ||no-magazine.com^$document
+||no-sheep.org^$document
 ||no-title-journal-next.com^$document
 ||no111777666.com^$document
 ||noako-style.com^$document
@@ -5999,6 +6008,7 @@
 ||nrowbyu.cn^$document
 ||ns-blog.com^$document
 ||ns-kumaneko.com^$document
+||ns-phone1.peatix.com^$document
 ||nsl-enter.com^$document
 ||nsw2u.com^$document
 ||nswdl.com^$document
@@ -6625,6 +6635,7 @@
 ||rakiam.com^$document
 ||rakko.cc^$document
 ||rakuenta.com^$document
+||rakuten-viki.hatenablog.com^$document
 ||rakuten.tameshiyo.me^$document
 ||ramcoenterprises.com^$document
 ||ranariosaoluis.com^$document
@@ -7584,6 +7595,7 @@
 ||support.microsoft.ex1.https.443.ipv6.jiangmen.gov.cn^$document
 ||support.microsoft.ex1.ipv6.cosl.com.cn^$document
 ||support.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn^$document
+||support.millenvpn.jp^$document
 ||support.myqnapcloud.cn^$document
 ||support.qrio.me^$document
 ||suqsaudi.com^$document
@@ -8342,12 +8354,16 @@
 ||vpn.hikakusite.co.jp^$document
 ||vpn.nsspirt-cashf2.com^$document
 ||vpn.ooaks.co.jp^$document
+||vpn1.xsrv.jp^$document
 ||vpnavi.jp^$document
+||vpncafe.io/best-vpn^$document
 ||vpncafe.net^$document
 ||vpninfo.jp^$document
 ||vpnjapan.wpx.jp^$document
 ||vpnlove.me^$document
+||vpnnippon.jp^$document
 ||vpnserver.sakura.ne.jp^$document
+||vpnveteran.com^$document
 ||vrcl.uk^$document
 ||vrmoqu.com^$document
 ||vscode.js.cn^$document
@@ -8506,6 +8522,7 @@
 ||work-mama-life.com^$document
 ||work-well.org^$document
 ||world-entertainment-information.com^$document
+||world-language-250.com^$document
 ||world.taobao.com^$document
 ||worldofwarships.ru^$document
 ||wovenmsz.bizandleisure.com^$document
