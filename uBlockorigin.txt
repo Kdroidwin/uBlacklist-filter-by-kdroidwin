@@ -1257,6 +1257,7 @@
 ||askcodez.com^$document
 ||askmrcoupon.com^$document
 ||asobell.jp^$document
+||asobiba777.biz^$document
 ||asoboolog.com^$document
 ||asotalk.com^$document
 ||asoworld.com^$document
@@ -2045,6 +2046,7 @@
 ||coronnoblog.com^$document
 ||cororotan.com^$document
 ||corosuke-anything-talk.net^$document
+||corp.omake.co.jp^$document
 ||corpsync365.pro^$document
 ||costawindows.com^$document
 ||cotasmile.com^$document
@@ -2753,6 +2755,7 @@
 ||f3r53ut3.rallye-photo-avord.fr^$document
 ||f41vn6mf.silvia-silaci.de^$document
 ||fabelmans-film.jp^$document
+||fabrique-futur.fr^$document
 ||facialwrinklerepair.com^$document
 ||factory-games.fr^$document
 ||fadchildcare.com^$document
@@ -3524,6 +3527,7 @@
 ||hemingwaybkk.com^$document
 ||hendamworld.com^$document
 ||hensaidiary.com^$document
+||her-rose.com^$document
 ||heraldsuites.com^$document
 ||heritagerareantique.com^$document
 ||hero-mate.jp^$document
@@ -4793,6 +4797,7 @@
 ||mag.app-liv.jp^$document
 ||magazine-k.jp^$document
 ||magazine.techacademy.jp^$document
+||magazine.voicenote.jp^$document
 ||magazinehack.com^$document
 ||magi.camp^$document
 ||magic-panda.com^$document
@@ -5546,6 +5551,7 @@
 ||news.ganma.jp^$document
 ||news.guideme.jp^$document
 ||news.mynavi.jp/securitysoft/recommended-vpn^$document
+||news.mynavi.jp/securitysoft^$document
 ||news.vodfan.com^$document
 ||newscomic.net^$document
 ||newsee-media.com^$document
@@ -5768,6 +5774,7 @@
 ||note.com/iphone1678^$document
 ||note.com/iphone_air^$document
 ||note.com/j_yuto^$document
+||note.com/japanpromos^$document
 ||note.com/jigami^$document
 ||note.com/jigami^$document
 ||note.com/jjka1414^$document
@@ -5968,6 +5975,7 @@
 ||note.com/zatsugaku_iroiro^$document
 ||note.com/zenipen^$document
 ||note.com/zerozero_x^$document
+||notepm.jp^$document
 ||notsu08.com^$document
 ||noudoofees.net^$document
 ||nougaku.saloon.jp^$document
@@ -6490,6 +6498,7 @@
 ||primasport.ru^$document
 ||prime1studio.shop^$document
 ||princefrequentbuyer.com^$document
+||privacyinthenetwork.com^$document
 ||privatevpn.com^$document
 ||pro-woodfactory.com^$document
 ||product.info^$document
@@ -8337,6 +8346,7 @@
 ||vpninfo.jp^$document
 ||vpnjapan.wpx.jp^$document
 ||vpnlove.me^$document
+||vpnserver.sakura.ne.jp^$document
 ||vrcl.uk^$document
 ||vrmoqu.com^$document
 ||vscode.js.cn^$document
@@ -9337,6 +9347,7 @@
 ||www.jokky.net^$document
 ||www.jon123.com^$document
 ||www.jooaywg.cn^$document
+||www.joqr.co.jp/media/article/118177^$document
 ||www.joygons.com^$document
 ||www.joystage.online^$document
 ||www.jp-vipshop.com^$document
@@ -9557,6 +9568,7 @@
 ||www.mnalab.com^$document
 ||www.mng-kura.com^$document
 ||www.mnmch.com^$document
+||www.mobi-connect.net^$document
 ||www.mocamocablog.com^$document
 ||www.mochiteasaku.com^$document
 ||www.modathink.com^$document
@@ -9984,6 +9996,7 @@
 ||www.studioworks.co.in^$document
 ||www.sudzfundraising.com^$document
 ||www.sugudeki-tateshina.jp^$document
+||www.sungrove.co.jp^$document
 ||www.sunlounge-go-ya-gym.com^$document
 ||www.sunshinecoast.surf^$document
 ||www.supergenji.jp^$document
@@ -10178,6 +10191,7 @@
 ||www.voiceofcharity.org^$document
 ||www.voila.lt^$document
 ||www.votelouann.com^$document
+||www.vpndada.com^$document
 ||www.vpnmentor.com^$document
 ||www.vrarworld.cn^$document
 ||www.vrvr123.com^$document
@@ -10274,6 +10288,7 @@
 ||www.zero-full.com^$document
 ||www.zerogo.jp^$document
 ||www.zerohello.cn^$document
+||www.zeroum.co.jp^$document
 ||www.zfadv.com^$document
 ||www.zhinar.com.au^$document
 ||www.ziguangge.jp^$document

@@ -2,25 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://notepm.jp/*
-*://vpnserver.sakura.ne.jp/*
-*://her-rose.com/*
-*://www.sungrove.co.jp/*
-*://news.mynavi.jp/securitysoft/*
-*://corp.omake.co.jp/*
-*://fabrique-futur.fr/*
-*://www.joqr.co.jp/media/article/118177/*
-*://www.zeroum.co.jp/*
-*://www.mobi-connect.net/*
-*://www.vpndada.com/*
-*://asobiba777.biz/*
-*://magazine.voicenote.jp/*
-*://note.com/japanpromos/*
-*://www.privateinternetaccess.com/*
-*://privacyinthenetwork.com/*
-*://lavie-mieux-quavant.tokyo/*
-*://www.cyberghostvpn.com/*
-*://ja.vpnmentor.com/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
@@ -1206,6 +1187,7 @@
 *://askcodez.com/*
 *://askmrcoupon.com/*
 *://asobell.jp/*
+*://asobiba777.biz/*
 *://asoboolog.com/*
 *://asotalk.com/*
 *://asoworld.com/*
@@ -1986,6 +1968,7 @@
 *://coronnoblog.com/*
 *://cororotan.com/*
 *://corosuke-anything-talk.net/*
+*://corp.omake.co.jp/*
 *://corpsync365.pro/*
 *://costawindows.com/*
 *://cotasmile.com/*
@@ -2689,6 +2672,7 @@
 *://f3r53ut3.rallye-photo-avord.fr/*
 *://f41vn6mf.silvia-silaci.de/*
 *://fabelmans-film.jp/*
+*://fabrique-futur.fr/*
 *://facialwrinklerepair.com/*
 *://factory-games.fr/*
 *://fadchildcare.com/*
@@ -3455,6 +3439,7 @@
 *://hemingwaybkk.com/*
 *://hendamworld.com/*
 *://hensaidiary.com/*
+*://her-rose.com/*
 *://heraldsuites.com/*
 *://heritagerareantique.com/*
 *://hero-mate.jp/*
@@ -4715,6 +4700,7 @@
 *://mag.app-liv.jp/*
 *://magazine-k.jp/*
 *://magazine.techacademy.jp/*
+*://magazine.voicenote.jp/*
 *://magazinehack.com/*
 *://magi.camp/*
 *://magic-panda.com/*
@@ -5457,6 +5443,7 @@
 *://news-news-news.net/*
 *://news-wakaru.com/*
 *://news.eeany.cn/*
+*://news.mynavi.jp/securitysoft/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
 *://news.vodfan.com/*
 *://newscomic.net/*
@@ -5672,6 +5659,7 @@
 *://note.com/iphone1678/*
 *://note.com/iphone_air/*
 *://note.com/j_yuto/*
+*://note.com/japanpromos/*
 *://note.com/jigami/*
 *://note.com/jjka1414/*
 *://note.com/jolly_dunlin344/*
@@ -5858,6 +5846,7 @@
 *://note.com/zatsugaku_iroiro/*
 *://note.com/zenipen/*
 *://note.com/zerozero_x/*
+*://notepm.jp/*
 *://notsu08.com/*
 *://noudoofees.net/*
 *://nougaku.saloon.jp/*
@@ -6381,6 +6370,7 @@
 *://primasport.ru/*
 *://prime1studio.shop/*
 *://princefrequentbuyer.com/*
+*://privacyinthenetwork.com/*
 *://privatevpn.com/*
 *://pro-woodfactory.com/*
 *://product.info/*
@@ -8210,6 +8200,7 @@
 *://vpninfo.jp/*
 *://vpnjapan.wpx.jp/*
 *://vpnlove.me/*
+*://vpnserver.sakura.ne.jp/*
 *://vrcl.uk/*
 *://vrmoqu.com/*
 *://vscode.js.cn/*
@@ -9200,6 +9191,7 @@
 *://www.jokky.net/*
 *://www.jon123.com/*
 *://www.jooaywg.cn/*
+*://www.joqr.co.jp/media/article/118177/*
 *://www.joygons.com/*
 *://www.joystage.online/*
 *://www.jp-vipshop.com/*
@@ -9421,6 +9413,7 @@
 *://www.mnalab.com/*
 *://www.mng-kura.com/*
 *://www.mnmch.com/*
+*://www.mobi-connect.net/*
 *://www.mocamocablog.com/*
 *://www.mochiteasaku.com/*
 *://www.modathink.com/*
@@ -9846,6 +9839,7 @@
 *://www.studioworks.co.in/*
 *://www.sudzfundraising.com/*
 *://www.sugudeki-tateshina.jp/*
+*://www.sungrove.co.jp/*
 *://www.sunlounge-go-ya-gym.com/*
 *://www.sunshinecoast.surf/*
 *://www.superstarpledis.jp/*
@@ -10035,6 +10029,7 @@
 *://www.voiceofcharity.org/*
 *://www.voila.lt/*
 *://www.votelouann.com/*
+*://www.vpndada.com/*
 *://www.vpnmentor.com/*
 *://www.vrarworld.cn/*
 *://www.vrvr123.com/*
@@ -10126,6 +10121,7 @@
 *://www.zero-full.com/*
 *://www.zerogo.jp/*
 *://www.zerohello.cn/*
+*://www.zeroum.co.jp/*
 *://www.zfadv.com/*
 *://www.zhinar.com.au/*
 *://www.ziguangge.jp/*
