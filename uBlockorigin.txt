@@ -493,6 +493,8 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.org/
 /https?:\/\/[a-z0-9-]+-co-jp\.ru/
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
+fp.no-sheep.org/contact##.main
+fp.no-sheep.org/services##.main
 ||/^https:\/\/www\.pinterest\./^$document
 ||/^https:\/\/www\.qinterest\./^$document
 ||0-scholar-google-com.brum.beds.ac.uk^$document
@@ -3154,6 +3156,7 @@
 ||gekkan-bushi.com^$document
 ||gekkanmensphysique.com^$document
 ||gemala.me^$document
+||gen.paramore.su^$document
 ||genalphaup.com^$document
 ||gendai-torendo.online^$document
 ||generative-ai.sejuku.net^$document
@@ -9157,6 +9160,7 @@
 ||www.gekiura.press^$document
 ||www.gemkok.com^$document
 ||www.generacodice.com^$document
+||www.genp.tech^$document
 ||www.gequbao.flashlyrics.com^$document
 ||www.gerexpanama.net^$document
 ||www.geriatricseniorresources.com^$document
@@ -10812,6 +10816,7 @@
 @@||eeo.today^$document
 @@||exact-tours.ro^document
 @@||expo2025.fun^$document
+@@||fp.no-sheep.org^$document
 @@||freedium.cfd^$document
 @@||futurology.today^$document
 @@||fuze.dj^document
@@ -10902,6 +10907,3 @@
 @@||xprime.today^$document
 @@||yggtorrent.top^$document
 @@||zeri-m.top^$document
-@@||fp.no-sheep.org^$document
-fp.no-sheep.org/services##.main
-fp.no-sheep.org/contact##.main
