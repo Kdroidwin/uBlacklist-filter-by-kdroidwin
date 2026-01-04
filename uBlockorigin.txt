@@ -10903,3 +10903,5 @@
 @@||yggtorrent.top^$document
 @@||zeri-m.top^$document
 @@||fp.no-sheep.org^$document
+fp.no-sheep.org/services##.main
+fp.no-sheep.org/contact##.main
