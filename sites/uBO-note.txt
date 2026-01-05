@@ -1,3 +1,5 @@
+! Title: Block specific note by Kdroidwin
+! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/0219toton"])
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/0219toton"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/24hs_ksrr44"])
