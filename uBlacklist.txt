@@ -3,6 +3,9 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
+*://www.japanonesecurity.jp/*
+*://www.amazon.co.jp/dp/B0FR8LHL36*
+*://www.amazon.co.jp/%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84-JP18BK-%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/dp/B0FR8LHL36
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
