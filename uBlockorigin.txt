@@ -1934,7 +1934,7 @@ fp.no-sheep.org/services##.main
 ||clutch-blog.com^$document
 ||clutchmagjapan.com^$document
 ||cm-info.com^$document
-||cm^$doc,domain=~hair.cm
+||cm^$document,from=~hair.cm|~aun.cm|~iyashinosato.cm|~caravan.cm|~reve.cm|~central.cm|~roland.cm|~met.cm|~ymn.cm|~estee.cm|~ppl.cm|~urbanight.jpn.cm|~horiken.cm|~zen.cm|~makoto.jpn.cm|~himawari.tyo.cm|~mall.hair.cm|~loewe.cm|~onlyone.tyo.cm|~enjoyy.est.cm|~palace.jpn.cm|~nagomi.cm|~byousoku5.cm|~dear.tyo.cm|~venus.tyo.cm|~kao.cm|~tyo.cm|~yuki.jpn.cm|~jpn.cm|~hair.cm|~rabbit.est.cm|~est.cm|~jps.cm|~otome-yubisaki.deri.cm
 ||cmeventslimited.co.uk^$document
 ||cmlife2015.com^$document
 ||cmmhw.taobao.com^$document
