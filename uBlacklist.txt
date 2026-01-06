@@ -8808,7 +8808,6 @@
 *://www.cstoldme.com/*
 *://www.cuponink.com/*
 *://www.curatedcapital.com.au/*
-*://www.curseforge.com/*
 *://www.cxtechlabs.com/*
 *://www.cyberghostvpn.com/*
 *://www.cyberowl.co.jp/*
