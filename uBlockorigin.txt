@@ -1016,6 +1016,7 @@ fp.no-sheep.org/services##.main
 ||ameeendt.com^$document
 ||amekhorshid.ir^$document
 ||amiburogu.com^$document
+||amne.co.jp^$document
 ||amoebafile.blog.fc2.com^$document
 ||amorcos.ocnk.net^$document
 ||amour-takarazuka.jp^$document
@@ -5077,6 +5078,7 @@ fp.no-sheep.org/services##.main
 ||menrybe.buzz^$document
 ||mens-rinx.jp^$document
 ||mens-rinx.work^$document
+||menschannel.xsrv.jp^$document
 ||menslog.net^$document
 ||menubarx.app^$document
 ||mequl-hibi.com^$document
@@ -5774,6 +5776,7 @@ fp.no-sheep.org/services##.main
 ||note.com/happy_cobra8643^$document
 ||note.com/herry^$document
 ||note.com/hirokazumineral^$document
+||note.com/hirotoinfo^$document
 ||note.com/hit_ranking^$document
 ||note.com/hitotsu_ai^$document
 ||note.com/holy_beetle811^$document
@@ -6849,6 +6852,7 @@ fp.no-sheep.org/services##.main
 ||rokepan.com^$document
 ||rokitolar.com^$document
 ||roland-bl.jp^$document
+||roland-group-hd.com^$document
 ||roman-so-words.bandcamp.com^$document
 ||romeoandrosaline.com^$document
 ||romhacking.ru^$document
@@ -9340,6 +9344,7 @@ fp.no-sheep.org/services##.main
 ||www.january202024.com^$document
 ||www.japan-osaka.cn^$document
 ||www.japanartscraft.com^$document
+||www.japanonesecurity.jp^$document
 ||www.japex.ru^$document
 ||www.jassdf.info^$document
 ||www.jav24.com^$document

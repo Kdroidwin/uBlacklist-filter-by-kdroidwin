@@ -1,15 +1,8 @@
 *://*.000webhostapp.com/*
-*://roland-group-hd.com/*
-*://menschannel.xsrv.jp/*
-*://amne.co.jp/*
-*://note.com/hirotoinfo/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
-*://www.japanonesecurity.jp/*
-*://www.amazon.co.jp/dp/B0FR8LHL36*
-*://www.amazon.co.jp/%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84-JP18BK-%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/dp/B0FR8LHL36
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
@@ -951,6 +944,7 @@
 *://ameeendt.com/*
 *://amekhorshid.ir/*
 *://amiburogu.com/*
+*://amne.co.jp/*
 *://amoebafile.blog.fc2.com/*
 *://amorcos.ocnk.net/*
 *://amour-takarazuka.jp/*
@@ -4982,6 +4976,7 @@
 *://menrybe.buzz/*
 *://mens-rinx.jp/*
 *://mens-rinx.work/*
+*://menschannel.xsrv.jp/*
 *://menslog.net/*
 *://menubarx.app/*
 *://mequl-hibi.com/*
@@ -5664,6 +5659,7 @@
 *://note.com/happy_cobra8643/*
 *://note.com/herry/*
 *://note.com/hirokazumineral/*
+*://note.com/hirotoinfo/*
 *://note.com/hit_ranking/*
 *://note.com/hitotsu_ai/*
 *://note.com/holy_beetle811
@@ -6723,6 +6719,7 @@
 *://rokepan.com/*
 *://rokitolar.com/*
 *://roland-bl.jp/*
+*://roland-group-hd.com/*
 *://roman-so-words.bandcamp.com/*
 *://romeoandrosaline.com/*
 *://romhacking.ru/*
@@ -8536,6 +8533,8 @@
 *://www.alsamak.com.pk/*
 *://www.alvatec.com.ec/*
 *://www.amazon.bygg199.top/*
+*://www.amazon.co.jp/%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84-JP18BK-%E3%83%81%E3%83%A3%E3%81%A3%E3%81%BD%E3%81%84%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/dp/B0FR8LHL36
+*://www.amazon.co.jp/dp/B0FR8LHL36*
 *://www.amigolibreria.com/*
 *://www.amjad.xyz/*
 *://www.amourinteriors.in/*
@@ -9189,6 +9188,7 @@
 *://www.january202024.com/*
 *://www.japan-osaka.cn/*
 *://www.japanartscraft.com/*
+*://www.japanonesecurity.jp/*
 *://www.japex.ru/*
 *://www.jassdf.info/*
 *://www.jav24.com/*
