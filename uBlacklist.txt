@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://gofile-pass.mystrikingly.com/*
-*://video-twimg-eroman.mystrikingly.com/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
@@ -3185,6 +3183,7 @@
 *://go.id.me/*
 *://go.onelink.me/*
 *://go.sniply.app/*
+*://gofile-pass.mystrikingly.com/*
 *://gogomama.net/*
 *://gogozoromi.com/*
 *://gogreencabs.com/*

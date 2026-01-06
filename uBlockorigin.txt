@@ -22,7 +22,6 @@
 /^https?:\/\/[^\/]+\.000webhostapp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.2chcopipe\.com\/?$/$document
 /^https?:\/\/[^\/]+\.a3erf\.com\/?$/$document
-/^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /^https?:\/\/[^\/]+\.ac\.id\/?$/$document
 /^https?:\/\/[^\/]+\.ac\.in\/?$/$document
 /^https?:\/\/[^\/]+\.ad\/?$/$document
@@ -486,6 +485,7 @@
 /^https?:\/\/[^\/]+\.zhouni\.net\/?$/$document
 /^https?:\/\/[^\/]+\.zinroonline\.wiki\.fc2\.com\/?$/$document
 /^https?:\/\/[^\/]+\.zweryfikowac\.pl\/?$/$document
+/^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /https?:\/\/[a-z0-9-]+-co-jp\.cn/
 /https?:\/\/[a-z0-9-]+-co-jp\.com/
 /https?:\/\/[a-z0-9-]+-co-jp\.mobi/
@@ -3273,6 +3273,7 @@ fp.no-sheep.org/services##.main
 ||go.id.me^$document
 ||go.onelink.me^$document
 ||go.sniply.app^$document
+||gofile-pass.mystrikingly.com^$document
 ||gogomama.net^$document
 ||gogozoromi.com^$document
 ||gogreencabs.com^$document
