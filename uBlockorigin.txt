@@ -8956,7 +8956,6 @@ fp.no-sheep.org/services##.main
 ||www.cstoldme.com^$document
 ||www.cuponink.com^$document
 ||www.curatedcapital.com.au^$document
-||www.curseforge.com^$document
 ||www.cxtechlabs.com^$document
 ||www.cyberghostvpn.com^$document
 ||www.cyberowl.co.jp^$document
