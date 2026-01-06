@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://gofile-pass.mystrikingly.com/*
+*://video-twimg-eroman.mystrikingly.com/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
