@@ -1,4 +1,6 @@
 *://*.000webhostapp.com/*
+*://www.birunaka.jp/*
+*://skipos.jp/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
