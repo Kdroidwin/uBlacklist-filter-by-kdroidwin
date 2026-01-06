@@ -1,4 +1,8 @@
 *://*.000webhostapp.com/*
+*://roland-group-hd.com/*
+*://menschannel.xsrv.jp/*
+*://amne.co.jp/*
+*://note.com/hirotoinfo/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
