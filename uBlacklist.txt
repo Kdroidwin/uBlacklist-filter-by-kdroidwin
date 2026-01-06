@@ -1,4 +1,13 @@
 *://*.000webhostapp.com/*
+*://marukin-sato.jp/*
+*://www.hotel-fantasista.jp/*
+*://hitomi-official.jp/*
+*://erobookjapan.com/*
+*://skipos.jp/*
+*://tanwa-eromanga.jp/*
+*://renazakkiblog.com/*
+*://negoto.com/*
+*://yena.jp/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
