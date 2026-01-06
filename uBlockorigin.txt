@@ -2785,6 +2785,7 @@ fp.no-sheep.org/services##.main
 ||fan.main.jp^$document
 ||fanblogs.jp^$document
 ||fandane.com^$document
+||fanza-com.mystrikingly.com^$document
 ||fanza.coideco.jp^$document
 ||fanzonetokyo.jp^$document
 ||farsisaz.com^$document
@@ -8311,6 +8312,10 @@ fp.no-sheep.org/services##.main
 ||victon.jp^$document
 ||victorlengler.com^$document
 ||video-distribution.jp^$document
+||video-twimg-eroman.mystrikingly.com^$document
+||videotwimgcom.atukan.com^$document
+||videotwimgcom.dayuh.net^$document
+||videotwin.ehoh.net^$document
 ||vidon.me^$document
 ||viearth.com^$document
 ||viet-bamboo.com^$document

@@ -1,10 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://videotwimgcom.atukan.com/*
-*://videotwimgcom.dayuh.net/*
-*://video-twimg-eroman.mystrikingly.com/*
-*://videotwin.ehoh.net/*
-*://fanza-com.mystrikingly.com/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
@@ -2704,6 +2699,7 @@
 *://fan.main.jp/*
 *://fanblogs.jp/*
 *://fandane.com/*
+*://fanza-com.mystrikingly.com/*
 *://fanza.coideco.jp/*
 *://fanzonetokyo.jp/*
 *://farsisaz.com/*
@@ -8168,6 +8164,10 @@
 *://victon.jp/*
 *://victorlengler.com/*
 *://video-distribution.jp/*
+*://video-twimg-eroman.mystrikingly.com/*
+*://videotwimgcom.atukan.com/*
+*://videotwimgcom.dayuh.net/*
+*://videotwin.ehoh.net/*
 *://vidon.me/*
 *://viearth.com/*
 *://viet-bamboo.com/*
