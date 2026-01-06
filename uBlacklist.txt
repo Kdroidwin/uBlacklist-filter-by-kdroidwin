@@ -1,13 +1,4 @@
 *://*.000webhostapp.com/*
-*://marukin-sato.jp/*
-*://www.hotel-fantasista.jp/*
-*://hitomi-official.jp/*
-*://erobookjapan.com/*
-*://skipos.jp/*
-*://tanwa-eromanga.jp/*
-*://renazakkiblog.com/*
-*://negoto.com/*
-*://yena.jp/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
@@ -2573,6 +2564,7 @@
 *://eroappgame.com/*
 *://eroazu.com/*
 *://erobooker.com/*
+*://erobookjapan.com/*
 *://erocate.com/*
 *://erocomic-love.net/*
 *://erocomic-plant.com/*
@@ -3532,6 +3524,7 @@
 *://hitohack.info/*
 *://hitomi--blog.com/*
 *://hitomi-comic.com/*
+*://hitomi-official.jp/*
 *://hitomi-vg.com/*
 *://hitomila.blog/*
 *://hitomiland.com/*
@@ -4852,6 +4845,7 @@
 *://maru6624.com/*
 *://marucco-lino.com/*
 *://marukawa-elec.com/*
+*://marukin-sato.jp/*
 *://marumaruoact.com/*
 *://marumi23.com/*
 *://marumohu.com/*
@@ -5406,6 +5400,7 @@
 *://neetola.com/*
 *://negiblo.com/*
 *://negisoku.com/*
+*://negoto.com/*
 *://nehohaho.com/*
 *://nejdriver.com/*
 *://neko-ashiato.com/*
@@ -6597,6 +6592,7 @@
 *://remulia.shop/*
 *://ren-labo.com/*
 *://renai-jijyo.com/*
+*://renazakkiblog.com/*
 *://renkano-east.com/*
 *://rennairon.com/*
 *://reno-la.net/*
@@ -7591,6 +7587,7 @@
 *://tanosiiseikatu.com/*
 *://tantanmen.shop/*
 *://tantwn2122.com/*
+*://tanwa-eromanga.jp/*
 *://taosfoundationrepair.com/*
 *://tapedv6a.proremedyphysio.com/*
 *://tardosk4.odonline.co.il/*
@@ -9136,6 +9133,7 @@
 *://www.hospicedefrance.fr/*
 *://www.hotdebrid.com/*
 *://www.hotel-baygrand.com/*
+*://www.hotel-fantasista.jp/*
 *://www.hotel-spasskaya.ru/*
 *://www.hotelduus.is/*
 *://www.hoteltarapoto.com/*
@@ -10346,6 +10344,7 @@
 *://ydenki.jp/*
 *://ydmblog.com/*
 *://ydxlanhai.taobao.com/*
+*://yena.jp/*
 *://yenudesa.com/*
 *://yes-sports.com/*
 *://yesbud.online/*

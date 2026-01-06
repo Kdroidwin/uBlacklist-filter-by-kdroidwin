@@ -2650,6 +2650,7 @@ fp.no-sheep.org/services##.main
 ||eroappgame.com^$document
 ||eroazu.com^$document
 ||erobooker.com^$document
+||erobookjapan.com^$document
 ||erocate.com^$document
 ||erocomic-love.net^$document
 ||erocomic-plant.com^$document
@@ -3616,6 +3617,7 @@ fp.no-sheep.org/services##.main
 ||hitohack.info^$document
 ||hitomi--blog.com^$document
 ||hitomi-comic.com^$document
+||hitomi-official.jp^$document
 ||hitomi-vg.com^$document
 ||hitomila.blog^$document
 ||hitomiland.com^$document
@@ -4945,6 +4947,7 @@ fp.no-sheep.org/services##.main
 ||maru6624.com^$document
 ||marucco-lino.com^$document
 ||marukawa-elec.com^$document
+||marukin-sato.jp^$document
 ||marumaruoact.com^$document
 ||marumi23.com^$document
 ||marumohu.com^$document
@@ -5503,6 +5506,7 @@ fp.no-sheep.org/services##.main
 ||neetola.com^$document
 ||negiblo.com^$document
 ||negisoku.com^$document
+||negoto.com^$document
 ||nehohaho.com^$document
 ||nejdriver.com^$document
 ||neko-ashiato.com^$document
@@ -6721,6 +6725,7 @@ fp.no-sheep.org/services##.main
 ||remulia.shop^$document
 ||ren-labo.com^$document
 ||renai-jijyo.com^$document
+||renazakkiblog.com^$document
 ||renkano-east.com^$document
 ||rennairon.com^$document
 ||reno-la.net^$document
@@ -7725,6 +7730,7 @@ fp.no-sheep.org/services##.main
 ||tanosiiseikatu.com^$document
 ||tantanmen.shop^$document
 ||tantwn2122.com^$document
+||tanwa-eromanga.jp^$document
 ||taosfoundationrepair.com^$document
 ||tapedv6a.proremedyphysio.com^$document
 ||tardosk4.odonline.co.il^$document
@@ -9282,6 +9288,7 @@ fp.no-sheep.org/services##.main
 ||www.hospicedefrance.fr^$document
 ||www.hotdebrid.com^$document
 ||www.hotel-baygrand.com^$document
+||www.hotel-fantasista.jp^$document
 ||www.hotel-spasskaya.ru^$document
 ||www.hotelduus.is^$document
 ||www.hoteltarapoto.com^$document
@@ -10508,6 +10515,7 @@ fp.no-sheep.org/services##.main
 ||ydenki.jp^$document
 ||ydmblog.com^$document
 ||ydxlanhai.taobao.com^$document
+||yena.jp^$document
 ||yenudesa.com^$document
 ||yes-sports.com^$document
 ||yesbud.online^$document
