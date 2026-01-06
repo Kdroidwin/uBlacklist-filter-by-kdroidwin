@@ -7294,6 +7294,7 @@ fp.no-sheep.org/services##.main
 ||skillhub.jp^$document
 ||skinvy.in^$document
 ||skipnpk.top^$document
+||skipos.jp^$document
 ||skitdolce.jp^$document
 ||sknet-sougou.com^$document
 ||skoromer.ru^$document
@@ -8794,6 +8795,7 @@ fp.no-sheep.org/services##.main
 ||www.binarydevelop.com^$document
 ||www.bioeumf.cn^$document
 ||www.bioverde.jp^$document
+||www.birunaka.jp^$document
 ||www.biscuit-online.com^$document
 ||www.bissa.com.mx^$document
 ||www.bistro4.fi^$document

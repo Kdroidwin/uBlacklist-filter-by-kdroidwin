@@ -1,6 +1,4 @@
 *://*.000webhostapp.com/*
-*://www.birunaka.jp/*
-*://skipos.jp/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
@@ -7155,6 +7153,7 @@
 *://skillhub.jp/*
 *://skinvy.in/*
 *://skipnpk.top/*
+*://skipos.jp/*
 *://skitdolce.jp/*
 *://sknet-sougou.com/*
 *://skoromer.ru/*
@@ -8648,6 +8647,7 @@
 *://www.binarydevelop.com/*
 *://www.bioeumf.cn/*
 *://www.bioverde.jp/*
+*://www.birunaka.jp/*
 *://www.biscuit-online.com/*
 *://www.bissa.com.mx/*
 *://www.bistro4.fi/*
