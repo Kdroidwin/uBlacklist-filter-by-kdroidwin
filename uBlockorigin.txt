@@ -3,11 +3,11 @@
 /^https?:\/\/(?!([^\/]*\.)?coefont\.cloud\/)(?!([^\/]*\.)?mstdn\.cloud\/)(?!([^\/]*\.)?podcast\.sonicbowl\.cloud\/)(?!([^\/]*\.)?publis\.cloud\/)(?!furutty\.growi\.cloud\/)(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|web02\.|support\.|manga\.|video\.|lp\.|goodtree\.|discovery\.|watch\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cloud/
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world/
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|watch\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz/
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.homes/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|kreva\.|siri\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|festival\.|my-private\.|park\.|besty\.|info\.|help\.|docs\.|about\.|news\.|connect\.|college\.|mazzel\.|mstdn\.)[^\/]+\.[^\/]+\.club/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|abema\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.link/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.asia/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.cards/
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.homes/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.ink/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.live/
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.lol/
@@ -522,6 +522,7 @@ fp.no-sheep.org/services##.main
 ||1211092.slot19.online^$document
 ||1234arontoren.blog.fc2.com^$document
 ||1294736.slot19.online^$document
+||129katsublog.com^$document
 ||130344193.slot26.online^$document
 ||13377x.io^$document
 ||13666.bitgetexchange.online^$document
@@ -1033,6 +1034,7 @@ fp.no-sheep.org/services##.main
 ||ananta-systems.com^$document
 ||anatato.jp^$document
 ||and-ace.com^$document
+||ande.jp^$document
 ||anderbot.com^$document
 ||andoroidoi.spaziotecnoweb.com^$document
 ||andreashenricy.com^$document
@@ -1203,6 +1205,7 @@ fp.no-sheep.org/services##.main
 ||archive.org/details/Windows10ProPermanentActivatorUltimate2017V2.1Viafiles.com*^$document
 ||archiveofficial.uk^$document
 ||archviz.cn^$document
+||arcoiris0527.com^$document
 ||arecorelog.com^$document
 ||areealanzbind.xyz^$document
 ||arekore-nikki.com^$document
@@ -1332,6 +1335,7 @@ fp.no-sheep.org/services##.main
 ||aya2018.net^$document
 ||aya3home.com^$document
 ||ayakablog11525.com^$document
+||ayami.fun^$document
 ||ayano-blog.com^$document
 ||ayatorendo.com^$document
 ||ayatsu2234.com^$document
@@ -1389,6 +1393,7 @@ fp.no-sheep.org/services##.main
 ||bartbeale.online^$document
 ||baryokocho.jp^$document
 ||baseballfanfan.com^$document
+||baseballinfo.jp^$document
 ||baseballx.jp^$document
 ||basesx6f.virtual-na.org^$document
 ||bastikasi.com.tr^$document
@@ -1513,6 +1518,7 @@ fp.no-sheep.org/services##.main
 ||bjnnlxx.cn^$document
 ||bjudyz.com^$document
 ||bjympty.qpon^$document
+||blacbook.xyz^$document
 ||black5ch.doorblog.jp^$document
 ||blackbirdthermal.com^$document
 ||blackboxrepacke.com^$document
@@ -1656,6 +1662,7 @@ fp.no-sheep.org/services##.main
 ||bress0358.com^$document
 ||brews6q5.sarangkkb.com^$document
 ||bridalring.info^$document
+||bright.enexauto.jp^$document
 ||brighterbrainshealth.com^$document
 ||brightmaritime.com.ph^$document
 ||brightredmelancholy.com^$document
@@ -1716,6 +1723,7 @@ fp.no-sheep.org/services##.main
 ||buzzlog.net^$document
 ||buzzneta-topic.com^$document
 ||buzzscope.net^$document
+||buzztopick.jp^$document
 ||buzzwriteyear.com^$document
 ||byodoji.live^$document
 ||byp.yongjoo.za.com^$document
@@ -1861,6 +1869,7 @@ fp.no-sheep.org/services##.main
 ||chichicafe.com^$document
 ||chiematome.com^$document
 ||chigai-hikaku.com^$document
+||chihirotokae.com^$document
 ||chii-memo.com^$document
 ||chiirosan.com^$document
 ||chikanyanta.com^$document
@@ -1872,6 +1881,7 @@ fp.no-sheep.org/services##.main
 ||chill-is-blogger.com^$document
 ||chillseasons.com^$document
 ||chillyourmind.live^$document
+||chimu3838.net^$document
 ||china-wp-3ekxbwgmwq-an.a.run.app^$document
 ||chineko-blog.com^$document
 ||chirkrpy.jettysuites.com^$document
@@ -2329,6 +2339,7 @@ fp.no-sheep.org/services##.main
 ||doga.hikakujoho.com^$document
 ||dogaentame.net^$document
 ||dogorama.app^$document
+||doiharu.xsrv.jp^$document
 ||dojin-asedaku.cyou^$document
 ||dojinfanza.com^$document
 ||dojingame.net^$document
@@ -2406,6 +2417,7 @@ fp.no-sheep.org/services##.main
 ||dream04090129.biz^$document
 ||dream0820.com^$document
 ||dream4you.jp^$document
+||dreamgateway01.com^$document
 ||dreamriverpress.com^$document
 ||dressy.pla-cole.wedding^$document
 ||dripmoreeu.com^$document
@@ -2736,6 +2748,7 @@ fp.no-sheep.org/services##.main
 ||everyday-entertainment77.com^$document
 ||everyday-wadai.net^$document
 ||everydayissunday.livedoor.blog^$document
+||everypawday.com^$document
 ||everythingiscurious.com^$document
 ||eviza.org^$document
 ||evropskakuca.me^$document
@@ -2915,6 +2928,7 @@ fp.no-sheep.org/services##.main
 ||for-food.online^$document
 ||forbiddenwhisper.com^$document
 ||forese.life^$document
+||forest-life-japan.com^$document
 ||forester-fan-blog.com^$document
 ||forestvpn.com^$document
 ||foret-aventure-kimetsu.jp^$document
@@ -3140,13 +3154,16 @@ fp.no-sheep.org/services##.main
 ||geinoidolfan.hatenablog.com^$document
 ||geinoiroiro.com^$document
 ||geinou-family.com^$document
+||geinou-goshippu.com^$document
 ||geinou-kekkon.jp^$document
 ||geinou-media.com^$document
 ||geinou-now.net^$document
 ||geinou-resistance.info^$document
+||geinou-yumei.com^$document
 ||geinou11.com^$document
 ||geinouaramodo.blog.ss-blog.jp^$document
 ||geinoujin-genzai.com^$document
+||geinoujin-now.com^$document
 ||geinoukame.com^$document
 ||geinoumarumie.com^$document
 ||geinounewstorenndo.blog.ss-blog.jp^$document
@@ -3165,6 +3182,7 @@ fp.no-sheep.org/services##.main
 ||gekkanmensphysique.com^$document
 ||gemala.me^$document
 ||gen.paramore.su^$document
+||gen51.net^$document
 ||genalphaup.com^$document
 ||gendai-torendo.online^$document
 ||generative-ai.sejuku.net^$document
@@ -3201,6 +3219,7 @@ fp.no-sheep.org/services##.main
 ||ghib-mori.com^$document
 ||gi-o.com^$document
 ||gibed87e.sghscdhaka.edu.bd^$document
+||gifslangen.com^$document
 ||giftpedia.jp^$document
 ||gifu-taikyo.jp^$document
 ||gigotvmo.afibrake.com^$document
@@ -3500,6 +3519,7 @@ fp.no-sheep.org/services##.main
 ||harugon12.com^$document
 ||haruhana2023.com^$document
 ||haruhaya0829.com^$document
+||haruirolife.com^$document
 ||haruki-835.hatenablog.com^$document
 ||harumiblog.com^$document
 ||haruo-lop.info^$document
@@ -3581,6 +3601,7 @@ fp.no-sheep.org/services##.main
 ||hikamoba.com^$document
 ||hikari-iyashi.com^$document
 ||hikaribatake.com^$document
+||hikeyblog.com^$document
 ||hikitasan-gokainin.com^$document
 ||hikiyosesmith.hatenablog.com^$document
 ||hikohikoblog.com^$document
@@ -3684,6 +3705,7 @@ fp.no-sheep.org/services##.main
 ||hoshi-boutique.com^$document
 ||hoshi-hitomi.marouge.jp^$document
 ||hoshi.uraraca-web.jp^$document
+||hoshihana.jp^$document
 ||hoshimemo.com^$document
 ||hosigumi.hatenablog.com^$document
 ||hosoho.jp^$document
@@ -3820,6 +3842,7 @@ fp.no-sheep.org/services##.main
 ||imashun-navi.com^$document
 ||imasoku.com^$document
 ||imasugunews.com^$document
+||imatchblog.com^$document
 ||imayorimotto.net^$document
 ||imepesoboh.webrychlo.sk^$document
 ||img.lighted.hk^$document
@@ -4086,6 +4109,7 @@ fp.no-sheep.org/services##.main
 ||josepr1.sg-host.com^$document
 ||joshi-ryoku.jp^$document
 ||joshi-spa.jp^$document
+||joshiana-palette.com^$document
 ||joshinweb.jp/pc/pcus.html*^$document
 ||joshinweb.jp/pc/uni_pc.html*^$document
 ||journal-journal.com^$document
@@ -4347,6 +4371,7 @@ fp.no-sheep.org/services##.main
 ||kininarune.com^$document
 ||kininarunoki.com^$document
 ||kininarunomori.com^$document
+||kininaruutyousa.com^$document
 ||kino-code.com^$document
 ||kinoshita-reon.jp^$document
 ||kintarogroup.com^$document
@@ -4393,6 +4418,7 @@ fp.no-sheep.org/services##.main
 ||kodomama.com^$document
 ||kodomo.kamakuraborikaikan.jp^$document
 ||koe-voice.jp^$document
+||kofushingen.jp^$document
 ||kohiyoto.com^$document
 ||kohjiro.jp^$document
 ||kohtaroblog.com^$document
@@ -4400,6 +4426,7 @@ fp.no-sheep.org/services##.main
 ||koidora.com^$document
 ||koimitsu.com^$document
 ||koimousagi.com^$document
+||koisnap.com^$document
 ||kokemomo55.com^$document
 ||kokogakininaru.com^$document
 ||kokohorenyann.com^$document
@@ -4583,6 +4610,7 @@ fp.no-sheep.org/services##.main
 ||ldlemthm.r.eu-west-1.awstrack.me^$document
 ||le-domaine-de-lepiniere.fr^$document
 ||leadzhunt.com^$document
+||leaf3-mapa.com^$document
 ||leancrete.com^$document
 ||learn-lens.com^$document
 ||learn.corporate.ef.com^$document
@@ -4821,6 +4849,7 @@ fp.no-sheep.org/services##.main
 ||magazinehack.com^$document
 ||magi.camp^$document
 ||magic-panda.com^$document
+||magicwands1.com^$document
 ||magisk-manager.malavida.com^$document
 ||magisk-manager.softonic.ru^$document
 ||magisk.me^$document
@@ -4872,6 +4901,7 @@ fp.no-sheep.org/services##.main
 ||mama-sono.com^$document
 ||mama.dorineo.jp^$document
 ||mamagirl.jp^$document
+||mamahiro12.com^$document
 ||mamaicchi.com^$document
 ||mamakiwa.com^$document
 ||mamanochiwatashi.com^$document
@@ -4999,6 +5029,7 @@ fp.no-sheep.org/services##.main
 ||matomedane.jp^$document
 ||matomeerogetorrent.blog.2nt.com^$document
 ||matomeplus.sakura.ne.jp^$document
+||matomeru7.com^$document
 ||matomesan.jp^$document
 ||matomesokuhou.tokyo^$document
 ||matometanews.com^$document
@@ -5075,6 +5106,7 @@ fp.no-sheep.org/services##.main
 ||meinekekc.com^$document
 ||meiyanfan.cn^$document
 ||mekongpromm.com^$document
+||melby.jp^$document
 ||meli-melo.blog.jp^$document
 ||meltsold.mydees.com^$document
 ||melty-novel.com^$document
@@ -5143,6 +5175,7 @@ fp.no-sheep.org/services##.main
 ||mikafs.com^$document
 ||mikanillust.work^$document
 ||mikansan.xyz^$document
+||mikasroom17.com^$document
 ||mikeshawenespanol.com^$document
 ||miki333.com^$document
 ||mikimane.com^$document
@@ -5215,6 +5248,7 @@ fp.no-sheep.org/services##.main
 ||miya-rin7.com^$document
 ||miyablog3.com^$document
 ||miyajima-ropeway.info^$document
+||miyakotrend.com^$document
 ||miyamae-matikyou.com^$document
 ||miyaman.com^$document
 ||miyamotomovie.jp^$document
@@ -5278,6 +5312,7 @@ fp.no-sheep.org/services##.main
 ||momonga-raw.com^$document
 ||momonoyakata.com^$document
 ||moms-happylife.com^$document
+||momsbrk.com^$document
 ||monadnockmidrange.com^$document
 ||monamona2525.com^$document
 ||mondo-libre.com^$document
@@ -5520,6 +5555,7 @@ fp.no-sheep.org/services##.main
 ||nekojarashi-benihana.com^$document
 ||nekomegane.com^$document
 ||nekoneko-kingdom.com^$document
+||nekonome-topics.com^$document
 ||nekorisu.info^$document
 ||nekotopi.com^$document
 ||nekoyasui.jp^$document
@@ -6206,6 +6242,7 @@ fp.no-sheep.org/services##.main
 ||oseti.club^$document
 ||oshi-gadgetlog.hatenablog.com^$document
 ||oshi-life.com^$document
+||oshikatsulife.blog.jp^$document
 ||oshikeiblog.com^$document
 ||oshinisasageru.com^$document
 ||osijyo.com^$document
@@ -6251,6 +6288,7 @@ fp.no-sheep.org/services##.main
 ||outidesigoto.com^$document
 ||outletfinalsale.com^$document
 ||outlookfestival.jp^$document
+||output-egl.com^$document
 ||overcoder.net^$document
 ||overforty-man.com^$document
 ||overlack.jp^$document
@@ -6311,6 +6349,7 @@ fp.no-sheep.org/services##.main
 ||pasmo10.jp^$document
 ||pass.workhub.site^$document
 ||pastebin.pl^$document
+||pasthe.jp^$document
 ||pastimenet.com^$document
 ||patinajesobrehielo.org.co^$document
 ||patrainc.jp^$document
@@ -6688,6 +6727,7 @@ fp.no-sheep.org/services##.main
 ||re-tabushi.com^$document
 ||read-the-tale.com^$document
 ||readtoindia.com^$document
+||real-estate-assist.japan-entertainment.mhx.jp^$document
 ||real-juku.jp^$document
 ||real-lovedoll.jp^$document
 ||realcongress.ru^$document
@@ -7184,6 +7224,7 @@ fp.no-sheep.org/services##.main
 ||shinmaipapa.hatenablog.com^$document
 ||shinno-asobi.com^$document
 ||shinnyu1-guide.com^$document
+||shinobunbun.com^$document
 ||shinorilog.com^$document
 ||shinr.info^$document
 ||shinshu-premium.jp^$document
@@ -7196,6 +7237,7 @@ fp.no-sheep.org/services##.main
 ||shirashiru.com^$document
 ||shiratorimonogatari.jp^$document
 ||shiro-mi.com^$document
+||shiro.ousyukubai.com^$document
 ||shiro24.com^$document
 ||shirosaki-company.co.jp^$document
 ||shirou-sports.com^$document
@@ -7358,6 +7400,7 @@ fp.no-sheep.org/services##.main
 ||snufkinheart.com^$document
 ||so-le.com^$document
 ||so.muouseo.com^$document
+||soccer-mania777.com^$document
 ||soccer.gatecoin.online^$document
 ||soccerlove.jp^$document
 ||soci-journal.com^$document
@@ -7437,6 +7480,7 @@ fp.no-sheep.org/services##.main
 ||sports-brothers.com^$document
 ||sports-gate.blog.ss-blog.jp^$document
 ||sports-inf.com^$document
+||sports-otaku.com^$document
 ||sports-suki.com^$document
 ||sports.yoshilover.com^$document
 ||sportsnews.jp^$document
@@ -7624,6 +7668,7 @@ fp.no-sheep.org/services##.main
 ||surgeonsatya.com^$document
 ||suzu-bell.com^$document
 ||suzukitakao.jp^$document
+||suzuranm.com^$document
 ||suzured.com^$document
 ||svencioniuprc.lt^$document
 ||sw.queenmobile.me^$document
@@ -7795,6 +7840,7 @@ fp.no-sheep.org/services##.main
 ||tensei-shinai.com^$document
 ||tenshoku-antenna.com^$document
 ||tenten-maron1.com^$document
+||tenten-shop.com^$document
 ||terakoya.sejuku.net^$document
 ||teratail.com^$document
 ||teresamoda.com^$document
@@ -7966,6 +8012,7 @@ fp.no-sheep.org/services##.main
 ||tomosan-blog.com^$document
 ||tomoya-blog.com^$document
 ||ton-union.de^$document
+||tonoculture.com^$document
 ||toolbox.app^$document
 ||tools.anquanclub.cn^$document
 ||toorublog.com^$document
@@ -8036,6 +8083,7 @@ fp.no-sheep.org/services##.main
 ||transparencia.coronango.gob.mx^$document
 ||trashbox.ru^$document
 ||travel-life-magazine.com^$document
+||travel-ts.com^$document
 ||travel4thesoul.com^$document
 ||tre-memo-go.com^$document
 ||tre-monte.com^$document
@@ -8075,6 +8123,7 @@ fp.no-sheep.org/services##.main
 ||trendichiban.com^$document
 ||trendinfo1234.com^$document
 ||trendjin.com^$document
+||trendlyte.com^$document
 ||trendmainnow.com^$document
 ||trendnews-2018.com^$document
 ||trendnews.tokyo^$document
@@ -8087,6 +8136,7 @@ fp.no-sheep.org/services##.main
 ||trends-matome.seesaa.net^$document
 ||trendsaikoo.work^$document
 ||trendsokuho.com^$document
+||trendx.biz^$document
 ||trendy-reports.com^$document
 ||trendy-rhyme.com^$document
 ||trendy-trendy.net^$document
@@ -8117,6 +8167,7 @@ fp.no-sheep.org/services##.main
 ||trustcellar.com^$document
 ||trx-mkt.com^$document
 ||tsubakitaste.com^$document
+||tsuji-papa.com^$document
 ||tsukae.ru^$document
 ||tsuki-ai.co.jp^$document
 ||tsukiakari-boutique.com^$document
@@ -8126,6 +8177,7 @@ fp.no-sheep.org/services##.main
 ||tsup-eis.ru^$document
 ||tsuru.top^$document
 ||tsurumatsu-shoten.com^$document
+||tsutsusao.com^$document
 ||ttf--koubo-jp.m17n.cn^$document
 ||tube-navi.jp^$document
 ||tuber-ch.com^$document
@@ -8229,6 +8281,7 @@ fp.no-sheep.org/services##.main
 ||uprobrocher.ucoz.ru^$document
 ||upteck.cl^$document
 ||uquum.com^$document
+||urajyouhou.com^$document
 ||uranai-mugen.jp^$document
 ||uranai.nosv.org^$document
 ||uranaizamurai.com^$document
@@ -8244,6 +8297,7 @@ fp.no-sheep.org/services##.main
 ||usagi-no-guild.com^$document
 ||usagi-syufulife.com^$document
 ||usagi0925.com^$document
+||usagialt.com^$document
 ||usagidayo.com^$document
 ||usaginomikuri.com^$document
 ||usakun.com^$document
@@ -8695,6 +8749,7 @@ fp.no-sheep.org/services##.main
 ||www.alliedvision.cn^$document
 ||www.allmonte.ru^$document
 ||www.almiper.com^$document
+||www.almondtds.com^$document
 ||www.alperuzel.com^$document
 ||www.alqalmouninstitute.com^$document
 ||www.alqfvxf.cn^$document
@@ -9176,6 +9231,7 @@ fp.no-sheep.org/services##.main
 ||www.gardenawakenings.com^$document
 ||www.garmin.cn^$document
 ||www.gatahime.com^$document
+||www.gaten-yoake.com^$document
 ||www.gcnm.edu.gh^$document
 ||www.gcpv.fr^$document
 ||www.gebiproducts.com^$document
@@ -9424,6 +9480,7 @@ fp.no-sheep.org/services##.main
 ||www.kazenodenwa.com^$document
 ||www.kaznao.com^$document
 ||www.kbpqeow.cn^$document
+||www.kcontent.yunkoreblog.com^$document
 ||www.kczaftl.cn^$document
 ||www.kenblog2.com^$document
 ||www.kenmori.jp^$document
@@ -9457,6 +9514,7 @@ fp.no-sheep.org/services##.main
 ||www.kumibellejournal.com^$document
 ||www.kurakurakurarin.com^$document
 ||www.kurisu.me^$document
+||www.kusogakiblog.com^$document
 ||www.kutombawewe.net^$document
 ||www.kwkoeey.cn^$document
 ||www.kwurfreaplur224-nifty.xyz^$document
@@ -9581,6 +9639,7 @@ fp.no-sheep.org/services##.main
 ||www.memuplay.com/*/how-to-use-*-on-pc.html^$document
 ||www.memuplay.com/how-to-use-*-download-on-pc.html*^$document
 ||www.menuguildsystem.com^$document
+||www.mercedesme.jp^$document
 ||www.mercure.jp^$document
 ||www.mermaidsofearth.com^$document
 ||www.micasaluxuries.com^$document
@@ -9610,6 +9669,7 @@ fp.no-sheep.org/services##.main
 ||www.mitchellceramics.com.au^$document
 ||www.mitsuihightec.com^$document
 ||www.mixim.site^$document
+||www.miyamatakeru.com^$document
 ||www.mizaninstitute.com^$document
 ||www.mlb.cn^$document
 ||www.mnalab.com^$document
@@ -9884,9 +9944,11 @@ fp.no-sheep.org/services##.main
 ||www.riaj.or.jp^$document
 ||www.ricambifacili.com^$document
 ||www.rickygourmet.online^$document
+||www.rintoshite.jp^$document
 ||www.riyu-book0079.com^$document
 ||www.rizap.jp^$document
 ||www.rizapgroup.com^$document
+||www.rizinlog.shop^$document
 ||www.rmrs.info^$document
 ||www.rnb.co.jp^$document
 ||www.roboticsafrica.com^$document
@@ -10278,6 +10340,7 @@ fp.no-sheep.org/services##.main
 ||www.wish.com^$document
 ||www.wizcase.com^$document
 ||www.wood365.cn^$document
+||www.word-is-love.blog^$document
 ||www.wowdiy.com^$document
 ||www.wpbackdoor.com^$document
 ||www.wps.com^$document
@@ -10391,6 +10454,7 @@ fp.no-sheep.org/services##.main
 ||xn--elisadiseoenplata-nxb.com^$document
 ||xn--er-573a1isbf1441e2hs87j.jp^$document
 ||xn--fck8b1a7qp98k05a03hlwv22qxml1mdbq2dy65agcf893a.com^$document
+||xn--fx-ki4ape1etb.jp^$document
 ||xn--gckwhn25pncf.net^$document
 ||xn--gmq003b3pfmj.com^$document
 ||xn--gmq86puz2bvpb.xyz^$document
@@ -10480,6 +10544,7 @@ fp.no-sheep.org/services##.main
 ||y3r710.r.eu-west-1.awstrack.me^$document
 ||yachilog.com^$document
 ||yagiasako.com^$document
+||yaguchi39.com^$document
 ||yaho.jpgoodbuy.com^$document
 ||yaimamalife.com^$document
 ||yajiblog12150619.com^$document
@@ -10511,6 +10576,7 @@ fp.no-sheep.org/services##.main
 ||yaroumeshi.vercel.app^$document
 ||yasambasari.com^$document
 ||yasoneuiorsa.xyz^$document
+||yasu-tetu48.com^$document
 ||yasuho-blog.com^$document
 ||yasuragispa.jp^$document
 ||yauyaustyle.com^$document
