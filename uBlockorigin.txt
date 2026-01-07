@@ -611,6 +611,7 @@ fp.no-sheep.org/services##.main
 ||365dni.top^$document
 ||371643.dijifinex.online^$document
 ||37chimama.com^$document
+||37toblog.com^$document
 ||380353.gatecoin.online^$document
 ||38hana.com^$document
 ||38k0sw2c.r.ap-northeast-1.awstrack.me^$document
@@ -680,6 +681,7 @@ fp.no-sheep.org/services##.main
 ||711web.com^$document
 ||7227125.slot47.online^$document
 ||73569.gatecoin.online^$document
+||7376-news.com^$document
 ||74n5c4m7.r.eu-west-1.awstrack.me^$document
 ||7544645.slot27.online^$document
 ||7665329.slot31.online^$document
@@ -912,6 +914,7 @@ fp.no-sheep.org/services##.main
 ||akiraion.com^$document
 ||akita-hachimantai.jp^$document
 ||akitakaoru.com^$document
+||akitamogul.com^$document
 ||akitan117.com^$document
 ||akizakiblog.com^$document
 ||akki-trip.com^$document
@@ -1116,6 +1119,7 @@ fp.no-sheep.org/services##.main
 ||any.run^$document
 ||anzendouga.com^$document
 ||anzhee.ru^$document
+||anzno.com^$document
 ||aoharu-sk.com^$document
 ||aoi-choco.hateblo.jp^$document
 ||aoi-kimono.jp^$document
@@ -1351,6 +1355,7 @@ fp.no-sheep.org/services##.main
 ||azigzyy.cn^$document
 ||azisan.com^$document
 ||azmc.ru^$document
+||azukichi-trend.com^$document
 ||azukimama.com^$document
 ||azukisanchi.xsrv.jp^$document
 ||b-corsairs.bl.kuroco-img.app^$document
@@ -1480,6 +1485,7 @@ fp.no-sheep.org/services##.main
 ||bicycle-select.jp^$document
 ||big-celeb.jp^$document
 ||big-name.blog.ss-blog.jp^$document
+||bigbears28.com^$document
 ||bigbike.jp^$document
 ||bignews77.com^$document
 ||bijyomato.com^$document
@@ -1768,6 +1774,7 @@ fp.no-sheep.org/services##.main
 ||careandglory.uk^$document
 ||careerboost.wpx.jp^$document
 ||careerintern.jp^$document
+||caress.blog^$document
 ||caribbeancomn.jp^$document
 ||carobnibreg.rs^$document
 ||carpenterlifts.online^$document
@@ -2301,6 +2308,7 @@ fp.no-sheep.org/services##.main
 ||diy44taku.com^$document
 ||diysoy.hatenablog.com^$document
 ||djewelonline.com^$document
+||djsouljah.com^$document
 ||djziy.com^$document
 ||dk.mos.ru^$document
 ||dkmrpjcn.life^$document
@@ -2334,6 +2342,7 @@ fp.no-sheep.org/services##.main
 ||docs.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||docs.nvidia.cn^$document
 ||docs.usbx.me^$document
+||doctor-assist.japan-entertainment.mhx.jp^$document
 ||doctor-pie.com^$document
 ||dodongmynghesaigon.com^$document
 ||doga.hikakujoho.com^$document
@@ -2721,6 +2730,7 @@ fp.no-sheep.org/services##.main
 ||erunet.co.jp^$document
 ||erwsiwc.com^$document
 ||es.accountantromania.com^$document
+||escon-fighters.com^$document
 ||esdg.org^$document
 ||espacioapk.com/youtube-revanced^$document
 ||espana.edu.bo^$document
@@ -2908,6 +2918,7 @@ fp.no-sheep.org/services##.main
 ||flower1.xyz^$document
 ||flowerh.work^$document
 ||flutterhq.com^$document
+||flynn.jp^$document
 ||flyqfxzz.property^$document
 ||flywxt.com.cn^$document
 ||fmax7.com^$document
@@ -2994,6 +3005,7 @@ fp.no-sheep.org/services##.main
 ||fuji-non.com^$document
 ||fuji3mame39.com^$document
 ||fujifilm.ru^$document
+||fujimakiryota.jp^$document
 ||fujimoto-boutique.com^$document
 ||fujimotoboutique.com^$document
 ||fujito.info^$document
@@ -3159,6 +3171,7 @@ fp.no-sheep.org/services##.main
 ||geinou-media.com^$document
 ||geinou-now.net^$document
 ||geinou-resistance.info^$document
+||geinou-topic.com^$document
 ||geinou-yumei.com^$document
 ||geinou11.com^$document
 ||geinouaramodo.blog.ss-blog.jp^$document
@@ -3484,6 +3497,7 @@ fp.no-sheep.org/services##.main
 ||happy-happy-news.com^$document
 ||happy-life-style.net^$document
 ||happy-mariring.com^$document
+||happy-partnerlife.com^$document
 ||happyblog.tokyo^$document
 ||happyboatclub.jp^$document
 ||happycock.club^$document
@@ -4532,6 +4546,7 @@ fp.no-sheep.org/services##.main
 ||kurachan1.com^$document
 ||kurakichigelato.jp^$document
 ||kurara-blog.com^$document
+||kurashi-hako.com^$document
 ||kurashi-info.group^$document
 ||kurashi-no.jp^$document
 ||kurashiinfo1.com^$document
@@ -4564,6 +4579,7 @@ fp.no-sheep.org/services##.main
 ||l3melb-taxi.com^$document
 ||la-boulette.com^$document
 ||la-mere-poulard.jp^$document
+||la-perche.jp^$document
 ||laasena.com^$document
 ||lab4g.net^$document
 ||laboomny.com^$document
@@ -5128,6 +5144,7 @@ fp.no-sheep.org/services##.main
 ||merafitness.com^$document
 ||mercari.bibian.co.jp^$document
 ||meringue-web.com^$document
+||mero07.com^$document
 ||merrittturf.com.au^$document
 ||mertonshinnick.com^$document
 ||mesanacionaldevictimas.org^$document
@@ -5405,6 +5422,7 @@ fp.no-sheep.org/services##.main
 ||musee-pla.com^$document
 ||museo.org^$document
 ||music-cinema.net^$document
+||music-life.fun^$document
 ||music.anjunabeats.com^$document
 ||musical-the-agent.jp^$document
 ||musicalight.net^$document
@@ -5471,6 +5489,7 @@ fp.no-sheep.org/services##.main
 ||nako12.com^$document
 ||naltupo-movie.work^$document
 ||namakemono-no-gogai.blog.ss-blog.jp^$document
+||namakemonoyoshi.com^$document
 ||nami55.xyz^$document
 ||namikyoto.com^$document
 ||namine-kairo.jp^$document
@@ -5651,6 +5670,7 @@ fp.no-sheep.org/services##.main
 ||ngo-jvc.info^$document
 ||nh-sports.jp^$document
 ||nhaxephuonganhphanthiet.com^$document
+||nhk-jyoshi.club^$document
 ||nhrenshou.cn^$document
 ||ni.nogomi.ru^$document
 ||nice-voicetraining.com^$document
@@ -6608,6 +6628,7 @@ fp.no-sheep.org/services##.main
 ||pukecco.com^$document
 ||pukesbgu.treasureshotel.com^$document
 ||puntagordagasprices.com^$document
+||puppy-stepbystep.com^$document
 ||puralog.com^$document
 ||puranote.net^$document
 ||purisvhx.treasureshotel.com^$document
@@ -7030,6 +7051,7 @@ fp.no-sheep.org/services##.main
 ||sakura-anpan.net^$document
 ||sakura-diary.com^$document
 ||sakura-moondays.com^$document
+||sakura-sanpo.net^$document
 ||sakura-tokyo.com^$document
 ||sakurasite.net^$document
 ||sakusakuyomi.com^$document
@@ -7136,6 +7158,7 @@ fp.no-sheep.org/services##.main
 ||seiai690152.ocnk.me^$document
 ||seidentest.com^$document
 ||seijikanews.com^$document
+||seijikanojoho.com^$document
 ||seikaku-bon.jp^$document
 ||seikasmemolog.com^$document
 ||seikatu-benri.com^$document
@@ -7683,6 +7706,7 @@ fp.no-sheep.org/services##.main
 ||synergetic.ru^$document
 ||syntaxfix.com^$document
 ||synthesistorren.blog2.fc2.com^$document
+||syokubunka-studio.jp^$document
 ||syokusamen.com^$document
 ||syosetume.wixsite.com^$document
 ||syotiku9910.com^$document
@@ -7715,6 +7739,7 @@ fp.no-sheep.org/services##.main
 ||tabisaki-blog.com^$document
 ||tabishsaroshassociates.org^$document
 ||tabiumiburari.com^$document
+||tabiyahotel.jp^$document
 ||tachibanamama.com^$document
 ||tadanohimatsubushi.com^$document
 ||tadasakan.com^$document
@@ -8171,6 +8196,7 @@ fp.no-sheep.org/services##.main
 ||tsukae.ru^$document
 ||tsuki-ai.co.jp^$document
 ||tsukiakari-boutique.com^$document
+||tsukimiru.com^$document
 ||tsukuhote.jp^$document
 ||tsumuji-kosodate.com^$document
 ||tsunagu.cloud^$document
@@ -9313,6 +9339,7 @@ fp.no-sheep.org/services##.main
 ||www.happymail.mu^$document
 ||www.harmonyhousebnb.com^$document
 ||www.harrywinston.cn^$document
+||www.haruyukiworld.com^$document
 ||www.hashi-okiraku.top^$document
 ||www.haydarpasamun.org^$document
 ||www.he-fumu.com^$document
@@ -9753,6 +9780,7 @@ fp.no-sheep.org/services##.main
 ||www.nkselfdrive.com^$document
 ||www.nliwfyz.cn^$document
 ||www.no.reply.japex.ru^$document
+||www.nobusan1975.com^$document
 ||www.nojima.co.jp^$document
 ||www.noritsubushi.online^$document
 ||www.norte-ii.com^$document
@@ -9769,6 +9797,7 @@ fp.no-sheep.org/services##.main
 ||www.ocgracefulsmiles.com^$document
 ||www.ohcchomesforsale.com^$document
 ||www.oikocredit.jp^$document
+||www.oita-gt.jp^$document
 ||www.okasinakuni.jp^$document
 ||www.okayamacafe.com^$document
 ||www.okaznxq.cn^$document
@@ -10218,6 +10247,7 @@ fp.no-sheep.org/services##.main
 ||www.travelarrow.xyz^$document
 ||www.trend.chocolate-addict.com^$document
 ||www.trendingnews.tokyo^$document
+||www.trendy-life33.com^$document
 ||www.trenink.info^$document
 ||www.tresor.gov.bf^$document
 ||www.tricompany.ru^$document
@@ -10445,6 +10475,7 @@ fp.no-sheep.org/services##.main
 ||xn--7ck4axdc4icb0947dwse.com^$document
 ||xn--98jxb5dua6581cp0kbh0h.com^$document
 ||xn--b9jtjxa7aj6131e.com^$document
+||xn--blog-pb4czf.com^$document
 ||xn--cck5dwcs95z8mb.com^$document
 ||xn--cck5dwcu03uy0yb.com^$document
 ||xn--djrq2jhuioun4o6b.net^$document
@@ -10926,6 +10957,8 @@ fp.no-sheep.org/services##.main
 @@||hostingowy.top^$document
 @@||ibarakirobots.win^document
 @@||iboxs.top^$document
+@@||img.dlsite.jp.cdn.cloudflare.net^$domain=erogamescape.org|erogamescape.dyndns.org
+@@||img.dlsite.jp^$domain=erogamescape.org|erogamescape.dyndns.org
 @@||imxyz.top^$document
 @@||iwayado.toweb.top^$document
 @@||javbee.vip^$document
@@ -11000,5 +11033,3 @@ fp.no-sheep.org/services##.main
 @@||xprime.today^$document
 @@||yggtorrent.top^$document
 @@||zeri-m.top^$document
-@@||img.dlsite.jp.cdn.cloudflare.net^$domain=erogamescape.org|erogamescape.dyndns.org
-@@||img.dlsite.jp^$domain=erogamescape.org|erogamescape.dyndns.org
