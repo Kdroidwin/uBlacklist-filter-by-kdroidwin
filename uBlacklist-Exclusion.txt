@@ -563,3 +563,16 @@
 @*://*.est.cm/*
 @*://*.jps.cm/*
 @*://otome-yubisaki.deri.cm/*
+@*://kiwami.top/*
+@*://maguro.top/*
+@*://golfgear.top/*
+@*://yoshizuya.top/*
+@*://kitaqhitorioya.top/*
+@*://sakura-cl.top/*
+@*://deen-hachinohe.top/*
+@*://www.coolsymbol.top/*
+@*://www.jsdelivr.top/*
+@*://ja.amatorvideok.top/*
+@*://ja.pornici.top/*
+@*://2dfmax.top/*
+@*://yokohama-shirahata.top/*
