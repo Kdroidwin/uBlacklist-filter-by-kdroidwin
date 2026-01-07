@@ -1,5 +1,3 @@
-! Title: Block specific note by Kdroidwin
-! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/0219toton"])
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/0219toton"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/24hs_ksrr44"])
@@ -108,6 +106,8 @@ note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/fit
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/fit_hyssop6243"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/fit_quince2164"])
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/fit_quince2164"])
+note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/fond_clam2634"])
+note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/fond_clam2634"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/fuku_chie"])
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/fuku_chie"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/fukuzou"])
@@ -164,6 +164,8 @@ note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/her
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/herry"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/hirokazumineral"])
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/hirokazumineral"])
+note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/hirotoinfo"])
+note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/hirotoinfo"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/hit_ranking"])
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/hit_ranking"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/hitotsu_ai"])
