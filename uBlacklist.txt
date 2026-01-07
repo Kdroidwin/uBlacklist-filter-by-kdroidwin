@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://airoiseisaku.base.shop/*
-*://note.com/fond_clam2634/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
@@ -808,6 +806,7 @@
 *://ainofujichaku-concert2022.com/*
 *://aiolih2q.virtual-na.org/*
 *://aiolin.com/*
+*://airoiseisaku.base.shop/*
 *://aisaika2022.com/*
 *://aistageup777.com/*
 *://aiuemam-new.com/*
@@ -5642,6 +5641,7 @@
 *://note.com/fine_gerbil9006/*
 *://note.com/fit_hyssop6243/*
 *://note.com/fit_quince2164/*
+*://note.com/fond_clam2634/*
 *://note.com/fuku_chie/*
 *://note.com/fukuzou/*
 *://note.com/gad_hammocchi/*

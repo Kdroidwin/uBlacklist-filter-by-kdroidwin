@@ -878,6 +878,7 @@ fp.no-sheep.org/services##.main
 ||ainofujichaku-concert2022.com^$document
 ||aiolih2q.virtual-na.org^$document
 ||aiolin.com^$document
+||airoiseisaku.base.shop^$document
 ||aisaika2022.com^$document
 ||aistageup777.com^$document
 ||aiuemam-new.com^$document
@@ -5756,6 +5757,7 @@ fp.no-sheep.org/services##.main
 ||note.com/fine_gerbil9006^$document
 ||note.com/fit_hyssop6243^$document
 ||note.com/fit_quince2164^$document
+||note.com/fond_clam2634^$document
 ||note.com/fuku_chie^$document
 ||note.com/fuku_chie^$document
 ||note.com/fukuzou^$document
