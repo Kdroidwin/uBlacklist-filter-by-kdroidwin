@@ -1,10 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://hedgehog.ryukyu/youtube-vanced/*
-*://ameblo.jp/pisu-tabi/*
-*://child.gasemedaka.com/*
-*://yb-taro.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -939,6 +935,7 @@
 *://ameblo.jp/natsumikanoa1324/*
 *://ameblo.jp/nianian0401*
 *://ameblo.jp/nokoarikon/*
+*://ameblo.jp/pisu-tabi/*
 *://ameblo.jp/plus2222/*
 *://ameblo.jp/unarigoe/*
 *://ameblo.jp/uriutsu-123/*
@@ -1786,6 +1783,7 @@
 *://chikanyanta.com/*
 *://chikiyasuibuki1104.com/*
 *://chikiyumi12.com/*
+*://child.gasemedaka.com/*
 *://childrensprograms.whittlesea.ymca.org.au/*
 *://chile6bt.acuhealing.care/*
 *://chill-is-blogger.com/*
@@ -3437,6 +3435,7 @@
 *://healthistanbulgroup.com/*
 *://healthykidshealthyfuture.org/*
 *://heart-made-cafe.info/*
+*://hedgehog.ryukyu/youtube-vanced/*
 *://heibon-heyboom.com/*
 *://heim.jp/*
 *://heipowersystem.com/*
@@ -10343,6 +10342,7 @@
 *://yasuragispa.jp/*
 *://yauyaustyle.com/*
 *://yavartaki.online/*
+*://yb-taro.com/*
 *://ybe5vxl.madietamoi.fr/*
 *://ydenki.jp/*
 *://ydmblog.com/*
