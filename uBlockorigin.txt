@@ -11000,3 +11000,5 @@ fp.no-sheep.org/services##.main
 @@||xprime.today^$document
 @@||yggtorrent.top^$document
 @@||zeri-m.top^$document
+@@||img.dlsite.jp.cdn.cloudflare.net^$domain=erogamescape.org|erogamescape.dyndns.org
+@@||img.dlsite.jp^$domain=erogamescape.org|erogamescape.dyndns.org
