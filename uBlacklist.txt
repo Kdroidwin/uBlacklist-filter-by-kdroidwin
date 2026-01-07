@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://airoiseisaku.base.shop/*
+*://note.com/fond_clam2634/*
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
