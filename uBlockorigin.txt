@@ -9781,7 +9781,6 @@ fp.no-sheep.org/services##.main
 ||www.nliwfyz.cn^$document
 ||www.no.reply.japex.ru^$document
 ||www.nobusan1975.com^$document
-||www.nojima.co.jp^$document
 ||www.noritsubushi.online^$document
 ||www.norte-ii.com^$document
 ||www.noureldin-lawfirm.com^$document
