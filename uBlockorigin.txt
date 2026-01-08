@@ -7583,7 +7583,6 @@ fp.no-sheep.org/services##.main
 ||storypick.net^$document
 ||storyweb.jp^$document
 ||strategydata.cn^$document
-||streamlit.app^$document
 ||streamrental.com^$document
 ||strongcorner.net^$document
 ||strufin.in^$document
