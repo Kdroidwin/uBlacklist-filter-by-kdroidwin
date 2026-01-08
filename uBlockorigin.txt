@@ -195,6 +195,8 @@
 /^https?:\/\/[^\/]+\.linkedin\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.loan\/?$/$document
 /^https?:\/\/[^\/]+\.lovelivematocha\.com\/?$/$document
+/@/$document
+/%40/$document
 /^https?:\/\/[^\/]+\.ma\/?$/$document
 /^https?:\/\/[^\/]+\.majikichi\.com\/?$/$document
 /^https?:\/\/[^\/]+\.makoto5711\.blog\.jp\/?$/$document
