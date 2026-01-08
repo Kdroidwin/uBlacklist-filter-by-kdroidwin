@@ -7442,7 +7442,6 @@
 *://storypick.net/*
 *://storyweb.jp/*
 *://strategydata.cn/*
-*://streamlit.app/*
 *://streamrental.com/*
 *://strongcorner.net/*
 *://strufin.in/*
