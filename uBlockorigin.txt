@@ -3150,7 +3150,6 @@ fp.no-sheep.org/services##.main
 ||gekkan-bushi.com^$document
 ||gekkanmensphysique.com^$document
 ||gemala.me^$document
-||gen.paramore.su^$document
 ||gen51.net^$document
 ||genalphaup.com^$document
 ||gendai-torendo.online^$document
@@ -9227,7 +9226,6 @@ fp.no-sheep.org/services##.main
 ||www.gekiura.press^$document
 ||www.gemkok.com^$document
 ||www.generacodice.com^$document
-||www.genp.tech^$document
 ||www.gequbao.flashlyrics.com^$document
 ||www.gerexpanama.net^$document
 ||www.geriatricseniorresources.com^$document
