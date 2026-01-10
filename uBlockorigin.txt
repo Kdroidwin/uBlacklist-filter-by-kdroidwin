@@ -5088,7 +5088,7 @@ fp.no-sheep.org/services##.main
 ||memomalog.com^$document
 ||memorog.com^$document
 ||memorylane-media.com^$document
-||men^$document,from=~inosho.men|~klmanga.men|~konaken.men|~nobushi.men|~oldergay.men|~www.brei.men|~kaikai.men|~hgame.men|~honban.men|~soutong.men|~edlab.men|~stmen.men
+||men^$document,from=~inosho.men|~klmanga.men|~konaken.men|~nobushi.men|~oldergay.men|~www.brei.men|~kaikai.men|~hgame.men|~honban.men|~soutong.men|~edlab.men|~stmen.men|~meeh-meeh.men|~konjiki-tamago.men|~langtang.men|~galanterie.men|~www.sasaki-sei.men
 ||menbouyuzu.hatenablog.com^$document
 ||mendakonews.com^$document
 ||menrybe.buzz^$document
