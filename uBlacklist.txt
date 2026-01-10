@@ -3115,7 +3115,6 @@
 *://gekkan-bushi.com/*
 *://gekkanmensphysique.com/*
 *://gemala.me/*
-*://gen.paramore.su/*
 *://gen51.net/*
 *://genalphaup.com/*
 *://gendai-torendo.online/*
@@ -9131,7 +9130,6 @@
 *://www.gekiura.press/*
 *://www.gemkok.com/*
 *://www.generacodice.com/*
-*://www.genp.tech/*
 *://www.gequbao.flashlyrics.com/*
 *://www.gerexpanama.net/*
 *://www.geriatricseniorresources.com/*
