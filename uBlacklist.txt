@@ -1,23 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://abiko-football.jp/*
-*://vod365.net/*
-*://vpn-info.jp/*
-*://gadge-taku.com/osusume-android-apps/*
-*://*.apktodo.io/*
-*://*.apk.dog/*
-*://apkmody.com/*
-*://getmodsapk.com/*
-*://apkhome.net/*
-*://www.getmodsapk.cc/*
-*://apk20.com/*
-*://www.apkrogue.com/*
-*://androidiapk.com/*
-*://apkfolks.com/*
-*://apkvision.org/*
-*://natflixmod.com/*
-*://moonflowermarker.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -33,6 +16,8 @@
 *://*.amazon.com.vn/*
 *://*.ambiify.cards/*
 *://*.anige-sokuhouvip.com/*
+*://*.apk.dog/*
+*://*.apktodo.io/*
 *://*.apple.com.vn/*
 *://*.arip-photo.org/*
 *://*.asterisk0.jp/*
@@ -713,6 +698,7 @@
 *://abe3-blog.com/*
 *://abeyuto.com/*
 *://abidaliawan.me/*
+*://abiko-football.jp/*
 *://abnb.me/*
 *://about-the-person.com/*
 *://abs7.ru/*
@@ -988,6 +974,7 @@
 *://android.hehezhou.cn/*
 *://androidapp.jp.net/*
 *://androidappsapk.co/*
+*://androidiapk.com/*
 *://androidnext.info/*
 *://androidos.net.cn/*
 *://androidsmart.github.io/*
@@ -1084,6 +1071,7 @@
 *://apil3.org/*
 *://apk.dog/*
 *://apk.tools/*
+*://apk20.com/*
 *://apk4free.net/*
 *://apkcombo.com/*
 *://apkcombo.com/ja/revanced/*
@@ -1094,9 +1082,12 @@
 *://apkdone.com/*
 *://apkdownloadforwindows.com/*
 *://apkfab.com/*
+*://apkfolks.com/*
+*://apkhome.net/*
 *://apklite.me/youtube-revanced-apk/*
 *://apkmb.com/*
 *://apkmodget.com/*
+*://apkmody.com/*
 *://apkmody.com/apps/youtube-revanced*
 *://apkmos.com/*
 *://apkpure.com/revanced-extended/*
@@ -1106,6 +1097,7 @@
 *://apksfull.com/*
 *://apksim.com/*
 *://apktodo.io/*
+*://apkvision.org/*
 *://app-games-casmanuus.xyz/*
 *://app-games-outrundersele.xyz/*
 *://app-info.xyz/*
@@ -3011,6 +3003,7 @@
 *://g2015graman.top/*
 *://g2c28wr.onlinetanke.de/*
 *://g2mo30u9g.birralafirm.it/*
+*://gadge-taku.com/osusume-android-apps/*
 *://gadgeski.hatenablog.com/*
 *://gadget-app.com/*
 *://gadget-choice.net/*
@@ -3149,6 +3142,7 @@
 *://getbt.blog.2nt.com/*
 *://getintopc.com/*
 *://getintopc.me/*
+*://getmodsapk.com/*
 *://getmodsapk.com/youtube-revanced-extended-mod-apk/*
 *://getuug.net/*
 *://geumsz31.gabrans.com/*
@@ -5265,6 +5259,7 @@
 *://mook.the-moon.xyz/*
 *://moominmamma.com/*
 *://moon-calendar.jp/*
+*://moonflowermarker.com/*
 *://moonkoradjirecords.bandcamp.com/*
 *://moosic-lab.com/*
 *://moov.ooo/*
@@ -5446,6 +5441,7 @@
 *://natchy.jp/*
 *://nate-hospital.com/*
 *://natflixapk.com/*
+*://natflixmod.com/*
 *://nathie.ec/*
 *://nationwideflatbedshippers.com/*
 *://natslife1002.com/*
@@ -8311,6 +8307,7 @@
 *://vod-memonet.com/*
 *://vod-site.org/*
 *://vod.animegaphone.jp/*
+*://vod365.net/*
 *://vodafone.uk/*
 *://vodinsights.com/*
 *://vodmino.net/*
@@ -8323,6 +8320,7 @@
 *://voxmovies.net/*
 *://voyderuta.com/*
 *://vplayer.onelink.me/*
+*://vpn-info.jp/*
 *://vpn-magazine.com/*
 *://vpn-sensei.com/*
 *://vpn.hikakusite.co.jp/*
@@ -8677,6 +8675,7 @@
 *://www.aoimori-norin.jp/*
 *://www.aoritsuito.com/*
 *://www.apk3.com/*
+*://www.apkrogue.com/*
 *://www.apkturbo.com/*
 *://www.appbank.net/*
 *://www.appbank.net/app-rank/useful/vpn-app*
@@ -9140,6 +9139,7 @@
 *://www.getback-okayama.jp/*
 *://www.getintomac.net/*
 *://www.getkmspico.com/*
+*://www.getmodsapk.cc/*
 *://www.getspeedy.io/*
 *://www.gevtmmv.cn/*
 *://www.ggg-channel.com/*

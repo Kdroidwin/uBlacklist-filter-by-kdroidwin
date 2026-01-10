@@ -714,6 +714,7 @@ fp.no-sheep.org/services##.main
 ||abe3-blog.com^$document
 ||abeyuto.com^$document
 ||abidaliawan.me^$document
+||abiko-football.jp^$document
 ||abnb.me^$document
 ||about-the-person.com^$document
 ||abs7.ru^$document
@@ -993,6 +994,7 @@ fp.no-sheep.org/services##.main
 ||android.hehezhou.cn^$document
 ||androidapp.jp.net^$document
 ||androidappsapk.co^$document
+||androidiapk.com^$document
 ||androidnext.info^$document
 ||androidos.net.cn^$document
 ||androidsmart.github.io^$document
@@ -1090,6 +1092,7 @@ fp.no-sheep.org/services##.main
 ||apil3.org^$document
 ||apk.dog^$document
 ||apk.tools^$document
+||apk20.com^$document
 ||apk4free.net^$document
 ||apkcombo.com/ja/revanced^$document
 ||apkcombo.com^$document
@@ -1100,10 +1103,13 @@ fp.no-sheep.org/services##.main
 ||apkdone.com^$document
 ||apkdownloadforwindows.com^$document
 ||apkfab.com^$document
+||apkfolks.com^$document
+||apkhome.net^$document
 ||apklite.me/youtube-revanced-apk^$document
 ||apkmb.com^$document
 ||apkmodget.com^$document
 ||apkmody.com/apps/youtube-revanced^$document
+||apkmody.com^$document
 ||apkmos.com^$document
 ||apkpure.com/revanced-extended^$document
 ||apkpure.com/youtube-revanced^$document
@@ -1112,6 +1118,7 @@ fp.no-sheep.org/services##.main
 ||apksfull.com^$document
 ||apksim.com^$document
 ||apktodo.io^$document
+||apkvision.org^$document
 ||app-games-casmanuus.xyz^$document
 ||app-games-outrundersele.xyz^$document
 ||app-info.xyz^$document
@@ -3031,6 +3038,7 @@ fp.no-sheep.org/services##.main
 ||g2015graman.top^$document
 ||g2c28wr.onlinetanke.de^$document
 ||g2mo30u9g.birralafirm.it^$document
+||gadge-taku.com/osusume-android-apps^$document
 ||gadgeski.hatenablog.com^$document
 ||gadget-app.com^$document
 ||gadget-choice.net^$document
@@ -3170,6 +3178,7 @@ fp.no-sheep.org/services##.main
 ||getintopc.com^$document
 ||getintopc.me^$document
 ||getmodsapk.com/youtube-revanced-extended-mod-apk^$document
+||getmodsapk.com^$document
 ||getuug.net^$document
 ||geumsz31.gabrans.com^$document
 ||gezumi.jp^$document
@@ -5053,8 +5062,8 @@ fp.no-sheep.org/services##.main
 ||medishirube.com^$document
 ||medistusltd.com^$document
 ||medlinklabs.com^$document
-||meetsmore.com/product-services/vpn^$document
 ||meetsmore.com/product-services/vpn/media/141003^$document
+||meetsmore.com/product-services/vpn^$document
 ||meg2525.com^$document
 ||megabot.vn^$document
 ||megaone.one^$document
@@ -5301,6 +5310,7 @@ fp.no-sheep.org/services##.main
 ||mook.the-moon.xyz^$document
 ||moominmamma.com^$document
 ||moon-calendar.jp^$document
+||moonflowermarker.com^$document
 ||moonkoradjirecords.bandcamp.com^$document
 ||moosic-lab.com^$document
 ||moov.ooo^$document
@@ -5483,6 +5493,7 @@ fp.no-sheep.org/services##.main
 ||natchy.jp^$document
 ||nate-hospital.com^$document
 ||natflixapk.com^$document
+||natflixmod.com^$document
 ||nathie.ec^$document
 ||nationwideflatbedshippers.com^$document
 ||natslife1002.com^$document
@@ -8390,6 +8401,7 @@ fp.no-sheep.org/services##.main
 ||vod-memonet.com^$document
 ||vod-site.org^$document
 ||vod.animegaphone.jp^$document
+||vod365.net^$document
 ||vodafone.uk^$document
 ||vodinsights.com^$document
 ||vodmino.net^$document
@@ -8402,6 +8414,7 @@ fp.no-sheep.org/services##.main
 ||voxmovies.net^$document
 ||voyderuta.com^$document
 ||vplayer.onelink.me^$document
+||vpn-info.jp^$document
 ||vpn-magazine.com^$document
 ||vpn-sensei.com^$document
 ||vpn.hikakusite.co.jp^$document
@@ -8755,6 +8768,7 @@ fp.no-sheep.org/services##.main
 ||www.aoimori-norin.jp^$document
 ||www.aoritsuito.com^$document
 ||www.apk3.com^$document
+||www.apkrogue.com^$document
 ||www.apkturbo.com^$document
 ||www.appbank.net/app-rank/useful/vpn-app^$document
 ||www.appbank.net^$document
@@ -8850,6 +8864,7 @@ fp.no-sheep.org/services##.main
 ||www.blstweb.jp^$document
 ||www.blue-fitness24.com^$document
 ||www.blueoceandesignsbywalt.com^$document
+||www.bluestacks.com/*/apps^$document
 ||www.bluestacks.com//apps^$document
 ||www.bluestacks.com/apps^$document
 ||www.bmacarolinas.org^$document
@@ -9220,6 +9235,7 @@ fp.no-sheep.org/services##.main
 ||www.getback-okayama.jp^$document
 ||www.getintomac.net^$document
 ||www.getkmspico.com^$document
+||www.getmodsapk.cc^$document
 ||www.getspeedy.io^$document
 ||www.gevtmmv.cn^$document
 ||www.ggg-channel.com^$document
@@ -9929,8 +9945,8 @@ fp.no-sheep.org/services##.main
 ||www.roboticsafrica.com^$document
 ||www.rockajaponica.com^$document
 ||www.rocketflush.vip^$document
-||www.rockmods.net/2022/06/YouTubeReVanced.html^$document
 ||www.rockmods.net/2022/06/YouTubeReVanced.html?m=1^$document
+||www.rockmods.net/2022/06/YouTubeReVanced.html^$document
 ||www.rocs-project.org^$document
 ||www.rogerdubuis.cn^$document
 ||www.rogervivier.cn^$document
