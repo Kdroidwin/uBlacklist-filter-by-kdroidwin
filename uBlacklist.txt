@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://geinou-top.com/*
-*://www.potamus.tech/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -3094,6 +3092,7 @@
 *://geinou-media.com/*
 *://geinou-now.net/*
 *://geinou-resistance.info/*
+*://geinou-top.com/*
 *://geinou-topic.com/*
 *://geinou-yumei.com/*
 *://geinou11.com/*
@@ -9745,6 +9744,7 @@
 *://www.popculturepulse.website/*
 *://www.porsche.cn/*
 *://www.positiveaction.info/*
+*://www.potamus.tech/*
 *://www.powaisaipooja.com/*
 *://www.powerautomate.cn/*
 *://www.pplmw.cn/*

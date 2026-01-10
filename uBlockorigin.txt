@@ -106,7 +106,6 @@
 /^https?:\/\/[^\/]+\.goog\/?$/$document
 /^https?:\/\/[^\/]+\.gossip1\.net\/?$/$document
 /^https?:\/\/[^\/]+\.gq\/?$/$document
-||hair^$doc,domain=~cattleya.hair|~uppercutdeluxe.hair|~soeur.hair|~hibi.hair|~frames.hair|~dorado.hair|~kiari.hair|~merry.hair|~carne.hair|~jako.hair|~isshy.hair|~cutkozo.hair|~roost.hair|~rutile.hair|~boiboi.hair|~erucala.hair|~haru.hair|~relive.hair|~mic.hair|~remilio.hair|~shiozawa.hair|~kema.hair|~www.sisi.hair|~www.blanca.hair|~kami-byoin.hair|~soleil.hair|~and-b.hair|~cut-jun.hair|~azzurri.hair|~www.success.hair|~nuu.hair|~hairroom-union.hair|~www.mauve.hair|~www.fivestar.hair|~www.azto.hair|~c-and.hair|~yuit.hair|~www.coco-2023.hair|~www.plus-moi.hair|~melon.salo.hair|~filer.salo.hair|~www.toh.hair|~lucas.salo.hair|~rebirth.hair|~www.lovest-kyoto.hair|~www.kamikiriya-kuro.hair|~mine.salo.hair|~tender.hair|~www.tender.hair|~elmo.hair|~kanaeru.hair|~wim.hair|~hadient.hair|~maisha.hair|~smilecc.hair|~jav.hair
 /^https?:\/\/[^\/]+\.haisoku\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.hamusoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.himasoku\.com\/?$/$document
@@ -1345,7 +1344,6 @@ fp.no-sheep.org/services##.main
 ||banka-movie.com^$document
 ||bar-ryuk.com^$document
 ||bareboat.tips^$document
-||win^$doc,domain=~greenfighters.win|~robotstimes.win|~everwin.win|~yeahnasumi.win|~togoigaku.win|~eda.win|~bullpen.win|~takumilight.win|~kuds.win|~hanabishi.win|~tsukuba-hakone.win|~www.fukurou.win|~tm-works.win|~www.sourire.win|~www.ibarakirobots.win|~mikuverse.win|~nikke.win|~web.kymg.win|~mcsv.win|~rthost.win|~hakurei.win|~2048game.win|~godk.win|~nanba-koumuten.win|~starlightprincess.win|~rankup.win|~dogsalon.win|~fp-kwm.win|~www.senkyo.win|~www.i-t.win|~kymg.win|~www.t-kfc.win|~www.forrexlapis.win|~aosuns.win
 ||barerl64.bizandleisure.com^$document
 ||bargelloperfume.shop^$document
 ||barrioantiguomex.com^$document
@@ -3126,6 +3124,7 @@ fp.no-sheep.org/services##.main
 ||geinou-media.com^$document
 ||geinou-now.net^$document
 ||geinou-resistance.info^$document
+||geinou-top.com^$document
 ||geinou-topic.com^$document
 ||geinou-yumei.com^$document
 ||geinou11.com^$document
@@ -3394,6 +3393,7 @@ fp.no-sheep.org/services##.main
 ||hai-kai.com^$document
 ||haibandvd.com^$document
 ||haikara-syokudo.jp^$document
+||hair^$doc,domain=~cattleya.hair|~uppercutdeluxe.hair|~soeur.hair|~hibi.hair|~frames.hair|~dorado.hair|~kiari.hair|~merry.hair|~carne.hair|~jako.hair|~isshy.hair|~cutkozo.hair|~roost.hair|~rutile.hair|~boiboi.hair|~erucala.hair|~haru.hair|~relive.hair|~mic.hair|~remilio.hair|~shiozawa.hair|~kema.hair|~www.sisi.hair|~www.blanca.hair|~kami-byoin.hair|~soleil.hair|~and-b.hair|~cut-jun.hair|~azzurri.hair|~www.success.hair|~nuu.hair|~hairroom-union.hair|~www.mauve.hair|~www.fivestar.hair|~www.azto.hair|~c-and.hair|~yuit.hair|~www.coco-2023.hair|~www.plus-moi.hair|~melon.salo.hair|~filer.salo.hair|~www.toh.hair|~lucas.salo.hair|~rebirth.hair|~www.lovest-kyoto.hair|~www.kamikiriya-kuro.hair|~mine.salo.hair|~tender.hair|~www.tender.hair|~elmo.hair|~kanaeru.hair|~wim.hair|~hadient.hair|~maisha.hair|~smilecc.hair|~jav.hair
 ||hairandthere.frontwp.no^$document
 ||haisoku.jp^$document
 ||haitenjp.com.cutestat.com^$document
@@ -8553,6 +8553,7 @@ fp.no-sheep.org/services##.main
 ||wiketrend77.hatenablog.com^$document
 ||wilkoclosing.com^$document
 ||win10.au^$document
+||win^$doc,domain=~greenfighters.win|~robotstimes.win|~everwin.win|~yeahnasumi.win|~togoigaku.win|~eda.win|~bullpen.win|~takumilight.win|~kuds.win|~hanabishi.win|~tsukuba-hakone.win|~www.fukurou.win|~tm-works.win|~www.sourire.win|~www.ibarakirobots.win|~mikuverse.win|~nikke.win|~web.kymg.win|~mcsv.win|~rthost.win|~hakurei.win|~2048game.win|~godk.win|~nanba-koumuten.win|~starlightprincess.win|~rankup.win|~dogsalon.win|~fp-kwm.win|~www.senkyo.win|~www.i-t.win|~kymg.win|~www.t-kfc.win|~www.forrexlapis.win|~aosuns.win
 ||wind2016.seesaa.net^$document
 ||windows-10-permanent-activator-ultimate.software.informer.com^$document
 ||windows-and-office-iso-downloader-premium-2021-2-2.updatestar.com^$document
@@ -9844,6 +9845,7 @@ fp.no-sheep.org/services##.main
 ||www.popculturepulse.website^$document
 ||www.porsche.cn^$document
 ||www.positiveaction.info^$document
+||www.potamus.tech^$document
 ||www.powaisaipooja.com^$document
 ||www.powerautomate.cn^$document
 ||www.pplmw.cn^$document
