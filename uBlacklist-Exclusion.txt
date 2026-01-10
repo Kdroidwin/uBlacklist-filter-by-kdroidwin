@@ -584,3 +584,7 @@
 @*://moritake.sbs/*
 @*://hiroruri.sbs/*
 @*://sitterservice-beyond.sbs/*
+@*://sitterservice-beyond.sbs/*
+@*://airbnb-o-hama.sbs/*
+@*://javbus.sbs/*
+@*://www.jilewangchao.sbs/*
