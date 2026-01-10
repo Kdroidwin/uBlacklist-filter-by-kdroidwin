@@ -3756,7 +3756,7 @@ fp.no-sheep.org/services##.main
 ||icoico.jp^$document
 ||icpictokyo.jp^$document
 ||icrrvbuy.education^$document
-||icu^$doc,domain=~iroiro.icu|~masaki.icu
+||icu^$doc,domain=~iroiro.icu|~masaki.icu|~orthopedic.icu|~honesty.icu|~culture.icu|~momoblog.icu|~www.axistechnologies.icu|~www.catalogue.icu|~aoi-gadget.icu|~www.chuo-medicalcl.icu|~www.e-hoiku.icu|~triplog.icu|~idol-seifuku.icu|~morian.icu|~www.tomoe.icu|~www.accessmaji.icu
 ||idea-noto.com^$document
 ||idobata-salon.com^$document
 ||idobata1.com^$document
