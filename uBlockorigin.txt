@@ -87,7 +87,6 @@
 /^https?:\/\/[^\/]+\.efire\-matome\.com\/?$/$document
 /^https?:\/\/[^\/]+\.enamae\.net\/?$/$document
 /^https?:\/\/[^\/]+\.englishconversationcoaching\.hatenablog\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.facebook\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.fesoku\.net\/?$/$document
 /^https?:\/\/[^\/]+\.fileplanet\.com\/?$/$document
 /^https?:\/\/[^\/]+\.filkhabr\.com\/?$/$document
@@ -107,7 +106,7 @@
 /^https?:\/\/[^\/]+\.goog\/?$/$document
 /^https?:\/\/[^\/]+\.gossip1\.net\/?$/$document
 /^https?:\/\/[^\/]+\.gq\/?$/$document
-/^https?:\/\/[^\/]+\.hair\/?$/$document
+||hair^$doc,domain=~cattleya.hair|~uppercutdeluxe.hair|~soeur.hair|~hibi.hair|~frames.hair|~dorado.hair|~kiari.hair|~merry.hair|~carne.hair|~jako.hair|~isshy.hair|~cutkozo.hair|~roost.hair|~rutile.hair|~boiboi.hair|~erucala.hair|~haru.hair|~relive.hair|~mic.hair|~remilio.hair|~shiozawa.hair|~kema.hair|~www.sisi.hair|~www.blanca.hair|~kami-byoin.hair|~soleil.hair|~and-b.hair|~cut-jun.hair|~azzurri.hair|~www.success.hair|~nuu.hair|~hairroom-union.hair|~www.mauve.hair|~www.fivestar.hair|~www.azto.hair|~c-and.hair|~yuit.hair|~www.coco-2023.hair|~www.plus-moi.hair|~melon.salo.hair|~filer.salo.hair|~www.toh.hair|~lucas.salo.hair|~rebirth.hair|~www.lovest-kyoto.hair|~www.kamikiriya-kuro.hair|~mine.salo.hair|~tender.hair|~www.tender.hair|~elmo.hair|~kanaeru.hair|~wim.hair|~hadient.hair|~maisha.hair|~smilecc.hair|~jav.hair
 /^https?:\/\/[^\/]+\.haisoku\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.hamusoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.himasoku\.com\/?$/$document
@@ -415,7 +414,6 @@
 /^https?:\/\/[^\/]+\.whereismyanswer\.com\/?$/$document
 /^https?:\/\/[^\/]+\.while\-do\.com\/?$/$document
 /^https?:\/\/[^\/]+\.willbe07\.blog\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.win\/?$/$document
 /^https?:\/\/[^\/]+\.windowsbulletin\.com\/?$/$document
 /^https?:\/\/[^\/]+\.wl\.co\/?$/$document
 /^https?:\/\/[^\/]+\.workers\.dev\/?$/$document
@@ -1347,6 +1345,7 @@ fp.no-sheep.org/services##.main
 ||banka-movie.com^$document
 ||bar-ryuk.com^$document
 ||bareboat.tips^$document
+||win^$doc,domain=~greenfighters.win|~robotstimes.win|~everwin.win|~yeahnasumi.win|~togoigaku.win|~eda.win|~bullpen.win|~takumilight.win|~kuds.win|~hanabishi.win|~tsukuba-hakone.win|~www.fukurou.win|~tm-works.win|~www.sourire.win|~www.ibarakirobots.win|~mikuverse.win|~nikke.win|~web.kymg.win|~mcsv.win|~rthost.win|~hakurei.win|~2048game.win|~godk.win|~nanba-koumuten.win|~starlightprincess.win|~rankup.win|~dogsalon.win|~fp-kwm.win|~www.senkyo.win|~www.i-t.win|~kymg.win|~www.t-kfc.win|~www.forrexlapis.win|~aosuns.win
 ||barerl64.bizandleisure.com^$document
 ||bargelloperfume.shop^$document
 ||barrioantiguomex.com^$document
