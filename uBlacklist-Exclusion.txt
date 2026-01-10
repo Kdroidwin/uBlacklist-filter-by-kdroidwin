@@ -576,3 +576,8 @@
 @*://ja.pornici.top/*
 @*://2dfmax.top/*
 @*://yokohama-shirahata.top/*
+@*://meeh-meeh.men/*
+@*://konjiki-tamago.men/*
+@*://moritake.sbs/*
+@*://hiroruri.sbs/*
+@*://sitterservice-beyond.sbs/*
