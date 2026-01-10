@@ -49,7 +49,7 @@
 /^https?:\/\/[^\/]+\.bd\/?$/$document
 /^https?:\/\/[^\/]+\.beauty\/?$/$document
 /^https?:\/\/[^\/]+\.bi\/?$/$document
-/^https?:\/\/[^\/]+\.bid\/?$/$document
+||bid^$doc,domain=~www.smilenw.bid
 /^https?:\/\/[^\/]+\.bigbike\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.bipblog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.bitdefenderantivirus\.jp\/?$/$document
