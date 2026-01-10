@@ -54,7 +54,6 @@
 /^https?:\/\/[^\/]+\.bipblog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.bitdefenderantivirus\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.bitubu\.blog\.jp\/?$/$document
-/^https?:\/\/[^\/]+\
 /^https?:\/\/[^\/]+\.brow2ing\.com\/?$/$document
 /^https?:\/\/[^\/]+\.burusoku\-vip\.com\/?$/$document
 /^https?:\/\/[^\/]+\.carnival00inkochi\.jp\/?$/$document
