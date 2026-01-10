@@ -7082,7 +7082,7 @@ fp.no-sheep.org/services##.main
 ||sbenny.com^$document
 ||sber.me^$document
 ||sblog51.net^$document
-||sbs^$doc,domain=~tomandjerry.sbs|~trend-japan.sbs|~kemono.sbs|~tohokamiemitame.sbs|~manyouwo.sbs|~www.muzyl11.sbs|~zzb06.sbs|~www.zoucili.sbs|~wjyy498125.sbs|~www.abb1.sbs|~aaa.bm11.sbs|~aidou.henhenlu.sbs|~www.avesns3.sbs|~www.abb5.sbs|~zhfop.sbs|~awqjyn100.sbs
+||sbs^$doc,domain=~tomandjerry.sbs|~trend-japan.sbs|~kemono.sbs|~tohokamiemitame.sbs|~manyouwo.sbs|~www.muzyl11.sbs|~zzb06.sbs|~www.zoucili.sbs|~wjyy498125.sbs|~www.abb1.sbs|~aaa.bm11.sbs|~aidou.henhenlu.sbs|~www.avesns3.sbs|~www.abb5.sbs|~zhfop.sbs|~awqjyn100.sbs|~moritake.sbs|~hiroruri.sbs|~sitterservice-beyond.sbs|~airbnb-o-hama.sbs|~javbus.sbs|~www.jilewangchao.sbs
 ||scaleqa.com^$document
 ||scarystories.jp^$document
 ||schnaeppchenscout.com^$document
