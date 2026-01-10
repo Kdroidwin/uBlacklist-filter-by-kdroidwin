@@ -578,6 +578,9 @@
 @*://yokohama-shirahata.top/*
 @*://meeh-meeh.men/*
 @*://konjiki-tamago.men/*
+@*://langtang.men/*
+@*://galanterie.men/*
+@*://www.sasaki-sei.men/*
 @*://moritake.sbs/*
 @*://hiroruri.sbs/*
 @*://sitterservice-beyond.sbs/*
