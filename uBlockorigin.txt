@@ -49,7 +49,6 @@
 /^https?:\/\/[^\/]+\.bd\/?$/$document
 /^https?:\/\/[^\/]+\.beauty\/?$/$document
 /^https?:\/\/[^\/]+\.bi\/?$/$document
-||bid^$doc,domain=~www.smilenw.bid
 /^https?:\/\/[^\/]+\.bigbike\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.bipblog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.bitdefenderantivirus\.jp\/?$/$document
@@ -1419,6 +1418,7 @@ fp.no-sheep.org/services##.main
 ||bibitobleague.club^$document
 ||bibri.com^$document
 ||bicycle-select.jp^$document
+||bid^$doc,domain=~www.smilenw.bid
 ||big-celeb.jp^$document
 ||big-name.blog.ss-blog.jp^$document
 ||bigbears28.com^$document
