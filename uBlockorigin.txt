@@ -473,7 +473,7 @@ fp.no-sheep.org/services##.main
 ||1fd.online^$document
 ||1geireki.com^$document
 ||1l5nbj1.cn^$document
-||1link.jp^$document
+||1link.jp/gofiilee^$document
 ||1m7z6nzzl.nordic-walking-schule-brita-becker.de^$document
 ||1mcl.xyz^$document
 ||1mmsusumu.com^$document
