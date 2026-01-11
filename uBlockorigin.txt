@@ -57,7 +57,6 @@
 /^https?:\/\/[^\/]+\.chaos2ch\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ci\/?$/$document
 /^https?:\/\/[^\/]+\.cloudflare\.com\.vn\/?$/$document
-||co.za^
 ||co-jp.com^
 /^https?:\/\/[^\/]+\.coromoo\.com\/?$/$document
 /^https?:\/\/[^\/]+\.crx7601\.com\/?$/$document
