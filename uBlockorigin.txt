@@ -37,9 +37,6 @@
 /^https?:\/\/[^\/]+\.amazon\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.amprime\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.anige\-sokuhouvip\.com\/?$/$document
-/^https?:\/\/[^\/]+\.apk\.dog\/?$/$document
-/^https?:\/\/[^\/]+\.apktodo\.io\/?$/$document
-/^https?:\/\/[^\/]+\.apple\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.asterisk0\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.asusno22\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.atlaq\.com\/?$/$document
