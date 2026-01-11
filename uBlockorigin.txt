@@ -23,7 +23,6 @@
 /^https?:\/\/[^\/]+\.000webhostapp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.2chcopipe\.com\/?$/$document
 /^https?:\/\/[^\/]+\.a3erf\.com\/?$/$document
-||ad^$document,from=~unicef.ad|~penguin.ad|~onlinenotep.ad|~mcb.ad|~creandfundacio.ad|~bus.ad|~odiseo.ad|~ior.ad|~chalk.ad|~museucarmenthyssenandorra.ad|~hiverinfini.ad|~iad.ad
 /^https?:\/\/[^\/]+\.adobe\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.ahh1008\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.aiarty\.com\/?$/$document
@@ -43,8 +42,6 @@
 /^https?:\/\/[^\/]+\.ayacnews2nd\.com\/?$/$document
 /^https?:\/\/[^\/]+\.baby\/?$/$document
 /^https?:\/\/[^\/]+\.bcqqvtlk\.property\/?$/$document
-||bd^$document
-||bi^$document
 /^https?:\/\/[^\/]+\.beauty\/?$/$document
 /^https?:\/\/[^\/]+\.bigbike\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.bipblog\.com\/?$/$document
@@ -55,9 +52,7 @@
 /^https?:\/\/[^\/]+\.carnival00inkochi\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.cd\/?$/$document
 /^https?:\/\/[^\/]+\.chaos2ch\.com\/?$/$document
-||ci^$document
 /^https?:\/\/[^\/]+\.cloudflare\.com\.vn\/?$/$document
-||co-jp.com^
 /^https?:\/\/[^\/]+\.coromoo\.com\/?$/$document
 /^https?:\/\/[^\/]+\.crx7601\.com\/?$/$document
 /^https?:\/\/[^\/]+\.dj\/?$/$document
@@ -81,10 +76,7 @@
 /^https?:\/\/[^\/]+\.gekka\-bunko\.com\/?$/$document
 /^https?:\/\/[^\/]+\.girlsreport\.net\/?$/$document
 /^https?:\/\/[^\/]+\.girlsvip\-matome\.com\/?$/$document
-||gm^$document
-||goog^$document,from=~partneradvantage.goog
 /^https?:\/\/[^\/]+\.gossip1\.net\/?$/$document
-||gq^$document
 /^https?:\/\/[^\/]+\.haisoku\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.hamusoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.himasoku\.com\/?$/$document
@@ -94,7 +86,6 @@
 /^https?:\/\/[^\/]+\.huat\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.icrt\.cu\/?$/$document
 /^https?:\/\/[^\/]+\.idol\-jolt\.com\/?$/$document
-||il^$document
 /^https?:\/\/[^\/]+\.imasoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.inazumanews2\.com\/?$/$document
 /^https?:\/\/[^\/]+\.instagram\.com\.vn\/?$/$document
@@ -103,10 +94,7 @@
 /^https?:\/\/[^\/]+\.kanazawa\-round\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.kandatasokuho\.com\/?$/$document
 /^https?:\/\/[^\/]+\.katsumoku\.net\/?$/$document
-||ke^$document
 /^https?:\/\/[^\/]+\.kimuta1105\.livedoor\.blog\/?$/$document
-||km^$document
-||kn^$document,from=~gov.kn|~knatravelform.kn
 /^https?:\/\/[^\/]+\.kokunanmonomousu\.com\/?$/$document
 /^https?:\/\/[^\/]+\.kushi\-mc\.net\/?$/$document
 /^https?:\/\/[^\/]+\.kz\/?$/$document
@@ -115,7 +103,6 @@
 /^https?:\/\/[^\/]+\.latestmodapks\.com\/?$/$document
 /^https?:\/\/[^\/]+\.lifehack2ch\.livedoor\.biz\/?$/$document
 /^https?:\/\/[^\/]+\.linkedin\.com\.vn\/?$/$document
-||loan^$document,from=~4en.loan
 /^https?:\/\/[^\/]+\.lovelivematocha\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ma\/?$/$document
 /^https?:\/\/[^\/]+\.majikichi\.com\/?$/$document
@@ -666,6 +653,7 @@ fp.no-sheep.org/services##.main
 ||activation.unity.cn^$document
 ||actualizate.ar^$document
 ||ad5a0.cn^$document
+||ad^$document,from=~unicef.ad|~penguin.ad|~onlinenotep.ad|~mcb.ad|~creandfundacio.ad|~bus.ad|~odiseo.ad|~ior.ad|~chalk.ad|~museucarmenthyssenandorra.ad|~hiverinfini.ad|~iad.ad
 ||adathi-havicoco.com^$document
 ||adblockluna.com^$document
 ||addchannel.net^$document
@@ -1300,6 +1288,7 @@ fp.no-sheep.org/services##.main
 ||bbs-net.com^$document
 ||bby.me^$document
 ||bd.vizeo.eu^$document
+||bd^$document
 ||bddy.me^$document
 ||be-3679.about.gitlab-review.app^$document
 ||be-marry.com^$document
@@ -1357,6 +1346,7 @@ fp.no-sheep.org/services##.main
 ||bhoutletsale.shop^$document
 ||bhspecial.com^$document
 ||bi-love.net^$document
+||bi^$document
 ||bibi-star.jp^$document
 ||bibitobleague.club^$document
 ||bibri.com^$document
@@ -1794,6 +1784,7 @@ fp.no-sheep.org/services##.main
 ||chupea-club.jp^$document
 ||churchfront.me^$document
 ||chuzai-china.com^$document
+||ci^$document
 ||ciatr.jp^$document
 ||cikarciadam.online^$document
 ||cimco-us.com^$document
@@ -1843,6 +1834,7 @@ fp.no-sheep.org/services##.main
 ||cmnfew.com^$document
 ||cndl.synology.cn^$document
 ||co-family.net^$document
+||co-jp.com^
 ||coachlovey.com^$document
 ||coca-book.com^$document
 ||coccomama.com^$document
@@ -3175,6 +3167,7 @@ fp.no-sheep.org/services##.main
 ||globeflightdeals.com^$document
 ||glowluxv.com^$document
 ||gluglu.jp^$document
+||gm^$document
 ||gmeetmeat.xyz^$document
 ||gmk.be^$document
 ||gmmfprc.cn^$document
@@ -3226,6 +3219,7 @@ fp.no-sheep.org/services##.main
 ||goodfeeilng102.com^$document
 ||goodpeople-movie2019.com^$document
 ||goodtime0909.com^$document
+||goog^$document,from=~partneradvantage.goog
 ||google-engineering-practices.translation.shuuji3.xyz^$document
 ||google.bearlele.top^$document
 ||google.me^$document
@@ -3252,6 +3246,7 @@ fp.no-sheep.org/services##.main
 ||govermatrix.com^$document
 ||goversys.com^$document
 ||govorite.ru^$document
+||gq^$document
 ||grace17.com^$document
 ||gracefulwolf.com^$document
 ||granadamediacorp.com^$document
@@ -3722,6 +3717,7 @@ fp.no-sheep.org/services##.main
 ||ikujipapa.net^$document
 ||ikumen-smile.com^$document
 ||ikuno-koreatown.com^$document
+||il^$document
 ||ilf82z3.neurofaszia-therapie.de^$document
 ||illmatic-shop.com^$document
 ||illustshikou.com^$document
@@ -4179,6 +4175,7 @@ fp.no-sheep.org/services##.main
 ||kboard.jp^$document
 ||kcsf-eco-ap.jp^$document
 ||kdbtdhqm.bar^$document
+||ke^$document
 ||keazikane.shop^$document
 ||keeeeeke.com^$document
 ||keepvid.ch^$document
@@ -4299,10 +4296,12 @@ fp.no-sheep.org/services##.main
 ||kknsp.satori.site^$document
 ||kkwing.jp^$document
 ||klogex.com^$document
+||km^$document
 ||kms-full.com^$document
 ||kmsmatrix.com^$document
 ||kmspico.io^$document
 ||kn-q.com^$document
+||kn^$document,from=~gov.kn|~knatravelform.kn
 ||knocknockblog.com^$document
 ||knotniceet.live^$document
 ||knotyet.jp^$document
@@ -4627,6 +4626,7 @@ fp.no-sheep.org/services##.main
 ||lnovbsbw.digital^$document
 ||loadgames.org^$document
 ||loadpiece.xyz^$document
+||loan^$document,from=~4en.loan
 ||local.jiheishou-e.xyz^$document
 ||locandroll.com^$document
 ||lockets.jp^$document
