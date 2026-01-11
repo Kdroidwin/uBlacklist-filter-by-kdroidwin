@@ -17,6 +17,8 @@
 *://*.ambiify.cards/*
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
+*://2chcopipe.com/*
+*://atomfirm.com/*
 *://*.apktodo.io/*
 *://*.apple.com.vn/*
 *://*.arip-photo.org/*
