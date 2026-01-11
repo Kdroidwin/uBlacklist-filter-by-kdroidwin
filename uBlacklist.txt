@@ -14,6 +14,12 @@
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
 *://*.amazon.com.vn/*
+*://note.com/norito_hiraoka/*
+*://kottoceramica.com/*
+*://greencol.net/*
+*://mediacitytaxgroup.com/*
+*://salala.jp/*
+*://dalmatinskatrailliga.com/*
 *://*.ambiify.cards/*
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
