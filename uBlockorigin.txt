@@ -125,11 +125,8 @@
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
-/^https?:\/\/[^\/]+\.nanjgod\.com\/?$/$document
 /^https?:\/\/[^\/]+\.naturebeard\.com\/?$/$document
-/^https?:\/\/[^\/]+\.negisoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.netaatoz\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.netflix\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.news30over\.com\/?$/$document
 /^https?:\/\/[^\/]+\.news4wide\.livedoor\.biz\/?$/$document
 /^https?:\/\/[^\/]+\.news\-us\.jp\/?$/$document
@@ -138,8 +135,7 @@
 /^https?:\/\/[^\/]+\.nifty\.com\/?$/$document
 /^https?:\/\/[^\/]+\.nijiholo\-local\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.nogomi\.ru\/?$/$document
-/^https?:\/\/[^\/]+\.note\.com/norito_hiraoka\/?$/$document
-/^https?:\/\/[^\/]+\.okaimonoclub\.jp\/?$/$document
+||okaimonoclub.jp^$document
 /^https?:\/\/[^\/]+\.okikuhabataku\.blog\/?$/$document
 /^https?:\/\/[^\/]+\.onamae\.com\/?$/$document
 /^https?:\/\/[^\/]+\.onecall2ch\.com\/?$/$document
