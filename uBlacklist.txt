@@ -17,8 +17,6 @@
 *://*.ambiify.cards/*
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
-*://2chcopipe.com/*
-*://atomfirm.com/*
 *://*.apktodo.io/*
 *://*.apple.com.vn/*
 *://*.arip-photo.org/*
@@ -518,6 +516,7 @@
 *://2b633168.xyz/*
 *://2bighazameen.com/*
 *://2ch.0726.biz/*
+*://2chcopipe.com/*
 *://2ddvkfb.zbgraf16.pl/*
 *://2l.glitch.me/*
 *://2ndlabo.com/*
@@ -1239,6 +1238,7 @@
 *://atlaq.com/*
 *://atlasmasonrycontractors.com/*
 *://atlassianonlineredirect.xyz/*
+*://atomfirm.com/*
 *://atomseight.com/*
 *://atozsearch.jp/*
 *://atre-club.jp/*

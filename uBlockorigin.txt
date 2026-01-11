@@ -513,6 +513,7 @@ fp.no-sheep.org/services##.main
 ||2b633168.xyz^$document
 ||2bighazameen.com^$document
 ||2ch.0726.biz^$document
+||2chcopipe.com^$document
 ||2ddvkfb.zbgraf16.pl^$document
 ||2l.glitch.me^$document
 ||2ndlabo.com^$document
@@ -1238,6 +1239,7 @@ fp.no-sheep.org/services##.main
 ||atlaq.com^$document
 ||atlasmasonrycontractors.com^$document
 ||atlassianonlineredirect.xyz^$document
+||atomfirm.com^$document
 ||atomseight.com^$document
 ||atozsearch.jp^$document
 ||atre-club.jp^$document
