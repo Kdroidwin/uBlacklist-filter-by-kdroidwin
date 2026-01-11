@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://www.tokyomeenfashion.com/*
-*://pdxk.gyqvajgq.biz/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -6279,6 +6277,7 @@
 *://pdelect.com/*
 *://pdilms.com/*
 *://pdspm.in/*
+*://pdxk.gyqvajgq.biz/*
 *://peakproductivitycoaching.com/*
 *://peaks-comic.com/*
 *://peaksmarketing.co.jp/*
@@ -10094,6 +10093,7 @@
 *://www.tokyofashionapp.com/*
 *://www.tokyoheadline.com/*
 *://www.tokyomartstore.com/*
+*://www.tokyomeenfashion.com/*
 *://www.tokyoroomfashion.com/*
 *://www.torccleanenergy.com.au/*
 *://www.torrent48.com/*

@@ -106,7 +106,6 @@
 /^https?:\/\/[^\/]+\.moeeeani\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.mw\/?$/$document
 /^https?:\/\/[^\/]+\.mx\/?$/$document
-||my^$document,from=~cotoviaclinic.my|~vectorgroup.my|~randkuj.my
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
@@ -5294,6 +5293,7 @@ fp.no-sheep.org/services##.main
 ||my-site-102068-108917.square.site^$document
 ||my.ai-li.xyz^$document
 ||my.hintup.io^$document
+||my^$document,from=~cotoviaclinic.my|~vectorgroup.my|~randkuj.my
 ||mybloganik26.com^$document
 ||mybouzu.info^$document
 ||mycolorfulcolor.com^$document
@@ -6246,6 +6246,7 @@ fp.no-sheep.org/services##.main
 ||pdelect.com^$document
 ||pdilms.com^$document
 ||pdspm.in^$document
+||pdxk.gyqvajgq.biz^$document
 ||peakproductivitycoaching.com^$document
 ||peaks-comic.com^$document
 ||peaksmarketing.co.jp^$document
@@ -9732,6 +9733,9 @@ fp.no-sheep.org/services##.main
 ||www.pickle.com^$document
 ||www.pilutkiewicz.pl^$document
 ||www.pincenter.com^$document
+||www.pinterest.co.uk^$document
+||www.pinterest.com^$document
+||www.pinterest.jp^$document
 ||www.pipanic.com.ec^$document
 ||www.pirelli.cn^$document
 ||www.pixela.co.jp/products/pickup/tips/4ksmart_tips10_amazingapps.html^$document
@@ -10095,6 +10099,7 @@ fp.no-sheep.org/services##.main
 ||www.tokyofashionapp.com^$document
 ||www.tokyoheadline.com^$document
 ||www.tokyomartstore.com^$document
+||www.tokyomeenfashion.com^$document
 ||www.tokyoroomfashion.com^$document
 ||www.torccleanenergy.com.au^$document
 ||www.torrent48.com^$document
