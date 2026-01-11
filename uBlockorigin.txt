@@ -84,7 +84,6 @@
 /^https?:\/\/[^\/]+\.kimuta1105\.livedoor\.blog\/?$/$document
 /^https?:\/\/[^\/]+\.kokunanmonomousu\.com\/?$/$document
 /^https?:\/\/[^\/]+\.kushi\-mc\.net\/?$/$document
-||kz^$document
 /^https?:\/\/[^\/]+\.ladytopi\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.lanscope\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.latestmodapks\.com\/?$/$document
@@ -121,7 +120,6 @@
 /^https?:\/\/[^\/]+\.nifty\.com\/?$/$document
 /^https?:\/\/[^\/]+\.nijiholo\-local\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.nogomi\.ru\/?$/$document
-||okaimonoclub.jp^$document
 /^https?:\/\/[^\/]+\.okikuhabataku\.blog\/?$/$document
 /^https?:\/\/[^\/]+\.onamae\.com\/?$/$document
 /^https?:\/\/[^\/]+\.onecall2ch\.com\/?$/$document
@@ -174,34 +172,25 @@
 /^https?:\/\/[^\/]+\.reviversoft\.com\/?$/$document
 /^https?:\/\/[^\/]+\.riptutorial\.com\/?$/$document
 /^https?:\/\/[^\/]+\.risposta\.org\/?$/$document
-||ro^$document
 /^https?:\/\/[^\/]+\.rotadev\.com\/?$/$document
 /^https?:\/\/[^\/]+\.runebook\.dev\/?$/$document
 /^https?:\/\/[^\/]+\.rupython\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ryoban\-disc\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ryusoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.s3\-us\-west\-1\.amazonaws\.com\/?$/$document
-||sa.com^$document
-||sa^$document
 /^https?:\/\/[^\/]+\.saikyo\-jump\.com\/?$/$document
 /^https?:\/\/[^\/]+\.sanchezsalvador\.com\/?$/$document
 /^https?:\/\/[^\/]+\.saydalia\.net\/?$/$document
 /^https?:\/\/[^\/]+\.sch\.id\/?$/$document
 /^https?:\/\/[^\/]+\.schoenheitsklinik\-berlin\.com\/?$/$document
 /^https?:\/\/[^\/]+\.scienceplus2ch\.com\/?$/$document
-||sd^$document
 /^https?:\/\/[^\/]+\.seika\-riron\.hatenablog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.seimei\-handan\.net\/?$/$document
 /^https?:\/\/[^\/]+\.shabakngy\.com\/?$/$document
 /^https?:\/\/[^\/]+\.siwib\.org\/?$/$document
-||sl^$document
 /^https?:\/\/[^\/]+\.slot\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.smdcgldv\.art\/?$/$document
 /^https?:\/\/[^\/]+\.softmany\.com\/?$/$document
-||softonic.com^$document
-||softonic.jp^$document
-||softonic.cn^$document
-||softonic.eu^$document
 /^https?:\/\/[^\/]+\.soinside\.com\/?$/$document
 /^https?:\/\/[^\/]+\.solvusoft\.com\/?$/$document
 /^https?:\/\/[^\/]+\.sonicch\.com\/?$/$document
@@ -1138,6 +1127,7 @@ fp.no-sheep.org/services##.main
 ||athletes-to.com^$document
 ||atipicgrup.com^$document
 ||atlantiquetp.com^$document
+||atlaq.com^$document
 ||atlasmasonrycontractors.com^$document
 ||atlassianonlineredirect.xyz^$document
 ||atomfirm.com^$document
@@ -2013,6 +2003,7 @@ fp.no-sheep.org/services##.main
 ||daisukestrend.com^$document
 ||daisy-times.com^$document
 ||dakimax.com^$document
+||dalmatinskatrailliga.com^$document
 ||damablog.com^$document
 ||damako42.com^$document
 ||damigoe.com^$document
@@ -3233,6 +3224,7 @@ fp.no-sheep.org/services##.main
 ||green.foxapi.xyz^$document
 ||greenberry.fr^$document
 ||greencar-eco.com^$document
+||greencol.net^$document
 ||greenpepper-news.com^$document
 ||greenshop-aroma.com^$document
 ||greenvilla.kg^$document
@@ -4357,6 +4349,7 @@ fp.no-sheep.org/services##.main
 ||kotaroworld.com^$document
 ||kotoko18.com^$document
 ||kotti.biz^$document
+||kottoceramica.com^$document
 ||koumuin-work.com^$document
 ||kouzushima.org^$document
 ||kovestresto.ca^$document
@@ -4425,6 +4418,7 @@ fp.no-sheep.org/services##.main
 ||kyoutei-report.com^$document
 ||kyozon.net/list/vpn-recommended^$document
 ||kyun2-girls.com^$document
+||kz^$document
 ||kzen.dev^$document
 ||l-kyojin01.jp^$document
 ||l-ma.info^$document
@@ -4949,6 +4943,7 @@ fp.no-sheep.org/services##.main
 ||media.brain-market.com^$document
 ||media.mar-cari.jp^$document
 ||media.yamatop.com^$document
+||mediacitytaxgroup.com^$document
 ||mediafrap.com^$document
 ||medianomoriblog.com^$document
 ||mediatec-dif.com^$document
@@ -5792,6 +5787,7 @@ fp.no-sheep.org/services##.main
 ||note.com/nifty_viper3044^$document
 ||note.com/noble_guppy6313^$document
 ||note.com/nommy_465^$document
+||note.com/norito_hiraoka^$document
 ||note.com/note_rakuten23^$document
 ||note.com/nyam_stady^$document
 ||note.com/ojirolian^$document
@@ -6017,6 +6013,7 @@ fp.no-sheep.org/services##.main
 ||okachi.xyz^$document
 ||okaeriblog.com^$document
 ||okaimono-navigation.com^$document
+||okaimonoclub.jp^$document
 ||okannoyomeiri-stage.jp^$document
 ||okboook.com^$document
 ||okdebrid.com^$document
@@ -6767,6 +6764,7 @@ fp.no-sheep.org/services##.main
 ||rme-kaigo.jp^$document
 ||rms.apollouniversity.edu.in^$document
 ||rn2z8o6fe.adrianodosanjos.de^$document
+||ro^$document
 ||robamimireport.com^$document
 ||robesgxo.check-in-out.com^$document
 ||robogeki.sakura.ne.jp^$document
@@ -6870,6 +6868,8 @@ fp.no-sheep.org/services##.main
 ||s795530940.websitebuilder.online^$document
 ||s8000.works^$document
 ||sa-ta-mi.com^$document
+||sa.com^$document
+||sa^$document
 ||sabucaru.com^$document
 ||saburokuday.jp^$document
 ||sabusuku.net^$document
@@ -6912,6 +6912,7 @@ fp.no-sheep.org/services##.main
 ||sakurasite.net^$document
 ||sakusakuyomi.com^$document
 ||saladbowl.net^$document
+||salala.jp^$document
 ||sale-cartoons.hatenablog.com^$document
 ||salecialadd.com^$document
 ||salon-ray.net^$document
@@ -6994,6 +6995,7 @@ fp.no-sheep.org/services##.main
 ||scrap-shop.online^$document
 ||screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android^$document
 ||scspuc.in^$document
+||sd^$document
 ||sdouga.com^$document
 ||se.fc-review.com^$document
 ||sea358mm25.com^$document
@@ -7238,6 +7240,7 @@ fp.no-sheep.org/services##.main
 ||skyfall.co.jp^$document
 ||skytouchservices.com^$document
 ||skywave-net.com^$document
+||sl^$document
 ||slashdot.jp^$document
 ||slolita.taobao.com^$document
 ||sloloura.com^$document
@@ -7288,6 +7291,10 @@ fp.no-sheep.org/services##.main
 ||soco-cobo0587.com^$document
 ||sofarztp.redeagle-security.com^$document
 ||softcake12.xyz^$document
+||softonic.cn^$document
+||softonic.com^$document
+||softonic.eu^$document
+||softonic.jp^$document
 ||softontop.com^$document
 ||software-on.com^$document
 ||software-solution-tec.com^$document
@@ -9725,6 +9732,9 @@ fp.no-sheep.org/services##.main
 ||www.pickle.com^$document
 ||www.pilutkiewicz.pl^$document
 ||www.pincenter.com^$document
+||www.pinterest.co.uk^$document
+||www.pinterest.com^$document
+||www.pinterest.jp^$document
 ||www.pipanic.com.ec^$document
 ||www.pirelli.cn^$document
 ||www.pixela.co.jp/products/pickup/tips/4ksmart_tips10_amazingapps.html^$document

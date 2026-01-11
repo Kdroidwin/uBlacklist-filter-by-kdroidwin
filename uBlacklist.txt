@@ -14,12 +14,6 @@
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
 *://*.amazon.com.vn/*
-*://note.com/norito_hiraoka/*
-*://kottoceramica.com/*
-*://greencol.net/*
-*://mediacitytaxgroup.com/*
-*://salala.jp/*
-*://dalmatinskatrailliga.com/*
 *://*.ambiify.cards/*
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
@@ -2103,6 +2097,7 @@
 *://daisukestrend.com/*
 *://daisy-times.com/*
 *://dakimax.com/*
+*://dalmatinskatrailliga.com/*
 *://damablog.com/*
 *://damako42.com/*
 *://damigoe.com/*
@@ -3314,6 +3309,7 @@
 *://green.foxapi.xyz/*
 *://greenberry.fr/*
 *://greencar-eco.com/*
+*://greencol.net/*
 *://greenpepper-news.com/*
 *://greenshop-aroma.com/*
 *://greenvilla.kg/*
@@ -4424,6 +4420,7 @@
 *://kotaroworld.com/*
 *://kotoko18.com/*
 *://kotti.biz/*
+*://kottoceramica.com/*
 *://koumuin-work.com/*
 *://kouzushima.org/*
 *://kovestresto.ca/*
@@ -5012,6 +5009,7 @@
 *://media.brain-market.com/*
 *://media.mar-cari.jp/*
 *://media.yamatop.com/*
+*://mediacitytaxgroup.com/*
 *://mediafrap.com/*
 *://medianomoriblog.com/*
 *://mediatec-dif.com/*
@@ -5834,6 +5832,7 @@
 *://note.com/nifty_viper3044/*
 *://note.com/noble_guppy6313/*
 *://note.com/nommy_465/*
+*://note.com/norito_hiraoka/*
 *://note.com/note_rakuten23/*
 *://note.com/nyam_stady/*
 *://note.com/ojirolian/*
@@ -6940,6 +6939,7 @@
 *://sakurasite.net/*
 *://sakusakuyomi.com/*
 *://saladbowl.net/*
+*://salala.jp/*
 *://sale-cartoons.hatenablog.com/*
 *://salecialadd.com/*
 *://salon-ray.net/*
