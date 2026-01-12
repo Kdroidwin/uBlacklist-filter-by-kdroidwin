@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://manga2.md-sass.com/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
@@ -4869,6 +4868,7 @@
 *://manga1000.su/*
 *://manga1001.club.atlaq.com/*
 *://manga1001.pro.atlaq.com/*
+*://manga2.md-sass.com/*
 *://mangaair.xsrv.jp/*
 *://mangaanime-voice.com/*
 *://mangab.jp/*

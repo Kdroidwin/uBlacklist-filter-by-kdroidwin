@@ -4588,6 +4588,7 @@ fp.no-sheep.org/services##.main
 ||manga1000.su^$document
 ||manga1001.club.atlaq.com^$document
 ||manga1001.pro.atlaq.com^$document
+||manga2.md-sass.com^$document
 ||mangaair.xsrv.jp^$document
 ||mangaanime-voice.com^$document
 ||mangab.jp^$document
