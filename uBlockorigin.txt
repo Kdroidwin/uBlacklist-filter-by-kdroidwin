@@ -96,7 +96,6 @@
 /^https?:\/\/[^\/]+\.modfyp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.moeeeani\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.mw\/?$/$document
-||mx^$doc,domain=~puentelibre.mx|~diario.mx|~expansion.mx|~nfl.mx|~futbollibre.mx
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
@@ -238,7 +237,6 @@
 /^https?:\/\/[^\/]+\.ubuntugeeks\.com\/?$/$document
 /^https?:\/\/[^\/]+\.uebu\-kaihatsu\.jp\.net\/?$/$document
 /^https?:\/\/[^\/]+\.uefir\.com\/?$/$document
-||ug^$doc,domain=~isoc.ug|~renumesh.ug|~mbu.ug|~nbs.ug|~can.ug|~jobadverts.ug|~howwe.ug|~nilepost.co.ug|~uvtab.go.ug|~microhaem.co.ug|~sun.ac.ug|~prudential.ug|~go.ug|~ac.ug
 /^https?:\/\/[^\/]+\.ulab\.unipo\.sk\/?$/$document
 /^https?:\/\/[^\/]+\.updatestar\.com\/?$/$document
 /^https?:\/\/[^\/]+\.uprrp\.edu\/?$/$document
@@ -288,8 +286,6 @@
 /^https?:\/\/[^\/]+\.yo\.zgserver\.com\/?$/$document
 /^https?:\/\/[^\/]+\.younggeeks\.in\/?$/$document
 /^https?:\/\/[^\/]+\.youtube\.com\.vn\/?$/$document
-||za.com^$doc
-||za^$doc,domain=~sundownsfc.co.za|~stadio.ac.za|~myrunway.co.za|~cashcrusaders.co.za|~galxboy.co.za|~numetro.co.za|~valueco.co.za|~interbet.co.za|~decofurnsa.co.za|~cjc.edu.za|~jetour.co.za|~canalwalk.co.za|~maroelamedia.co.za|~csrd.co.za|~foodloversmarket.co.za
 /^https?:\/\/[^\/]+\.zainale\.net\/?$/$document
 /^https?:\/\/[^\/]+\.zhblog\.net\/?$/$document
 /^https?:\/\/[^\/]+\.zhouni\.net\/?$/$document
@@ -5284,6 +5280,7 @@ fp.no-sheep.org/services##.main
 ||muza-kawasaki.jp^$document
 ||mwdentistry.com^$document
 ||mwtossxuwcgz.xkescgb.cn^$document
+||mx^$doc,domain=~puentelibre.mx|~diario.mx|~expansion.mx|~nfl.mx|~futbollibre.mx
 ||my-best.com^$document
 ||my-own-pace.com^$document
 ||my-site-102068-108917.square.site^$document
@@ -8136,6 +8133,7 @@ fp.no-sheep.org/services##.main
 ||udemy.benesse.co.jp^$document
 ||uelog.com^$document
 ||ueno-tokyo.com^$document
+||ug^$doc,domain=~isoc.ug|~renumesh.ug|~mbu.ug|~nbs.ug|~can.ug|~jobadverts.ug|~howwe.ug|~nilepost.co.ug|~uvtab.go.ug|~microhaem.co.ug|~sun.ac.ug|~prudential.ug|~go.ug|~ac.ug
 ||uharica.ptice.si^$document
 ||uhn3tnp07de43.xn--16-mlca8awqz.xn--p1ai^$document
 ||uiahnle6.calanchipiceni.it^$document
@@ -10702,6 +10700,8 @@ fp.no-sheep.org/services##.main
 ||z-library.wiki^$document
 ||z.ksmlc.cn^$document
 ||z56.nextguest.app^$document
+||za.com^$doc
+||za^$doc,domain=~sundownsfc.co.za|~stadio.ac.za|~myrunway.co.za|~cashcrusaders.co.za|~galxboy.co.za|~numetro.co.za|~valueco.co.za|~interbet.co.za|~decofurnsa.co.za|~cjc.edu.za|~jetour.co.za|~canalwalk.co.za|~maroelamedia.co.za|~csrd.co.za|~foodloversmarket.co.za
 ||zaichan-blog.com^$document
 ||zaintech.co.id^$document
 ||zaitakusyufu.net^$document

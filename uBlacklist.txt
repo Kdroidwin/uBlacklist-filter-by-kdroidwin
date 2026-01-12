@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://*.mx/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -147,6 +146,7 @@
 *://*.mlink.in/*
 *://*.mn/*
 *://*.mw/*
+*://*.mx/*
 *://*.my/*
 *://*.myxstalk.lol/*
 *://*.namaejiten.com/*
