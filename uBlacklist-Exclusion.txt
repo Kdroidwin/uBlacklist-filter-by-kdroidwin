@@ -801,3 +801,12 @@
 @*://easypack.mw/*
 @*://hopetv.mw/*
 @*://www.bmis.mw/*
+@*://ticketwala.pk/*
+@*://jazmin.pk/*
+@*://highfy.pk/*
+@*://baroque.pk/*
+@*://pescobill.pk/*
+@*://ktrade.pk/*
+@*://gomilaintersole.pk/*
+@*://ronin.pk/*
+@*://digiskills.pk/*
