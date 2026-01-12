@@ -238,7 +238,7 @@
 /^https?:\/\/[^\/]+\.ubuntugeeks\.com\/?$/$document
 /^https?:\/\/[^\/]+\.uebu\-kaihatsu\.jp\.net\/?$/$document
 /^https?:\/\/[^\/]+\.uefir\.com\/?$/$document
-/^https?:\/\/[^\/]+\.ug\/?$/$document
+||ug^$doc,domain=~isoc.ug|~renumesh.ug|~mbu.ug|~nbs.ug|~can.ug|~jobadverts.ug|~howwe.ug|~nilepost.co.ug|~uvtab.go.ug|~microhaem.co.ug|~sun.ac.ug|~prudential.ug|~go.ug|~ac.ug
 /^https?:\/\/[^\/]+\.ulab\.unipo\.sk\/?$/$document
 /^https?:\/\/[^\/]+\.updatestar\.com\/?$/$document
 /^https?:\/\/[^\/]+\.uprrp\.edu\/?$/$document
