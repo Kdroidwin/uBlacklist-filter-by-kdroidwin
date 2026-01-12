@@ -4640,6 +4640,7 @@ fp.no-sheep.org/services##.main
 ||luckykonami.com^$document
 ||luckymotors.ee^$document
 ||luckystar2010.com^$document
+||lulustreamdownloader.com^$document
 ||luminare.shop^$document
 ||lumogumu.xyz^$document
 ||luna-vpn.com^$document
@@ -10132,6 +10133,7 @@ fp.no-sheep.org/services##.main
 ||www.trusted-addon.xyz^$document
 ||www.trywork-chiba.com^$document
 ||www.tsuzukiblog.org^$document
+||www.tubeninja.net^$document
 ||www.tuberevanced.com^$document
 ||www.tudorwatch.cn^$document
 ||www.tungacademy.com^$document

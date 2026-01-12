@@ -3,8 +3,6 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
-*://lulustreamdownloader.com/*
-*://www.tubeninja.net/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
@@ -4710,6 +4708,7 @@
 *://luckykonami.com/*
 *://luckymotors.ee/*
 *://luckystar2010.com/*
+*://lulustreamdownloader.com/*
 *://luminare.shop/*
 *://lumogumu.xyz/*
 *://luna-vpn.com/*
@@ -10128,6 +10127,7 @@
 *://www.trusted-addon.xyz/*
 *://www.trywork-chiba.com/*
 *://www.tsuzukiblog.org/*
+*://www.tubeninja.net/*
 *://www.tuberevanced.com/*
 *://www.tudorwatch.cn/*
 *://www.tungacademy.com/*
