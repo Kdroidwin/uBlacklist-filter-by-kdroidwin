@@ -56,8 +56,8 @@
 /^https?:\/\/[^\/]+\.filkhabr\.com\/?$/$document
 /^https?:\/\/[^\/]+\.fo\/?$/$document
 /^https?:\/\/[^\/]+\.futosoku\.com\/?$/$document
-/^https?:\/\/[^\/]+\.fyi\/?$/$document
-/^https?:\/\/[^\/]+\.ga\/?$/$document
+||fyi^$doc,domain=~lunar.fyi|~detect.fyi|~eras.fyi|~lena.fyi|~test262.fyi|~tobin.fyi
+||ga^$doc,domain=~cgcgabon.ga|~gouvernement.ga|~techies.ga|~clikpay.ga|~1win.ga|~igad.ga|~courcomptes.ga
 /^https?:\/\/[^\/]+\.gahalog\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.gamejksokuhou\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ganbaruri\-man\.hatenablog\.com\/?$/$document
