@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://q5ha1f7z.autosns.app/*
-*://note.com/labo_rainbow/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
@@ -5789,6 +5787,7 @@
 *://note.com/kuma_ai_studio/*
 *://note.com/kumakuma3desu/*
 *://note.com/kyari_mon/*
+*://note.com/labo_rainbow/*
 *://note.com/lenslover/*
 *://note.com/light_right_/*
 *://note.com/like_bonobo2466/*
@@ -6534,6 +6533,7 @@
 *://pxle.me/*
 *://pybli.com.my/*
 *://pyby.eu/*
+*://q5ha1f7z.autosns.app/*
 *://qa-stack.pl/*
 *://qapla.com.ph/*
 *://qastack.cn/*

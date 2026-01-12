@@ -91,11 +91,9 @@
 /^https?:\/\/[^\/]+\.maxinformation\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.military38\.com\/?$/$document
 /^https?:\/\/[^\/]+\.mindhack2ch\.com\/?$/$document
-||mn^$doc,domain=~trade.mn|~mass.mn|~eguur.mn|~joinme.mn|~beautysecrets.mn|~shoppy.mn|~iaac.mn|~datacom.mn|~ergelt.mn|~greensoft.mn|~bny.mn|~esain.mn|~neyoto.mn|~news.mn|~itstore.mn|~kpmg.mn
 /^https?:\/\/[^\/]+\.mobi\-connect\.net\/?$/$document
 /^https?:\/\/[^\/]+\.modfyp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.moeeeani\.blog\.jp\/?$/$document
-||mw^$doc,domain=~mbc.mw|~smartapps.mw|~continentalcapital.mw|~finca.mw|~sjog.mw|~macra.mw|~muuni.mw|~nbs.mw|~habitat.mw|~premiercasino.mw|~selectafrica.mw|~ngora.mw|~npc.mw|~fam.mw|~karakasis.mw|~combinecargo.mw|~satcp.mw|~mchs.mw|~tourism.mw|~hillviewschool.mw|~isla.mw|~nyaleinstitute.org.mw|~fr.mw|~visitmalawi.mw|~airtel.mw|~easypack.mw|~hopetv.mw|~bmis.mw
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
@@ -119,8 +117,6 @@
 /^https?:\/\/[^\/]+\.paypal\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.pin\.it\/?$/$document
 /^https?:\/\/[^\/]+\.pinimg\.com\/?$/$document
-||pk^$doc,domain=~ticketwala.pk|~jazmin.pk|~highfy.pk|~baroque.pk|~pescobill.pk|~ktrade.pk|~gomilaintersole.pk|~ronin.pk|~digiskills.pk
-||pn^$doc,domain=~yj.pn|~nic.pn|~gr.pn
 /^https?:\/\/[^\/]+\.programmation\-web\-qr\.com\/?$/$document
 /^https?:\/\/[^\/]+\.programmerstart\.com\/?$/$document
 /^https?:\/\/[^\/]+\.programmerz\.ru\/?$/$document
@@ -207,7 +203,6 @@
 /^https?:\/\/[^\/]+\.t\.codebug\.vip\/?$/$document
 /^https?:\/\/[^\/]+\.tagsqa\.com\/?$/$document
 /^https?:\/\/[^\/]+\.takenokosokuhou\.com\/?$/$document
-||td^$doc,domain=~itrad.td|~hama.td|~portail.td|~adac.td|~onape.td|~f.td
 /^https?:\/\/[^\/]+\.tecahe\.za\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-in\-japan\.github\.io\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-ja\.netlify\.app\/?$/$document
@@ -5127,6 +5122,7 @@ fp.no-sheep.org/services##.main
 ||mmsgbr.com^$document
 ||mn.metaphase.cn^$document
 ||mn^$doc,domain=~montsame.mn|~mongoru-ryoko.mn|~navi.mn
+||mn^$doc,domain=~trade.mn|~mass.mn|~eguur.mn|~joinme.mn|~beautysecrets.mn|~shoppy.mn|~iaac.mn|~datacom.mn|~ergelt.mn|~greensoft.mn|~bny.mn|~esain.mn|~neyoto.mn|~news.mn|~itstore.mn|~kpmg.mn
 ||mnogosdelal.ru^$document
 ||mo-mo-town.com^$document
 ||moans759.malaysiainternationalschools.com^$document
@@ -5276,6 +5272,7 @@ fp.no-sheep.org/services##.main
 ||muutan.work^$document
 ||muxic.tv^$document
 ||muza-kawasaki.jp^$document
+||mw^$doc,domain=~mbc.mw|~smartapps.mw|~continentalcapital.mw|~finca.mw|~sjog.mw|~macra.mw|~muuni.mw|~nbs.mw|~habitat.mw|~premiercasino.mw|~selectafrica.mw|~ngora.mw|~npc.mw|~fam.mw|~karakasis.mw|~combinecargo.mw|~satcp.mw|~mchs.mw|~tourism.mw|~hillviewschool.mw|~isla.mw|~nyaleinstitute.org.mw|~fr.mw|~visitmalawi.mw|~airtel.mw|~easypack.mw|~hopetv.mw|~bmis.mw
 ||mwdentistry.com^$document
 ||mwtossxuwcgz.xkescgb.cn^$document
 ||mx^$doc,domain=~puentelibre.mx|~diario.mx|~expansion.mx|~nfl.mx|~futbollibre.mx
@@ -5736,6 +5733,7 @@ fp.no-sheep.org/services##.main
 ||note.com/kuma_ai_studio^$document
 ||note.com/kumakuma3desu^$document
 ||note.com/kyari_mon^$document
+||note.com/labo_rainbow^$document
 ||note.com/lenslover^$document
 ||note.com/light_right_^$document
 ||note.com/like_bonobo2466^$document
@@ -6334,6 +6332,7 @@ fp.no-sheep.org/services##.main
 ||pizzalikeheaven.com^$document
 ||pizzaofrock.com^$document
 ||pizzasta.jp^$document
+||pk^$doc,domain=~ticketwala.pk|~jazmin.pk|~highfy.pk|~baroque.pk|~pescobill.pk|~ktrade.pk|~gomilaintersole.pk|~ronin.pk|~digiskills.pk
 ||pkaki.com^$document
 ||pkshampoo.com^$document
 ||planetacadiz.com^$document
@@ -6361,6 +6360,7 @@ fp.no-sheep.org/services##.main
 ||pluscolorn.sub.jp^$document
 ||pluswood.jp^$document
 ||pmprofi.ru^$document
+||pn^$doc,domain=~yj.pn|~nic.pn|~gr.pn
 ||poap.xyz^$document
 ||pocop0c0.blog.fc2.com^$document
 ||poemsd3j.gabrans.com^$document
@@ -6494,6 +6494,7 @@ fp.no-sheep.org/services##.main
 ||pxle.me^$document
 ||pybli.com.my^$document
 ||pyby.eu^$document
+||q5ha1f7z.autosns.app^$document
 ||qa-stack.pl^$document
 ||qapla.com.ph^$document
 ||qastack.cn^$document
@@ -7693,6 +7694,7 @@ fp.no-sheep.org/services##.main
 ||taylorblogg.com^$document
 ||tazzawn5.styr.solutions^$document
 ||tbs.slot31.online^$document
+||td^$doc,domain=~itrad.td|~hama.td|~portail.td|~adac.td|~onape.td|~f.td
 ||tdburger.com^$document
 ||teamnacs5d2.selforder.live^$document
 ||teatrodelamemoria.com^$document
