@@ -121,7 +121,7 @@
 /^https?:\/\/[^\/]+\.oryouri\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.ozawaren\.com\/?$/$document
 /^https?:\/\/[^\/]+\.paypal\.com\.vn\/?$/$document
-/^https?:\/\/[^\/]+\.pe\/?$/$document
+||pe^$doc,domain=~larepublica.pe|~phon.pe|~boticasperu.pe|~rpp.pe|~canaln.pe|~isil.pe|~elperuano.pe|~inkafarma.pe|~panchita.pe|~urbania.pe
 /^https?:\/\/[^\/]+\.pg\/?$/$document
 /^https?:\/\/[^\/]+\.pin\.it\/?$/$document
 /^https?:\/\/[^\/]+\.pinimg\.com\/?$/$document
