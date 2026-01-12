@@ -713,3 +713,14 @@
 @*://utenti.click/*
 @*://tokai.click/*
 @*://www.cybernote.click/*
+@*://awe-some.best/*
+@*://yuigon.best/*
+@*://quiz-daijin.mygame.best/*
+@*://www.sen.best/*
+@*://tsubame.payitforward.best/*
+@*://iga.best/*
+@*://scratch.best/*
+@*://nextwave.best/*
+@*://onwa-office.best/*
+@*://venus.best/*
+@*://www.ocr.best/*
