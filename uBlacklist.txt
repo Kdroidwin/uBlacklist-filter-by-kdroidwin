@@ -35,7 +35,6 @@
 *://*.bond/*
 *://*.brow2ing.com/*
 *://*.carnival00inkochi.jp/*
-*://*.cd/*
 *://*.cf/*
 *://*.cfd/*
 *://*.chaos2ch.com/*
@@ -48,11 +47,8 @@
 *://*.crx7601.com/*
 *://*.cyou/*
 *://*.developreference.com/*
-*://*.dj/*
 *://*.dovov.com/*
-*://*.ebay.com.vn/*
 *://*.enamae.net/*
-*://*.facebook.com.vn/*
 *://*.filkhabr.com/*
 *://*.firebaseapp.com/*
 *://*.fluffyfables.com/*
