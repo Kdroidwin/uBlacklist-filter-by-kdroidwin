@@ -53,7 +53,6 @@
 /^https?:\/\/[^\/]+\.fesoku\.net\/?$/$document
 /^https?:\/\/[^\/]+\.fileplanet\.com\/?$/$document
 /^https?:\/\/[^\/]+\.filkhabr\.com\/?$/$document
-||fo^$doc,domain=~bragdid.fo|~rsf.fo|~autisma.fo|~redcross.fo|~fma.fo|~diabetes.fo|~bokhandil.fo|~books.fo|~you.fo|~archive.fo|~afs.fo|~hoteltorshavn.fo|~designa.fo|~hvonn.fo|~isf.fo|~fuglafjordur.fo|~nam.fo|~tjarnir.fo|~hsf.fo|~tonik.fo|~biobank.fo|~fair.fo
 /^https?:\/\/[^\/]+\.futosoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.gahalog\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.gamejksokuhou\.com\/?$/$document
@@ -84,14 +83,12 @@
 /^https?:\/\/[^\/]+\.latestmodapks\.com\/?$/$document
 /^https?:\/\/[^\/]+\.lifehack2ch\.livedoor\.biz\/?$/$document
 /^https?:\/\/[^\/]+\.lovelivematocha\.com\/?$/$document
-||ma^$doc,domain=~goq.ma|~abe.ma
 /^https?:\/\/[^\/]+\.majikichi\.com\/?$/$document
 /^https?:\/\/[^\/]+\.makoto5711\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.mangasokuhou\.com\/?$/$document
 /^https?:\/\/[^\/]+\.manpukunews\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.matometanews\.com\/?$/$document
 /^https?:\/\/[^\/]+\.maxinformation\.blog\.jp\/?$/$document
-||mg^$doc,domain=~storm.mg
 /^https?:\/\/[^\/]+\.military38\.com\/?$/$document
 /^https?:\/\/[^\/]+\.mindhack2ch\.com\/?$/$document
 /^https?:\/\/[^\/]+\.mn\/?$/$document
@@ -121,8 +118,6 @@
 /^https?:\/\/[^\/]+\.oryouri\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.ozawaren\.com\/?$/$document
 /^https?:\/\/[^\/]+\.paypal\.com\.vn\/?$/$document
-||pe^$doc,domain=~larepublica.pe|~phon.pe|~boticasperu.pe|~rpp.pe|~canaln.pe|~isil.pe|~elperuano.pe|~inkafarma.pe|~panchita.pe|~urbania.pe
-||pg^$doc,domain=~datec.com.pg|~ccda.gov.pg|~rpngc.gov.pg|~ibsu.ac.pg|~pomcci.org.pg
 /^https?:\/\/[^\/]+\.pin\.it\/?$/$document
 /^https?:\/\/[^\/]+\.pinimg\.com\/?$/$document
 /^https?:\/\/[^\/]+\.pk\/?$/$document
@@ -2757,6 +2752,7 @@ fp.no-sheep.org/services##.main
 ||fmovieus.com^$document
 ||fmwa.app^$document
 ||fmwatasa.com^$document
+||fo^$doc,domain=~bragdid.fo|~rsf.fo|~autisma.fo|~redcross.fo|~fma.fo|~diabetes.fo|~bokhandil.fo|~books.fo|~you.fo|~archive.fo|~afs.fo|~hoteltorshavn.fo|~designa.fo|~hvonn.fo|~isf.fo|~fuglafjordur.fo|~nam.fo|~tjarnir.fo|~hsf.fo|~tonik.fo|~biobank.fo|~fair.fo
 ||focus-one.co.jp^$document
 ||fogiews2.malaysiainternationalschools.com^$document
 ||fokyo.life^$document
@@ -4684,6 +4680,7 @@ fp.no-sheep.org/services##.main
 ||m83afuvlx.marcel-geht-garnicht.de^$document
 ||ma-mekore.com^$document
 ||ma-net.jp^$document
+||ma^$doc,domain=~goq.ma|~abe.ma
 ||maaengineerhouse.com^$document
 ||mabomabo00.com^$document
 ||macaluminio.com^$document
@@ -5007,6 +5004,7 @@ fp.no-sheep.org/services##.main
 ||mfasting.net^$document
 ||mfui.ru^$document
 ||mg^$doc,domain=~japan.storm.mg
+||mg^$doc,domain=~storm.mg
 ||mgfdm.taobao.com^$document
 ||mgmenjoy85.com^$document
 ||mgnews.ru^$document
@@ -5782,6 +5780,7 @@ fp.no-sheep.org/services##.main
 ||note.com/nakanaka_2025^$document
 ||note.com/nanopapa_world11^$document
 ||note.com/naoki_iphone^$document
+||note.com/natsssssuki^$document
 ||note.com/nester_sns^$document
 ||note.com/nft_tactics^$document
 ||note.com/nifty_cosmos4076^$document
@@ -6251,6 +6250,7 @@ fp.no-sheep.org/services##.main
 ||pdilms.com^$document
 ||pdspm.in^$document
 ||pdxk.gyqvajgq.biz^$document
+||pe^$doc,domain=~larepublica.pe|~phon.pe|~boticasperu.pe|~rpp.pe|~canaln.pe|~isil.pe|~elperuano.pe|~inkafarma.pe|~panchita.pe|~urbania.pe
 ||peakproductivitycoaching.com^$document
 ||peaks-comic.com^$document
 ||peaksmarketing.co.jp^$document
@@ -6279,6 +6279,7 @@ fp.no-sheep.org/services##.main
 ||pesktop.com/en/windows/kms-matrix^$document
 ||petitwings.com^$document
 ||pewtalk.nl^$document
+||pg^$doc,domain=~datec.com.pg|~ccda.gov.pg|~rpngc.gov.pg|~ibsu.ac.pg|~pomcci.org.pg
 ||philadelphiaple.amebaownd.com^$document
 ||philboothforecasts.com^$document
 ||philka.ru^$document

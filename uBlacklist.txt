@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://note.com/natsssssuki/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
@@ -5826,6 +5825,7 @@
 *://note.com/nakanaka_2025/*
 *://note.com/nanopapa_world11/*
 *://note.com/naoki_iphone/*
+*://note.com/natsssssuki/*
 *://note.com/nester_sns/*
 *://note.com/nft_tactics/*
 *://note.com/nifty_cosmos4076/*
