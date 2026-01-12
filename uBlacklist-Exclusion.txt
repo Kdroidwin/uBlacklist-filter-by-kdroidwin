@@ -802,6 +802,7 @@
 @*://hopetv.mw/*
 @*://www.bmis.mw/*
 @*://ticketwala.pk/*
+@*://streamed.pk/*
 @*://jazmin.pk/*
 @*://highfy.pk/*
 @*://baroque.pk/*
