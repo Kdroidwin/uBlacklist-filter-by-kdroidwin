@@ -724,3 +724,10 @@
 @*://onwa-office.best/*
 @*://venus.best/*
 @*://www.ocr.best/*
+@*://cgcgabon.ga/*
+@*://gouvernement.ga/*
+@*://techies.ga/*
+@*://clikpay.ga/*
+@*://1win.ga/*
+@*://igad.ga/*
+@*://courcomptes.ga/*
