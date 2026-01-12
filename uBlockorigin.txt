@@ -127,7 +127,6 @@
 /^https?:\/\/[^\/]+\.programqa\.com\/?$/$document
 /^https?:\/\/[^\/]+\.projectbackpack\.org\/?$/$document
 /^https?:\/\/[^\/]+\.purisoku\.com\/?$/$document
-/^https?:\/\/[^\/]+\.pw\/?$/$document
 /^https?:\/\/[^\/]+\.python2\.net\/?$/$document
 /^https?:\/\/[^\/]+\.python5\.com\/?$/$document
 /^https?:\/\/[^\/]+\.python\.engineering\/?$/$document
