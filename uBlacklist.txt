@@ -25,7 +25,6 @@
 *://*.atlaq.com/*
 *://*.awaisora.com/*
 *://*.ayacnews2nd.com/*
-*://*.baby/*
 *://*.bcqqvtlk.property/*
 *://*.bd/*
 *://*.beauty/*
