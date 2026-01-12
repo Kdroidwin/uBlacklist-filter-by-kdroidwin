@@ -810,3 +810,6 @@
 @*://gomilaintersole.pk/*
 @*://ronin.pk/*
 @*://digiskills.pk/*
+@*://yj.pn/*
+@*://nic.pn/*
+@*://gr.pn/*
