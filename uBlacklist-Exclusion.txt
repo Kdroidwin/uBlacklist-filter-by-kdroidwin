@@ -813,3 +813,9 @@
 @*://yj.pn/*
 @*://nic.pn/*
 @*://gr.pn/*
+@*://itrad.td/*
+@*://hama.td/*
+@*://portail.td/*
+@*://adac.td/*
+@*://onape.td/*
+@*://f.td/*
