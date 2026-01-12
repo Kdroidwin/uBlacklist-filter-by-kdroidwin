@@ -391,6 +391,7 @@ fp.no-sheep.org/services##.main
 ||ahoa3iet.woslx.xyz^$document
 ||ahozura.kasu.me^$document
 ||ahpc.org.pk^$document
+||ahplk.kglyrifg.top^$document
 ||ai-ffiliate.net^$document
 ||ai-official.jp^$document
 ||ai-uruoi.com^$document
@@ -657,11 +658,11 @@ fp.no-sheep.org/services##.main
 ||anthology.blog^$document
 ||anthonyleger.com^$document
 ||antimatter-dimensions-mod.glitch.me^$document
+||antispy.shop/cart^$document
 ||antispy.shop/checkouts^$document
 ||antispy.shop/collections^$document
 ||antispy.shop/pages^$document
 ||antispy.shop/products^$document
-||antispy.shop/cart^$document
 ||antmomew.com^$document
 ||anturis.com^$document
 ||anxious-topics.com^$document
@@ -2622,6 +2623,7 @@ fp.no-sheep.org/services##.main
 ||funbox.wpx.jp^$document
 ||fund.lifeplay.co.jp^$document
 ||fundacionbuenasemilla.org^$document
+||fundacionlamuralla.com.uy^$document
 ||funlifehack.com^$document
 ||funnews-cafe.com^$document
 ||funnyfunnynews.com^$document
@@ -4701,6 +4703,7 @@ fp.no-sheep.org/services##.main
 ||maymay05.com^$document
 ||maymaymama.com^$document
 ||mayone-st.com^$document
+||mayradelagarza.com^$document
 ||mayu-dream.com^$document
 ||mayu-roro.com^$document
 ||mayuchat.com^$document
@@ -6277,6 +6280,7 @@ fp.no-sheep.org/services##.main
 ||prime1studio.shop^$document
 ||princefrequentbuyer.com^$document
 ||privacyinthenetwork.com^$document
+||privacyphoneaustralia.com.au^$document
 ||privatevpn.com^$document
 ||pro-woodfactory.com^$document
 ||product.info^$document
@@ -6537,6 +6541,7 @@ fp.no-sheep.org/services##.main
 ||resoea.co^$document
 ||resource.gatecoin.online^$document
 ||resowdtc.webratna.com^$document
+||responsiblegorillatrips.com^$document
 ||ress.co.nz^$document
 ||restarean.com^$document
 ||restaurant-anis.jp^$document
@@ -10059,6 +10064,7 @@ fp.no-sheep.org/services##.main
 ||www.thaicreativestudio.com^$document
 ||www.theapplestore.co.uk^$document
 ||www.theclinic.jp^$document
+||www.theedgemalta.com^$document
 ||www.thegioididong.com^$document
 ||www.theglomma.com^$document
 ||www.thelegalcourt.com^$document
@@ -10634,6 +10640,7 @@ fp.no-sheep.org/services##.main
 ||yumemirumama.com^$document
 ||yumenoblog.com^$document
 ||yumeslushlife.com^$document
+||yumi-leatherbags.com^$document
 ||yumisblog.com^$document
 ||yunhoyunho.com^$document
 ||yunnmu.com^$document

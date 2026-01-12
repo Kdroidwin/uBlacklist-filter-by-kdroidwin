@@ -2,13 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://yumi-leatherbags.com/*
-*://mayradelagarza.com/*
-*://privacyphoneaustralia.com.au/*
-*://www.theedgemalta.com/*
-*://ahplk.kglyrifg.top/*
-*://responsiblegorillatrips.com/*
-*://fundacionlamuralla.com.uy/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
@@ -785,6 +778,7 @@
 *://ahoa3iet.woslx.xyz/*
 *://ahozura.kasu.me/*
 *://ahpc.org.pk/*
+*://ahplk.kglyrifg.top/*
 *://ai-ffiliate.net/*
 *://ai-official.jp/*
 *://ai-uruoi.com/*
@@ -2964,6 +2958,7 @@
 *://funbox.wpx.jp/*
 *://fund.lifeplay.co.jp/*
 *://fundacionbuenasemilla.org/*
+*://fundacionlamuralla.com.uy/*
 *://funlifehack.com/*
 *://funnews-cafe.com/*
 *://funnyfunnynews.com/*
@@ -4982,6 +4977,7 @@
 *://maymay05.com/*
 *://maymaymama.com/*
 *://mayone-st.com/*
+*://mayradelagarza.com/*
 *://mayu-dream.com/*
 *://mayu-roro.com/*
 *://mayuchat.com/*
@@ -6490,6 +6486,7 @@
 *://prime1studio.shop/*
 *://princefrequentbuyer.com/*
 *://privacyinthenetwork.com/*
+*://privacyphoneaustralia.com.au/*
 *://privatevpn.com/*
 *://pro-woodfactory.com/*
 *://product.info/*
@@ -6716,6 +6713,7 @@
 *://resoea.co/*
 *://resource.gatecoin.online/*
 *://resowdtc.webratna.com/*
+*://responsiblegorillatrips.com/*
 *://ress.co.nz/*
 *://restarean.com/*
 *://restaurant-anis.jp/*
@@ -10075,6 +10073,7 @@
 *://www.thaicreativestudio.com/*
 *://www.theapplestore.co.uk/*
 *://www.theclinic.jp/*
+*://www.theedgemalta.com/*
 *://www.thegioididong.com/*
 *://www.theglomma.com/*
 *://www.thelegalcourt.com/*
@@ -10634,6 +10633,7 @@
 *://yumemirumama.com/*
 *://yumenoblog.com/*
 *://yumeslushlife.com/*
+*://yumi-leatherbags.com/*
 *://yumisblog.com/*
 *://yunhoyunho.com/*
 *://yunnmu.com/*
