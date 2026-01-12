@@ -3,6 +3,8 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
+*://note.com/ai_business_navi/*
+*://note.com/huge_roses2687/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
