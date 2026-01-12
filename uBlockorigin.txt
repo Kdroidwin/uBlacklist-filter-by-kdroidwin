@@ -36,7 +36,6 @@
 /^https?:\/\/[^\/]+\.asusno22\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.ayacnews2nd\.com\/?$/$document
 /^https?:\/\/[^\/]+\.bcqqvtlk\.property\/?$/$document
-/^https?:\/\/[^\/]+\.beauty\/?$/$document
 /^https?:\/\/[^\/]+\.bipblog\.com\/?$/$document
 /^https?:\/\/[^\/]+\.bitubu\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.brow2ing\.com\/?$/$document
@@ -138,6 +137,7 @@
 /^https?:\/\/[^\/]+\.python2\.net\/?$/$document
 /^https?:\/\/[^\/]+\.python5\.com\/?$/$document
 /^https?:\/\/[^\/]+\.python\.engineering\/?$/$document
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|column\.|discovery\.|jp\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.beauty/
 /^https?:\/\/[^\/]+\.pythonfixing\.com\/?$/$document
 /^https?:\/\/[^\/]+\.pythonq\.com\/?$/$document
 /^https?:\/\/[^\/]+\.pythonwood\.com\/?$/$document
