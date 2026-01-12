@@ -661,7 +661,7 @@ fp.no-sheep.org/services##.main
 ||antispy.shop/collections^$document
 ||antispy.shop/pages^$document
 ||antispy.shop/products^$document
-||antispy.shop^$script
+||antispy.shop/cart^$document
 ||antmomew.com^$document
 ||anturis.com^$document
 ||anxious-topics.com^$document
