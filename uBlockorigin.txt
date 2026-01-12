@@ -53,7 +53,7 @@
 /^https?:\/\/[^\/]+\.fesoku\.net\/?$/$document
 /^https?:\/\/[^\/]+\.fileplanet\.com\/?$/$document
 /^https?:\/\/[^\/]+\.filkhabr\.com\/?$/$document
-/^https?:\/\/[^\/]+\.fo\/?$/$document
+||fo^$doc,domain=~bragdid.fo|~rsf.fo|~autisma.fo|~redcross.fo|~fma.fo|~diabetes.fo|~bokhandil.fo|~books.fo|~you.fo|~archive.fo|~afs.fo|~hoteltorshavn.fo|~designa.fo|~hvonn.fo|~isf.fo|~fuglafjordur.fo|~nam.fo|~tjarnir.fo|~hsf.fo|~tonik.fo|~biobank.fo|~fair.fo
 /^https?:\/\/[^\/]+\.futosoku\.com\/?$/$document
 /^https?:\/\/[^\/]+\.gahalog\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.gamejksokuhou\.com\/?$/$document
