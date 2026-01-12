@@ -6167,7 +6167,7 @@ fp.no-sheep.org/services##.main
 ||pizzalikeheaven.com^$document
 ||pizzaofrock.com^$document
 ||pizzasta.jp^$document
-||pk^$doc,domain=~ticketwala.pk|~jazmin.pk|~highfy.pk|~baroque.pk|~pescobill.pk|~ktrade.pk|~gomilaintersole.pk|~ronin.pk|~digiskills.pk
+||pk^$doc,domain=~ticketwala.pk|~jazmin.pk|~highfy.pk|~baroque.pk|~pescobill.pk|~ktrade.pk|~gomilaintersole.pk|~ronin.pk|~digiskills.pk|~streamed.pk
 ||pkaki.com^$document
 ||pkshampoo.com^$document
 ||planetacadiz.com^$document
