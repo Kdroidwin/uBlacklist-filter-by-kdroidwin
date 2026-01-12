@@ -27,7 +27,6 @@
 *://*.ayacnews2nd.com/*
 *://*.bcqqvtlk.property/*
 *://*.bd/*
-*://*.beauty/*
 *://*.best/*
 *://*.bi/*
 *://*.bid/*
