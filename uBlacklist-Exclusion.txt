@@ -731,3 +731,9 @@
 @*://1win.ga/*
 @*://igad.ga/*
 @*://courcomptes.ga/*
+@*://lunar.fyi/*
+@*://detect.fyi/*
+@*://eras.fyi/*
+@*://lena.fyi/*
+@*://test262.fyi/*
+@*://tobin.fyi/*
