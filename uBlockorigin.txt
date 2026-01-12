@@ -122,7 +122,7 @@
 /^https?:\/\/[^\/]+\.ozawaren\.com\/?$/$document
 /^https?:\/\/[^\/]+\.paypal\.com\.vn\/?$/$document
 ||pe^$doc,domain=~larepublica.pe|~phon.pe|~boticasperu.pe|~rpp.pe|~canaln.pe|~isil.pe|~elperuano.pe|~inkafarma.pe|~panchita.pe|~urbania.pe
-/^https?:\/\/[^\/]+\.pg\/?$/$document
+||pg^$doc,domain=~datec.com.pg|~ccda.gov.pg|~rpngc.gov.pg|~ibsu.ac.pg|~pomcci.org.pg
 /^https?:\/\/[^\/]+\.pin\.it\/?$/$document
 /^https?:\/\/[^\/]+\.pinimg\.com\/?$/$document
 /^https?:\/\/[^\/]+\.pk\/?$/$document
