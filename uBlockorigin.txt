@@ -35,7 +35,6 @@
 /^https?:\/\/[^\/]+\.asterisk0\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.asusno22\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.ayacnews2nd\.com\/?$/$document
-/^https?:\/\/[^\/]+\.baby\/?$/$document
 /^https?:\/\/[^\/]+\.bcqqvtlk\.property\/?$/$document
 /^https?:\/\/[^\/]+\.beauty\/?$/$document
 /^https?:\/\/[^\/]+\.bipblog\.com\/?$/$document
