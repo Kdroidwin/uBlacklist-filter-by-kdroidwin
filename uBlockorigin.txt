@@ -96,7 +96,7 @@
 /^https?:\/\/[^\/]+\.modfyp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.moeeeani\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.mw\/?$/$document
-/^https?:\/\/[^\/]+\.mx\/?$/$document
+||mx^$doc,domain=~puentelibre.mx|~diario.mx|~expansion.mx|~nfl.mx|~futbollibre.mx
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
