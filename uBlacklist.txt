@@ -381,7 +381,6 @@
 *://*.vtuberranking.com/*
 *://*.vtubervideo.blog.jp/*
 *://*.vtuberzense.com/*
-*://*.vu/*
 *://*.wake-up-neo.com/*
 *://*.waranote.livedoor.biz/*
 *://*.wasabeafn.com/*
