@@ -2618,7 +2618,6 @@ fp.no-sheep.org/services##.main
 ||fumi2019.com^$document
 ||fumienaffi.com^$document
 ||fun-frisco.co.jp^$document
-||fun^$doc,domain=~www.limetorrents.fun
 ||funbid.com.hk^$document
 ||funbox.wpx.jp^$document
 ||fund.lifeplay.co.jp^$document
