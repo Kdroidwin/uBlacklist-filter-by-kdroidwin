@@ -56,8 +56,6 @@
 /^https?:\/\/[^\/]+\.filkhabr\.com\/?$/$document
 /^https?:\/\/[^\/]+\.fo\/?$/$document
 /^https?:\/\/[^\/]+\.futosoku\.com\/?$/$document
-||fyi^$doc,domain=~lunar.fyi|~detect.fyi|~eras.fyi|~lena.fyi|~test262.fyi|~tobin.fyi
-||ga^$doc,domain=~cgcgabon.ga|~gouvernement.ga|~techies.ga|~clikpay.ga|~1win.ga|~igad.ga|~courcomptes.ga
 /^https?:\/\/[^\/]+\.gahalog\.2chblog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.gamejksokuhou\.com\/?$/$document
 /^https?:\/\/[^\/]+\.ganbaruri\-man\.hatenablog\.com\/?$/$document
@@ -2901,6 +2899,7 @@ fp.no-sheep.org/services##.main
 ||fxqqoijt.lumiscreen.de^$document
 ||fy-enterprise.com^$document
 ||fyhd.xxasj.cn^$document
+||fyi^$doc,domain=~lunar.fyi|~detect.fyi|~eras.fyi|~lena.fyi|~test262.fyi|~tobin.fyi
 ||fyirech.cn^$document
 ||fyle-group.com^$document
 ||fysfcw.cn^$document
@@ -2915,6 +2914,7 @@ fp.no-sheep.org/services##.main
 ||g2015graman.top^$document
 ||g2c28wr.onlinetanke.de^$document
 ||g2mo30u9g.birralafirm.it^$document
+||ga^$doc,domain=~cgcgabon.ga|~gouvernement.ga|~techies.ga|~clikpay.ga|~1win.ga|~igad.ga|~courcomptes.ga
 ||gadge-taku.com/osusume-android-apps^$document
 ||gadgeski.hatenablog.com^$document
 ||gadget-app.com^$document
