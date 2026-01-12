@@ -288,8 +288,8 @@
 /^https?:\/\/[^\/]+\.yo\.zgserver\.com\/?$/$document
 /^https?:\/\/[^\/]+\.younggeeks\.in\/?$/$document
 /^https?:\/\/[^\/]+\.youtube\.com\.vn\/?$/$document
-/^https?:\/\/[^\/]+\.za\.com\/?$/$document
-/^https?:\/\/[^\/]+\.za\/?$/$document
+||za.com^$doc
+||za^$doc,domain=~sundownsfc.co.za|~stadio.ac.za|~myrunway.co.za|~cashcrusaders.co.za|~galxboy.co.za|~numetro.co.za|~valueco.co.za|~interbet.co.za|~decofurnsa.co.za|~cjc.edu.za|~jetour.co.za|~canalwalk.co.za|~maroelamedia.co.za|~csrd.co.za|~foodloversmarket.co.za
 /^https?:\/\/[^\/]+\.zainale\.net\/?$/$document
 /^https?:\/\/[^\/]+\.zhblog\.net\/?$/$document
 /^https?:\/\/[^\/]+\.zhouni\.net\/?$/$document
