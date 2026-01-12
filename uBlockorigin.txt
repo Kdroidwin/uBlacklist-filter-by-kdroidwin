@@ -91,11 +91,11 @@
 /^https?:\/\/[^\/]+\.maxinformation\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.military38\.com\/?$/$document
 /^https?:\/\/[^\/]+\.mindhack2ch\.com\/?$/$document
-/^https?:\/\/[^\/]+\.mn\/?$/$document
+||mn^$doc,domain=~trade.mn|~mass.mn|~eguur.mn|~joinme.mn|~beautysecrets.mn|~shoppy.mn|~iaac.mn|~datacom.mn|~ergelt.mn|~greensoft.mn|~bny.mn|~esain.mn|~neyoto.mn|~news.mn|~itstore.mn|~kpmg.mn
 /^https?:\/\/[^\/]+\.mobi\-connect\.net\/?$/$document
 /^https?:\/\/[^\/]+\.modfyp\.com\/?$/$document
 /^https?:\/\/[^\/]+\.moeeeani\.blog\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.mw\/?$/$document
+||mw^$doc,domain=~mbc.mw|~smartapps.mw|~continentalcapital.mw|~finca.mw|~sjog.mw|~macra.mw|~muuni.mw|~nbs.mw|~habitat.mw|~premiercasino.mw|~selectafrica.mw|~ngora.mw|~npc.mw|~fam.mw|~karakasis.mw|~combinecargo.mw|~satcp.mw|~mchs.mw|~tourism.mw|~hillviewschool.mw|~isla.mw|~nyaleinstitute.org.mw|~fr.mw|~visitmalawi.mw|~airtel.mw|~easypack.mw|~hopetv.mw|~bmis.mw
 /^https?:\/\/[^\/]+\.myxstalk\.lol\/?$/$document
 /^https?:\/\/[^\/]+\.namaejiten\.com\/?$/$document
 /^https?:\/\/[^\/]+\.namaeuranai\.biz\/?$/$document
@@ -119,8 +119,8 @@
 /^https?:\/\/[^\/]+\.paypal\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.pin\.it\/?$/$document
 /^https?:\/\/[^\/]+\.pinimg\.com\/?$/$document
-/^https?:\/\/[^\/]+\.pk\/?$/$document
-/^https?:\/\/[^\/]+\.pn\/?$/$document
+||pk^$doc,domain=~ticketwala.pk|~jazmin.pk|~highfy.pk|~baroque.pk|~pescobill.pk|~ktrade.pk|~gomilaintersole.pk|~ronin.pk|~digiskills.pk
+||pn^$doc,domain=~yj.pn|~nic.pn|~gr.pn
 /^https?:\/\/[^\/]+\.programmation\-web\-qr\.com\/?$/$document
 /^https?:\/\/[^\/]+\.programmerstart\.com\/?$/$document
 /^https?:\/\/[^\/]+\.programmerz\.ru\/?$/$document
