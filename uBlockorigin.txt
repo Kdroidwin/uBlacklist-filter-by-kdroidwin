@@ -43,12 +43,10 @@
 /^https?:\/\/[^\/]+\.brow2ing\.com\/?$/$document
 /^https?:\/\/[^\/]+\.burusoku\-vip\.com\/?$/$document
 /^https?:\/\/[^\/]+\.carnival00inkochi\.jp\/?$/$document
-/^https?:\/\/[^\/]+\.cd\/?$/$document
 /^https?:\/\/[^\/]+\.chaos2ch\.com\/?$/$document
 /^https?:\/\/[^\/]+\.cloudflare\.com\.vn\/?$/$document
 /^https?:\/\/[^\/]+\.coromoo\.com\/?$/$document
 /^https?:\/\/[^\/]+\.crx7601\.com\/?$/$document
-/^https?:\/\/[^\/]+\.dj\/?$/$document
 /^https?:\/\/[^\/]+\.doujinsokuhou45\.com\/?$/$document
 /^https?:\/\/[^\/]+\.efire\-matome\.com\/?$/$document
 /^https?:\/\/[^\/]+\.enamae\.net\/?$/$document
