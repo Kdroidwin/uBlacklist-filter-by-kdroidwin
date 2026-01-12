@@ -1287,7 +1287,7 @@ fp.no-sheep.org/services##.main
 ||berrymoca.com^$document
 ||bert-bert.com^$document
 ||best-tax.site^$document
-||best^$doc,domain=~www.ptt.best|~sekai.best|~do-my.best
+||best^$doc,domain=~www.ptt.best|~sekai.best|~do-my.best|~awe-some.best|~yuigon.best|~quiz-daijin.mygame.best|~sen.best|~tsubame.payitforward.best|~iga.best|~scratch.best|~nextwave.best|~onwa-office.best|~venus.best|~ocr.best
 ||bestcheerstone.com^$document
 ||bestfashionvalue.com^$document
 ||bestforandroid.com^$document
