@@ -752,3 +752,8 @@
 @*://maroelamedia.co.za/*
 @*://csrd.co.za/*
 @*://foodloversmarket.co.za/*
+@*://puentelibre.mx/*
+@*://diario.mx/*
+@*://expansion.mx/*
+@*://nfl.mx/*
+@*://futbollibre.mx/*
