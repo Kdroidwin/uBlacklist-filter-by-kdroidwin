@@ -1776,7 +1776,7 @@ fp.no-sheep.org/services##.main
 ||cleartechrecruiting.com^$document
 ||clibomanager.com^$document
 ||click.mail1.welcomebreak.online^$document
-||click^$doc,domain=~am-videos.click|~buybox.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~wmg.click|~cpstest.click|~chattering.click|~kaitouyoushi.click|~watchtv.click|~gamei.click|~birahijab.click|~fasty.click
+||click^$document,from=~am-videos.click|~birahijab.click|~buybox.click|~chattering.click|~cpstest.click|~fasty.click|~gamei.click|~kaitouyoushi.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~watchtv.click|~wmg.click|~cybernote.click|~kotake.click|~cookai.click|~noriyuki.click|~wawawa.click|~kikou.click|~kotoba.click|~hayato.click|~utenti.click|~tokai.click
 ||clickfordetayiso.online^$document
 ||client.v.just.edu.cn^$document
 ||clientes.selecmoda.com^$document
