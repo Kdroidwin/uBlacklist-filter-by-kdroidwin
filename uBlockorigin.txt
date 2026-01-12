@@ -208,7 +208,7 @@
 /^https?:\/\/[^\/]+\.t\.codebug\.vip\/?$/$document
 /^https?:\/\/[^\/]+\.tagsqa\.com\/?$/$document
 /^https?:\/\/[^\/]+\.takenokosokuhou\.com\/?$/$document
-/^https?:\/\/[^\/]+\.td\/?$/$document
+||td^$doc,domain=~itrad.td|~hama.td|~portail.td|~adac.td|~onape.td|~f.td
 /^https?:\/\/[^\/]+\.tecahe\.za\.com\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-in\-japan\.github\.io\/?$/$document
 /^https?:\/\/[^\/]+\.tech\-ja\.netlify\.app\/?$/$document
@@ -257,7 +257,6 @@
 /^https?:\/\/[^\/]+\.vtuberranking\.com\/?$/$document
 /^https?:\/\/[^\/]+\.vtubervideo\.blog\.jp\/?$/$document
 /^https?:\/\/[^\/]+\.vtuberzense\.com\/?$/$document
-/^https?:\/\/[^\/]+\.vu\/?$/$document
 /^https?:\/\/[^\/]+\.wake\-up\-neo\.com\/?$/$document
 /^https?:\/\/[^\/]+\.waranote\.livedoor\.biz\/?$/$document
 /^https?:\/\/[^\/]+\.wasabeafn\.com\/?$/$document
