@@ -1005,16 +1005,13 @@
 *://animesoku.com/*
 *://animonogatari.com/*
 *://anincline.com/*
-*://anipha.jp/*
 *://anista-maga.com/*
-*://ankekko.com/*
 *://ankoron.com/*
 *://ankororo.com/*
 *://annaishimasuyo.com/*
 *://annbiyou.com/*
 *://annneme.net/*
 *://announcer-room.net/*
-*://anogate.jp/*
 *://anogeinoujinnoima.com/*
 *://anohito-genzai-matome.com/*
 *://anohito-genzai.com/*
@@ -1025,7 +1022,6 @@
 *://anosaka.com/*
 *://anotherstorysign.com/*
 *://answer-id.com/*
-*://answers.microsoft.com/*
 *://answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn/*
 *://antenatarou.warotamaker2.com/*
 *://antenna.ai-gazoukan.com/*
@@ -1105,7 +1101,6 @@
 *://appagg.com/*
 *://appante7.info/*
 *://appbu.jp/*
-*://apple.me/*
 *://applenge-media.com/*
 *://applepandac.com/*
 *://applepayer.net/*
@@ -1131,7 +1126,6 @@
 *://aqreativez.com/*
 *://aqtpgpoqd.apotheken-kooperationen.de/*
 *://aqua-aoyama.com/*
-*://ar-mag.jp/*
 *://araou.jp/*
 *://arasa-mama.com/*
 *://archivando.jp/*
@@ -1184,7 +1178,6 @@
 *://asadorataiga.com/*
 *://asahilog.com/*
 *://asaishinya.xyz/*
-*://asajo.jp/*
 *://asakissa.com/*
 *://asako-plus.com/*
 *://asalkhabar.com/*
