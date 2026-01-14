@@ -315,7 +315,6 @@ fp.no-sheep.org/services##.main
 ||ac.ms-track.info^$document
 ||academic-box.be^$document
 ||access-network.jp^$document
-||access.line.me^$document
 ||acchan-labo.com^$document
 ||accocolorpencil99.com^$document
 ||accounts.millenvpn.jp^$document
