@@ -2661,7 +2661,7 @@ fp.no-sheep.org/services##.main
 ||g2015graman.top^$document
 ||g2c28wr.onlinetanke.de^$document
 ||g2mo30u9g.birralafirm.it^$document
-||ga^$doc,domain=~cgcgabon.ga|~gouvernement.ga|~techies.ga|~clikpay.ga|~1win.ga|~igad.ga|~courcomptes.ga
+||ga^$doc,domain=~cgcgabon.ga|~gouvernement.ga|~techies.ga|~clikpay.ga|~1win.ga|~igad.ga|~courcomptes.ga|~auri.ga
 ||gadge-taku.com/osusume-android-apps^$document
 ||gadgeski.hatenablog.com^$document
 ||gadget-app.com^$document
@@ -10785,7 +10785,6 @@ fp.no-sheep.org/services##.main
 @@||anitabi.cn^$document
 @@||asiaon.top^$document
 @@||audioforyou.top^$document
-@@||auri.ga^document
 @@||av.av4us.sbs^$document
 @@||awavenue.top^$document
 @@||baby-beamup.club^$document
