@@ -707,7 +707,6 @@
 *://ac.ms-track.info/*
 *://academic-box.be/*
 *://access-network.jp/*
-*://access.line.me/*
 *://acchan-labo.com/*
 *://accocolorpencil99.com/*
 *://accounts.millenvpn.jp/*
