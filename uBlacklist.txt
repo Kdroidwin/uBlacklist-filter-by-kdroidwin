@@ -3,18 +3,6 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
-*://sunlounge-nagoya.com/*
-*://fiteasy.jp/*
-title/SUNLOUNGE/
-*://www.canmego.com/*
-*://sunsun-lp.com/*
-*://merasu.jp/*
-*://the-personal-gym.com/*
-*://beauty.hotpepper.jp/kr/slnH000501341/blog/bidA045501774.html
-*://www.bright-sendai.com/*
-*://coloria.jp/*
-*://b-short.link/YN3htW*
-*://ai-skill.jp/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
@@ -793,6 +781,7 @@ title/SUNLOUNGE/
 *://ahplk.kglyrifg.top/*
 *://ai-ffiliate.net/*
 *://ai-official.jp/*
+*://ai-skill.jp/*
 *://ai-uruoi.com/*
 *://aianimal.p2.weblife.me/*
 *://aiboku-com.vercel.app/*
@@ -1294,6 +1283,7 @@ title/SUNLOUNGE/
 *://azukimama.com/*
 *://azukisanchi.xsrv.jp/*
 *://b-corsairs.bl.kuroco-img.app/*
+*://b-short.link/YN3htW*
 *://b-us.liuhe36.cn/*
 *://b1a4fc.jp/*
 *://b2b.bohrer.ru/*
@@ -1364,6 +1354,7 @@ title/SUNLOUNGE/
 *://beararms.gr/*
 *://beasyouareramana.com/*
 *://beatriceinsurance.com/*
+*://beauty.hotpepper.jp/kr/slnH000501341/blog/bidA045501774.html
 *://beautybest.jp/*
 *://beaver-global.com/*
 *://beblack.jp/*
@@ -1929,6 +1920,7 @@ title/SUNLOUNGE/
 *://color-code.jp/*
 *://color-laboratory.com/*
 *://colorfully.app/*
+*://coloria.jp/*
 *://colormerad.info/*
 *://colors-ent.jp/*
 *://colourful-audition.jp/*
@@ -2804,6 +2796,7 @@ title/SUNLOUNGE/
 *://fish-aqua.com/*
 *://fishinfortrimm.com/*
 *://fit4u-training.com/*
+*://fiteasy.jp/*
 *://fitgirl-repack.com/*
 *://fitgirl-repack.net/*
 *://fitgirl-repack.org/*
@@ -5061,6 +5054,7 @@ title/SUNLOUNGE/
 *://menubarx.app/*
 *://mequl-hibi.com/*
 *://merafitness.com/*
+*://merasu.jp/*
 *://mercari.bibian.co.jp/*
 *://meringue-web.com/*
 *://mero07.com/*
@@ -7543,10 +7537,12 @@ title/SUNLOUNGE/
 *://sunao-journal.com/*
 *://sunglasses-dz.com/*
 *://sunlounge-higashisapporo.com/*
+*://sunlounge-nagoya.com/*
 *://sunlounge.co.jp/*
 *://sunny-idea.com/*
 *://sunoharablog.com/*
 *://sunscreendirect.com/*
+*://sunsun-lp.com/*
 *://suntekai.com/*
 *://suntoranosuke.com/*
 *://suo.su/*
@@ -7793,6 +7789,7 @@ title/SUNLOUNGE/
 *://the-cyclebreakers.com/*
 *://the-greatest-dj-of-all-time.technobit.online/*
 *://the-jet-sleeper.com/*
+*://the-personal-gym.com/*
 *://the-zafiro-simulator-of-g-b-a-glass-edition.softonic.ru/*
 *://the.yokosuka-ecotour.jp/*
 *://the0ries.com/*
@@ -8815,6 +8812,7 @@ title/SUNLOUNGE/
 *://www.brandycampcrew.com/*
 *://www.breguet.cn/*
 *://www.brenzebra.com/*
+*://www.bright-sendai.com/*
 *://www.brighteazy.com/*
 *://www.broadcom.cn/*
 *://www.bronze-paradise-sun-lover.com/*
@@ -8842,6 +8840,7 @@ title/SUNLOUNGE/
 *://www.caddiegiveaways.com/*
 *://www.cagroo452-plala.xyz/*
 *://www.candyso.com/*
+*://www.canmego.com/*
 *://www.capcut.com/*
 *://www.capt-pukumaru-koukaityo.com/*
 *://www.cardealuae.com/*
@@ -10786,6 +10785,7 @@ title/- Apps on Google Play/
 title/HOT !/
 title/HOT!/
 title/OFFでまとめ買/
+title/SUNLOUNGE/
 title/Sign in - Google Accounts/
 title/Wiki経歴/
 title/\u0600-\u06FF]+/

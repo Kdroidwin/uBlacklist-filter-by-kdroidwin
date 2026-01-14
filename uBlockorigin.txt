@@ -1,5 +1,6 @@
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
+
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world(\/|$)/$document
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|watch\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|kreva\.|siri\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|festival\.|my-private\.|park\.|besty\.|info\.|help\.|docs\.|about\.|news\.|connect\.|college\.|mazzel\.|mstdn\.)[^\/]+\.[^\/]+\.club(\/|$)/$document
@@ -313,6 +314,7 @@ fp.no-sheep.org/services##.main
 ||ac.ms-track.info^$document
 ||academic-box.be^$document
 ||access-network.jp^$document
+||access.line.me^$document
 ||acchan-labo.com^$document
 ||accocolorpencil99.com^$document
 ||accounts.millenvpn.jp^$document
@@ -392,6 +394,7 @@ fp.no-sheep.org/services##.main
 ||ahplk.kglyrifg.top^$document
 ||ai-ffiliate.net^$document
 ||ai-official.jp^$document
+||ai-skill.jp^$document
 ||ai-uruoi.com^$document
 ||aianimal.p2.weblife.me^$document
 ||aiarty.com^$document
@@ -1565,6 +1568,7 @@ fp.no-sheep.org/services##.main
 ||color-code.jp^$document
 ||color-laboratory.com^$document
 ||colorfully.app^$document
+||coloria.jp^$document
 ||colormerad.info^$document
 ||colors-ent.jp^$document
 ||colourful-audition.jp^$document
@@ -2453,6 +2457,7 @@ fp.no-sheep.org/services##.main
 ||fish-aqua.com^$document
 ||fishinfortrimm.com^$document
 ||fit4u-training.com^$document
+||fiteasy.jp^$document
 ||fitgirl-repack.com^$document
 ||fitgirl-repack.net^$document
 ||fitgirl-repack.org^$document
@@ -4774,6 +4779,7 @@ fp.no-sheep.org/services##.main
 ||menubarx.app^$document
 ||mequl-hibi.com^$document
 ||merafitness.com^$document
+||merasu.jp^$document
 ||mercari.bibian.co.jp^$document
 ||meringue-web.com^$document
 ||mero07.com^$document
@@ -7416,10 +7422,12 @@ fp.no-sheep.org/services##.main
 ||sunglasses-dz.com^$document
 ||sunkist-cp2023.jp^$document
 ||sunlounge-higashisapporo.com^$document
+||sunlounge-nagoya.com^$document
 ||sunlounge.co.jp^$document
 ||sunny-idea.com^$document
 ||sunoharablog.com^$document
 ||sunscreendirect.com^$document
+||sunsun-lp.com^$document
 ||suntekai.com^$document
 ||suntoranosuke.com^$document
 ||suo.su^$document
@@ -7685,6 +7693,7 @@ fp.no-sheep.org/services##.main
 ||the-cyclebreakers.com^$document
 ||the-greatest-dj-of-all-time.technobit.online^$document
 ||the-jet-sleeper.com^$document
+||the-personal-gym.com^$document
 ||the-zafiro-simulator-of-g-b-a-glass-edition.softonic.ru^$document
 ||the.yokosuka-ecotour.jp^$document
 ||the0ries.com^$document
@@ -8776,6 +8785,7 @@ fp.no-sheep.org/services##.main
 ||www.brandycampcrew.com^$document
 ||www.breguet.cn^$document
 ||www.brenzebra.com^$document
+||www.bright-sendai.com^$document
 ||www.brighteazy.com^$document
 ||www.broadcom.cn^$document
 ||www.bronze-paradise-sun-lover.com^$document
@@ -8803,6 +8813,7 @@ fp.no-sheep.org/services##.main
 ||www.caddiegiveaways.com^$document
 ||www.cagroo452-plala.xyz^$document
 ||www.candyso.com^$document
+||www.canmego.com^$document
 ||www.capcut.com^$document
 ||www.capt-pukumaru-koukaityo.com^$document
 ||www.cardealuae.com^$document
@@ -10781,4 +10792,3 @@ fp.no-sheep.org/services##.main
 @@||www.pinterest.co.uk^$document
 @@||www.pinterest.com^$document
 @@||www.pinterest.jp^$document
-
