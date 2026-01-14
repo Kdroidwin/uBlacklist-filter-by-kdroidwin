@@ -214,6 +214,7 @@ fp.no-sheep.org/services##.main
 ||6sc6sh.cn^$document
 ||6xz1gd.cn^$document
 ||6yfik268.r.us-east-1.awstrack.me^$document
+||7063762596.pngseza.gov.pg^$document
 ||711web.com^$document
 ||7227125.slot47.online^$document
 ||73569.gatecoin.online^$document
@@ -2967,6 +2968,7 @@ fp.no-sheep.org/services##.main
 ||govermatrix.com^$document
 ||goversys.com^$document
 ||govorite.ru^$document
+||gpslp-ptp5.vercel.app^$document
 ||gq^$document
 ||grace17.com^$document
 ||gracefulwolf.com^$document
@@ -5426,6 +5428,7 @@ fp.no-sheep.org/services##.main
 ||note.com/5656remon5656^$document
 ||note.com/88gold88^$document
 ||note.com/accha123^$document
+||note.com/addness_recruit^$document
 ||note.com/agile_pika4626^$document
 ||note.com/ai_business_navi^$document
 ||note.com/aichanworld^$document
@@ -6838,6 +6841,7 @@ fp.no-sheep.org/services##.main
 ||sasanohanisuzu.com^$document
 ||sasayamarche.jp^$document
 ||satimo-notes.com^$document
+||sato-yokohama.jp^$document
 ||satobayashi.net^$document
 ||satomin.club^$document
 ||satomoka.com^$document
@@ -9981,6 +9985,7 @@ fp.no-sheep.org/services##.main
 ||www.sound.xyz^$document
 ||www.sousacontabilidade.net^$document
 ||www.spacioclub.ru^$document
+||www.spic-int.jp^$document
 ||www.spology.jp^$document
 ||www.sports.ru^$document
 ||www.sports2films.com^$document

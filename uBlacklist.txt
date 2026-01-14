@@ -1,16 +1,11 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://*.addness.co.jp/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
+*://*.addness.co.jp/*
 *://*.adobe.com.vn/*
-*://note.com/addness_recruit/*
-*://www.spic-int.jp/*
-*://sato-yokohama.jp/*
-*://gpslp-ptp5.vercel.app/*
-*://7063762596.pngseza.gov.pg/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -611,6 +606,7 @@
 *://6sc6sh.cn/*
 *://6xz1gd.cn/*
 *://6yfik268.r.us-east-1.awstrack.me/*
+*://7063762596.pngseza.gov.pg/*
 *://711web.com/*
 *://7227125.slot47.online/*
 *://73569.gatecoin.online/*
@@ -3296,6 +3292,7 @@
 *://govermatrix.com/*
 *://goversys.com/*
 *://govorite.ru/*
+*://gpslp-ptp5.vercel.app/*
 *://grace17.com/*
 *://gracefulwolf.com/*
 *://granadamediacorp.com/*
@@ -5675,6 +5672,7 @@
 *://note.com/5656remon5656/*
 *://note.com/88gold88/*
 *://note.com/accha123/*
+*://note.com/addness_recruit/*
 *://note.com/agile_pika4626/*
 *://note.com/ai_business_navi/*
 *://note.com/aichanworld/*
@@ -6999,6 +6997,7 @@
 *://sasanohanisuzu.com/*
 *://sasayamarche.jp/*
 *://satimo-notes.com/*
+*://sato-yokohama.jp/*
 *://satobayashi.net/*
 *://satomin.club/*
 *://satomoka.com/*
@@ -10006,6 +10005,7 @@
 *://www.sound.xyz/*
 *://www.sousacontabilidade.net/*
 *://www.spacioclub.ru/*
+*://www.spic-int.jp/*
 *://www.spology.jp/*
 *://www.sports.ru/*
 *://www.sports2films.com/*
