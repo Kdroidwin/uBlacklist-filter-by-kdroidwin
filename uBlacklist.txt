@@ -1,10 +1,16 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
+*://*.addness.co.jp/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.adobe.com.vn/*
+*://note.com/addness_recruit/*
+*://www.spic-int.jp/*
+*://sato-yokohama.jp/*
+*://gpslp-ptp5.vercel.app/*
+*://7063762596.pngseza.gov.pg/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
