@@ -7840,7 +7840,7 @@ fp.no-sheep.org/services##.main
 ||tools.anquanclub.cn^$document
 ||toorublog.com^$document
 ||tootsietoes.com.au^$document
-||top^$document,from=~1stream.top|~adrules.top|~ambr.top|~asiaon.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~changlam10.top|~changlam11.top|~chillx.top|~corriente.top|~doubledouble.top|~gdtot.top|~hostingowy.top|~iboxs.top|~magocoro.top|~nicenature.top|~passt.top|~pdcdn1.top|~polar.top|~pressplay.top|~reminder.top|~reyhub.top|~rifton.top|~rugaming.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~to|~voxel.top|~yggtorrent.top|~doujinantena.top|~www.minesweeper.top|~cqdh26.top|~mangakoma01.top|~kmansin09.top|~spoilerraw.top|~kiwami.top|~maguro.top|~golfgear.top|~yoshizuya.top|~kitaqhitorioya.top|~sakura-cl.top|~deen-hachinohe.top|~www.coolsymbol.top|~www.jsdelivr.top|~ja.amatorvideok.top|~ja.pornici.top|~2dfmax.top|~yokohama-shirahata.top
+||top^$document,from=~1stream.top|~adrules.top|~ambr.top|~asiaon.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~changlam10.top|~changlam11.top|~chillx.top|~corriente.top|~doubledouble.top|~gdtot.top|~hostingowy.top|~iboxs.top|~magocoro.top|~nicenature.top|~passt.top|~pdcdn1.top|~polar.top|~pressplay.top|~reminder.top|~reyhub.top|~rifton.top|~rugaming.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~to|~voxel.top|~yggtorrent.top|~doujinantena.top|~www.minesweeper.top|~cqdh26.top|~mangakoma01.top|~kmansin09.top|~spoilerraw.top|~kiwami.top|~maguro.top|~golfgear.top|~yoshizuya.top|~kitaqhitorioya.top|~sakura-cl.top|~deen-hachinohe.top|~www.coolsymbol.top|~www.jsdelivr.top|~ja.amatorvideok.top|~ja.pornici.top|~2dfmax.top|~yokohama-shirahata.top|~zeri-m.top|~yggtorrent.top|~www.sayafx.top
 ||topcasinosdirectory.com^$document
 ||topfifty.uk^$document
 ||topgun.ffwpu.app^$document
@@ -10797,7 +10797,6 @@ fp.no-sheep.org/services##.main
 @@||cpolar.top^$document
 @@||digipres.club^$document
 @@||edgeless.top^$document
-@@||fp.no-sheep.org^$document
 @@||galge.top^$document
 @@||gdtot.top^$document
 @@||hack.club^$document
@@ -10850,6 +10849,4 @@ fp.no-sheep.org/services##.main
 @@||www.pinterest.co.uk^$document
 @@||www.pinterest.com^$document
 @@||www.pinterest.jp^$document
-@@||www.sayafx.top^$document
-@@||yggtorrent.top^$document
-@@||zeri-m.top^$document
+
