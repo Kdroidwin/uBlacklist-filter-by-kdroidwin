@@ -628,9 +628,7 @@ fp.no-sheep.org/services##.main
 ||animesoku.com^$document
 ||animonogatari.com^$document
 ||anincline.com^$document
-||anipha.jp^$document
 ||anista-maga.com^$document
-||ankekko.com^$document
 ||ankoron.com^$document
 ||ankororo.com^$document
 ||annaishimasuyo.com^$document
@@ -648,7 +646,6 @@ fp.no-sheep.org/services##.main
 ||anosaka.com^$document
 ||anotherstorysign.com^$document
 ||answer-id.com^$document
-||answers.microsoft.com^$document
 ||answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn^$document
 ||antenatarou.warotamaker2.com^$document
 ||antenna.ai-gazoukan.com^$document
@@ -729,7 +726,6 @@ fp.no-sheep.org/services##.main
 ||appagg.com^$document
 ||appante7.info^$document
 ||appbu.jp^$document
-||apple.me^$document
 ||applenge-media.com^$document
 ||applepandac.com^$document
 ||applepayer.net^$document
@@ -753,7 +749,6 @@ fp.no-sheep.org/services##.main
 ||aqreativez.com^$document
 ||aqtpgpoqd.apotheken-kooperationen.de^$document
 ||aqua-aoyama.com^$document
-||ar-mag.jp^$document
 ||ar^$doc,domain=~centronikkei.org.ar
 ||araou.jp^$document
 ||arasa-mama.com^$document
@@ -808,7 +803,6 @@ fp.no-sheep.org/services##.main
 ||asahilog.com^$document
 ||asaishinya.xyz^$document
 ||asaishinya.xyz^$document
-||asajo.jp^$document
 ||asakissa.com^$document
 ||asako-plus.com^$document
 ||asalkhabar.com^$document
