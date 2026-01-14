@@ -4458,7 +4458,6 @@ fp.no-sheep.org/services##.main
 ||m.hu60.cn^$document
 ||m.ladymax.cn^$document
 ||m.majorgeeks.com/files/details/ccleaner_portable.html^$document
-||m.paytm.me^$document
 ||m.qq241.com^$document
 ||m.uechairs.cn^$document
 ||m.utoo.cniic.cn^$document
