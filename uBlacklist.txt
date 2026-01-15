@@ -439,7 +439,6 @@
 *://1024linux.cn/*
 *://1069boys.xyz/*
 *://109618.xyz/*
-*://10oz.jp/*
 *://111live.ru/*
 *://11417920482.slot47.online/*
 *://115e.cn/*
@@ -466,7 +465,6 @@
 *://193.70.86.5/*
 *://1941.jp/*
 *://1a8ausui0.com/*
-*://1blog.jp/*
 *://1f6a725b.xyz/*
 *://1fd.online/*
 *://1geireki.com/*
@@ -714,7 +712,6 @@
 *://acehmediacenter.com/*
 *://acer.onerise.info/*
 *://acgi.jp/*
-*://acil.co.jp/*
 *://acl-2022.jp/*
 *://acn-perf.ciostage.accenture.cn/*
 *://acn-release.ciostage.accenture.cn/*
@@ -1926,19 +1923,15 @@
 *://colors-ent.jp/*
 *://colourful-audition.jp/*
 *://columbia-xxx.com/*
-*://columbia.jp/*
 *://comaco325.com/*
 *://comedian-marriage.com/*
 *://comfortable-life.site/*
 *://comic-checker.jp/*
 *://comic-compass.com/*
-*://comic-days.com/*
 *://comic-days.net/*
 *://comic-hobby.best/*
 *://comic-info.jp/*
 *://comic-mangashelf.com/*
-*://comic-trail.jp/*
-*://comic.book.mynavi.jp/*
 *://comic.chiramiru.com/*
 *://comic.enka.work/*
 *://comic.manga-mill.com/*
@@ -1948,7 +1941,6 @@
 *://comicloop.jp/*
 *://comics-love.hatenablog.com/*
 *://comics.wpx.jp/*
-*://comicy.jp/*
 *://comikatu.jp/*
 *://comione.com/*
 *://comitoon.sakura.ne.jp/*
@@ -1981,7 +1973,6 @@
 *://conunestilodiferente.com/*
 *://conwaystewart.cn/*
 *://coochanenjoyblog.com/*
-*://cooking-life-style.com/*
 *://coopers-pub.ch/*
 *://cooptq0u.malaysiainternationalschools.com/*
 *://copayeoh.jettysuites.com/*
