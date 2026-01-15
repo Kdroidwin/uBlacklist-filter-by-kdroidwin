@@ -20,7 +20,7 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.|seitai\.)[^\/]+\.[^\/]+\.(\/|$)fit(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|goodtree\.|discovery\.|www3\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.vip(\/|$)//$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|aya0205\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.mobi(\/|$)/$document
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|aya0205\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.shop(\/|$)/$document
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
 ||ad-nex.com^
 /^https?:\/\/[^\/]+\.jp\.[a-z]{2,3}(/|$)/$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
