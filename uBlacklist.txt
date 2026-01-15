@@ -4732,7 +4732,6 @@
 *://m.hu60.cn/*
 *://m.ladymax.cn/*
 *://m.majorgeeks.com/files/details/ccleaner_portable.html*
-*://m.paytm.me/*
 *://m.qq241.com/*
 *://m.uechairs.cn/*
 *://m.utoo.cniic.cn/*
