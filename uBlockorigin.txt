@@ -1013,7 +1013,7 @@ fp.no-sheep.org/services##.main
 ||berrymoca.com^$document
 ||bert-bert.com^$document
 ||best-tax.site^$document
-||best^$doc,domain=~www.ptt.best|~sekai.best|~do-my.best|~awe-some.best|~yuigon.best|~quiz-daijin.mygame.best|~sen.best|~tsubame.payitforward.best|~iga.best|~scratch.best|~nextwave.best|~onwa-office.best|~venus.best|~ocr.best
+||best^$doc,domain=~www.ptt.best|~sekai.best|~do-my.best|~awe-some.best|~yuigon.best|~quiz-daijin.mygame.best|~sen.best|~tsubame.payitforward.best|~iga.best|~scratch.best|~nextwave.best|~onwa-office.best|~venus.best|~ocr.best|~arrows.best|~.good-life.best
 ||bestcheerstone.com^$document
 ||bestfashionvalue.com^$document
 ||bestforandroid.com^$document
@@ -1172,7 +1172,7 @@ fp.no-sheep.org/services##.main
 ||bokuokun.com^$document
 ||bomberosvoluntariostequisquiapan.org^$document
 ||bonblo.com^$document
-||bond^$doc,domain=~kayac.bond|~indexjav.bond|~www.javindex.bond
+||bond^$doc,domain=~kayac.bond|~indexjav.bond|~www.javindex.bond|~isplan.bond|~jamz.bond
 ||bongdatv.lu^$document
 ||bonhikari.com^$document
 ||bonnychamber.com^$document
@@ -1381,7 +1381,7 @@ fp.no-sheep.org/services##.main
 ||cezardouvretoi.fr^$document
 ||cf2.top^$document
 ||cf^$doc,domain=~wacw.cf|~www.river.cf
-||cfd^$doc,domain=~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd|~freedium.cfd
+||cfd^$document,from=~freedium-mirror.cfd|~ayurveda.cfd|~www.rebekka.cfd|~valuecrestoperators.cfd|~structurelineinsight.cfd|~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd|~freedium.cfd
 ||cfksaklwnx.xyz^$document
 ||cg-corp.com^$document
 ||cgif.net^$document
@@ -1508,7 +1508,7 @@ fp.no-sheep.org/services##.main
 ||cleartechrecruiting.com^$document
 ||clibomanager.com^$document
 ||click.mail1.welcomebreak.online^$document
-||click^$document,from=~am-videos.click|~birahijab.click|~buybox.click|~chattering.click|~cpstest.click|~fasty.click|~gamei.click|~kaitouyoushi.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~watchtv.click|~wmg.click|~cybernote.click|~kotake.click|~cookai.click|~noriyuki.click|~wawawa.click|~kikou.click|~kotoba.click|~hayato.click|~utenti.click|~tokai.click|~seichi.click|~taikosim.click|~trpgsession.click
+||click^$document,from=~am-videos.click|~birahijab.click|~buybox.click|~chattering.click|~cpstest.click|~fasty.click|~gamei.click|~kaitouyoushi.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~watchtv.click|~wmg.click|~cybernote.click|~kotake.click|~cookai.click|~noriyuki.click|~wawawa.click|~kikou.click|~kotoba.click|~hayato.click|~utenti.click|~tokai.click|~seichi.click|~taikosim.click|~trpgsession.click|~tobigeri.click|~hal51.click|~yakushima.click|~8823.click|~www.hotoke.click|~jp.asus.click|~japanesearchery.click|~osushi.click|~storymaker.click|~carinfo.click|~bichiku.click|~signpost.click|~www.hiroshima-nekobugyou.click|~wecima.click|~asus.click
 ||clickfordetayiso.online^$document
 ||client.v.just.edu.cn^$document
 ||clientes.selecmoda.com^$document
