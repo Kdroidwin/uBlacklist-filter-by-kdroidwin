@@ -47,7 +47,6 @@ fp.no-sheep.org/services##.main
 ||1024linux.cn^$document
 ||1069boys.xyz^$document
 ||109618.xyz^$document
-||10oz.jp^$document
 ||111live.ru^$document
 ||11417920482.slot47.online^$document
 ||115e.cn^$document
@@ -74,7 +73,6 @@ fp.no-sheep.org/services##.main
 ||193.70.86.5^$document
 ||1941.jp^$document
 ||1a8ausui0.com^$document
-||1blog.jp^$document
 ||1f6a725b.xyz^$document
 ||1fd.online^$document
 ||1geireki.com^$document
@@ -322,7 +320,6 @@ fp.no-sheep.org/services##.main
 ||acehmediacenter.com^$document
 ||acer.onerise.info^$document
 ||acgi.jp^$document
-||acil.co.jp^$document
 ||acl-2022.jp^$document
 ||acn-perf.ciostage.accenture.cn^$document
 ||acn-release.ciostage.accenture.cn^$document
@@ -999,7 +996,6 @@ fp.no-sheep.org/services##.main
 ||beigetulip.com^$document
 ||beko-diary417.com^$document
 ||bela-movie.com^$document
-||belcy.jp^$document
 ||bellavista.club^$document
 ||bellblo.com^$document
 ||bellcurve.jp^$document
@@ -1579,13 +1575,10 @@ fp.no-sheep.org/services##.main
 ||comfortable-life.site^$document
 ||comic-checker.jp^$document
 ||comic-compass.com^$document
-||comic-days.com^$document
 ||comic-days.net^$document
 ||comic-hobby.best^$document
 ||comic-info.jp^$document
 ||comic-mangashelf.com^$document
-||comic-trail.jp^$document
-||comic.book.mynavi.jp^$document
 ||comic.chiramiru.com^$document
 ||comic.enka.work^$document
 ||comic.manga-mill.com^$document
@@ -1595,7 +1588,6 @@ fp.no-sheep.org/services##.main
 ||comicloop.jp^$document
 ||comics-love.hatenablog.com^$document
 ||comics.wpx.jp^$document
-||comicy.jp^$document
 ||comikatu.jp^$document
 ||comione.com^$document
 ||comitoon.sakura.ne.jp^$document
