@@ -33,6 +33,8 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
 fp.no-sheep.org/contact##.main
 fp.no-sheep.org/services##.main
+||.ke^$document,from=~kibu.ac.ke|~mpesacharges.co.ke|~teacher.co.ke|~kippra.or.ke
+||.sd^$document,from=~gov.sd
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
@@ -3902,7 +3904,6 @@ fp.no-sheep.org/services##.main
 ||kboard.jp^$document
 ||kcsf-eco-ap.jp^$document
 ||kdbtdhqm.bar^$document
-||.ke^$document,from=~kibu.ac.ke|~mpesacharges.co.ke|~teacher.co.ke|~kippra.or.ke
 ||keazikane.shop^$document
 ||keeeeeke.com^$document
 ||keepvid.ch^$document
@@ -6878,7 +6879,6 @@ fp.no-sheep.org/services##.main
 ||scrap-shop.online^$document
 ||screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android^$document
 ||scspuc.in^$document
-||.sd^$document,from=~gov.sd
 ||sdouga.com^$document
 ||se.fc-review.com^$document
 ||sea358mm25.com^$document
@@ -7042,6 +7042,7 @@ fp.no-sheep.org/services##.main
 ||shopeeal.com^$document
 ||shoppingnet.online^$document
 ||short-sleeper.or.jp^$document
+||shorta.vip^$document
 ||shorturl.biz.weibo.cn^$document
 ||shoshinshanoyakata.com^$document
 ||shounenki.jp^$document

@@ -4,7 +4,6 @@
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
-*://shorta.vip/*
 *://*.addness.co.jp/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
@@ -7187,6 +7186,7 @@
 *://shopeeal.com/*
 *://shoppingnet.online/*
 *://short-sleeper.or.jp/*
+*://shorta.vip/*
 *://shorturl.biz.weibo.cn/*
 *://shoshinshanoyakata.com/*
 *://shounenki.jp/*
