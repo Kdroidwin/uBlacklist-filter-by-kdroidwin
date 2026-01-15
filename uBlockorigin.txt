@@ -9819,7 +9819,6 @@ fp.no-sheep.org/services##.main
 ||www.rentracks.jp^$document
 ||www.rere.jp/beginners/249062^$document
 ||www.rere.jp/beginners/268203^$document
-||www.rere.jp^$document
 ||www.resonanciadomed.com^$document
 ||www.revancedapp.download^$document
 ||www.revitapeel.ru^$document
@@ -9851,7 +9850,6 @@ fp.no-sheep.org/services##.main
 ||www.rsh2024.com^$document
 ||www.rslabstudio.com^$document
 ||www.rstore.online^$document
-||www.ruten.com.tw^$document
 ||www.rv51hzf.cn^$document
 ||www.rv9.info^$document
 ||www.rvijylx.cn^$document
