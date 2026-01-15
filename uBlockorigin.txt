@@ -9234,7 +9234,6 @@ fp.no-sheep.org/services##.main
 ||www.hiyake.com^$document
 ||www.hjpnznv.cn^$document
 ||www.hksgxw.cn^$document
-||www.hlj.co.jp^$document
 ||www.hoalanfoods.vn^$document
 ||www.hokkaido-edge.jp^$document
 ||www.hokurikugas.co.jp.2519796247.proxy.kjj.lf.gov.cn^$document
@@ -9358,7 +9357,6 @@ fp.no-sheep.org/services##.main
 ||www.judymzungu.com^$document
 ||www.juxtin.com^$document
 ||www.k-cooking.jp^$document
-||www.k-nissei.jp^$document
 ||www.kaalcosmetic.com^$document
 ||www.kabe.xyz^$document
 ||www.kabushikigaisya-rigakubody.co.jp^$document
@@ -9370,7 +9368,6 @@ fp.no-sheep.org/services##.main
 ||www.kalamhor.online^$document
 ||www.kalamisadalaristanbul.com^$document
 ||www.kanesk.cn^$document
-||www.kanzen.jp^$document
 ||www.karkasi.online^$document
 ||www.kashi-mo.com^$document
 ||www.kawa.coffee^$document
@@ -9396,7 +9393,6 @@ fp.no-sheep.org/services##.main
 ||www.kitchendesigner.uk^$document
 ||www.kitchensbyeileen.com^$document
 ||www.kodakalaris.cn^$document
-||www.kojimasha.jp^$document
 ||www.kokajin-wedding.com^$document
 ||www.kokusai-singlemama.com^$document
 ||www.komiopera.ru^$document
@@ -9433,7 +9429,6 @@ fp.no-sheep.org/services##.main
 ||www.legame-gr.jp^$document
 ||www.lemon8-app.com^$document
 ||www.lepang.cn^$document
-||www.lespros.co.jp^$document
 ||www.letao.com.tw^$document
 ||www.letempsdunevasion.fr^$document
 ||www.leterna.top^$document
@@ -9632,7 +9627,6 @@ fp.no-sheep.org/services##.main
 ||www.neobji.ac.cn^$document
 ||www.netoff.co.jp^$document
 ||www.networkmoaleji2024.online^$document
-||www.neuron-x.co.jp^$document
 ||www.newcsl.cn^$document
 ||www.newlifeconstruction.co.uk^$document
 ||www.newsroomtransparencytracker.com^$document
@@ -9701,7 +9695,6 @@ fp.no-sheep.org/services##.main
 ||www.ozzy.com.cn^$document
 ||www.padlay-er.net^$document
 ||www.palegreen.jp^$document
-||www.pandora-japan.jp^$document
 ||www.pankhalo.com^$document
 ||www.pantheondelachanson.fr^$document
 ||www.papa-super.jp^$document
@@ -9830,7 +9823,6 @@ fp.no-sheep.org/services##.main
 ||www.renesas.cn^$document
 ||www.renovmobils.com^$document
 ||www.rentio.jp/matome/2024/05/temu-review^$document
-||www.rentio.jp^$document
 ||www.rentracks.jp^$document
 ||www.rere.jp/beginners/249062^$document
 ||www.rere.jp/beginners/268203^$document
@@ -9840,7 +9832,6 @@ fp.no-sheep.org/services##.main
 ||www.revitapeel.ru^$document
 ||www.revolt.co.jp^$document
 ||www.rhipe-katsuyo.jp^$document
-||www.riaj.or.jp^$document
 ||www.ricambifacili.com^$document
 ||www.rickygourmet.online^$document
 ||www.rintoshite.jp^$document
@@ -9849,7 +9840,6 @@ fp.no-sheep.org/services##.main
 ||www.rizapgroup.com^$document
 ||www.rizinlog.shop^$document
 ||www.rmrs.info^$document
-||www.rnb.co.jp^$document
 ||www.roboticsafrica.com^$document
 ||www.rockajaponica.com^$document
 ||www.rocketflush.vip^$document
@@ -9860,7 +9850,6 @@ fp.no-sheep.org/services##.main
 ||www.rogervivier.cn^$document
 ||www.rolex.cn^$document
 ||www.roomgirl.online^$document
-||www.roomie.jp^$document
 ||www.roots-barber.com^$document
 ||www.rosmersholm2023.com^$document
 ||www.royaleestategroup.com^$document
@@ -9917,7 +9906,6 @@ fp.no-sheep.org/services##.main
 ||www.sewellbedliningsinc.com^$document
 ||www.sgb.net.cn^$document
 ||www.shakemablog.com^$document
-||www.sheer.jp^$document
 ||www.shiga-amuze.com^$document
 ||www.shihojazz.com^$document
 ||www.shikoku-taikonohana.com^$document
@@ -10088,7 +10076,6 @@ fp.no-sheep.org/services##.main
 ||www.thomasfrissant.com^$document
 ||www.thousandsmiles.uk^$document
 ||www.threescoops.shop^$document
-||www.ticket.co.jp^$document
 ||www.tienkenandassociates.com^$document
 ||www.tiktok.com/ug/incentive^$document
 ||www.timbukdo.in^$document
@@ -10111,7 +10098,6 @@ fp.no-sheep.org/services##.main
 ||www.totalexpo.ru^$document
 ||www.tourconnection.travel^$document
 ||www.toynutz.com^$document
-||www.toyo.ac.jp^$document
 ||www.trade-trade.shop^$document
 ||www.tradesunlimitedusa.com^$document
 ||www.traingogy.uk^$document
@@ -10138,7 +10124,6 @@ fp.no-sheep.org/services##.main
 ||www.turnorpvaautoparte.online^$document
 ||www.tuvsud.cn^$document
 ||www.tuyenquanghpc.com.vn^$document
-||www.tvlife.jp^$document
 ||www.tweepsbook.com^$document
 ||www.twinarcus.com^$document
 ||www.twinrocktools.com^$document
