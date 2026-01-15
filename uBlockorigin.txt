@@ -6634,7 +6634,7 @@ fp.no-sheep.org/services##.main
 ||rme-kaigo.jp^$document
 ||rms.apollouniversity.edu.in^$document
 ||rn2z8o6fe.adrianodosanjos.de^$document
-||ro^$document,from=~uehi.ro|~exact-tours.ro|~dze.ro
+||ro^$document,from=~uehi.ro|~exact-tours.ro|~dze.ro|~gov.ro|~ac.ro
 ||robamimireport.com^$document
 ||robesgxo.check-in-out.com^$document
 ||robogeki.sakura.ne.jp^$document
@@ -6745,7 +6745,7 @@ fp.no-sheep.org/services##.main
 ||s8000.works^$document
 ||sa-ta-mi.com^$document
 ||sa.com^$document
-||sa^$document
+||sa^$document,from=~gov.sa|~ac.sa
 ||sabucaru.com^$document
 ||saburokuday.jp^$document
 ||sabusuku.net^$document
@@ -6878,7 +6878,7 @@ fp.no-sheep.org/services##.main
 ||scrap-shop.online^$document
 ||screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android^$document
 ||scspuc.in^$document
-||sd^$document
+||.sd^$document,from=~gov.sd
 ||sdouga.com^$document
 ||se.fc-review.com^$document
 ||sea358mm25.com^$document
@@ -7127,7 +7127,7 @@ fp.no-sheep.org/services##.main
 ||skyfall.co.jp^$document
 ||skytouchservices.com^$document
 ||skywave-net.com^$document
-||sl^$document
+||sl^$document,from=~gov.sl
 ||slashdot.jp^$document
 ||slolita.taobao.com^$document
 ||sloloura.com^$document
