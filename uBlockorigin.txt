@@ -748,7 +748,7 @@ fp.no-sheep.org/services##.main
 ||aqreativez.com^$document
 ||aqtpgpoqd.apotheken-kooperationen.de^$document
 ||aqua-aoyama.com^$document
-||ar^$doc,domain=~centronikkei.org.ar
+||ar^$doc,domain=~centronikkei.org.ar|~gov.ar
 ||araou.jp^$document
 ||arasa-mama.com^$document
 ||archivando.jp^$document
