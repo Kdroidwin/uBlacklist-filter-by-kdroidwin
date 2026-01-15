@@ -974,7 +974,7 @@ fp.no-sheep.org/services##.main
 ||bby.me^$document
 ||bcqqvtlk.property^$document
 ||bd.vizeo.eu^$document
-||bd^$document
+||bd^$document,from=~gov.bd
 ||bddy.me^$document
 ||be-3679.about.gitlab-review.app^$document
 ||be-marry.com^$document
@@ -996,7 +996,6 @@ fp.no-sheep.org/services##.main
 ||beigetulip.com^$document
 ||beko-diary417.com^$document
 ||bela-movie.com^$document
-||belcy.jp^$document
 ||bellavista.club^$document
 ||bellblo.com^$document
 ||bellcurve.jp^$document
@@ -1032,7 +1031,7 @@ fp.no-sheep.org/services##.main
 ||bhoutletsale.shop^$document
 ||bhspecial.com^$document
 ||bi-love.net^$document
-||bi^$document
+||bi^$document,from=~gov.bi|~edu.bi
 ||bibi-star.jp^$document
 ||bibitobleague.club^$document
 ||bibri.com^$document
@@ -3441,7 +3440,7 @@ fp.no-sheep.org/services##.main
 ||ikujipapa.net^$document
 ||ikumen-smile.com^$document
 ||ikuno-koreatown.com^$document
-||il^$document
+||il^$document,from=~gov.il|~ac.il
 ||ilf82z3.neurofaszia-therapie.de^$document
 ||illmatic-shop.com^$document
 ||illustshikou.com^$document
@@ -3903,7 +3902,7 @@ fp.no-sheep.org/services##.main
 ||kboard.jp^$document
 ||kcsf-eco-ap.jp^$document
 ||kdbtdhqm.bar^$document
-||ke^$document
+||.ke^$document,from=~kibu.ac.ke|~mpesacharges.co.ke|~teacher.co.ke|~kippra.or.ke
 ||keazikane.shop^$document
 ||keeeeeke.com^$document
 ||keepvid.ch^$document
@@ -4185,7 +4184,7 @@ fp.no-sheep.org/services##.main
 ||kyoutei-report.com^$document
 ||kyozon.net/list/vpn-recommended^$document
 ||kyun2-girls.com^$document
-||kz^$document
+||kz^$document,from=~gov.kz|~kaspi.kz
 ||kzen.dev^$document
 ||l-kyojin01.jp^$document
 ||l-ma.info^$document
