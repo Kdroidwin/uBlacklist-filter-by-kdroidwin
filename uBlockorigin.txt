@@ -34,8 +34,8 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
 fp.no-sheep.org/contact##.main
 fp.no-sheep.org/services##.main
-||.ke^$document,from=~kibu.ac.ke|~mpesacharges.co.ke|~teacher.co.ke|~kippra.or.ke
-||.sd^$document,from=~gov.sd
+||ke^$document,from=~kibu.ac.ke|~mpesacharges.co.ke|~teacher.co.ke|~kippra.or.ke
+||sd^$document,from=~gov.sd
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
