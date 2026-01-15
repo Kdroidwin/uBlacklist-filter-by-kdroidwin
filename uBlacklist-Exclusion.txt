@@ -886,3 +886,10 @@
 @*://www.rebekka.cfd/*
 @*://valuecrestoperators.cfd/*
 @*://structurelineinsight.cfd/*
+@*://bpro.fyi/*
+@*://comix.fyi/*
+@*://imsilly.fyi/*
+@*://symbol.fyi/*
+@*://brainly.lat/*
+@*://ecomlac.lat/*
+@*://ito.naosel.icu/*
