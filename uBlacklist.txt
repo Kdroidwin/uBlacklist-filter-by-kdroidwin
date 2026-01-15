@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://www.klsuperstore.com/*
-*://jpbitgetwallet.com/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -4054,6 +4052,7 @@
 *://jp.visit-japan.cn/*
 *://jp.winxmac.com/*
 *://jp24h.com/*
+*://jpbitgetwallet.com/*
 *://jpkanon.com/*
 *://jpsecengineer.com/*
 *://jsca-member--jp.proxy.shstvc.com.cn/*
@@ -9402,6 +9401,7 @@
 *://www.kitaharima-hi.com/*
 *://www.kitchendesigner.uk/*
 *://www.kitchensbyeileen.com/*
+*://www.klsuperstore.com/*
 *://www.kodakalaris.cn/*
 *://www.kokajin-wedding.com/*
 *://www.kokusai-singlemama.com/*

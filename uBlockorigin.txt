@@ -34,8 +34,6 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
 fp.no-sheep.org/contact##.main
 fp.no-sheep.org/services##.main
-||ke^$document,from=~kibu.ac.ke|~mpesacharges.co.ke|~teacher.co.ke|~kippra.or.ke
-||sd^$document,from=~gov.sd
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
@@ -3753,6 +3751,7 @@ fp.no-sheep.org/services##.main
 ||jp.visit-japan.cn^$document
 ||jp.winxmac.com^$document
 ||jp24h.com^$document
+||jpbitgetwallet.com^$document
 ||jpkanon.com^$document
 ||jpsecengineer.com^$document
 ||jsca-member--jp.proxy.shstvc.com.cn^$document
@@ -3906,6 +3905,7 @@ fp.no-sheep.org/services##.main
 ||kboard.jp^$document
 ||kcsf-eco-ap.jp^$document
 ||kdbtdhqm.bar^$document
+||ke^$document,from=~kibu.ac.ke|~mpesacharges.co.ke|~teacher.co.ke|~kippra.or.ke
 ||keazikane.shop^$document
 ||keeeeeke.com^$document
 ||keepvid.ch^$document
@@ -6880,6 +6880,7 @@ fp.no-sheep.org/services##.main
 ||scrap-shop.online^$document
 ||screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android^$document
 ||scspuc.in^$document
+||sd^$document,from=~gov.sd
 ||sdouga.com^$document
 ||se.fc-review.com^$document
 ||sea358mm25.com^$document
@@ -9386,6 +9387,7 @@ fp.no-sheep.org/services##.main
 ||www.kitaharima-hi.com^$document
 ||www.kitchendesigner.uk^$document
 ||www.kitchensbyeileen.com^$document
+||www.klsuperstore.com^$document
 ||www.kodakalaris.cn^$document
 ||www.kokajin-wedding.com^$document
 ||www.kokusai-singlemama.com^$document
