@@ -996,6 +996,7 @@ fp.no-sheep.org/services##.main
 ||beigetulip.com^$document
 ||beko-diary417.com^$document
 ||bela-movie.com^$document
+||belcy.jp^$document
 ||bellavista.club^$document
 ||bellblo.com^$document
 ||bellcurve.jp^$document
