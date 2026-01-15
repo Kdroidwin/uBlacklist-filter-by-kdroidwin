@@ -9255,7 +9255,6 @@
 *://www.hiyake.com/*
 *://www.hjpnznv.cn/*
 *://www.hksgxw.cn/*
-*://www.hlj.co.jp/*
 *://www.hoalanfoods.vn/*
 *://www.hokkaido-edge.jp/*
 *://www.hokurikugas.co.jp.2519796247.proxy.kjj.lf.gov.cn/*
@@ -9377,7 +9376,6 @@
 *://www.judymzungu.com/*
 *://www.juxtin.com/*
 *://www.k-cooking.jp/*
-*://www.k-nissei.jp/*
 *://www.kaalcosmetic.com/*
 *://www.kabe.xyz/*
 *://www.kabushikigaisya-rigakubody.co.jp/*
@@ -9389,7 +9387,6 @@
 *://www.kalamhor.online/*
 *://www.kalamisadalaristanbul.com/*
 *://www.kanesk.cn/*
-*://www.kanzen.jp/*
 *://www.karkasi.online/*
 *://www.kashi-mo.com/*
 *://www.kawa.coffee/*
@@ -9414,7 +9411,6 @@
 *://www.kitchendesigner.uk/*
 *://www.kitchensbyeileen.com/*
 *://www.kodakalaris.cn/*
-*://www.kojimasha.jp/*
 *://www.kokajin-wedding.com/*
 *://www.kokusai-singlemama.com/*
 *://www.komiopera.ru/*
@@ -9453,7 +9449,6 @@
 *://www.legame-gr.jp/*
 *://www.lemon8-app.com/*
 *://www.lepang.cn/*
-*://www.lespros.co.jp/*
 *://www.letao.com.tw/*
 *://www.letempsdunevasion.fr/*
 *://www.leterna.top/*
@@ -9652,7 +9647,6 @@
 *://www.neobji.ac.cn/*
 *://www.netoff.co.jp/*
 *://www.networkmoaleji2024.online/*
-*://www.neuron-x.co.jp/*
 *://www.newcsl.cn/*
 *://www.newlifeconstruction.co.uk/*
 *://www.newsroomtransparencytracker.com/*
@@ -9721,7 +9715,6 @@
 *://www.ozzy.com.cn/*
 *://www.padlay-er.net/*
 *://www.palegreen.jp/*
-*://www.pandora-japan.jp/*
 *://www.pankhalo.com/*
 *://www.pantheondelachanson.fr/*
 *://www.papa-super.jp/*
@@ -9849,7 +9842,6 @@
 *://www.rembertovaldes.cl/*
 *://www.renesas.cn/*
 *://www.renovmobils.com/*
-*://www.rentio.jp/*
 *://www.rentio.jp/matome/2024/05/temu-review/*
 *://www.rentracks.jp/*
 *://www.rere.jp/*
@@ -9860,7 +9852,6 @@
 *://www.revitapeel.ru/*
 *://www.revolt.co.jp/*
 *://www.rhipe-katsuyo.jp/*
-*://www.riaj.or.jp/*
 *://www.ricambifacili.com/*
 *://www.rickygourmet.online/*
 *://www.rintoshite.jp/*
@@ -9869,7 +9860,6 @@
 *://www.rizapgroup.com/*
 *://www.rizinlog.shop/*
 *://www.rmrs.info/*
-*://www.rnb.co.jp/*
 *://www.roboticsafrica.com/*
 *://www.rockajaponica.com/*
 *://www.rocketflush.vip/*
@@ -9880,7 +9870,6 @@
 *://www.rogervivier.cn/*
 *://www.rolex.cn/*
 *://www.roomgirl.online/*
-*://www.roomie.jp/*
 *://www.roots-barber.com/*
 *://www.rosmersholm2023.com/*
 *://www.royaleestategroup.com/*
@@ -9937,7 +9926,6 @@
 *://www.sewellbedliningsinc.com/*
 *://www.sgb.net.cn/*
 *://www.shakemablog.com/*
-*://www.sheer.jp/*
 *://www.shiga-amuze.com/*
 *://www.shihojazz.com/*
 *://www.shikoku-taikonohana.com/*
@@ -10124,7 +10112,6 @@
 *://www.totalexpo.ru/*
 *://www.tourconnection.travel/*
 *://www.toynutz.com/*
-*://www.toyo.ac.jp/*
 *://www.trade-trade.shop/*
 *://www.tradesunlimitedusa.com/*
 *://www.traingogy.uk/*
@@ -10151,7 +10138,6 @@
 *://www.turnorpvaautoparte.online/*
 *://www.tuvsud.cn/*
 *://www.tuyenquanghpc.com.vn/*
-*://www.tvlife.jp/*
 *://www.tweepsbook.com/*
 *://www.twinarcus.com/*
 *://www.twinrocktools.com/*
