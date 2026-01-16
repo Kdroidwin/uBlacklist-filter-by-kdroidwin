@@ -1786,6 +1786,7 @@ fp.no-sheep.org/services##.main
 ||deep-japan-quest.com^$document
 ||deepaksawant.org^$document
 ||deepcoder.online^$document
+||deeps.me^$document
 ||deets.feedreader.com^$document
 ||deeya.sn^$document
 ||degistiraltindag.com^$document
