@@ -887,6 +887,7 @@
 @*://valuecrestoperators.cfd/*
 @*://structurelineinsight.cfd/*
 @*://www.neworder.cfd/*
+@*://coremethodventures.cfd/*
 @*://bpro.fyi/*
 @*://comix.fyi/*
 @*://imsilly.fyi/*
