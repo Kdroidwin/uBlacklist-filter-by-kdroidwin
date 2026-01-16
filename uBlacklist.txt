@@ -10753,6 +10753,31 @@
 *://zuhair-studios.com/*
 *://zuzukuntrend.com/*
 *://zwcassrw.com/*
+*://deliteapks.com/*
+*://comboapk.org/*
+*://*.modcombo.com/*
+*://apkmod.com.co/*
+*://pocketapk.net/*
+*://apkmodhere.com/*
+*://apkshub.com/*
+*://apkmody.mobi/*
+*://modversionapk.com/*
+*://unlockedapk.com/*
+*://netmodapk.app/*
+*://an1.co.in/*
+*://dlandroid.com/*
+*://mcead.com/*
+*://note.com/gadgeter_117/*
+*://note.com/yoro1/*
+*://note.com/tmg500/*
+*://note.com/protect_ebay/*
+*://note.com/device_textbook/*
+*://note.com/gadget8/*
+*://note.com/techpapa_lab/*
+*://note.com/nekoyorozu/*
+*://note.com/myluck/*
+*://note.com/ai_zap/*
+*://note.com/yoro2/*
 *://zwly9k6z.r.us-east-1.awstrack.me/*
 *://zx32.xyz/*
 *://zyupodotyu.com/*
@@ -10761,8 +10786,6 @@
 /.*(tomoyoafuta).*/
 title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
 title/(プロフ要確認)様/
-title/- App Store/
-title/- Apps on Google Play/
 title/HOT !/
 title/HOT!/
 title/OFFでまとめ買/
@@ -10845,7 +10868,6 @@ title/熱愛発覚/
 title/犯人は誰？名前/
 title/現在の顔/
 title/生い立ちがすごい⁈/
-title/素顔は|顔バレ/
 title/結婚した理由について徹底解説/
 title/結婚していた？/
 title/結婚している？/
