@@ -886,6 +886,7 @@
 @*://www.rebekka.cfd/*
 @*://valuecrestoperators.cfd/*
 @*://structurelineinsight.cfd/*
+@*://www.neworder.cfd/*
 @*://bpro.fyi/*
 @*://comix.fyi/*
 @*://imsilly.fyi/*
