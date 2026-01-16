@@ -4363,7 +4363,6 @@
 *://kolibrifood.com/*
 *://kolpul.com/*
 *://komachanel.work/*
-*://komachi.yomiuri.co.jp/*
 *://komaria7711.com/*
 *://komatsushima-life.net/*
 *://komeda.club/*
