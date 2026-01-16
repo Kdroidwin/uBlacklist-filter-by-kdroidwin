@@ -4071,7 +4071,6 @@ fp.no-sheep.org/services##.main
 ||kolibrifood.com^$document
 ||kolpul.com^$document
 ||komachanel.work^$document
-||komachi.yomiuri.co.jp^$document
 ||komaria7711.com^$document
 ||komatsushima-life.net^$document
 ||komeda.club^$document
