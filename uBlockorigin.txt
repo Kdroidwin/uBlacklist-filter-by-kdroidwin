@@ -102,6 +102,15 @@ fp.no-sheep.org/services##.main
 ||22220.xyz^$document
 ||2255573.slot15.online^$document
 ||22hgc.com^$document
+@@||masto*.top^$doc
+@@/^.*(tech|project|linux).*\.top(/[a-z0-9_-]?.*)?$/$doc
+@@://blog.*.top^$doc
+@@://pyrofork.*.top^$doc
+@@||wceui.top^
+.buzz/*/?*=*&*=*&*=*&*=*&*=$doc
+.life/*/?*=*&*=*&*=*&*=*&*=$doc
+.live/*/?*=*&*=*&*=*&*=*&*=$doc
+.xyz/*/?*=*&*=*&*=*&*=*&*=$doc
 ||22kininaru.com^$document
 ||23.jl.cn^$document
 ||233302.dijifinex.online^$document
