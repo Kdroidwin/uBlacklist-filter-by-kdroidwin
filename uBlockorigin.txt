@@ -36,6 +36,7 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.org/
 /https?:\/\/[a-z0-9-]+-co-jp\.ru/
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
+/index\.php\?shop\/items\/[^\/]+/$document
 fp.no-sheep.org/contact##.main
 fp.no-sheep.org/services##.main
 ||0-scholar-google-com.brum.beds.ac.uk^$document
