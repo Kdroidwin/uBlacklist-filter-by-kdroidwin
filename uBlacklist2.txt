@@ -19,6 +19,7 @@
 *://*.tn/*
 *://*.vip/*
 *://*.xyz/*
+*://*.com/?_g=*
 *://*.gizmodo.jp/*
 *://*.lifehacker.jp/*
 *://kunitohyouban.com/*
