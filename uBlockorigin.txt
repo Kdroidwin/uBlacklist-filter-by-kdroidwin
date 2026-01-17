@@ -3643,7 +3643,6 @@ fp.no-sheep.org/services##.main
 ||izumi-w.com^$document
 ||izumi0470blog.com^$document
 ||izumino.jp^$document
-||j-hobby.net^$document
 ||j-inagaki.com^$document
 ||j-rocklove.com^$document
 ||ja-beta-reactjs-org.vercel.app^$document
@@ -4803,7 +4802,6 @@ fp.no-sheep.org/services##.main
 ||mequl-hibi.com^$document
 ||merafitness.com^$document
 ||merasu.jp^$document
-||mercari.bibian.co.jp^$document
 ||meringue-web.com^$document
 ||mero07.com^$document
 ||merrittturf.com.au^$document
@@ -8788,7 +8786,6 @@ fp.no-sheep.org/services##.main
 ||www.berluti.cn^$document
 ||www.bestmamafinds.com^$document
 ||www.beyourlover.co.jp^$document
-||www.bibian.co.jp^$document
 ||www.biccamera.com/bc/i/topics/osusume_pc_university/index.jsp^$document
 ||www.biglobe-hikari.net^$document
 ||www.bikingaway.com^$document
