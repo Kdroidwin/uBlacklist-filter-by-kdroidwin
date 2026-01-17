@@ -3966,7 +3966,6 @@
 *://izumi-w.com/*
 *://izumi0470blog.com/*
 *://izumino.jp/*
-*://j-hobby.net/*
 *://j-inagaki.com/*
 *://j-rocklove.com/*
 *://ja-beta-reactjs-org.vercel.app/*
@@ -5096,7 +5095,6 @@
 *://mequl-hibi.com/*
 *://merafitness.com/*
 *://merasu.jp/*
-*://mercari.bibian.co.jp/*
 *://meringue-web.com/*
 *://mero07.com/*
 *://merrittturf.com.au/*
@@ -8834,7 +8832,6 @@
 *://www.berluti.cn/*
 *://www.bestmamafinds.com/*
 *://www.beyourlover.co.jp/*
-*://www.bibian.co.jp/*
 *://www.biccamera.com/bc/i/topics/osusume_pc_university/index.jsp*
 *://www.biglobe-hikari.net/*
 *://www.bikingaway.com/*
