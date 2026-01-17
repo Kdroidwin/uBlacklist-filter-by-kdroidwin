@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://byqz.uzvkniid.love/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -1691,6 +1690,7 @@
 *://buzzwriteyear.com/*
 *://byodoji.live/*
 *://byp.yongjoo.za.com/*
+*://byqz.uzvkniid.love/*
 *://byslww.cn/*
 *://bzdiy.taobao.com/*
 *://bzmm.jp/*

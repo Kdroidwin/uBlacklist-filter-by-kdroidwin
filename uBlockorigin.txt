@@ -1307,6 +1307,7 @@ fp.no-sheep.org/services##.main
 ||buzzwriteyear.com^$document
 ||byodoji.live^$document
 ||byp.yongjoo.za.com^$document
+||byqz.uzvkniid.love^$document
 ||byslww.cn^$document
 ||bzdiy.taobao.com^$document
 ||bzmm.jp^$document
