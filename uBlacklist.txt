@@ -3,6 +3,7 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
+*://note.com/sedori_sojoro/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adobe.com.vn/*
