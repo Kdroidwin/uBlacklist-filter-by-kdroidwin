@@ -9,7 +9,6 @@
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|watch\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|jp\.|admin\.|blog\.|dev\.|staging\.|abema\.|cdn\.|static\.|forum\.|community\.|engineers\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.link(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|kreva\.|siri\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|festival\.|my-private\.|park\.|besty\.|info\.|help\.|docs\.|about\.|news\.|connect\.|college\.|mazzel\.|mstdn\.)[^\/]+\.[^\/]+\.club(\/|$)/$document
-/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|youreyes\.|discovery\.|werewolf\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.mobi(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|aya0205\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.store(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|column\.|discovery\.|jp\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.beauty(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|goodtree\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.|pubsure\.)[^\/]+\.[^\/]+\.life(\/|$)/$document
@@ -25,6 +24,7 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.|seitai\.)[^\/]+\.[^\/]+\.(\/|$)fit(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|onsen\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.rest(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|www3\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]*\.saitama\.vip|koei\.dolshipmaker\.vip|tr\.orjinalbetoffice\.vip)[^\/]+\.[^\/]+\.vip(\/|$)/$document
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|youreyes\.|discovery\.|werewolf\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.mobi(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
 /^https?:\/\/[^\/]+\.jp\.[a-z]{2,3}(/|$)/$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
@@ -954,6 +954,7 @@ fp.no-sheep.org/services##.main
 ||banapa.net^$document
 ||banbi-eye.com^$document
 ||bangladeshnewsbd.com^$document
+||bank.dmm-mania.com^$document
 ||banka-movie.com^$document
 ||bar-ryuk.com^$document
 ||bareboat.tips^$document
@@ -1594,6 +1595,7 @@ fp.no-sheep.org/services##.main
 ||comic-hobby.best^$document
 ||comic-info.jp^$document
 ||comic-mangashelf.com^$document
+||comic.bkrb.net^$document
 ||comic.chiramiru.com^$document
 ||comic.enka.work^$document
 ||comic.manga-mill.com^$document
@@ -2400,6 +2402,7 @@ fp.no-sheep.org/services##.main
 ||fan.main.jp^$document
 ||fanblogs.jp^$document
 ||fandane.com^$document
+||fanshub.jp^$document
 ||fanza-com.mystrikingly.com^$document
 ||fanza.coideco.jp^$document
 ||fanzonetokyo.jp^$document
@@ -2617,6 +2620,7 @@ fp.no-sheep.org/services##.main
 ||fukushima-zekkei.jp^$document
 ||fukushu.jp^$document
 ||full-spec.co.jp^$document
+||full.pai-navi.com^$document
 ||fullgra.jp^$document
 ||fullmoviesells.com^$document
 ||fullmovieso.net^$document
@@ -2795,6 +2799,7 @@ fp.no-sheep.org/services##.main
 ||gekkan-bushi.com^$document
 ||gekkanmensphysique.com^$document
 ||gemala.me^$document
+||gemandisuo.digital^$document
 ||gen51.net^$document
 ||genalphaup.com^$document
 ||gendai-torendo.online^$document
@@ -3264,6 +3269,7 @@ fp.no-sheep.org/services##.main
 ||hiroshidrp.com^$document
 ||hirosroom.com^$document
 ||hiroteru.info^$document
+||hiroto-photo.loveslife.biz^$document
 ||hiroyamatrnd.com^$document
 ||historia.work^$document
 ||hitoga-suki.com^$document
@@ -5923,6 +5929,7 @@ fp.no-sheep.org/services##.main
 ||ongakulove.net^$document
 ||onigirisan.com^$document
 ||onimama.com^$document
+||onitsukatigerdeal.com^$document
 ||oniyomech.livedoor.biz^$document
 ||onlee.jp^$document
 ||onlinecampus.lk^$document
@@ -8763,6 +8770,7 @@ fp.no-sheep.org/services##.main
 ||www.barahaamen.org^$document
 ||www.barco.com.cn^$document
 ||www.barralibremx.com^$document
+||www.baseballhurray.com^$document
 ||www.batcaveca.com^$document
 ||www.baume-et-mercier.cn^$document
 ||www.bbc2021.jp^$document
@@ -9382,6 +9390,7 @@ fp.no-sheep.org/services##.main
 ||www.jpachecoferreira.pt^$document
 ||www.jpkjaxn.cn^$document
 ||www.jpzentai.com^$document
+||www.jrgsio.shop^$document
 ||www.jshpjaohn2024.jp^$document
 ||www.judymzungu.com^$document
 ||www.juxtin.com^$document

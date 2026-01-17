@@ -5,15 +5,6 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://bank.dmm-mania.com/*
-*://fanshub.jp/*
-*://comic.bkrb.net/*
-*://full.pai-navi.com/*
-*://www.jrgsio.shop/*
-*://www.baseballhurray.com/*
-*://onitsukatigerdeal.com/*
-*://gemandisuo.digital/*
-*://hiroto-photo.loveslife.biz/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -1328,6 +1319,7 @@
 *://banapa.net/*
 *://banbi-eye.com/*
 *://bangladeshnewsbd.com/*
+*://bank.dmm-mania.com/*
 *://banka-movie.com/*
 *://bar-ryuk.com/*
 *://bareboat.tips/*
@@ -1948,6 +1940,7 @@
 *://comic-hobby.best/*
 *://comic-info.jp/*
 *://comic-mangashelf.com/*
+*://comic.bkrb.net/*
 *://comic.chiramiru.com/*
 *://comic.enka.work/*
 *://comic.manga-mill.com/*
@@ -2743,6 +2736,7 @@
 *://fan.main.jp/*
 *://fanblogs.jp/*
 *://fandane.com/*
+*://fanshub.jp/*
 *://fanza-com.mystrikingly.com/*
 *://fanza.coideco.jp/*
 *://fanzonetokyo.jp/*
@@ -2955,6 +2949,7 @@
 *://fukushima-zekkei.jp/*
 *://fukushu.jp/*
 *://full-spec.co.jp/*
+*://full.pai-navi.com/*
 *://fullgra.jp/*
 *://fullmoviesells.com/*
 *://fullmovieso.net/*
@@ -3125,6 +3120,7 @@
 *://gekkan-bushi.com/*
 *://gekkanmensphysique.com/*
 *://gemala.me/*
+*://gemandisuo.digital/*
 *://gen51.net/*
 *://genalphaup.com/*
 *://gendai-torendo.online/*
@@ -3580,6 +3576,7 @@
 *://hiroshidrp.com/*
 *://hirosroom.com/*
 *://hiroteru.info/*
+*://hiroto-photo.loveslife.biz/*
 *://hiroyamatrnd.com/*
 *://historia.work/*
 *://hitoga-suki.com/*
@@ -6141,6 +6138,7 @@
 *://ongakulove.net/*
 *://onigirisan.com/*
 *://onimama.com/*
+*://onitsukatigerdeal.com/*
 *://onlee.jp/*
 *://onlinecampus.lk/*
 *://onlineclass-gets.jp/*
@@ -8792,6 +8790,7 @@
 *://www.barahaamen.org/*
 *://www.barco.com.cn/*
 *://www.barralibremx.com/*
+*://www.baseballhurray.com/*
 *://www.batcaveca.com/*
 *://www.baume-et-mercier.cn/*
 *://www.bbc2021.jp/*
@@ -9401,6 +9400,7 @@
 *://www.jpachecoferreira.pt/*
 *://www.jpkjaxn.cn/*
 *://www.jpzentai.com/*
+*://www.jrgsio.shop/*
 *://www.jshpjaohn2024.jp/*
 *://www.judymzungu.com/*
 *://www.juxtin.com/*
