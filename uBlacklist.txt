@@ -19,6 +19,12 @@
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
 *://*.apktodo.io/*
+*://zanaweb.com/*
+*://*.com/index.php?shop/items/*
+*://azfwehuigehfgjgjfw.xyz/*
+*://kchihua.xyz/*
+*://trendynewss.xyz/*
+*://www.pixgenie.net/*
 *://*.apple.com.vn/*
 *://*.arip-photo.org/*
 *://*.asterisk0.jp/*
