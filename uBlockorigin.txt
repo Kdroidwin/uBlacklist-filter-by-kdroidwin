@@ -871,7 +871,6 @@ fp.no-sheep.org/services##.main
 ||atsushi-hisatumi.amebaownd.com/posts/12184891^$document
 ||attractions-music.jp^$document
 ||atugifito.online^$document
-||aucfan.com^$document
 ||auditable.cl^$document
 ||auditexpert.net^$document
 ||augma.fandom.com^$document
