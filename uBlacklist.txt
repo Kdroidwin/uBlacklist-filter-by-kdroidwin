@@ -19,12 +19,6 @@
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
 *://*.apktodo.io/*
-*://zanaweb.com/*
-*://*.com/index.php?shop/items/*
-*://azfwehuigehfgjgjfw.xyz/*
-*://kchihua.xyz/*
-*://trendynewss.xyz/*
-*://www.pixgenie.net/*
 *://*.apple.com.vn/*
 *://*.arip-photo.org/*
 *://*.asterisk0.jp/*
@@ -48,6 +42,7 @@
 *://*.cloudflare.com.vn/*
 *://*.cm/*
 *://*.co.za/*
+*://*.com/index.php?shop/items/*
 *://*.coromoo.com/*
 *://*.crx7601.com/*
 *://*.cyou/*
@@ -1285,6 +1280,7 @@
 *://aywa.co/*
 *://az-photo.myu-dot.com/*
 *://azdfaeuohuhdfifd.xyz/*
+*://azfwehuigehfgjgjfw.xyz/*
 *://azigzyy.cn/*
 *://azisan.com/*
 *://azmc.ru/*
@@ -4214,6 +4210,7 @@
 *://kazutoshinarita.com/*
 *://kban.me/*
 *://kboard.jp/*
+*://kchihua.xyz/*
 *://kcsf-eco-ap.jp/*
 *://kdbtdhqm.bar/*
 *://keazikane.shop/*
@@ -8081,6 +8078,7 @@
 *://trendy15.info/*
 *://trendydevil.work/*
 *://trendymog.com/*
+*://trendynewss.xyz/*
 *://trendyossy.com/*
 *://trendytalking.com/*
 *://tri-tres.com/*
@@ -9777,6 +9775,7 @@
 *://www.pipanic.com.ec/*
 *://www.pirelli.cn/*
 *://www.pixela.co.jp/products/pickup/tips/4ksmart_tips10_amazingapps.html*
+*://www.pixgenie.net/*
 *://www.planetpixmedia.com/*
 *://www.playstation.ru/*
 *://www.pluselectro.ru/*
@@ -10723,6 +10722,7 @@
 *://zakkinews.hatenablog.com/*
 *://zakoshacho.jp/*
 *://zamzbuy.com/*
+*://zanaweb.com/*
 *://zandfine.com/*
 *://zao.slot60.online/*
 *://zatsugaku111.com/*
