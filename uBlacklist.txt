@@ -3,7 +3,6 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
-*://note.com/sedori_sojoro/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adobe.com.vn/*
@@ -5901,6 +5900,7 @@
 *://note.com/sato_c117127/*
 *://note.com/sawai100/*
 *://note.com/sayakablog/*
+*://note.com/sedori_sojoro/*
 *://note.com/sekinogen1/*
 *://note.com/shiba_inunosuke/*
 *://note.com/shin_kon/*

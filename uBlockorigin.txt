@@ -1,6 +1,10 @@
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
 
+.buzz/*/?*=*&*=*&*=*&*=*&*=$doc
+.life/*/?*=*&*=*&*=*&*=*&*=$doc
+.live/*/?*=*&*=*&*=*&*=*&*=$doc
+.xyz/*/?*=*&*=*&*=*&*=*&*=$doc
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world(\/|$)/$document
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|watch\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|jp\.|admin\.|blog\.|dev\.|staging\.|abema\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.link(\/|$)/$document
@@ -102,15 +106,6 @@ fp.no-sheep.org/services##.main
 ||22220.xyz^$document
 ||2255573.slot15.online^$document
 ||22hgc.com^$document
-@@||masto*.top^$doc
-@@/^.*(tech|project|linux).*\.top(/[a-z0-9_-]?.*)?$/$doc
-@@://blog.*.top^$doc
-@@://pyrofork.*.top^$doc
-@@||wceui.top^
-.buzz/*/?*=*&*=*&*=*&*=*&*=$doc
-.life/*/?*=*&*=*&*=*&*=*&*=$doc
-.live/*/?*=*&*=*&*=*&*=*&*=$doc
-.xyz/*/?*=*&*=*&*=*&*=*&*=$doc
 ||22kininaru.com^$document
 ||23.jl.cn^$document
 ||233302.dijifinex.online^$document
@@ -5680,6 +5675,7 @@ fp.no-sheep.org/services##.main
 ||note.com/sawai100^$document
 ||note.com/sawai100^$document
 ||note.com/sayakablog^$document
+||note.com/sedori_sojoro^$document
 ||note.com/sekinogen1^$document
 ||note.com/shiba_inunosuke^$document
 ||note.com/shin_kon^$document
@@ -10805,6 +10801,11 @@ fp.no-sheep.org/services##.main
 ||zzaowbey.art^$document
 ||zzdusxkchhxzrbgs.com^$document
 ! 除外
+@@/^.*(tech|project|linux).*\.top(/[a-z0-9_-]?.*)?$/$doc
+@@://blog.*.top^$doc
+@@://pyrofork.*.top^$doc
+@@||masto*.top^$doc
+@@||wceui.top^
 @@||www.pinterest.co.uk^$document
 @@||www.pinterest.com^$document
 @@||www.pinterest.jp^$document
