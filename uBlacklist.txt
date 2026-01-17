@@ -5,6 +5,15 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
+*://bank.dmm-mania.com/*
+*://fanshub.jp/*
+*://comic.bkrb.net/*
+*://full.pai-navi.com/*
+*://www.jrgsio.shop/*
+*://www.baseballhurray.com/*
+*://onitsukatigerdeal.com/*
+*://gemandisuo.digital/*
+*://hiroto-photo.loveslife.biz/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
