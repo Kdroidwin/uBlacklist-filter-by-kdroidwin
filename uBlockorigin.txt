@@ -1,6 +1,7 @@
 ! Title: Block malicious websites by Kdroidwin
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
-
+1link.jp##a[href*="tiktok.com"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
+1link.jp##a[href*="lite.tiktok.com"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 .buzz/*/?*=*&*=*&*=*&*=*&*=$doc
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
@@ -10100,6 +10101,7 @@ fp.no-sheep.org/services##.main
 ||www.thousandsmiles.uk^$document
 ||www.threescoops.shop^$document
 ||www.tienkenandassociates.com^$document
+||www.tiktok.com/d/2/ZSHofdSqvuruN-W67Vr^$document
 ||www.tiktok.com/ug/incentive^$document
 ||www.timbukdo.in^$document
 ||www.tm-robot.com.cn^$document
