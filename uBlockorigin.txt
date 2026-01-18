@@ -870,6 +870,7 @@ fp.no-sheep.org/services##.main
 ||atlaq.com^$document
 ||atlasmasonrycontractors.com^$document
 ||atlassianonlineredirect.xyz^$document
+||atom-clinic.jp^$document
 ||atomfirm.com^$document
 ||atomseight.com^$document
 ||atozsearch.jp^$document
@@ -2158,6 +2159,7 @@ fp.no-sheep.org/services##.main
 ||emi-life.net^$document
 ||emiki-a.com^$document
 ||emilyklopotekangelfoundation.com^$document
+||eminal-clinic.jp^$document
 ||emireport.com^$document
 ||emirinsblog.com^$document
 ||emivehu.veterinatt.sk^$document
@@ -3941,6 +3943,7 @@ fp.no-sheep.org/services##.main
 ||keeztwelversa.xyz^$document
 ||kei-siroikumo.com^$document
 ||keijserskoning.com^$document
+||keiko-osaka.com^$document
 ||keimy-blog.com^$document
 ||keiri-mama.com^$document
 ||keirin-junjun.net^$document
@@ -4798,6 +4801,7 @@ fp.no-sheep.org/services##.main
 ||menrybe.buzz^$document
 ||mens-rinx.jp^$document
 ||mens-rinx.work^$document
+||mens.musee-pla.com^$document
 ||menschannel.xsrv.jp^$document
 ||menslog.net^$document
 ||menubarx.app^$document

@@ -1,10 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
-*://atom-clinic.jp/*
-*://mens.musee-pla.com/*
-*://eminal-clinic.jp/*
-*://keiko-osaka.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
@@ -1277,6 +1273,7 @@
 *://atlaq.com/*
 *://atlasmasonrycontractors.com/*
 *://atlassianonlineredirect.xyz/*
+*://atom-clinic.jp/*
 *://atomfirm.com/*
 *://atomseight.com/*
 *://atozsearch.jp/*
@@ -2537,6 +2534,7 @@
 *://emi-life.net/*
 *://emiki-a.com/*
 *://emilyklopotekangelfoundation.com/*
+*://eminal-clinic.jp/*
 *://emireport.com/*
 *://emirinsblog.com/*
 *://emivehu.veterinatt.sk/*
@@ -4272,6 +4270,7 @@
 *://keeztwelversa.xyz/*
 *://kei-siroikumo.com/*
 *://keijserskoning.com/*
+*://keiko-osaka.com/*
 *://keimy-blog.com/*
 *://keiri-mama.com/*
 *://keirin-junjun.net/*
@@ -5106,6 +5105,7 @@
 *://menrybe.buzz/*
 *://mens-rinx.jp/*
 *://mens-rinx.work/*
+*://mens.musee-pla.com/*
 *://menschannel.xsrv.jp/*
 *://menslog.net/*
 *://menubarx.app/*
