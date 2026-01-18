@@ -5368,7 +5368,6 @@ fp.no-sheep.org/services##.main
 ||nichijou825.com^$document
 ||nichiyaku.info^$document
 ||niconicojikkyou.com^$document
-||nifty.com^$document
 ||nigiwasu.com^$document
 ||nihon-ichi.jp^$document
 ||niigata.china-consulate.gov.cn^$document
