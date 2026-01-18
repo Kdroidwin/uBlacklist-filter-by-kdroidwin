@@ -5,10 +5,10 @@
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
-/^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com\/.*\?_g=\d+$/$document
-/^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
-/^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
 /^https:\/\/(?:(?!www)[a-z]{3,5}|ja)\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9A-Za-z]{10}|\d{8}|[0-9a-f]{32})\.html$/$document,match-case,to=art|autos|baby|best|biz|blog|boats|buzz|cards|cc|cfd|click|cloud|club|cyou|eu|fit|fun|guru|hair|homes|info|ink|lat|life|live|lol|me|mom|my|one|online|pics|qpon|quest|rest|sale|sbs|shop|site|skin|space|store|today|top|wiki|work|world|xyz
+/^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
+/^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
+/^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com\/.*\?_g=\d+$/$document
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world(\/|$)/$document
 /^https?:\/\/(?!mcs-momoyamagakuin\.maruzen\.xyz\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|ec\.|watch\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.xyz(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|biz\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|goodtree\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.|pubsure\.)[^\/]+\.[^\/]+\.life(\/|$)/$document
@@ -3004,6 +3004,7 @@ fp.no-sheep.org/services##.main
 ||greenberry.fr^$document
 ||greencar-eco.com^$document
 ||greencol.net^$document
+||greencube.gallery^$document
 ||greenpepper-news.com^$document
 ||greenshop-aroma.com^$document
 ||greenvilla.kg^$document
@@ -4024,6 +4025,7 @@ fp.no-sheep.org/services##.main
 ||kininarunomori.com^$document
 ||kininaruutyousa.com^$document
 ||kino-code.com^$document
+||kinon-kamakura.com/products^$document
 ||kinoshita-reon.jp^$document
 ||kintarogroup.com^$document
 ||kiokunashi-movie.jp^$document
@@ -8893,6 +8895,7 @@ fp.no-sheep.org/services##.main
 ||www.cinartesisatsuteknolojileri.com^$document
 ||www.cinematoday.jp^$document
 ||www.cinnamon-hotel.com^$document
+||www.cipmen.org//products^$document
 ||www.citinteriors.com^$document
 ||www.claidas.com^$document
 ||www.clatan.com^$document
@@ -9066,6 +9069,7 @@ fp.no-sheep.org/services##.main
 ||www.epicdigitalhub.com^$document
 ||www.epicenlinea.com^$document
 ||www.epiqglobal.cn^$document
+||www.epr.rw/products^$document
 ||www.equistyle-magazine.com^$document
 ||www.er92.top^$document
 ||www.erba-albania.com^$document
@@ -9395,6 +9399,7 @@ fp.no-sheep.org/services##.main
 ||www.jrgsio.shop^$document
 ||www.jshpjaohn2024.jp^$document
 ||www.judymzungu.com^$document
+||www.junipercre.com^$document
 ||www.juxtin.com^$document
 ||www.k-cooking.jp^$document
 ||www.kaalcosmetic.com^$document
@@ -9407,6 +9412,7 @@ fp.no-sheep.org/services##.main
 ||www.kaidouraku.net^$document
 ||www.kalamhor.online^$document
 ||www.kalamisadalaristanbul.com^$document
+||www.kanekoyozo.jp/outlet^$document
 ||www.kanesk.cn^$document
 ||www.karkasi.online^$document
 ||www.kashi-mo.com^$document
@@ -9545,6 +9551,7 @@ fp.no-sheep.org/services##.main
 ||www.marumi-log.com^$document
 ||www.marutsunoru.com^$document
 ||www.masrawy.com^$document
+||www.matizukuri.co.jp^$document
 ||www.max-plast.com^$document
 ||www.maximolimpieza.com^$document
 ||www.maxine600.top^$document

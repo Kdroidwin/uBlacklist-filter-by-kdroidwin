@@ -1,24 +1,4 @@
 *://*.000webhostapp.com/*
-*://www.cipmen.org//products/*
-*://www.junipercre.com/*
-*://greencube.gallery/*
-*://www.matizukuri.co.jp/*
-*://*.net/index.php//?a=*
-*://*.com/index.php//?a=*
-*://*.com.vn/?p=9*
-*://*.com/?o=3*
-*://*.de/?a=7*
-*://*.com/?a=8*
-*://*.com.ar/?e=1*
-title/本日限定価格/
-*://www.epr.rw/products/*
-*://www.kineton.al/products.php?g=3*
-*://kinon-kamakura.com/products/*
-*://www.kanekoyozo.jp/outlet/*
-*://*.org.tr/?k=7*
-*://*.com/?m=0*
-*://*.com.ar/*
-*://*.app/ms/register?redirect=%2Findex.php?shopdetail/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
@@ -39,6 +19,7 @@ title/本日限定価格/
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
 *://*.apktodo.io/*
+*://*.app/ms/register?redirect=%2Findex.php?shopdetail/*
 *://*.apple.com.vn/*
 *://*.arip-photo.org/*
 *://*.asterisk0.jp/*
@@ -72,6 +53,8 @@ title/本日限定価格/
 *://*.co.uk/?_g=8*
 *://*.co.uk/?_g=9*
 *://*.co.za/*
+*://*.com.ar/*
+*://*.com.ar/?e=1*
 *://*.com.br/?_g=0*
 *://*.com.br/?_g=1*
 *://*.com.br/?_g=2*
@@ -82,6 +65,7 @@ title/本日限定価格/
 *://*.com.br/?_g=7*
 *://*.com.br/?_g=8*
 *://*.com.br/?_g=9*
+*://*.com.vn/?p=9*
 *://*.com/?_g=0*
 *://*.com/?_g=1*
 *://*.com/?_g=2*
@@ -92,10 +76,15 @@ title/本日限定価格/
 *://*.com/?_g=7*
 *://*.com/?_g=8*
 *://*.com/?_g=9*
+*://*.com/?a=8*
+*://*.com/?m=0*
+*://*.com/?o=3*
+*://*.com/index.php//?a=*
 *://*.com/index.php?shop/items/*
 *://*.coromoo.com/*
 *://*.crx7601.com/*
 *://*.cyou/*
+*://*.de/?a=7*
 *://*.developreference.com/*
 *://*.dovov.com/*
 *://*.enamae.net/*
@@ -205,6 +194,7 @@ title/本日限定価格/
 *://*.namaejiten.com/*
 *://*.namaeuranai.biz/*
 *://*.narkive.jp/*
+*://*.net/index.php//?a=*
 *://*.netflix.com.vn/*
 *://*.news30over.com/*
 *://*.news4wide.livedoor.biz/*
@@ -215,6 +205,7 @@ title/本日限定価格/
 *://*.onecall2ch.com/*
 *://*.oniyomech.livedoor.biz/*
 *://*.oomonoyoutubersokuhou.blogo.jp/*
+*://*.org.tr/?k=7*
 *://*.oryouri.2chblog.jp/*
 *://*.overstack.in/*
 *://*.ozawaren.com/*
@@ -3364,6 +3355,7 @@ title/本日限定価格/
 *://greenberry.fr/*
 *://greencar-eco.com/*
 *://greencol.net/*
+*://greencube.gallery/*
 *://greenpepper-news.com/*
 *://greenshop-aroma.com/*
 *://greenvilla.kg/*
@@ -4359,6 +4351,7 @@ title/本日限定価格/
 *://kininarunomori.com/*
 *://kininaruutyousa.com/*
 *://kino-code.com/*
+*://kinon-kamakura.com/products/*
 *://kinoshita-reon.jp/*
 *://kintarogroup.com/*
 *://kiokunashi-movie.jp/*
@@ -8958,6 +8951,7 @@ title/本日限定価格/
 *://www.cinartesisatsuteknolojileri.com/*
 *://www.cinematoday.jp/*
 *://www.cinnamon-hotel.com/*
+*://www.cipmen.org//products/*
 *://www.citinteriors.com/*
 *://www.claidas.com/*
 *://www.clatan.com/*
@@ -9130,6 +9124,7 @@ title/本日限定価格/
 *://www.epicdigitalhub.com/*
 *://www.epicenlinea.com/*
 *://www.epiqglobal.cn/*
+*://www.epr.rw/products/*
 *://www.equistyle-magazine.com/*
 *://www.er92.top/*
 *://www.erba-albania.com/*
@@ -9451,6 +9446,7 @@ title/本日限定価格/
 *://www.jrgsio.shop/*
 *://www.jshpjaohn2024.jp/*
 *://www.judymzungu.com/*
+*://www.junipercre.com/*
 *://www.juxtin.com/*
 *://www.k-cooking.jp/*
 *://www.kaalcosmetic.com/*
@@ -9463,6 +9459,7 @@ title/本日限定価格/
 *://www.kaidouraku.net/*
 *://www.kalamhor.online/*
 *://www.kalamisadalaristanbul.com/*
+*://www.kanekoyozo.jp/outlet/*
 *://www.kanesk.cn/*
 *://www.karkasi.online/*
 *://www.kashi-mo.com/*
@@ -9481,6 +9478,7 @@ title/本日限定価格/
 *://www.kidscollegeindore.in/*
 *://www.kilkareraceway.com/*
 *://www.kina-recipe.com/*
+*://www.kineton.al/products.php?g=3*
 *://www.kininarublog.com/*
 *://www.kippis.online/*
 *://www.kirstenmomsen.com/*
@@ -9602,6 +9600,7 @@ title/本日限定価格/
 *://www.marumi-log.com/*
 *://www.marutsunoru.com/*
 *://www.masrawy.com/*
+*://www.matizukuri.co.jp/*
 *://www.max-plast.com/*
 *://www.maximolimpieza.com/*
 *://www.maxine600.top/*
@@ -10913,6 +10912,7 @@ title/感謝価格/
 title/料漫画を楽しめるサービス12選/
 title/日焼けサロン/
 title/本名は？/
+title/本日限定価格/
 title/様 専用/
 title/様専用/
 title/正規品販促激安/
