@@ -141,8 +141,3 @@ https://github.com/DandelionSprout/adfilt
 
 License: Dandelicence v1.4  
 https://github.com/DandelionSprout/Dandelicence
-
-
-This project includes content from
-ublacklist‑stackoverflow‑translation (CC0 1.0).
-https://github.com/arosh/ublacklist‑stackoverflow‑translation
