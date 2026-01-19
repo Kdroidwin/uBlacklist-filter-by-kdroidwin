@@ -3638,7 +3638,6 @@ fp.no-sheep.org/services##.main
 ||ivogijufij.dvereskamat.sk^$document
 ||iwanami-hall.com^$document
 ||iwatekko.jp^$document
-||iwb.jp^$document
 ||ixamiviboq.obentreprendre.fr^$document
 ||iync.org^$document
 ||izanagi-jingu.jp^$document
@@ -9016,7 +9015,6 @@ fp.no-sheep.org/services##.main
 ||www.dq-9.info^$document
 ||www.draker-deck.com^$document
 ||www.drbakierdem.com^$document
-||www.dreamnews.jp^$document
 ||www.dreck-aic.com^$document
 ||www.drewmidpvenda.tk^$document
 ||www.drmohamedelhaw.com^$document
@@ -9203,7 +9201,6 @@ fp.no-sheep.org/services##.main
 ||www.gmt-online.jp^$document
 ||www.gnesin-academy.ru^$document
 ||www.go-japan.cn^$document
-||www.gohatori.com^$document
 ||www.gohawaii.cn^$document
 ||www.gokurakunet.org^$document
 ||www.goldads.cn^$document
