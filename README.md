@@ -132,3 +132,13 @@ URLの追加やミスの削除に協力していだける方は、レポジト�
 issueでも構いません。並び替えはbotがやるので不要です。
 
 Githubアカウントを持っていない方はTwitterもしくは[こちら](https://tally.so/r/wA5brD)からお願いします。
+
+# Credits
+
+Contains parts from Dandelion Sprout's Anti-Malware List  
+by Dandelion Sprout  
+https://github.com/DandelionSprout/adfilt  
+
+License: Dandelicence v1.4  
+https://github.com/DandelionSprout/Dandelicence
+
