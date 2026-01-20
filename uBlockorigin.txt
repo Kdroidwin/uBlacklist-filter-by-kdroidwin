@@ -29,6 +29,8 @@
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|www3\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]*\.saitama\.vip|koei\.dolshipmaker\.vip|tr\.orjinalbetoffice\.vip)[^\/]+\.[^\/]+\.vip(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|youreyes\.|discovery\.|werewolf\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.mobi(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|test\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|online\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.|[^\/]+\.base\.shop)[^\/]+\.[^\/]+\.shop(\/|$)/$document
+/^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
+/^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
 /^https?:\/\/[^\/]+\.jp\.[a-z]{2,3}(/|$)/$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /https?:\/\/[a-z0-9-]+-co-jp\.cn/
@@ -39,8 +41,6 @@
 /https?:\/\/[a-z0-9-]+-co-jp\.org/
 /https?:\/\/[a-z0-9-]+-co-jp\.ru/
 /https?:\/\/[a-z0-9-]+-co-jp\.xyz/
-/^https?:\/\/1link\.jp\/gofile[a-zA-Z0-9]*/$document
-/^https?:\/\/1link\.jp\/tiktok[a-zA-Z0-9]*/$document
 /index\.php\?shop\/items\/[^\/]+/$document
 1link.jp##a[href*="lite.tiktok.com"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 1link.jp##a[href*="tiktok.com/ug"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
@@ -2441,6 +2441,7 @@ fp.no-sheep.org/services##.main
 ||feteenfolie.com^$document
 ||fetishp.com^$document
 ||fezyygqo.auslagerung-pastservice.de^$document
+||ffwpu.family^$document
 ||ffwpu.jp^$document
 ||fgaaaae.bar^$document
 ||fgworks.jp^$document
@@ -3554,6 +3555,7 @@ fp.no-sheep.org/services##.main
 ||interested-media.com^$document
 ||intergate.info^$document
 ||interlinkms.lk^$document
+||intermax.co.jp^$document
 ||intermedialabo.com^$document
 ||internet-various.com^$document
 ||internet.netoff.co.jp^$document
@@ -5460,8 +5462,10 @@ fp.no-sheep.org/services##.main
 ||note.com/ai_zap^$document
 ||note.com/aichanworld^$document
 ||note.com/aiwriter0116^$document
+||note.com/akagami^$document
 ||note.com/akausa28^$document
 ||note.com/akausa28^$document
+||note.com/alert_harte1453^$document
 ||note.com/alive_dahlia5267^$document
 ||note.com/ama_zon_smart^$document
 ||note.com/amagitsune^$document
@@ -5543,9 +5547,11 @@ fp.no-sheep.org/services##.main
 ||note.com/hirokazumineral^$document
 ||note.com/hirotoinfo^$document
 ||note.com/hit_ranking^$document
+||note.com/hitobashira_^$document
 ||note.com/hitotsu_ai^$document
 ||note.com/holy_beetle811^$document
 ||note.com/holy_beetle811^$document
+||note.com/honokamaison^$document
 ||note.com/huge_roses2687^$document
 ||note.com/icchi_thoughts^$document
 ||note.com/ihci_adeki^$document
@@ -5598,8 +5604,10 @@ fp.no-sheep.org/services##.main
 ||note.com/lively_impala470^$document
 ||note.com/lofty_skink4202^$document
 ||note.com/long_dove4226^$document
+||note.com/love_app^$document
 ||note.com/lovely_impala245^$document
 ||note.com/lover_soul1001^$document
+||note.com/loverobo^$document
 ||note.com/loyal_otter6207^$document
 ||note.com/lucid_weasel5472^$document
 ||note.com/lucky_ai^$document
@@ -5715,6 +5723,7 @@ fp.no-sheep.org/services##.main
 ||note.com/syashinsuki^$document
 ||note.com/syuroriiman^$document
 ||note.com/t1944h^$document
+||note.com/takayanagi_koi^$document
 ||note.com/takkxi^$document
 ||note.com/takumi333^$document
 ||note.com/takumi_hakata^$document
@@ -5768,6 +5777,7 @@ fp.no-sheep.org/services##.main
 ||note.com/yubaku^$document
 ||note.com/yuki_note_1^$document
 ||note.com/yumisnscontents^$document
+||note.com/yuto_age_gap^$document
 ||note.com/yutori_kurashi^$document
 ||note.com/yutori_kurashi^$document
 ||note.com/yuueki_osusume^$document
@@ -10830,9 +10840,9 @@ fp.no-sheep.org/services##.main
 @@/^.*(tech|project|linux).*\.top(/[a-z0-9_-]?.*)?$/$doc
 @@://blog.*.top^$doc
 @@://pyrofork.*.top^$doc
+@@||fp.no-sheep.org^$document
 @@||masto*.top^$doc
 @@||wceui.top^
 @@||www.pinterest.co.uk^$document
 @@||www.pinterest.com^$document
 @@||www.pinterest.jp^$document
-@@||fp.no-sheep.org^$document
