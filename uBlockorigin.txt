@@ -10835,3 +10835,4 @@ fp.no-sheep.org/services##.main
 @@||www.pinterest.co.uk^$document
 @@||www.pinterest.com^$document
 @@||www.pinterest.jp^$document
+@@||fp.no-sheep.org^$document
