@@ -2993,6 +2993,7 @@ fp.no-sheep.org/services##.main
 ||govorite.ru^$document
 ||gpslp-ptp5.vercel.app^$document
 ||gq^$document
+||grabmodapk.com^$document
 ||grace17.com^$document
 ||gracefulwolf.com^$document
 ||granadamediacorp.com^$document
@@ -5127,6 +5128,7 @@ fp.no-sheep.org/services##.main
 ||mycolorfulcolor.com^$document
 ||myfavoritetopics.net^$document
 ||myfreesoft.ru^$document
+||myhobby.tech^$document
 ||myhomesconstruct.co.nz^$document
 ||myinsta.app^$document
 ||myjitsu.jp^$document
