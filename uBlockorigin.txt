@@ -445,6 +445,7 @@ fp.no-sheep.org/services##.main
 ||ajjnoj.blog.jp^$document
 ||ak.akhbara24.news^$document
 ||akachan-meimei.com^$document
+||akaczute.com^$document
 ||akaitasuki.com^$document
 ||akanbo-media.jp^$document
 ||akari-trend.com^$document
@@ -1894,6 +1895,7 @@ fp.no-sheep.org/services##.main
 ||distrec.cruchi.com^$document
 ||diversepopulationand.nczx4.com^$document
 ||diversity-for-peace.com^$document
+||divxland.org^$document
 ||diy44taku.com^$document
 ||diysoy.hatenablog.com^$document
 ||djewelonline.com^$document
@@ -2002,6 +2004,7 @@ fp.no-sheep.org/services##.main
 ||dpoint.onelink.me^$document
 ||dq6p60xb.r.us-east-1.awstrack.me^$document
 ||drafanclub.jp^$document
+||dragomquesi.com^$document
 ||dragon-quest.me^$document
 ||dragon-risinghigh2024.com^$document
 ||drama-morningfun.com^$document
@@ -2425,6 +2428,7 @@ fp.no-sheep.org/services##.main
 ||fb.me^$document
 ||fba.azurewebsites.net^$document
 ||fbfcmt27.autosns.app/^$document
+||fcvt-sale.com^$document
 ||fd.5201961.xyz^$document
 ||fe30a5b4.xyz^$document
 ||fearless-fitness.uk^$document
@@ -2458,6 +2462,7 @@ fp.no-sheep.org/services##.main
 ||fileplanet.com^$document
 ||fileplanet.com^$document
 ||filkhabr.com^$document
+||filmlocos.com/shop^$document
 ||filmora.wondershare.jp^$document
 ||filmsjp.com^$document
 ||filmsrpa.redeagle-security.com^$document
@@ -3666,6 +3671,7 @@ fp.no-sheep.org/services##.main
 ||jaisalmervoyage.in^$document
 ||jalyuzi-mir.ru^$document
 ||jamesla.com^$document
+||jamscollection.updance-ent.com^$document
 ||jandorosi.com^$document
 ||jankara.me^$document
 ||janotraining.com^$document
@@ -3921,6 +3927,7 @@ fp.no-sheep.org/services##.main
 ||katzesokuhou.com^$document
 ||kavehogal.agenturasusan.sk^$document
 ||kawagopro.com^$document
+||kawai-yusuke.info^$document
 ||kawaii-osu.com^$document
 ||kawamoriexpo.jp^$document
 ||kawanepass.jp^$document
@@ -4292,6 +4299,7 @@ fp.no-sheep.org/services##.main
 ||leather-revive.net^$document
 ||leberan.jp^$document
 ||lee998.com.cn^$document
+||leeapk.com^$document
 ||leewksky.online^$document
 ||leexpert.com^$document
 ||lefavori.jp^$document
@@ -4373,6 +4381,7 @@ fp.no-sheep.org/services##.main
 ||linosy.com^$document
 ||lisae.me.uk^$document
 ||liskul.com^$document
+||lissora-jp.com^$document
 ||lite.tiktok.com^$document
 ||little-busters.ldblog.jp^$document
 ||littlelittlelife.com^$document
@@ -5545,6 +5554,7 @@ fp.no-sheep.org/services##.main
 ||note.com/hamako14^$document
 ||note.com/hamu_3nd^$document
 ||note.com/happy_cobra8643^$document
+||note.com/haraguchikazu^$document
 ||note.com/herry^$document
 ||note.com/hirokazumineral^$document
 ||note.com/hirotoinfo^$document
@@ -6070,6 +6080,7 @@ fp.no-sheep.org/services##.main
 ||page.line.me^$document
 ||paidy.onelink.me^$document
 ||painsr96.datingagencyreviews.co.uk^$document
+||pairry.jp^$document
 ||pakiraaa.com^$document
 ||palaciotropicalcostarica.com^$document
 ||palanar.app^$document
@@ -8182,6 +8193,7 @@ fp.no-sheep.org/services##.main
 ||up-date.ne.jp^$document
 ||up-too-you.com^$document
 ||up10tion.jp^$document
+||update.7zip.cloud^$document
 ||updatestar.com^$document
 ||updays.me^$document
 ||uprobrocher.ucoz.ru^$document
@@ -8241,6 +8253,7 @@ fp.no-sheep.org/services##.main
 ||vagabr.online^$document
 ||vak.minobrnauki.gov.ru^$document
 ||valor0code.com^$document
+||vanced.com.co^$document
 ||vanced.jp.uptodown.com^$document
 ||vanced.me^$document
 ||vanced.net^$document
@@ -8628,6 +8641,7 @@ fp.no-sheep.org/services##.main
 ||www.663home.cn^$document
 ||www.6xz1gd.cn^$document
 ||www.7bhb1xf.cn^$document
+||www.7zip.com^$document
 ||www.80s90s-songs.fun^$document
 ||www.886699.xyz^$document
 ||www.8dexpress.cn^$document
@@ -9119,6 +9133,7 @@ fp.no-sheep.org/services##.main
 ||www.fellows2008.co.jp^$document
 ||www.fenixvalor.com^$document
 ||www.ferflorest.com^$document
+||www.feriosa.cl/detail^$document
 ||www.fernandoaugustoblog.com^$document
 ||www.ferrari.cn^$document
 ||www.festo.com.cn^$document
@@ -9839,6 +9854,7 @@ fp.no-sheep.org/services##.main
 ||www.qarshibotanist.com^$document
 ||www.qimdcsg.cn^$document
 ||www.qjukvpc.cn^$document
+||www.qole-oracle.jp^$document
 ||www.qqszz.net^$document
 ||www.qsssqs.cn^$document
 ||www.quakeprediction.com^$document
@@ -10652,6 +10668,7 @@ fp.no-sheep.org/services##.main
 ||ytmods.com^$document
 ||ytrevanced.app^$document
 ||ytricks.co^$document
+||ytvancedapk.com^$document
 ||yu-blo.com^$document
 ||yu-check-news.com^$document
 ||yu-design51.com^$document

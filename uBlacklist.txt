@@ -5,33 +5,6 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://jamscollection.updance-ent.com/*
-*://filmlocos.com/shop/*
-*://*.com/?g=8*
-*://www.feriosa.cl/detail/*
-*://*.com/?l=8*
-*://*.com/?k=3*
-*://*.archi/ctg/search/*
-*://*.com/?h=0*
-*://*.com/?i=0*
-*://*.in/?f=3*
-*://*.com/index.php//?_g=1*
-*://*.org/?_g=5*
-*://lissora-jp.com/*
-*://akaczute.com/*
-*://fcvt-sale.com/*
-*://kawai-yusuke.info/*
-*://vanced.com.co/*
-*://*.divxland.org/*
-*://divxland.org/*
-*://ytvancedapk.com/*
-*://leeapk.com/*
-*://www.qole-oracle.jp/*
-*://pairry.jp/*
-*://dragomquesi.com/*
-*://note.com/haraguchikazu/*
-*://www.7zip.com/*
-*://update.7zip.cloud/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -48,6 +21,7 @@
 *://*.apktodo.io/*
 *://*.app/ms/register?redirect=%2Findex.php?shopdetail/*
 *://*.apple.com.vn/*
+*://*.archi/ctg/search/*
 *://*.arip-photo.org/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
@@ -104,8 +78,14 @@
 *://*.com/?_g=8*
 *://*.com/?_g=9*
 *://*.com/?a=8*
+*://*.com/?g=8*
+*://*.com/?h=0*
+*://*.com/?i=0*
+*://*.com/?k=3*
+*://*.com/?l=8*
 *://*.com/?m=0*
 *://*.com/?o=3*
+*://*.com/index.php//?_g=1*
 *://*.com/index.php//?a=*
 *://*.com/index.php?shop/items/*
 *://*.coromoo.com/*
@@ -113,6 +93,7 @@
 *://*.cyou/*
 *://*.de/?a=7*
 *://*.developreference.com/*
+*://*.divxland.org/*
 *://*.dovov.com/*
 *://*.enamae.net/*
 *://*.filkhabr.com/*
@@ -139,6 +120,7 @@
 *://*.in/?_g=7*
 *://*.in/?_g=8*
 *://*.in/?_g=9*
+*://*.in/?f=3*
 *://*.instagram.com.vn/*
 *://*.iteramos.com/*
 *://*.jike.in/*
@@ -243,6 +225,7 @@
 *://*.oniyomech.livedoor.biz/*
 *://*.oomonoyoutubersokuhou.blogo.jp/*
 *://*.org.tr/?k=7*
+*://*.org/?_g=5*
 *://*.oryouri.2chblog.jp/*
 *://*.overstack.in/*
 *://*.ozawaren.com/*
@@ -897,6 +880,7 @@
 *://ajaxhispano.com/*
 *://ajesonbansnk-loans-jp.com/*
 *://ak.akhbara24.news/*
+*://akaczute.com/*
 *://akaitasuki.com/*
 *://akanbo-media.jp/*
 *://akari-trend.com/*
@@ -2308,6 +2292,7 @@
 *://distrec.cruchi.com/*
 *://diversepopulationand.nczx4.com/*
 *://diversity-for-peace.com/*
+*://divxland.org/*
 *://diy44taku.com/*
 *://diysoy.hatenablog.com/*
 *://djewelonline.com/*
@@ -2415,6 +2400,7 @@
 *://dpoint.onelink.me/*
 *://dq6p60xb.r.us-east-1.awstrack.me/*
 *://drafanclub.jp/*
+*://dragomquesi.com/*
 *://dragon-quest.me/*
 *://dragon-risinghigh2024.com/*
 *://drama-morningfun.com/*
@@ -2833,6 +2819,7 @@
 *://fb.me/*
 *://fba.azurewebsites.net/*
 *://fbfcmt27.autosns.app//*
+*://fcvt-sale.com/*
 *://fd.5201961.xyz/*
 *://fe30a5b4.xyz/*
 *://fearless-fitness.uk/*
@@ -2863,6 +2850,7 @@
 *://filehippo.com/*
 *://filehippo.jp/*
 *://fileplanet.com/*
+*://filmlocos.com/shop/*
 *://filmora.wondershare.jp/*
 *://filmsjp.com/*
 *://filmsrpa.redeagle-security.com/*
@@ -4037,6 +4025,7 @@
 *://jaisalmervoyage.in/*
 *://jalyuzi-mir.ru/*
 *://jamesla.com/*
+*://jamscollection.updance-ent.com/*
 *://jandorosi.com/*
 *://jankara.me/*
 *://janotraining.com/*
@@ -4287,6 +4276,7 @@
 *://katzesokuhou.com/*
 *://kavehogal.agenturasusan.sk/*
 *://kawagopro.com/*
+*://kawai-yusuke.info/*
 *://kawaii-osu.com/*
 *://kawamoriexpo.jp/*
 *://kawanepass.jp/*
@@ -4645,6 +4635,7 @@
 *://leather-revive.net/*
 *://leberan.jp/*
 *://lee998.com.cn/*
+*://leeapk.com/*
 *://leewksky.online/*
 *://leexpert.com/*
 *://lefavori.jp/*
@@ -4725,6 +4716,7 @@
 *://linosy.com/*
 *://lisae.me.uk/*
 *://liskul.com/*
+*://lissora-jp.com/*
 *://lite.tiktok.com/*
 *://little-busters.ldblog.jp/*
 *://littlelittlelife.com/*
@@ -5850,6 +5842,7 @@
 *://note.com/hamako14/*
 *://note.com/hamu_3nd/*
 *://note.com/happy_cobra8643/*
+*://note.com/haraguchikazu/*
 *://note.com/herry/*
 *://note.com/hirokazumineral/*
 *://note.com/hirotoinfo/*
@@ -6350,6 +6343,7 @@
 *://page.line.me/*
 *://paidy.onelink.me/*
 *://painsr96.datingagencyreviews.co.uk/*
+*://pairry.jp/*
 *://pakiraaa.com/*
 *://palaciotropicalcostarica.com/*
 *://palanar.app/*
@@ -8317,6 +8311,7 @@
 *://up-date.ne.jp/*
 *://up-too-you.com/*
 *://up10tion.jp/*
+*://update.7zip.cloud/*
 *://updays.me/*
 *://uprobrocher.ucoz.ru/*
 *://upteck.cl/*
@@ -8371,6 +8366,7 @@
 *://vagabr.online/*
 *://vak.minobrnauki.gov.ru/*
 *://valor0code.com/*
+*://vanced.com.co/*
 *://vanced.jp.uptodown.com/*
 *://vanced.me/*
 *://vanced.net/*
@@ -8721,6 +8717,7 @@
 *://www.663home.cn/*
 *://www.6xz1gd.cn/*
 *://www.7bhb1xf.cn/*
+*://www.7zip.com/*
 *://www.80s90s-songs.fun/*
 *://www.886699.xyz/*
 *://www.8dexpress.cn/*
@@ -9211,6 +9208,7 @@
 *://www.fellows2008.co.jp/*
 *://www.fenixvalor.com/*
 *://www.ferflorest.com/*
+*://www.feriosa.cl/detail/*
 *://www.fernandoaugustoblog.com/*
 *://www.ferrari.cn/*
 *://www.festo.com.cn/*
@@ -9926,6 +9924,7 @@
 *://www.qarshibotanist.com/*
 *://www.qimdcsg.cn/*
 *://www.qjukvpc.cn/*
+*://www.qole-oracle.jp/*
 *://www.qqszz.net/*
 *://www.qsssqs.cn/*
 *://www.quakeprediction.com/*
@@ -10717,6 +10716,7 @@
 *://ytmods.com/*
 *://ytrevanced.app/*
 *://ytricks.co/*
+*://ytvancedapk.com/*
 *://yu-blo.com/*
 *://yu-check-news.com/*
 *://yu-design51.com/*
