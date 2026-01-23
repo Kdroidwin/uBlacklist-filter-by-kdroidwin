@@ -237,6 +237,7 @@ fp.no-sheep.org/services##.main
 ||774route.com^$document
 ||7c233aw3.lvw-bw-intern.de^$document
 ||7ed521oq.azura-menage.fr^$document
+||7zip.dev^$document
 ||8018063.slot26.online^$document
 ||8171update.online^$document
 ||8334200.slot31.online^$document
@@ -2194,6 +2195,7 @@ fp.no-sheep.org/services##.main
 ||english.tameroutine.net^$document
 ||englishconversationcoaching.hatenablog.jp^$document
 ||englishconversationcoaching.hatenablog.jp^$document
+||englishosaru-officialsite.co.jp^$document
 ||enhoko.com^$document
 ||enimiron.com^$document
 ||enishi-izumo.com^$document
@@ -5625,6 +5627,7 @@ fp.no-sheep.org/services##.main
 ||note.com/lucky_ai^$document
 ||note.com/maiko_muri^$document
 ||note.com/mainichigadget^$document
+||note.com/makuring^$document
 ||note.com/mangach^$document
 ||note.com/mankensensei^$document
 ||note.com/maron2023^$document
@@ -5766,6 +5769,7 @@ fp.no-sheep.org/services##.main
 ||note.com/vast_rue955^$document
 ||note.com/vivid_cosmos9883^$document
 ||note.com/vivid_cosmos9883^$document
+||note.com/vpn_lab^$document
 ||note.com/wareomou_yueni^$document
 ||note.com/wataru057/n/n1616ce92e51f^$document
 ||note.com/watawata555^$document
@@ -6001,6 +6005,7 @@ fp.no-sheep.org/services##.main
 ||osaka.powerhousegym.jp^$document
 ||osamunoyume.com^$document
 ||osarai-media.net^$document
+||osaru-marketing.com^$document
 ||osatobuririand.com^$document
 ||osenblog.com^$document
 ||oseti.club^$document
@@ -6538,6 +6543,7 @@ fp.no-sheep.org/services##.main
 ||real-lovedoll.jp^$document
 ||realcongress.ru^$document
 ||realine.me^$document
+||realnet-engineering.jp^$document
 ||realtimetvgod.com^$document
 ||realtokyomiyabi.com^$document
 ||realtyempowermentsystems.com^$document
@@ -8366,6 +8372,7 @@ fp.no-sheep.org/services##.main
 ||vpnavi.jp^$document
 ||vpncafe.io/best-vpn^$document
 ||vpncafe.net^$document
+||vpninfo.dk^$document
 ||vpninfo.jp^$document
 ||vpnjapan.wpx.jp^$document
 ||vpnlove.me^$document
@@ -9451,6 +9458,7 @@ fp.no-sheep.org/services##.main
 ||www.kcontent.yunkoreblog.com^$document
 ||www.kczaftl.cn^$document
 ||www.kenblog2.com^$document
+||www.kenko-to-bijin.com^$document
 ||www.kenmori.jp^$document
 ||www.kenn-primary.devon.sch.uk^$document
 ||www.ketochow.xyz^$document
@@ -10318,6 +10326,7 @@ fp.no-sheep.org/services##.main
 ||www.xjajdvg.cn^$document
 ||www.xmjsc.cn^$document
 ||www.xn--eck3aaz4a3oyhh.xyz^$document
+||www.xn--gmp-jhd.org^$document
 ||www.xn--q9js4nqcxfya8d9mb5974lbbyb.com^$document
 ||www.xn--u9j5h4aofc9l3j1081ad69aw3n.jp^$document
 ||www.xn--u9jy52gkffn9q8qbux6ab4xi9c4wsx57a.com^$document

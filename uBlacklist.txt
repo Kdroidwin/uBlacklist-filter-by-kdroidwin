@@ -3,17 +3,6 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
-*://www.xn--gmp-jhd.org/*
-*://osaru-marketing.com/*
-*://englishosaru-officialsite.co.jp/*
-*://note.com/acehaoreda11/n/n5b5727be25e2*
-*://realnet-engineering.jp/*
-*://note.com/makuring/*
-*://note.com/bestvpn/n/n28ceb10b533f*
-*://note.com/vpn_lab/*
-*://www.kenko-to-bijin.com/*
-*://vpninfo.dk/*
-*://7zip.dev/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adobe.com.vn/*
@@ -691,6 +680,7 @@
 *://774route.com/*
 *://7c233aw3.lvw-bw-intern.de/*
 *://7ed521oq.azura-menage.fr/*
+*://7zip.dev/*
 *://8018063.slot26.online/*
 *://8171update.online/*
 *://8334200.slot31.online/*
@@ -2598,6 +2588,7 @@
 *://english.is.cas.cn/*
 *://english.tameroutine.net/*
 *://englishconversationcoaching.hatenablog.jp/*
+*://englishosaru-officialsite.co.jp/*
 *://enhoko.com/*
 *://enimiron.com/*
 *://enishi-izumo.com/*
@@ -5771,6 +5762,7 @@
 *://note.com/5656remon5656/*
 *://note.com/88gold88/*
 *://note.com/accha123/*
+*://note.com/acehaoreda11/n/n5b5727be25e2*
 *://note.com/addness_recruit/*
 *://note.com/agile_pika4626/*
 *://note.com/ai_business_navi/*
@@ -5795,6 +5787,7 @@
 *://note.com/beckett_8492/*
 *://note.com/belnon/*
 *://note.com/berry_0702/*
+*://note.com/bestvpn/n/n28ceb10b533f*
 *://note.com/bolojobsko/n/n47cfa6a8b9a7*
 *://note.com/brave_borage2759/*
 *://note.com/bright_llama373/*
@@ -5920,6 +5913,7 @@
 *://note.com/lucky_ai/*
 *://note.com/maiko_muri/*
 *://note.com/mainichigadget/*
+*://note.com/makuring/*
 *://note.com/mangach/*
 *://note.com/mankensensei/*
 *://note.com/maron2023/*
@@ -6053,6 +6047,7 @@
 *://note.com/vast_cougar7215/*
 *://note.com/vast_rue955/*
 *://note.com/vivid_cosmos9883/*
+*://note.com/vpn_lab/*
 *://note.com/wareomou_yueni/*
 *://note.com/wataru057/n/n1616ce92e51f
 *://note.com/watawata555/*
@@ -6276,6 +6271,7 @@
 *://osaka.powerhousegym.jp/*
 *://osamunoyume.com/*
 *://osarai-media.net/*
+*://osaru-marketing.com/*
 *://osatobuririand.com/*
 *://osenblog.com/*
 *://oseti.club/*
@@ -6779,6 +6775,7 @@
 *://real-lovedoll.jp/*
 *://realcongress.ru/*
 *://realine.me/*
+*://realnet-engineering.jp/*
 *://realtimetvgod.com/*
 *://realtokyomiyabi.com/*
 *://realtyempowermentsystems.com/*
@@ -8487,6 +8484,7 @@
 *://vpnavi.jp/*
 *://vpncafe.io/best-vpn/*
 *://vpncafe.net/*
+*://vpninfo.dk/*
 *://vpninfo.jp/*
 *://vpnjapan.wpx.jp/*
 *://vpnlove.me/*
@@ -9530,6 +9528,7 @@
 *://www.kcontent.yunkoreblog.com/*
 *://www.kczaftl.cn/*
 *://www.kenblog2.com/*
+*://www.kenko-to-bijin.com/*
 *://www.kenmori.jp/*
 *://www.kenn-primary.devon.sch.uk/*
 *://www.ketochow.xyz/*
@@ -10388,6 +10387,7 @@
 *://www.xjajdvg.cn/*
 *://www.xmjsc.cn/*
 *://www.xn--eck3aaz4a3oyhh.xyz/*
+*://www.xn--gmp-jhd.org/*
 *://www.xn--q9js4nqcxfya8d9mb5974lbbyb.com/*
 *://www.xn--u9j5h4aofc9l3j1081ad69aw3n.jp/*
 *://www.xn--u9jy52gkffn9q8qbux6ab4xi9c4wsx57a.com/*
