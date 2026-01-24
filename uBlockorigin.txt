@@ -934,6 +934,7 @@ fp.no-sheep.org/services##.main
 ||azukimama.com^$document
 ||azukisanchi.xsrv.jp^$document
 ||b-corsairs.bl.kuroco-img.app^$document
+||b-short.link^$document
 ||b-us.liuhe36.cn^$document
 ||b1a4fc.jp^$document
 ||b2b.bohrer.ru^$document

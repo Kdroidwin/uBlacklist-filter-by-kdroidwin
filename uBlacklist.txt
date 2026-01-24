@@ -2,10 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://*.soft112.com/*
-*://*.ali213.net/*
-*://*.andro.io/*
-*://b-short.link/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -17,9 +13,11 @@
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
+*://*.ali213.net/*
 *://*.all-nationz.com/*
 *://*.amazon.com.vn/*
 *://*.ambiify.cards/*
+*://*.andro.io/*
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
 *://*.apktodo.io/*
@@ -352,6 +350,7 @@
 *://*.sl/*
 *://*.slot.2chblog.jp/*
 *://*.smdcgldv.art/*
+*://*.soft112.com/*
 *://*.softmany.com/*
 *://*.softonic.cn/*
 *://*.softonic.com/*
@@ -1359,6 +1358,7 @@
 *://azukimama.com/*
 *://azukisanchi.xsrv.jp/*
 *://b-corsairs.bl.kuroco-img.app/*
+*://b-short.link/*
 *://b-short.link/YN3htW*
 *://b-us.liuhe36.cn/*
 *://b1a4fc.jp/*
