@@ -6812,7 +6812,6 @@
 *://rechargewifi.base.shop/*
 *://recipe.rakuten.co.jp/*
 *://reco-link.com/*
-*://recochoku.jp/*
 *://recomamadiary.com/*
 *://recomen-erocomi.anicomi3150.com/*
 *://recommend-travel.com/*
