@@ -1367,7 +1367,6 @@ fp.no-sheep.org/services##.main
 ||carscanvas.com^$document
 ||cart.e-shops.jp^$document
 ||cart.yonekichi.online^$document
-||casacomoda.co.jp^$document
 ||casadelmaterassopisa.com^$document
 ||casamentodayejuh.life^$document
 ||casico.me^$document
