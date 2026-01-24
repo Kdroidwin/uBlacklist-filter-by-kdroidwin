@@ -1780,7 +1780,6 @@
 *://carscanvas.com/*
 *://cart.e-shops.jp/*
 *://cart.yonekichi.online/*
-*://casacomoda.co.jp/*
 *://casadelmaterassopisa.com/*
 *://casamentodayejuh.life/*
 *://casico.me/*
