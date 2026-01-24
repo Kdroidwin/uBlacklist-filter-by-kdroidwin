@@ -9274,7 +9274,6 @@ fp.no-sheep.org/services##.main
 ||www.goldcoastwalker.com^$document
 ||www.golden-strike.ru^$document
 ||www.goma-books.com^$document
-||www.goodreads.com^$document
 ||www.google.co.uk^$document
 ||www.google.com.ru^$document
 ||www.google.me^$document
