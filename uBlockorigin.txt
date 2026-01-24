@@ -237,6 +237,7 @@ fp.no-sheep.org/services##.main
 ||774route.com^$document
 ||7c233aw3.lvw-bw-intern.de^$document
 ||7ed521oq.azura-menage.fr^$document
+||7leaf-clover.com^$document
 ||7zip.dev^$document
 ||8018063.slot26.online^$document
 ||8171update.online^$document
@@ -316,6 +317,7 @@ fp.no-sheep.org/services##.main
 ||abeyuto.com^$document
 ||abidaliawan.me^$document
 ||abiko-football.jp^$document
+||abjp6579.tokyo^$document
 ||abnb.me^$document
 ||about-the-person.com^$document
 ||abs7.ru^$document
@@ -1677,6 +1679,7 @@ fp.no-sheep.org/services##.main
 ||covidtestinghuntingtonbeach.com^$document
 ||cozicozi.net^$document
 ||cp.onamae.ne.jp^$document
+||cpa.8na4zpze.com^$document
 ||cpr74.ru^$document
 ||cpslzfdv.qpon^$document
 ||cpstyle.jp^$document
@@ -1918,6 +1921,7 @@ fp.no-sheep.org/services##.main
 ||dmpatent.com^$document
 ||dnrhoee.com^$document
 ||do.hiraku946.jp^$document
+||do2512.com^$document
 ||doboku21.com^$document
 ||doc.dgstack.cn^$document
 ||doc.plasticity.xyz^$document
@@ -2493,6 +2497,7 @@ fp.no-sheep.org/services##.main
 ||fitgirl-repack.site^$document
 ||fitgirl-repacks.cc^$document
 ||fitgirl-repacks.in^$document
+||fitgirl-repacks.proxyninja.org^$document
 ||fitgirl-repacks.theproxy.vip^$document
 ||fitgirl-repacks.to^$document
 ||fitgirl-repacks.unb^$document
@@ -3220,7 +3225,18 @@ fp.no-sheep.org/services##.main
 ||heritagerareantique.com^$document
 ||hero-mate.jp^$document
 ||hero-pedia.com^$document
+||hero-sms.ai^$document
+||hero-sms.cc^$document
+||hero-sms.co^$document
+||hero-smshero.ai^$document
+||hero-smshero.cc^$document
+||hero-smshero.co^$document
 ||hero14.com^$document
+||herosms.ai^$document
+||herosms.cc^$document
+||herosms.co^$document
+||herosms.io^$document
+||herosms.vip^$document
 ||hey-chenco.com^$document
 ||heyagasuki.com^$document
 ||hf.ru^$document
@@ -4260,6 +4276,7 @@ fp.no-sheep.org/services##.main
 ||lam911mt.home.blog^$document
 ||lamerkomp.ru^$document
 ||lanakila-web.com^$document
+||lancerjp.com^$document
 ||landfaller.net^$document
 ||landing-page-school.com^$document
 ||landing.server4testing.com^$document
@@ -5548,6 +5565,7 @@ fp.no-sheep.org/services##.main
 ||note.com/goen_grapgic^$document
 ||note.com/goen_grapgic^$document
 ||note.com/gominogomidame^$document
+||note.com/gorilivesp^$document
 ||note.com/hachiojiiphone^$document
 ||note.com/haken_se_30manen^$document
 ||note.com/hakushiki_san^$document
@@ -5705,6 +5723,7 @@ fp.no-sheep.org/services##.main
 ||note.com/rich_mole9262^$document
 ||note.com/rich_shark9469^$document
 ||note.com/rin_142356^$document
+||note.com/rinatanaka0904^$document
 ||note.com/rinks_shop1288^$document
 ||note.com/roshalke^$document
 ||note.com/ruria_aria88^$document
@@ -5743,6 +5762,7 @@ fp.no-sheep.org/services##.main
 ||note.com/takumi333^$document
 ||note.com/takumi_hakata^$document
 ||note.com/tasty_holly7883^$document
+||note.com/tasty_okapi8736^$document
 ||note.com/tbola^$document
 ||note.com/teamo_kidzania/n/nb60ef983e453^$document
 ||note.com/techdaichi^$document
@@ -6023,6 +6043,7 @@ fp.no-sheep.org/services##.main
 ||osusume-anime.com^$document
 ||osusume-kaigaidorama.com^$document
 ||osusume.mynavi.jp^$document
+||ot2512.com^$document
 ||ota-goods.info^$document
 ||otaetae.com^$document
 ||otagameblog.com^$document
@@ -6086,6 +6107,7 @@ fp.no-sheep.org/services##.main
 ||paidy.onelink.me^$document
 ||painsr96.datingagencyreviews.co.uk^$document
 ||pairry.jp^$document
+||pairs-jp.karakuri.ai^$document
 ||pakiraaa.com^$document
 ||palaciotropicalcostarica.com^$document
 ||palanar.app^$document
@@ -6135,6 +6157,7 @@ fp.no-sheep.org/services##.main
 ||pblc.me^$document
 ||pc-consultant.ru^$document
 ||pc.moppy.jp^$document
+||pc2512.com^$document
 ||pcd.uk.com^$document
 ||pcdr-chiebukuro.com^$document
 ||pcgameskey.com^$document
@@ -7235,6 +7258,11 @@ fp.no-sheep.org/services##.main
 ||smiley0509.com^$document
 ||smileyfamsmiley.com^$document
 ||smiqpepq.info^$document
+||smshero.ai^$document
+||smshero.cc^$document
+||smshero.co^$document
+||smshero.com^$document
+||smshero.vip^$document
 ||smtownstore.jp^$document
 ||sn-jp.com^$document
 ||snacktime75.com^$document
@@ -7313,6 +7341,7 @@ fp.no-sheep.org/services##.main
 ||sozhaatimes.com^$document
 ||sp.gettersiida.net^$document
 ||spaceshipearth.jp^$document
+||spacha2026.com^$document
 ||spang8vz.exoticmods.com^$document
 ||sparkle-sparkle.com^$document
 ||sparkle33.com^$document
@@ -8405,6 +8434,7 @@ fp.no-sheep.org/services##.main
 ||vvindows.com^$document
 ||vvyrvwb.studio^$document
 ||vyoutuber.com^$document
+||w-chat25.com^$document
 ||w-methods-for-success.com^$document
 ||w9y5xi8wr.onlinetanke.de^$document
 ||waarinbeleggen2021.nl^$document
@@ -8511,6 +8541,7 @@ fp.no-sheep.org/services##.main
 ||westeroscraft.com/docs/getting-started/curseforge-launcher-setup^$document
 ||westregents.com^$document
 ||weverse.onelink.me^$document
+||wewe.web-chatgptt.com^$document
 ||wfzufdj.cn^$document
 ||whatsapp.com.vn^$document
 ||whatsplusapk.com^$document
@@ -9298,7 +9329,18 @@ fp.no-sheep.org/services##.main
 ||www.herbstowing.ca^$document
 ||www.here.xyz^$document
 ||www.hermes.cn^$document
+||www.hero-sms.ai^$document
+||www.hero-sms.cc^$document
+||www.hero-sms.co^$document
+||www.hero-smshero.ai^$document
+||www.hero-smshero.cc^$document
+||www.hero-smshero.co^$document
 ||www.heromotors.com^$document
+||www.herosms.ai^$document
+||www.herosms.cc^$document
+||www.herosms.co^$document
+||www.herosms.io^$document
+||www.herosms.vip^$document
 ||www.hiapkdownload.com^$document
 ||www.hidouzo.site^$document
 ||www.hikaku.com^$document
@@ -10038,6 +10080,11 @@ fp.no-sheep.org/services##.main
 ||www.sme.net.cn^$document
 ||www.smiletech360.com^$document
 ||www.smis.info^$document
+||www.smshero.ai^$document
+||www.smshero.cc^$document
+||www.smshero.co^$document
+||www.smshero.com^$document
+||www.smshero.vip^$document
 ||www.so-le.net^$document
 ||www.soft222.com^$document
 ||www.softpedia.com/get/Security/Secure-cleaning/CCleaner.shtml^$document
@@ -10627,6 +10674,7 @@ fp.no-sheep.org/services##.main
 ||younokininarujournal.com^$document
 ||youorganic.cl^$document
 ||youpress.jp^$document
+||your.happy-strike.com^$document
 ||yourclip.life^$document
 ||yousukeblog1115.com^$document
 ||youthdanceweekend.org^$document
