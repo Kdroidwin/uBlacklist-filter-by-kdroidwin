@@ -2,6 +2,10 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
+*://*.soft112.com/*
+*://*.ali213.net/*
+*://*.andro.io/*
+*://b-short.link/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
