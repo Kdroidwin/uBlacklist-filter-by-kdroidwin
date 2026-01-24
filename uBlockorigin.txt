@@ -8610,8 +8610,6 @@ fp.no-sheep.org/services##.main
 ||wowbz.taobao.com^$document
 ||wowdiy.taobao.com^$document
 ||wowdm.taobao.com^$document
-||wowma.jp^$document
-||wowowent.jp^$document
 ||wp-load.in^$document
 ||wp.cloudprox.com^$document
 ||wp253742.wpx.jp^$document
