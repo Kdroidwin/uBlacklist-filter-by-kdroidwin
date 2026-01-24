@@ -8692,8 +8692,6 @@
 *://wowbz.taobao.com/*
 *://wowdiy.taobao.com/*
 *://wowdm.taobao.com/*
-*://wowma.jp/*
-*://wowowent.jp/*
 *://wp-load.in/*
 *://wp.cloudprox.com/*
 *://wp253742.wpx.jp/*
