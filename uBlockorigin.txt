@@ -6576,7 +6576,6 @@ fp.no-sheep.org/services##.main
 ||rechargewifi.base.shop^$document
 ||recipe.rakuten.co.jp^$document
 ||reco-link.com^$document
-||recochoku.jp^$document
 ||recomamadiary.com^$document
 ||recomen-erocomi.anicomi3150.com^$document
 ||recommend-travel.com^$document
