@@ -2879,7 +2879,6 @@ fp.no-sheep.org/services##.main
 ||girlsreport.net^$document
 ||girlsvip-matome.com^$document
 ||girlsvip-matome.com^$document
-||girlswalker.com^$document
 ||girlyf.com^$document
 ||girnsdzv.bizits.com^$document
 ||git.amzdata.cn^$document
@@ -10325,7 +10324,6 @@ fp.no-sheep.org/services##.main
 ||www.w3campus.lk^$document
 ||www.wacom.com.cn^$document
 ||www.wake-up-neo.net^$document
-||www.walkerplus.com^$document
 ||www.wallop.tv^$document
 ||www.wandoutv.cn^$document
 ||www.warorince.com^$document
