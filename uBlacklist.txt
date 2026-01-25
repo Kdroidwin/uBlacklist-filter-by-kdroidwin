@@ -3258,7 +3258,6 @@
 *://girlshour.net/*
 *://girlsreport.net/*
 *://girlsvip-matome.com/*
-*://girlswalker.com/*
 *://girlyf.com/*
 *://girnsdzv.bizits.com/*
 *://git.amzdata.cn/*
@@ -10393,7 +10392,6 @@
 *://www.w3campus.lk/*
 *://www.wacom.com.cn/*
 *://www.wake-up-neo.net/*
-*://www.walkerplus.com/*
 *://www.wallop.tv/*
 *://www.wandoutv.cn/*
 *://www.warorince.com/*
