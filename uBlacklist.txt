@@ -2,6 +2,17 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
+*://www.tenryu-site.com/*
+*://*.com/?l=1*
+*://novelgen.jp/?products/*
+*://kyokyu.net/*
+*://*.com/?d=8*
+*://*.com/hiroshi.php?*
+*://*.org/hiroshi.php?*
+*://www.cuatrogatosfilms.com/detail/*
+*://note.com/holy_pony5936/*
+*://note.com/mikami_01/*
+*://numberthirteen.jp/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
