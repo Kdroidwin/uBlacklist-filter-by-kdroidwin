@@ -834,6 +834,7 @@ fp.no-sheep.org/services##.main
 ||aseiouemt.com^$document
 ||asesoreslinra.com^$document
 ||asesoriainvima.com^$document
+||ashikaga-home-church.jimdofree.com^$document
 ||ashine-gr.com^$document
 ||ashitamohare.com^$document
 ||ashradar.com^$document
@@ -2940,6 +2941,7 @@ fp.no-sheep.org/services##.main
 ||go.onelink.me^$document
 ||go.sniply.app^$document
 ||gofile-pass.mystrikingly.com^$document
+||gofile.my.canva.site^$document
 ||gogomama.net^$document
 ||gogozoromi.com^$document
 ||gogreencabs.com^$document
@@ -4496,6 +4498,7 @@ fp.no-sheep.org/services##.main
 ||lvyou168.cn^$document
 ||lynxinst.com^$document
 ||lysaeqisk.melanie-reinecke.de^$document
+||lzz-mall.com^$document
 ||m-artist.net^$document
 ||m-lifeblog.com^$document
 ||m-melody.jp^$document
@@ -5361,6 +5364,7 @@ fp.no-sheep.org/services##.main
 ||newslabo.inf^$document
 ||newslabo.info^$document
 ||newsmatomedia.com^$document
+||newsnews.today^$document
 ||newspo24.com^$document
 ||newsrecently.com^$document
 ||newsseijinn.com^$document
@@ -7486,6 +7490,7 @@ fp.no-sheep.org/services##.main
 ||sudachiemulator.org^$document
 ||sudachiemulators.org^$document
 ||sudsies.net^$document
+||sues.jp^$document
 ||suewhitehurst.shop^$document
 ||sug-mag3.com^$document
 ||sug-web.jp^$document
@@ -9693,6 +9698,7 @@ fp.no-sheep.org/services##.main
 ||www.mochiteasaku.com^$document
 ||www.modathink.com^$document
 ||www.moduloasr.com^$document
+||www.moeasia.net^$document
 ||www.mohammedmubinmallick.com^$document
 ||www.molly.online^$document
 ||www.momoshiro245.info^$document

@@ -2,12 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://lzz-mall.com/*
-*://newsnews.today/*
-*://www.moeasia.net/*
-*://sues.jp/*
-*://ashikaga-home-church.jimdofree.com/*
-*://gofile.my.canva.site/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -1268,6 +1262,7 @@
 *://aseiouemt.com/*
 *://asesoreslinra.com/*
 *://asesoriainvima.com/*
+*://ashikaga-home-church.jimdofree.com/*
 *://ashine-gr.com/*
 *://ashitamohare.com/*
 *://ashradar.com/*
@@ -3323,6 +3318,7 @@
 *://go.onelink.me/*
 *://go.sniply.app/*
 *://gofile-pass.mystrikingly.com/*
+*://gofile.my.canva.site/*
 *://gogomama.net/*
 *://gogozoromi.com/*
 *://gogreencabs.com/*
@@ -4838,6 +4834,7 @@
 *://lvyou168.cn/*
 *://lynxinst.com/*
 *://lysaeqisk.melanie-reinecke.de/*
+*://lzz-mall.com/*
 *://m-artist.net/*
 *://m-lifeblog.com/*
 *://m-melody.jp/*
@@ -5668,6 +5665,7 @@
 *://newslabo.inf
 *://newslabo.info/*
 *://newsmatomedia.com/*
+*://newsnews.today/*
 *://newspo24.com/*
 *://newsrecently.com/*
 *://newsseijinn.com/*
@@ -7663,6 +7661,7 @@
 *://sudachiemulator.org/*
 *://sudachiemulators.org/*
 *://sudsies.net/*
+*://sues.jp/*
 *://suewhitehurst.shop/*
 *://sug-mag3.com/*
 *://sug-web.jp/*
@@ -9775,6 +9774,7 @@
 *://www.mochiteasaku.com/*
 *://www.modathink.com/*
 *://www.moduloasr.com/*
+*://www.moeasia.net/*
 *://www.mohammedmubinmallick.com/*
 *://www.molly.online/*
 *://www.momoshiro245.info/*
