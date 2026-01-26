@@ -2,17 +2,6 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
-*://www.tenryu-site.com/*
-*://*.com/?l=1*
-*://novelgen.jp/?products/*
-*://kyokyu.net/*
-*://*.com/?d=8*
-*://*.com/hiroshi.php?*
-*://*.org/hiroshi.php?*
-*://www.cuatrogatosfilms.com/detail/*
-*://note.com/holy_pony5936/*
-*://note.com/mikami_01/*
-*://numberthirteen.jp/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -91,13 +80,16 @@
 *://*.com/?_g=8*
 *://*.com/?_g=9*
 *://*.com/?a=8*
+*://*.com/?d=8*
 *://*.com/?g=8*
 *://*.com/?h=0*
 *://*.com/?i=0*
 *://*.com/?k=3*
+*://*.com/?l=1*
 *://*.com/?l=8*
 *://*.com/?m=0*
 *://*.com/?o=3*
+*://*.com/hiroshi.php?*
 *://*.com/index.php//?_g=1*
 *://*.com/index.php//?a=*
 *://*.com/index.php?shop/items/*
@@ -239,6 +231,7 @@
 *://*.oomonoyoutubersokuhou.blogo.jp/*
 *://*.org.tr/?k=7*
 *://*.org/?_g=5*
+*://*.org/hiroshi.php?*
 *://*.oryouri.2chblog.jp/*
 *://*.overstack.in/*
 *://*.ozawaren.com/*
@@ -4598,6 +4591,7 @@
 *://kxpe.xxasj.cn/*
 *://kxvfelo.cn/*
 *://kyiy.xxasj.cn/*
+*://kyokyu.net/*
 *://kyoudailanka.com/*
 *://kyoukaran.com/*
 *://kyoutei-report.com/*
@@ -5890,6 +5884,7 @@
 *://note.com/hitotsu_ai/*
 *://note.com/holy_beetle811
 *://note.com/holy_beetle811/*
+*://note.com/holy_pony5936/*
 *://note.com/honokamaison/*
 *://note.com/huge_roses2687/*
 *://note.com/icchi_thoughts/*
@@ -5958,6 +5953,7 @@
 *://note.com/mental_marcy/*
 *://note.com/michaeldx/*
 *://note.com/midori_no_kaden/*
+*://note.com/mikami_01/*
 *://note.com/mild_ruff676/*
 *://note.com/mingaje333/*
 *://note.com/mippasan/*
@@ -6120,6 +6116,7 @@
 *://novah.jp/*
 *://novel-device-166659.framer.app/*
 *://novel-nagasaki.com/*
+*://novelgen.jp/?products/*
 *://now-branch.com/*
 *://now-nippon.com/*
 *://now-trendy.com/*
@@ -6152,6 +6149,7 @@
 *://nukitashi.xyzapk.com/*
 *://nukkadusa.com/*
 *://numaota.jp/*
+*://numberthirteen.jp/*
 *://nunnun-father.hatenablog.com/*
 *://nutrizionisti-online.com/*
 *://nuxyanblog.com/*
@@ -9113,6 +9111,7 @@
 *://www.crystalshieldpro.com/*
 *://www.cssspgc.com/*
 *://www.cstoldme.com/*
+*://www.cuatrogatosfilms.com/detail/*
 *://www.cuponink.com/*
 *://www.curatedcapital.com.au/*
 *://www.cxtechlabs.com/*
@@ -10257,6 +10256,7 @@
 *://www.telurumall.jp/*
 *://www.temu.com/*
 *://www.tenews.org.ua/*
+*://www.tenryu-site.com/*
 *://www.tenshoku-antenna.com/*
 *://www.teppan-tachibana.jp/*
 *://www.tesla.cn/*

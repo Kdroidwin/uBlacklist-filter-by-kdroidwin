@@ -4242,6 +4242,7 @@ fp.no-sheep.org/services##.main
 ||kxpe.xxasj.cn^$document
 ||kxvfelo.cn^$document
 ||kyiy.xxasj.cn^$document
+||kyokyu.net^$document
 ||kyoudailanka.com^$document
 ||kyoukaran.com^$document
 ||kyoutei-report.com^$document
@@ -5586,6 +5587,7 @@ fp.no-sheep.org/services##.main
 ||note.com/hitotsu_ai^$document
 ||note.com/holy_beetle811^$document
 ||note.com/holy_beetle811^$document
+||note.com/holy_pony5936^$document
 ||note.com/honokamaison^$document
 ||note.com/huge_roses2687^$document
 ||note.com/icchi_thoughts^$document
@@ -5659,6 +5661,7 @@ fp.no-sheep.org/services##.main
 ||note.com/michaeldx^$document
 ||note.com/midori_no_kaden^$document
 ||note.com/midori_no_kaden^$document
+||note.com/mikami_01^$document
 ||note.com/mild_ruff676^$document
 ||note.com/mingaje333^$document
 ||note.com/mippasan^$document
@@ -5831,6 +5834,7 @@ fp.no-sheep.org/services##.main
 ||novah.jp^$document
 ||novel-device-166659.framer.app^$document
 ||novel-nagasaki.com^$document
+||novelgen.jp/?products^$document
 ||now-branch.com^$document
 ||now-nippon.com^$document
 ||now-trendy.com^$document
@@ -5863,6 +5867,7 @@ fp.no-sheep.org/services##.main
 ||nukitashi.xyzapk.com^$document
 ||nukkadusa.com^$document
 ||numaota.jp^$document
+||numberthirteen.jp^$document
 ||nunnun-father.hatenablog.com^$document
 ||nutrizionisti-online.com^$document
 ||nuxyanblog.com^$document
@@ -9020,6 +9025,7 @@ fp.no-sheep.org/services##.main
 ||www.crystalshieldpro.com^$document
 ||www.cssspgc.com^$document
 ||www.cstoldme.com^$document
+||www.cuatrogatosfilms.com/detail^$document
 ||www.cuponink.com^$document
 ||www.curatedcapital.com.au^$document
 ||www.cxtechlabs.com^$document
@@ -10176,6 +10182,7 @@ fp.no-sheep.org/services##.main
 ||www.telurumall.jp^$document
 ||www.temu.com^$document
 ||www.tenews.org.ua^$document
+||www.tenryu-site.com^$document
 ||www.tenshoku-antenna.com^$document
 ||www.teppan-tachibana.jp^$document
 ||www.tesla.cn^$document
