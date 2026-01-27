@@ -3,6 +3,11 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
+*://temu.com/*
+*://note.com/moteotokolabo/*
+*://note.com/goph_/*
+*://note.com/tiger_stlv/*
+*://twitter.center/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adobe.com.vn/*
