@@ -5569,6 +5569,7 @@ fp.no-sheep.org/services##.main
 ||note.com/goen_grapgic^$document
 ||note.com/goen_grapgic^$document
 ||note.com/gominogomidame^$document
+||note.com/goph_^$document
 ||note.com/gorilivesp^$document
 ||note.com/hachiojiiphone^$document
 ||note.com/haken_se_30manen^$document
@@ -5671,6 +5672,7 @@ fp.no-sheep.org/services##.main
 ||note.com/mofu_pan^$document
 ||note.com/monetking0209^$document
 ||note.com/morin4g4^$document
+||note.com/moteotokolabo^$document
 ||note.com/motokoku^$document
 ||note.com/muratooo^$document
 ||note.com/muryoudouga^$document
@@ -5777,6 +5779,7 @@ fp.no-sheep.org/services##.main
 ||note.com/teraweb^$document
 ||note.com/teraweb^$document
 ||note.com/thase70^$document
+||note.com/tiger_stlv^$document
 ||note.com/tmg500^$document
 ||note.com/tmobile_kevin^$document
 ||note.com/tokotoko_2025^$document
@@ -7761,6 +7764,7 @@ fp.no-sheep.org/services##.main
 ||telemarketingmadeeasy.com^$document
 ||telhasimperio.grupomarkat.com^$document
 ||temnonebo.org^$document
+||temu.com^$document
 ||tenbus.info^$document
 ||tender-feelings.com^$document
 ||tendo-ayumifarm.jp^$document
@@ -8161,6 +8165,7 @@ fp.no-sheep.org/services##.main
 ||twibuz.com^$document
 ||twik.xxasj.cn^$document
 ||twitresokuho.com^$document
+||twitter.center^$document
 ||twitter.com/comic_checker^$document
 ||twitter.com/indiegogojp^$document
 ||twitter.com/kdroidwin15^$document

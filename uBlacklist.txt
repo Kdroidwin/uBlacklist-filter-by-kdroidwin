@@ -3,11 +3,6 @@
 *://*.1r1g.com/*
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
-*://temu.com/*
-*://note.com/moteotokolabo/*
-*://note.com/goph_/*
-*://note.com/tiger_stlv/*
-*://twitter.center/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.adobe.com.vn/*
@@ -5871,6 +5866,7 @@
 *://note.com/go_cameraman/*
 *://note.com/goen_grapgic/*
 *://note.com/gominogomidame/*
+*://note.com/goph_/*
 *://note.com/gorilivesp/*
 *://note.com/hachiojiiphone/*
 *://note.com/haken_se_30manen/*
@@ -5968,6 +5964,7 @@
 *://note.com/mofu_pan/*
 *://note.com/monetking0209*
 *://note.com/morin4g4/*
+*://note.com/moteotokolabo/*
 *://note.com/motokoku/*
 *://note.com/muratooo/*
 *://note.com/muryoudouga*
@@ -6069,6 +6066,7 @@
 *://note.com/tenorsharejp/*
 *://note.com/teraweb/*
 *://note.com/thase70/*
+*://note.com/tiger_stlv/*
 *://note.com/tmg500/*
 *://note.com/tmobile_kevin/*
 *://note.com/tokotoko_2025/*
@@ -7923,6 +7921,7 @@
 *://telemarketingmadeeasy.com/*
 *://telhasimperio.grupomarkat.com/*
 *://temnonebo.org/*
+*://temu.com/*
 *://tenbus.info/*
 *://tender-feelings.com/*
 *://tendo-ayumifarm.jp/*
@@ -8301,6 +8300,7 @@
 *://twibuz.com/*
 *://twik.xxasj.cn/*
 *://twitresokuho.com/*
+*://twitter.center/*
 *://twitter.com/comic_checker*
 *://twitter.com/indiegogojp*
 *://twitter.com/kdroidwin15*
