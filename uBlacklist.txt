@@ -5,14 +5,6 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://www.yukonshop.jp/*
-*://purellc.base.shop/*
-*://store.makuake.com/*
-*://note.com/mokyuchan/*
-*://note.com/direct_style/*
-*://note.com/hima2b4/*
-*://mttag.com/*
-*://abundantia-stone.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -780,6 +772,7 @@
 *://about-the-person.com/*
 *://abs7.ru/*
 *://absolutezero121.com/*
+*://abundantia-stone.com/*
 *://aburemono.com/*
 *://abvs.org/*
 *://abxw.xxasj.cn/*
@@ -5441,6 +5434,7 @@
 *://mtn-world.com/*
 *://mtnusers.rootduee.top/*
 *://mtrl.tokyo/*
+*://mttag.com/*
 *://mubaohiemxin.com/*
 *://mudawanat-tibiya-sa.shop/*
 *://mufufu-comic.com/*
@@ -5846,6 +5840,7 @@
 *://note.com/denka_life/*
 *://note.com/der3/*
 *://note.com/device_textbook/*
+*://note.com/direct_style/*
 *://note.com/dream1004*
 *://note.com/egao_no_care_nao/*
 *://note.com/f00b4r/n/n1fe7afacadd7*
@@ -5886,6 +5881,7 @@
 *://note.com/happy_cobra8643/*
 *://note.com/haraguchikazu/*
 *://note.com/herry/*
+*://note.com/hima2b4/*
 *://note.com/hirokazumineral/*
 *://note.com/hirotoinfo/*
 *://note.com/hit_ranking/*
@@ -5970,6 +5966,7 @@
 *://note.com/mizuu_note1/*
 *://note.com/moeuhane22*
 *://note.com/mofu_pan/*
+*://note.com/mokyuchan/*
 *://note.com/monetking0209*
 *://note.com/morin4g4/*
 *://note.com/moteotokolabo/*
@@ -6702,6 +6699,7 @@
 *://puppy-stepbystep.com/*
 *://puralog.com/*
 *://puranote.net/*
+*://purellc.base.shop/*
 *://purisvhx.treasureshotel.com/*
 *://purogirls.com/*
 *://purple-novel.com/*
@@ -7651,6 +7649,7 @@
 *://stor.cdn.dfyun.com.cn/*
 *://store.azki-official.com/*
 *://store.breguet.cn/*
+*://store.makuake.com/*
 *://stores.chaumet.cn/*
 *://storyoffilm-japan.com/*
 *://storypick.net/*
@@ -10489,6 +10488,7 @@
 *://www.yugoten.jp/*
 *://www.yukiewithdownloads.com/*
 *://www.yukisako.xyz/*
+*://www.yukonshop.jp/*
 *://www.yumee.online/*
 *://www.yumerohashi.com/*
 *://www.yunbiyo6.com/*

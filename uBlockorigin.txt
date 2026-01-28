@@ -322,6 +322,7 @@ fp.no-sheep.org/services##.main
 ||about-the-person.com^$document
 ||abs7.ru^$document
 ||absolutezero121.com^$document
+||abundantia-stone.com^$document
 ||aburemono.com^$document
 ||abvs.org^$document
 ||abxw.xxasj.cn^$document
@@ -5110,6 +5111,7 @@ fp.no-sheep.org/services##.main
 ||mtn-world.com^$document
 ||mtnusers.rootduee.top^$document
 ||mtrl.tokyo^$document
+||mttag.com^$document
 ||mubaohiemxin.com^$document
 ||mudawanat-tibiya-sa.shop^$document
 ||mufufu-comic.com^$document
@@ -5538,6 +5540,7 @@ fp.no-sheep.org/services##.main
 ||note.com/denka_life^$document
 ||note.com/der3^$document
 ||note.com/device_textbook^$document
+||note.com/direct_style^$document
 ||note.com/dream1004^$document
 ||note.com/egao_no_care_nao^$document
 ||note.com/f00b4r/n/n1fe7afacadd7^$document
@@ -5581,6 +5584,7 @@ fp.no-sheep.org/services##.main
 ||note.com/happy_cobra8643^$document
 ||note.com/haraguchikazu^$document
 ||note.com/herry^$document
+||note.com/hima2b4^$document
 ||note.com/hirokazumineral^$document
 ||note.com/hirotoinfo^$document
 ||note.com/hit_ranking^$document
@@ -5670,6 +5674,7 @@ fp.no-sheep.org/services##.main
 ||note.com/mizuu_note1^$document
 ||note.com/moeuhane22^$document
 ||note.com/mofu_pan^$document
+||note.com/mokyuchan^$document
 ||note.com/monetking0209^$document
 ||note.com/morin4g4^$document
 ||note.com/moteotokolabo^$document
@@ -6431,6 +6436,7 @@ fp.no-sheep.org/services##.main
 ||puppy-stepbystep.com^$document
 ||puralog.com^$document
 ||puranote.net^$document
+||purellc.base.shop^$document
 ||purisoku.com^$document
 ||purisvhx.treasureshotel.com^$document
 ||purogirls.com^$document
@@ -7467,6 +7473,7 @@ fp.no-sheep.org/services##.main
 ||stor.cdn.dfyun.com.cn^$document
 ||store.azki-official.com^$document
 ||store.breguet.cn^$document
+||store.makuake.com^$document
 ||stores.chaumet.cn^$document
 ||storyoffilm-japan.com^$document
 ||storypick.net^$document
@@ -10412,6 +10419,7 @@ fp.no-sheep.org/services##.main
 ||www.yugoten.jp^$document
 ||www.yukiewithdownloads.com^$document
 ||www.yukisako.xyz^$document
+||www.yukonshop.jp^$document
 ||www.yumee.online^$document
 ||www.yumerohashi.com^$document
 ||www.yunbiyo6.com^$document
