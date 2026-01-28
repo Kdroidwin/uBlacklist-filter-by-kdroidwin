@@ -5,6 +5,14 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
+*://www.yukonshop.jp/*
+*://purellc.base.shop/*
+*://store.makuake.com/*
+*://note.com/mokyuchan/*
+*://note.com/direct_style/*
+*://note.com/hima2b4/*
+*://mttag.com/*
+*://abundantia-stone.com/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
