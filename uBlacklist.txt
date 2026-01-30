@@ -8292,7 +8292,6 @@
 *://pcgamestorrents.org/*
 *://pcmac.download/*
 *://pcshopwell.com/*
-*://pdalife.com/*
 *://pdelect.com/*
 *://pdilms.com/*
 *://pdspm.in/*
