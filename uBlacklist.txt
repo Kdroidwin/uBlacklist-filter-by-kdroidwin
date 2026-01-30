@@ -11209,7 +11209,6 @@
 *://www.haitenjp.com/*
 *://www.hakone-chan.jp/*
 *://www.hakone-yamatoya.com/*
-*://www.hakutea.jp/*
 *://www.hallaron.com/*
 *://www.hamamatsukitach.com/*
 *://www.hamayurigakuen.jp/*
