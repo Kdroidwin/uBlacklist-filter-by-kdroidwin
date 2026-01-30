@@ -9321,7 +9321,6 @@ fp.no-sheep.org/services##.main
 ||www.haitenjp.com^$document
 ||www.hakone-chan.jp^$document
 ||www.hakone-yamatoya.com^$document
-||www.hakutea.jp^$document
 ||www.hallaron.com^$document
 ||www.hamamatsukitach.com^$document
 ||www.hamayurigakuen.jp^$document
