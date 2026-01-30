@@ -207,6 +207,7 @@ fp.no-sheep.org/services##.main
 ||5jhbaj6fe.adrianodosanjos.de^$document
 ||5jl3ah.cn^$document
 ||5min-break.com^$document
+||5play.org^$document
 ||5qlm1wg.h-arlt-fotografie.de^$document
 ||5qlz1d8h.r.us-east-1.awstrack.me^$document
 ||5sonsmama.com^$document
@@ -380,6 +381,7 @@ fp.no-sheep.org/services##.main
 ||affiliatebook.net^$document
 ||afghaehego.com^$document
 ||afghan-info.com^$document
+||afi7.xsrv.jp^$document
 ||afiri-star.com^$document
 ||aflciopokerroom.com^$document
 ||afmd.xxasj.cn^$document
@@ -582,6 +584,7 @@ fp.no-sheep.org/services##.main
 ||ameblo.jp/plus2222^$document
 ||ameblo.jp/unarigoe^$document
 ||ameblo.jp/uriutsu-123^$document
+||ameblo.jp/viwizardjp^$document
 ||ameblo.jp/windows-11-pc^$document
 ||ameblo.jp/yoshi1020nihei^$document
 ||ameblo.jp/zylp7dut^$document
@@ -597,6 +600,7 @@ fp.no-sheep.org/services##.main
 ||amprime.hatenablog.com^$document
 ||amprime.hatenablog.com^$document
 ||amy1181.com^$document
+||an1.ca^$document
 ||an1.co.in^$document
 ||analogkaka.com^$document
 ||analytics.slot47.online^$document
@@ -607,6 +611,7 @@ fp.no-sheep.org/services##.main
 ||anderbot.com^$document
 ||andoroidoi.spaziotecnoweb.com^$document
 ||andreashenricy.com^$document
+||androeed.store^$document
 ||android-games.freewebgames.xyz^$document
 ||android.hehezhou.cn^$document
 ||androidapp.jp.net^$document
@@ -720,6 +725,7 @@ fp.no-sheep.org/services##.main
 ||apkfab.com^$document
 ||apkfolks.com^$document
 ||apkhome.net^$document
+||apkkit.com^$document
 ||apklite.me/youtube-revanced-apk^$document
 ||apkmb.com^$document
 ||apkmod.com.co^$document
@@ -733,9 +739,11 @@ fp.no-sheep.org/services##.main
 ||apkpure.com/youtube-revanced^$document
 ||apkpure.net/youtube-revanced^$document
 ||apkresult.io^$document
+||apkrexo.com^$document
 ||apksfull.com^$document
 ||apkshub.com^$document
 ||apksim.com^$document
+||apkspotify.net^$document
 ||apktodo.io^$document
 ||apkvision.org^$document
 ||app-games-casmanuus.xyz^$document
@@ -749,6 +757,7 @@ fp.no-sheep.org/services##.main
 ||appagg.com^$document
 ||appante7.info^$document
 ||appbu.jp^$document
+||appdoze.net^$document
 ||applenge-media.com^$document
 ||applepandac.com^$document
 ||applepayer.net^$document
@@ -1810,6 +1819,7 @@ fp.no-sheep.org/services##.main
 ||deepaksawant.org^$document
 ||deepcoder.online^$document
 ||deeps.me^$document
+||deerspa.com/products^$document
 ||deets.feedreader.com^$document
 ||deeya.sn^$document
 ||degistiraltindag.com^$document
@@ -2030,6 +2040,7 @@ fp.no-sheep.org/services##.main
 ||dreamgateway01.com^$document
 ||dreamriverpress.com^$document
 ||dressy.pla-cole.wedding^$document
+||dribbble.com^$document
 ||dripmoreeu.com^$document
 ||drivesurje.jp^$document
 ||drollwolf.com^$document
@@ -2139,6 +2150,7 @@ fp.no-sheep.org/services##.main
 ||el-clan.jp^$document
 ||elcus.org^$document
 ||elearning-art.net^$document
+||elecart.in/products^$document
 ||elect-co.com^$document
 ||electron-comic.com^$document
 ||electronic-visa.kdmid.ru^$document
@@ -2433,6 +2445,7 @@ fp.no-sheep.org/services##.main
 ||fatzs.jp^$document
 ||favfavmusic.com^$document
 ||favorite-blog.com^$document
+||fazendinha.com/products^$document
 ||fb.me^$document
 ||fba.azurewebsites.net^$document
 ||fbfcmt27.autosns.app/^$document
@@ -2574,6 +2587,7 @@ fp.no-sheep.org/services##.main
 ||foux3ut3.rallye-photo-avord.fr^$document
 ||fpfjzjvxtbf.com^$document
 ||fphrc.groupzu.com^$document
+||fqw45966.site^$document
 ||franchiseconnect.us^$document
 ||fratermusic.com^$document
 ||fratitude.in^$document
@@ -2730,6 +2744,7 @@ fp.no-sheep.org/services##.main
 ||gamegadget.jp^$document
 ||gamejksokuhou.com^$document
 ||gamejksokuhou.com^$document
+||gamemodfree.com^$document
 ||gamenexus.jp/wutheringwaves/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9Se^$document
 ||gamepcfull.com^$document
 ||gamerom.blog129.fc2.com^$document
@@ -3553,6 +3568,7 @@ fp.no-sheep.org/services##.main
 ||influmemo.com^$document
 ||info-melody.com^$document
 ||info.securesamba.com^$document
+||infojoho-library.org^$document
 ||infolab.buyer-direct.com^$document
 ||infomalco.net^$document
 ||infomero.com^$document
@@ -3728,6 +3744,7 @@ fp.no-sheep.org/services##.main
 ||jdvx.rylbiqsf.biz^$document
 ||jeannespaey.com^$document
 ||jenak.net^$document
+||jepista.io^$document
 ||jetbrains.ru^$document
 ||jiaqingli.cn^$document
 ||jibassociation.org^$document
@@ -3973,6 +3990,7 @@ fp.no-sheep.org/services##.main
 ||keeztwelversa.xyz^$document
 ||kei-siroikumo.com^$document
 ||keijserskoning.com^$document
+||keikeikei.com^$document
 ||keiko-osaka.com^$document
 ||keimy-blog.com^$document
 ||keiri-mama.com^$document
@@ -4258,6 +4276,7 @@ fp.no-sheep.org/services##.main
 ||la-boulette.com^$document
 ||la-mere-poulard.jp^$document
 ||la-perche.jp^$document
+||la-vie.dandn-three.co.jp^$document
 ||laasena.com^$document
 ||lab4g.net^$document
 ||laboomny.com^$document
@@ -4328,6 +4347,7 @@ fp.no-sheep.org/services##.main
 ||lefty-golf-kanazawa.com^$document
 ||lefty322.com^$document
 ||legend-butterfly.com^$document
+||legends.org.tr/products^$document
 ||legiontn46.com^$document
 ||leisurego.jp^$document
 ||lelabo.co.jp^$document
@@ -4338,6 +4358,7 @@ fp.no-sheep.org/services##.main
 ||lenclosduruisseau.re^$document
 ||lesac.ru^$document
 ||lestermods.com^$document
+||letsmods.com^$document
 ||letxggene.com^$document
 ||leuchtenportal.com^$document
 ||levitrue.vn^$document
@@ -4446,6 +4467,7 @@ fp.no-sheep.org/services##.main
 ||lootbar.gg/authorization^$document
 ||lootbar.gg/ja/top-up^$document
 ||looxios.fr^$document
+||loreapk.com^$document
 ||los-wp-3ekxbwgmwq-an.a.run.app^$document
 ||losvallescreel.com^$document
 ||lotakaromosas.hu^$document
@@ -4581,6 +4603,7 @@ fp.no-sheep.org/services##.main
 ||mainichigossip.com^$document
 ||mainitihanairo.com^$document
 ||maishiraishi-cafe.jp^$document
+||maisonkitsune-jp.com^$document
 ||maitri.nyc^$document
 ||maji-topi.com^$document
 ||majihure.jp^$document
@@ -5011,6 +5034,7 @@ fp.no-sheep.org/services##.main
 ||modfyp.com^$document
 ||modfyp.com^$document
 ||modhello.com^$document
+||modilimitado.io^$document
 ||modspoti.com^$document
 ||moduloasr.com^$document
 ||modversionapk.com^$document
@@ -5039,6 +5063,7 @@ fp.no-sheep.org/services##.main
 ||momsbrk.com^$document
 ||monadnockmidrange.com^$document
 ||monamona2525.com^$document
+||monara.com/product^$document
 ||mondo-libre.com^$document
 ||mondra.jp^$document
 ||monesblog.com^$document
@@ -5123,6 +5148,7 @@ fp.no-sheep.org/services##.main
 ||mugitomachee.com^$document
 ||mukogawa.repo.nii.ac.jp^$document
 ||multisitewoo.testbenchonline2.com^$document
+||mundoperfecto.net^$document
 ||mundouniversitario.net^$document
 ||murakamisayuri.jp^$document
 ||murasan-emblab.com^$document
@@ -5614,6 +5640,7 @@ fp.no-sheep.org/services##.main
 ||note.com/junnakazawa^$document
 ||note.com/jupestar61^$document
 ||note.com/jutandayooon^$document
+||note.com/jyohosyozaiyasan^$document
 ||note.com/kadenguide^$document
 ||note.com/kadensomurie^$document
 ||note.com/kadensomurie^$document
@@ -5803,6 +5830,7 @@ fp.no-sheep.org/services##.main
 ||note.com/vast_rue955^$document
 ||note.com/vivid_cosmos9883^$document
 ||note.com/vivid_cosmos9883^$document
+||note.com/viwizard_jp^$document
 ||note.com/vpn_lab^$document
 ||note.com/wareomou_yueni^$document
 ||note.com/wataru057/n/n1616ce92e51f^$document
@@ -6000,6 +6028,7 @@ fp.no-sheep.org/services##.main
 ||onigirisan.com^$document
 ||onimama.com^$document
 ||onitsukatigerdeal.com^$document
+||onitsukatigersell.shop^$document
 ||oniyomech.livedoor.biz^$document
 ||onlee.jp^$document
 ||onlinecampus.lk^$document
@@ -6181,6 +6210,7 @@ fp.no-sheep.org/services##.main
 ||pcgamestorrents.org^$document
 ||pcmac.download^$document
 ||pcshopwell.com^$document
+||pdalife.com^$document
 ||pdelect.com^$document
 ||pdilms.com^$document
 ||pdspm.in^$document
@@ -6370,6 +6400,7 @@ fp.no-sheep.org/services##.main
 ||pr0zel.top^$document
 ||praxsol.in^$document
 ||prbay.xyz^$document
+||preaf.jp^$document
 ||preairnutr.xyz^$document
 ||precious-johnnys.com^$document
 ||precure-miracleuniverse.com^$document
@@ -7388,14 +7419,39 @@ fp.no-sheep.org/services##.main
 ||sports-suki.com^$document
 ||sports.yoshilover.com^$document
 ||sportsnews.jp^$document
+||spotfymody.com^$document
 ||spotiapkmod.com^$document
+||spotiepremium.com^$document
+||spotifepriumium.com^$document
+||spotiffyapks.com^$document
+||spotifi.net^$document
+||spotifiapk.com^$document
+||spotifipremiumapks.com.br^$document
+||spotifmodapk.com^$document
+||spotifull.com^$document
+||spotify-mod-apk.en.filerox.com^$document
+||spotify-premium-apk-android.mundoperfecto.net^$document
+||spotify.en.modilimitado.io^$document
+||spotifyapk.co^$document
+||spotifyapk.net^$document
+||spotifygo.com^$document
 ||spotifymod.app^$document
 ||spotifymode.com^$document
+||spotifypro.com.co^$document
 ||spotigeek.com^$document
+||spotimod.org^$document
+||spotimodapk.org^$document
+||spotimods.com^$document
+||spotimody.app^$document
+||spotimody.co^$document
 ||spotimody.com^$document
+||spotimody.net^$document
 ||spotirevanced.com^$document
+||spotiwap.com^$document
 ||spotlight-news.jp^$document
 ||spottifyapk.com^$document
+||spotymod.org^$document
+||spotypremeum.com^$document
 ||sprint1342.com^$document
 ||sprucebogstudio.com^$document
 ||sqlite.in^$document
@@ -7500,6 +7556,7 @@ fp.no-sheep.org/services##.main
 ||subscnavi.com^$document
 ||success-areas.com^$document
 ||success-sword.com^$document
+||successtool.jp^$document
 ||sudachi-emu.org^$document
 ||sudachiemu.org^$document
 ||sudachiemulator.org^$document
@@ -7860,6 +7917,8 @@ fp.no-sheep.org/services##.main
 ||thesilentforest-jp.com^$document
 ||thesimsgetalife.com^$document
 ||thesixhats.com^$document
+||thespotfypremium.com^$document
+||thespotifypremiumapks.com^$document
 ||thesummitfilm.com^$document
 ||thetaskerapp.com^$document
 ||thetopics1010.com^$document
@@ -7983,6 +8042,7 @@ fp.no-sheep.org/services##.main
 ||toplog.jp^$document
 ||topnews00.com^$document
 ||topspeed.life^$document
+||topteam-world.com^$document
 ||toranoko.com^$document
 ||torasan1.com^$document
 ||torecharu.blog^$document
@@ -9614,6 +9674,7 @@ fp.no-sheep.org/services##.main
 ||www.macaluminio.com^$document
 ||www.macross-city.ru^$document
 ||www.macrotkani.ru^$document
+||www.macsome.com^$document
 ||www.maemuki-malco.com^$document
 ||www.maf.gov.tl^$document
 ||www.mag2.com^$document
@@ -9812,6 +9873,7 @@ fp.no-sheep.org/services##.main
 ||www.onamae-desktop.com^$document
 ||www.onamae-server.com^$document
 ||www.oncologysquadllc.com^$document
+||www.ondesoft.jp^$document
 ||www.onebreath.fr^$document
 ||www.onedrop-cafe.com^$document
 ||www.onetrickpony.jp^$document
@@ -10017,6 +10079,7 @@ fp.no-sheep.org/services##.main
 ||www.sakuraso.co.jp^$document
 ||www.salesforintroverts.com^$document
 ||www.samacharvichar.in^$document
+||www.sammyexpresslive.com/item^$document
 ||www.sanbio.online^$document
 ||www.sandvik.coromant.cn^$document
 ||www.sanko-metal.cn^$document
@@ -10123,6 +10186,8 @@ fp.no-sheep.org/services##.main
 ||www.sports.ru^$document
 ||www.sports2films.com^$document
 ||www.spotifyinfo.app^$document
+||www.spotiguru.app^$document
+||www.spotiwaves.com^$document
 ||www.springsummerautumn.com^$document
 ||www.squareclip.jp^$document
 ||www.srcboat.fi^$document
