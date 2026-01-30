@@ -10108,7 +10108,6 @@
 *://tvccochan.com/*
 *://tver.app/*
 *://tvreview.tokyo/*
-*://tw.daigobang.com/*
 *://tweetsoku.news/*
 *://twemix.xyz/*
 *://twhite.me/*
