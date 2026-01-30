@@ -10106,7 +10106,6 @@
 *://tv.360.cn/*
 *://tvbundleshubonline.com/*
 *://tvccochan.com/*
-*://tver.app/*
 *://tvreview.tokyo/*
 *://tweetsoku.news/*
 *://twemix.xyz/*
