@@ -6210,7 +6210,6 @@ fp.no-sheep.org/services##.main
 ||pcgamestorrents.org^$document
 ||pcmac.download^$document
 ||pcshopwell.com^$document
-||pdalife.com^$document
 ||pdelect.com^$document
 ||pdilms.com^$document
 ||pdspm.in^$document
