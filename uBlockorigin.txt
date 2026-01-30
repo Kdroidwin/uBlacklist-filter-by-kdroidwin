@@ -8163,9 +8163,7 @@ fp.no-sheep.org/services##.main
 ||tv.360.cn^$document
 ||tvbundleshubonline.com^$document
 ||tvccochan.com^$document
-||tver.app^$document
 ||tvreview.tokyo^$document
-||tw.daigobang.com^$document
 ||tweetsoku.news^$document
 ||twemix.xyz^$document
 ||twhite.me^$document
