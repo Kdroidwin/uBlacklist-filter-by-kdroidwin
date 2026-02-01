@@ -5,6 +5,10 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
+*://www.jvesign.com/shop/*
+*://vcarda.eu/?b=e*
+*://*.com/products.php?r=*
+*://*.in/index.php?shop/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
