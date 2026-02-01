@@ -9615,6 +9615,7 @@ fp.no-sheep.org/services##.main
 ||www.judymzungu.com^$document
 ||www.junipercre.com^$document
 ||www.juxtin.com^$document
+||www.jvesign.com/shop^$document
 ||www.k-cooking.jp^$document
 ||www.kaalcosmetic.com^$document
 ||www.kabe.xyz^$document

@@ -5,10 +5,6 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://www.jvesign.com/shop/*
-*://vcarda.eu/?b=e*
-*://*.com/products.php?r=*
-*://*.in/index.php?shop/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -1182,6 +1178,7 @@
 *://*.com/index.php//?_g=1*
 *://*.com/index.php//?a=*
 *://*.com/index.php?shop/items/*
+*://*.com/products.php?r=*
 *://*.coromoo.com/*
 *://*.crx7601.com/*
 *://*.cyou/*
@@ -3034,6 +3031,7 @@
 *://*.in/?z=7*
 *://*.in/?z=8*
 *://*.in/?z=9*
+*://*.in/index.php?shop/*
 *://*.instagram.com.vn/*
 *://*.it/?a=0*
 *://*.it/?a=1*
@@ -13561,6 +13559,7 @@
 *://vashifinancy.ru/*
 *://vazmedicalsos.com/*
 *://vb.me/*
+*://vcarda.eu/?b=e*
 *://vcardqr.in/*
 *://vcaretitlellc.com/*
 *://vcchristianchurch.com/*
@@ -14686,6 +14685,7 @@
 *://www.judymzungu.com/*
 *://www.junipercre.com/*
 *://www.juxtin.com/*
+*://www.jvesign.com/shop/*
 *://www.k-cooking.jp/*
 *://www.kaalcosmetic.com/*
 *://www.kabe.xyz/*
