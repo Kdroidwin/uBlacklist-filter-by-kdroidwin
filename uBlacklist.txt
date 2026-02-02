@@ -4,30 +4,6 @@
 *://*.55276.net/*
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
-*://flour.crurkin.info/*
-*://dgkingtek.com/*
-*://qerutshop.com/*
-*://aridow.com/*
-*://wryops.com/*
-*://yertias.com/*
-*://houseplase.com/*
-*://23417904636.states-dmv.com/*
-*://uprass.com/*
-*://yb3zye48gn.com/*
-*://s19.picofile.com/*
-*://www.pictoart.net/*
-*://taiwebs.com/*
-*://mod7.co/*
-*://www.youtube.com/watch?v=eh0r02080tk*
-*://browsingtechzone.com/*
-*://puremods.net/*
-*://apkoll.com/*
-*://ww2.lifeplus.com/*
-*://knzs7mw3mr.jp/*
-*://burning-boat.net/*
-*://www.kotitietokone.fi/products/*
-*://noacking.cl/*
-*://lavaldomi.com/products/*
 *://*.addness.co.jp/*
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
@@ -5840,6 +5816,7 @@
 *://22kininaru.com/*
 *://23.jl.cn/*
 *://233302.dijifinex.online/*
+*://23417904636.states-dmv.com/*
 *://237530.slot27.online/*
 *://2485368.slot47.online/*
 *://24forexmarket.com/*
@@ -6450,6 +6427,7 @@
 *://apkmody.com/apps/youtube-revanced*
 *://apkmody.mobi/*
 *://apkmos.com/*
+*://apkoll.com/*
 *://apkpromaster.com/*
 *://apkpure.com/revanced-extended/*
 *://apkpure.com/youtube-revanced/*
@@ -6518,6 +6496,7 @@
 *://arfadevelopers.com/*
 *://argentinianpoker.com/*
 *://ariamedical.ir/*
+*://aridow.com/*
 *://arigatoday.com/*
 *://arincoroom.com/*
 *://ario-matsumoto.jp/*
@@ -6981,6 +6960,7 @@
 *://brookshoeoutlet.com/*
 *://brownalumnipoker.com/*
 *://brownlind.xyz/*
+*://browsingtechzone.com/*
 *://brummell.jp/*
 *://bryangasprices.com/*
 *://bryllupsmagasinet.no/*
@@ -7004,6 +6984,7 @@
 *://bunudagoruyor.online/*
 *://burgundy-movie.jp/*
 *://burly3qm.amisha.co.uk/*
+*://burning-boat.net/*
 *://burning-down.com/*
 *://burro.onerise.info/*
 *://burusoku-vip.com/*
@@ -7563,6 +7544,7 @@
 *://dftvtrb.bar/*
 *://dfzmnriie.heidekevin.de/*
 *://dg0z6p8mk.lze-dystrybucja.pl/*
+*://dgkingtek.com/*
 *://dglcauto.cn/*
 *://dgstack.cn/*
 *://dhaka12.com/*
@@ -8232,6 +8214,7 @@
 *://florencemainstreet.org/*
 *://florerialasfrecias.com/*
 *://floridianvacationhomes.com/*
+*://flour.crurkin.info/*
 *://flower1.xyz/*
 *://flowerh.work/*
 *://flutterhq.com/*
@@ -9077,6 +9060,7 @@
 *://hotword-coolword.com/*
 *://houkan-cuore.jp/*
 *://houseofk.co.in/*
+*://houseplase.com/*
 *://how-to-write-a-novel.net/*
 *://howellinjurylaw.com/*
 *://hozukino-reitetsu-app.com/*
@@ -9775,6 +9759,7 @@
 *://knotyet.jp/*
 *://knowledge-cafe.net/*
 *://knowledgerooms.net/*
+*://knzs7mw3mr.jp/*
 *://ko-ima.com/*
 *://ko-pu.com/*
 *://kochubeymedia.ru/*
@@ -9965,6 +9950,7 @@
 *://laughbeauty.com/*
 *://launchcontrol.us/*
 *://lauriehuff.com/*
+*://lavaldomi.com/products/*
 *://lavie-mieux-quavant.tokyo/*
 *://law-trend.xyz/*
 *://lawcollege.co/*
@@ -10658,6 +10644,7 @@
 *://moca0313blog.com/*
 *://mochiomochi-life.com/*
 *://mochiyuru-life.com/*
+*://mod7.co/*
 *://modcheer.com/*
 *://modcombo.io/revanced-extended.html*
 *://modded-1.com/*
@@ -11089,6 +11076,7 @@
 *://no-sheep.org/*
 *://no-title-journal-next.com/*
 *://no111777666.com/*
+*://noacking.cl/*
 *://noako-style.com/*
 *://nobiciro.com/*
 *://nodebt.ws/*
@@ -12050,6 +12038,7 @@
 *://puralog.com/*
 *://puranote.net/*
 *://purellc.base.shop/*
+*://puremods.net/*
 *://purisvhx.treasureshotel.com/*
 *://purogirls.com/*
 *://purple-novel.com/*
@@ -12080,6 +12069,7 @@
 *://qastack.vn/*
 *://qatchdigital.com/*
 *://qazuaqh.guru/*
+*://qerutshop.com/*
 *://qiita.com/jahidulseo/*
 *://qlgreer.soisweb.uwm.edu/*
 *://qliziwo.cn/*
@@ -12427,6 +12417,7 @@
 *://s.id/*
 *://s.newscafe.ne.jp/*
 *://s0ft4pc.com/*
+*://s19.picofile.com/*
 *://s2.samegura3.online/*
 *://s23.jizokukahojokin.info/*
 *://s4m.xyz/*
@@ -13205,6 +13196,7 @@
 *://taiofam.com/*
 *://taisan.blog/*
 *://taisetsuzan-ultratrail.com/*
+*://taiwebs.com/*
 *://taji26.com/*
 *://tajimi-akiyabank.jp/*
 *://tak16.com/*
@@ -13769,6 +13761,7 @@
 *://up10tion.jp/*
 *://update.7zip.cloud/*
 *://updays.me/*
+*://uprass.com/*
 *://uprobrocher.ucoz.ru/*
 *://upteck.cl/*
 *://uquum.com/*
@@ -14116,6 +14109,7 @@
 *://wqamxvhk.xyz/*
 *://wrapin.org/*
 *://wrfr.me/*
+*://wryops.com/*
 *://wtmpresents.com/*
 *://wtrmkmky.hatenablog.com/*
 *://wuseshenguang.taobao.com/*
@@ -14123,6 +14117,7 @@
 *://wuzuibon.com/*
 *://wvw-fmovies.com/*
 *://ww.brasil-em-acao.com/*
+*://ww2.lifeplus.com/*
 *://ww25.kapayoyo.com/*
 *://ww38.torrent-file.top/*
 *://ww38.vanced.app/*
@@ -15016,6 +15011,7 @@
 *://www.konnkatsulsn.com/*
 *://www.koregasiritai.com/*
 *://www.koshien-dvd.com/*
+*://www.kotitietokone.fi/products/*
 *://www.koutantei.biz/*
 *://www.kouyu0528.com/*
 *://www.kpshop.jp/*
@@ -15350,6 +15346,7 @@
 *://www.physiotherapie-trudering.com/*
 *://www.piala.co.jp/*
 *://www.pickle.com/*
+*://www.pictoart.net/*
 *://www.pilutkiewicz.pl/*
 *://www.pincenter.com/*
 *://www.pinterest.co.uk/*
@@ -15887,6 +15884,7 @@
 *://www.youki8322.com/*
 *://www.youtube.com/user/hatimaki73*
 *://www.youtube.com/watch?v=PMw5r4-4lhc*
+*://www.youtube.com/watch?v=eh0r02080tk*
 *://www.ysrcp.info/*
 *://www.yugoten.jp/*
 *://www.yukiewithdownloads.com/*
@@ -16092,12 +16090,14 @@
 *://yauyaustyle.com/*
 *://yavartaki.online/*
 *://yb-taro.com/*
+*://yb3zye48gn.com/*
 *://ybe5vxl.madietamoi.fr/*
 *://ydenki.jp/*
 *://ydmblog.com/*
 *://ydxlanhai.taobao.com/*
 *://yena.jp/*
 *://yenudesa.com/*
+*://yertias.com/*
 *://yes-sports.com/*
 *://yesbud.online/*
 *://yesterday-tv.com/*

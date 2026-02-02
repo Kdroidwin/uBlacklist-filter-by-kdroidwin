@@ -117,6 +117,7 @@ fp.no-sheep.org/services##.main
 ||22kininaru.com^$document
 ||23.jl.cn^$document
 ||233302.dijifinex.online^$document
+||23417904636.states-dmv.com^$document
 ||237530.slot27.online^$document
 ||2485368.slot47.online^$document
 ||24forexmarket.com^$document
@@ -745,6 +746,7 @@ fp.no-sheep.org/services##.main
 ||apkmody.com^$document
 ||apkmody.mobi^$document
 ||apkmos.com^$document
+||apkoll.com^$document
 ||apkpromaster.com^$document
 ||apkpure.com/revanced-extended^$document
 ||apkpure.com/youtube-revanced^$document
@@ -812,6 +814,7 @@ fp.no-sheep.org/services##.main
 ||arfadevelopers.com^$document
 ||argentinianpoker.com^$document
 ||ariamedical.ir^$document
+||aridow.com^$document
 ||arigatoday.com^$document
 ||arincoroom.com^$document
 ||ario-matsumoto.jp^$document
@@ -1289,6 +1292,7 @@ fp.no-sheep.org/services##.main
 ||brow2ing.com^$document
 ||brownalumnipoker.com^$document
 ||brownlind.xyz^$document
+||browsingtechzone.com^$document
 ||brummell.jp^$document
 ||bryangasprices.com^$document
 ||bryllupsmagasinet.no^$document
@@ -1312,6 +1316,7 @@ fp.no-sheep.org/services##.main
 ||bunudagoruyor.online^$document
 ||burgundy-movie.jp^$document
 ||burly3qm.amisha.co.uk^$document
+||burning-boat.net^$document
 ||burning-down.com^$document
 ||burro.onerise.info^$document
 ||burusoku-vip.com^$document
@@ -1886,6 +1891,7 @@ fp.no-sheep.org/services##.main
 ||dftvtrb.bar^$document
 ||dfzmnriie.heidekevin.de^$document
 ||dg0z6p8mk.lze-dystrybucja.pl^$document
+||dgkingtek.com^$document
 ||dglcauto.cn^$document
 ||dgstack.cn^$document
 ||dhaka12.com^$document
@@ -2564,6 +2570,7 @@ fp.no-sheep.org/services##.main
 ||florencemainstreet.org^$document
 ||florerialasfrecias.com^$document
 ||floridianvacationhomes.com^$document
+||flour.crurkin.info^$document
 ||flower1.xyz^$document
 ||flowerh.work^$document
 ||flutterhq.com^$document
@@ -3435,6 +3442,7 @@ fp.no-sheep.org/services##.main
 ||hotword-coolword.com^$document
 ||houkan-cuore.jp^$document
 ||houseofk.co.in^$document
+||houseplase.com^$document
 ||how-to-write-a-novel.net^$document
 ||howellinjurylaw.com^$document
 ||hozukino-reitetsu-app.com^$document
@@ -4150,6 +4158,7 @@ fp.no-sheep.org/services##.main
 ||knotyet.jp^$document
 ||knowledge-cafe.net^$document
 ||knowledgerooms.net^$document
+||knzs7mw3mr.jp^$document
 ||ko-ima.com^$document
 ||ko-pu.com^$document
 ||kochubeymedia.ru^$document
@@ -4347,6 +4356,7 @@ fp.no-sheep.org/services##.main
 ||laughbeauty.com^$document
 ||launchcontrol.us^$document
 ||lauriehuff.com^$document
+||lavaldomi.com/products^$document
 ||lavie-mieux-quavant.tokyo^$document
 ||law-trend.xyz^$document
 ||lawcollege.co^$document
@@ -5060,6 +5070,7 @@ fp.no-sheep.org/services##.main
 ||moca0313blog.com^$document
 ||mochiomochi-life.com^$document
 ||mochiyuru-life.com^$document
+||mod7.co^$document
 ||modcheer.com^$document
 ||modcombo.io/revanced-extended.html^$document
 ||modded-1.com^$document
@@ -5513,6 +5524,7 @@ fp.no-sheep.org/services##.main
 ||no-sheep.org^$document
 ||no-title-journal-next.com^$document
 ||no111777666.com^$document
+||noacking.cl^$document
 ||noako-style.com^$document
 ||nobiciro.com^$document
 ||nodebt.ws^$document
@@ -6513,6 +6525,7 @@ fp.no-sheep.org/services##.main
 ||puralog.com^$document
 ||puranote.net^$document
 ||purellc.base.shop^$document
+||puremods.net^$document
 ||purisoku.com^$document
 ||purisvhx.treasureshotel.com^$document
 ||purogirls.com^$document
@@ -6558,6 +6571,7 @@ fp.no-sheep.org/services##.main
 ||qathai.com^$document
 ||qazuaqh.guru^$document
 ||qedev.com^$document
+||qerutshop.com^$document
 ||qiita.com/jahidulseo^$document
 ||qlgreer.soisweb.uwm.edu^$document
 ||qliziwo.cn^$document
@@ -6932,6 +6946,7 @@ fp.no-sheep.org/services##.main
 ||s.id^$document
 ||s.newscafe.ne.jp^$document
 ||s0ft4pc.com^$document
+||s19.picofile.com^$document
 ||s2.samegura3.online^$document
 ||s23.jizokukahojokin.info^$document
 ||s3-us-west-1.amazonaws.com^$document
@@ -7767,6 +7782,7 @@ fp.no-sheep.org/services##.main
 ||taiofam.com^$document
 ||taisan.blog^$document
 ||taisetsuzan-ultratrail.com^$document
+||taiwebs.com^$document
 ||taji26.com^$document
 ||tajimi-akiyabank.jp^$document
 ||tak16.com^$document
@@ -8368,6 +8384,7 @@ fp.no-sheep.org/services##.main
 ||update.7zip.cloud^$document
 ||updatestar.com^$document
 ||updays.me^$document
+||uprass.com^$document
 ||uprobrocher.ucoz.ru^$document
 ||uprrp.edu^$document
 ||upteck.cl^$document
@@ -8754,6 +8771,7 @@ fp.no-sheep.org/services##.main
 ||wqamxvhk.xyz^$document
 ||wrapin.org^$document
 ||wrfr.me^$document
+||wryops.com^$document
 ||wtmpresents.com^$document
 ||wtrmkmky.hatenablog.com^$document
 ||wujigu.com^$document
@@ -8762,6 +8780,7 @@ fp.no-sheep.org/services##.main
 ||wuzuibon.com^$document
 ||wvw-fmovies.com^$document
 ||ww.brasil-em-acao.com^$document
+||ww2.lifeplus.com^$document
 ||ww25.kapayoyo.com^$document
 ||ww38.torrent-file.top^$document
 ||ww38.vanced.app^$document
@@ -9662,6 +9681,7 @@ fp.no-sheep.org/services##.main
 ||www.konnkatsulsn.com^$document
 ||www.koregasiritai.com^$document
 ||www.koshien-dvd.com^$document
+||www.kotitietokone.fi/products^$document
 ||www.koutantei.biz^$document
 ||www.kouyu0528.com^$document
 ||www.kpshop.jp^$document
@@ -9994,6 +10014,7 @@ fp.no-sheep.org/services##.main
 ||www.physiotherapie-trudering.com^$document
 ||www.piala.co.jp^$document
 ||www.pickle.com^$document
+||www.pictoart.net^$document
 ||www.pilutkiewicz.pl^$document
 ||www.pincenter.com^$document
 ||www.pinterest.co.uk^$document
@@ -10755,12 +10776,14 @@ fp.no-sheep.org/services##.main
 ||yauyaustyle.com^$document
 ||yavartaki.online^$document
 ||yb-taro.com^$document
+||yb3zye48gn.com^$document
 ||ybe5vxl.madietamoi.fr^$document
 ||ydenki.jp^$document
 ||ydmblog.com^$document
 ||ydxlanhai.taobao.com^$document
 ||yena.jp^$document
 ||yenudesa.com^$document
+||yertias.com^$document
 ||yes-sports.com^$document
 ||yesbud.online^$document
 ||yesterday-tv.com^$document
