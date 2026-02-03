@@ -734,12 +734,15 @@ fp.no-sheep.org/services##.main
 ||apkgstore.com^$document
 ||apkhex.com^$document
 ||apkhome.net^$document
+||apkitech.com^$document
 ||apkkit.com^$document
 ||apklite.me/youtube-revanced-apk^$document
 ||apklite.me^$document
 ||apkloo.io^$document
 ||apkmb.com^$document
 ||apkmod.com.co^$document
+||apkmodel.com^$document
+||apkmoders.com^$document
 ||apkmodget.com^$document
 ||apkmodhere.com^$document
 ||apkmody.com/apps/youtube-revanced^$document
@@ -1204,6 +1207,7 @@ fp.no-sheep.org/services##.main
 ||bluethree-gift.hatenablog.com^$document
 ||bluevelvet009.livedoor.blog^$document
 ||blugre.amebaownd.com^$document
+||blvxder.com^$document
 ||bm-shopcafe.jp^$document
 ||boardingstablesforsale.com^$document
 ||boatrace-kuchikomi.com^$document
@@ -1434,6 +1438,7 @@ fp.no-sheep.org/services##.main
 ||cetco.marinafrozen.com^$document
 ||cezardouvretoi.fr^$document
 ||cf2.top^$document
+||cf962692.cloudfree.jp^$document
 ||cf^$doc,domain=~wacw.cf|~www.river.cf
 ||cfd^$document,from=~freedium-mirror.cfd|~ayurveda.cfd|~www.rebekka.cfd|~valuecrestoperators.cfd|~structurelineinsight.cfd|~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd|~freedium.cfd|~coremethodventures.cfd|~neworder.cfd|~turkhub.cfd|~31vakti65.cfd|~turkifsa41.cfd|~doeda54.cfd|~31vakti74.cfd|~turkifsa44.cfd|~hdabla45.cfd|~turkhub7.cfd|~55av.cfd|~a1.gscloud.cfd
 ||cfksaklwnx.xyz^$document
@@ -1552,6 +1557,7 @@ fp.no-sheep.org/services##.main
 ||ckcdnhm.cn^$document
 ||ckd-ckd.jp^$document
 ||ckfamily4649.com^$document
+||cl.link-ag.net^$document
 ||clarkmobilehomes.com^$document
 ||clashofkings.jp^$document
 ||classic-game.site^$document
@@ -2378,6 +2384,7 @@ fp.no-sheep.org/services##.main
 ||espacioapk.com^$document
 ||espana.edu.bo^$document
 ||esportsplayer-pc.com^$document
+||espotimod.pro^$document
 ||espritpress.com^$document
 ||essay-au.com^$document
 ||est-pro.co.jp^$document
@@ -3065,6 +3072,7 @@ fp.no-sheep.org/services##.main
 ||grangrace.jp^$document
 ||granraiz.com^$document
 ||grapee.jp^$document
+||graphenephone.store^$document
 ||grayelectricllc.com^$document
 ||greating-job.com^$document
 ||greeglanhind.xyz^$document
@@ -4284,6 +4292,7 @@ fp.no-sheep.org/services##.main
 ||kurashi-info.group^$document
 ||kurashi-no.jp^$document
 ||kurashiinfo1.com^$document
+||kurashilatte.hatenablog.jp^$document
 ||kurenaikenjiro.com^$document
 ||kurimegane.com^$document
 ||kurisurf.info^$document
@@ -4308,6 +4317,7 @@ fp.no-sheep.org/services##.main
 ||kyoutei-report.com^$document
 ||kyozon.net/list/vpn-recommended^$document
 ||kyun2-girls.com^$document
+||kyushuoen-yahoo.co^$document
 ||kz^$document,from=~gov.kz|~kaspi.kz
 ||kzen.dev^$document
 ||l-kyojin01.jp^$document
@@ -6573,6 +6583,7 @@ fp.no-sheep.org/services##.main
 ||qedev.com^$document
 ||qerutshop.com^$document
 ||qiita.com/jahidulseo^$document
+||qimwtgra.biz^$document
 ||qlgreer.soisweb.uwm.edu^$document
 ||qliziwo.cn^$document
 ||qltone.com^$document
@@ -7483,14 +7494,20 @@ fp.no-sheep.org/services##.main
 ||sports-suki.com^$document
 ||sports.yoshilover.com^$document
 ||sportsnews.jp^$document
+||spotfyapks.com^$document
 ||spotfymody.com^$document
+||spotfyx.com^$document
 ||spotiapkmod.com^$document
+||spotiapkpre.com^$document
 ||spotiepremium.com^$document
 ||spotifepriumium.com^$document
 ||spotiffyapks.com^$document
+||spotiffymodapk.com^$document
+||spotiffyx.com^$document
 ||spotifi.net^$document
 ||spotifiapk.com^$document
 ||spotifipremiumapks.com.br^$document
+||spotifiprimium.com^$document
 ||spotifmodapk.com^$document
 ||spotifull.com^$document
 ||spotify-mod-apk.en.filerox.com^$document
@@ -7500,9 +7517,15 @@ fp.no-sheep.org/services##.main
 ||spotifyapk.net^$document
 ||spotifygo.com^$document
 ||spotifymod.app^$document
+||spotifymodapk.org^$document
+||spotifymoddapk.com^$document
 ||spotifymode.com^$document
+||spotifypremium.net^$document
+||spotifypremiummodapk.com.co^$document
 ||spotifypro.com.co^$document
 ||spotigeek.com^$document
+||spotigurus.com^$document
+||spotiifyapk.com^$document
 ||spotimod.org^$document
 ||spotimodapk.org^$document
 ||spotimods.com^$document
@@ -7510,11 +7533,14 @@ fp.no-sheep.org/services##.main
 ||spotimody.co^$document
 ||spotimody.com^$document
 ||spotimody.net^$document
+||spotimodz.com^$document
 ||spotirevanced.com^$document
 ||spotiwap.com^$document
 ||spotlight-news.jp^$document
+||spotpremiumapp.com^$document
 ||spottifyapk.com^$document
 ||spotymod.org^$document
+||spotypre.com^$document
 ||spotypremeum.com^$document
 ||sprint1342.com^$document
 ||sprucebogstudio.com^$document
@@ -7985,6 +8011,7 @@ fp.no-sheep.org/services##.main
 ||thesimsgetalife.com^$document
 ||thesixhats.com^$document
 ||thespotfypremium.com^$document
+||thespotify.online^$document
 ||thespotifypremiumapks.com^$document
 ||thesummitfilm.com^$document
 ||thetaskerapp.com^$document
@@ -10584,6 +10611,7 @@ fp.no-sheep.org/services##.main
 ||www.zare-kiji-tukai.com^$document
 ||www.zcastnmg.cn^$document
 ||www.zebra.cn^$document
+||www.zedload.com^$document
 ||www.zero-full.com^$document
 ||www.zerogo.jp^$document
 ||www.zerohello.cn^$document
@@ -10730,7 +10758,9 @@ fp.no-sheep.org/services##.main
 ||xsokuhou.net^$document
 ||xsokuhou.net^$document
 ||xstack.us^$document
+||xtmk.net^$document
 ||xtrust.jp^$document
+||xxkaiwai.com^$document
 ||xxx.report^$document
 ||xxxyuxxxka.com^$document
 ||y3r710.r.eu-west-1.awstrack.me^$document
