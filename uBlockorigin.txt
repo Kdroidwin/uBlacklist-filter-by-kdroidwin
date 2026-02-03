@@ -3034,7 +3034,6 @@ fp.no-sheep.org/services##.main
 ||goodfeeilng102.com^$document
 ||goodpeople-movie2019.com^$document
 ||goodtime0909.com^$document
-||goog^$document,from=~partneradvantage.goog
 ||google-engineering-practices.translation.shuuji3.xyz^$document
 ||google.bearlele.top^$document
 ||google.me^$document
