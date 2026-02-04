@@ -4152,6 +4152,7 @@ fp.no-sheep.org/services##.main
 ||kkc-company.com^$document
 ||kkday.me^$document
 ||kknsp.satori.site^$document
+||kkontrol-59.ru/detail^$document
 ||kkwing.jp^$document
 ||klogex.com^$document
 ||km^$document
@@ -5129,6 +5130,7 @@ fp.no-sheep.org/services##.main
 ||mondra.jp^$document
 ||monesblog.com^$document
 ||money101.cn^$document
+||moneysey.com^$document
 ||moneytalk.tokyo^$document
 ||mongo.comcloud.xyz^$document
 ||monkey-english.com^$document
@@ -10219,6 +10221,7 @@ fp.no-sheep.org/services##.main
 ||www.sengawa-gekijo.jp^$document
 ||www.setesdal.info^$document
 ||www.sewellbedliningsinc.com^$document
+||www.sferadistribuzione.it/prize^$document
 ||www.sgb.net.cn^$document
 ||www.shakemablog.com^$document
 ||www.shiga-amuze.com^$document

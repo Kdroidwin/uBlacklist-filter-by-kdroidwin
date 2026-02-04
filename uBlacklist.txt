@@ -5,18 +5,6 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://moneysey.com/*
-title/【正規品】/
-*://*.org/?k.*
-*://*.ru/wp-crom.php?ctg/*
-*://*.com/index.php?products/*
-title/購入廉価/
-*://*.org/shop/*/*.shtml*
-*://*.by/?z=f*
-*://www.lensoffer.in/?m=f*
-*://kkontrol-59.ru/detail/*
-*://www.sferadistribuzione.it/prize/*
-title/【正規品、未開封品】/
 *://*.adobe.com.vn/*
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
@@ -832,6 +820,7 @@ title/【正規品、未開封品】/
 *://*.by/?z=7*
 *://*.by/?z=8*
 *://*.by/?z=9*
+*://*.by/?z=f*
 *://*.carnival00inkochi.jp/*
 *://*.cf/*
 *://*.cfd/*
@@ -1979,6 +1968,7 @@ title/【正規品、未開封品】/
 *://*.com/hiroshi.php?*
 *://*.com/index.php//?_g=1*
 *://*.com/index.php//?a=*
+*://*.com/index.php?products/*
 *://*.com/index.php?shop/items/*
 *://*.com/products.php?r=*
 *://*.coromoo.com/*
@@ -5611,6 +5601,7 @@ title/【正規品、未開封品】/
 *://*.org/?j=7*
 *://*.org/?j=8*
 *://*.org/?j=9*
+*://*.org/?k.*
 *://*.org/?k=0*
 *://*.org/?k=1*
 *://*.org/?k=2*
@@ -5772,6 +5763,7 @@ title/【正規品、未開封品】/
 *://*.org/?z=8*
 *://*.org/?z=9*
 *://*.org/hiroshi.php?*
+*://*.org/shop/*/*.shtml*
 *://*.oryouri.2chblog.jp/*
 *://*.overstack.in/*
 *://*.ozawaren.com/*
@@ -6389,6 +6381,7 @@ title/【正規品、未開封品】/
 *://*.ru/?z=7*
 *://*.ru/?z=8*
 *://*.ru/?z=9*
+*://*.ru/wp-crom.php?ctg/*
 *://*.runebook.dev/*
 *://*.rupython.com/*
 *://*.ryoban-disc.com/*
@@ -11608,6 +11601,7 @@ title/【正規品、未開封品】/
 *://kkc-company.com/*
 *://kkday.me/*
 *://kknsp.satori.site/*
+*://kkontrol-59.ru/detail/*
 *://kkwing.jp/*
 *://klogex.com/*
 *://kms-full.com/*
@@ -12555,6 +12549,7 @@ title/【正規品、未開封品】/
 *://mondra.jp/*
 *://monesblog.com/*
 *://money101.cn/*
+*://moneysey.com/*
 *://moneytalk.tokyo/*
 *://mongo.comcloud.xyz/*
 *://monkey-english.com/*
@@ -16921,6 +16916,7 @@ title/【正規品、未開封品】/
 *://www.leedsuniv.us/*
 *://www.legame-gr.jp/*
 *://www.lemon8-app.com/*
+*://www.lensoffer.in/?m=f*
 *://www.lepang.cn/*
 *://www.letao.com.tw/*
 *://www.letempsdunevasion.fr/*
@@ -17404,6 +17400,7 @@ title/【正規品、未開封品】/
 *://www.sengawa-gekijo.jp/*
 *://www.setesdal.info/*
 *://www.sewellbedliningsinc.com/*
+*://www.sferadistribuzione.it/prize/*
 *://www.sgb.net.cn/*
 *://www.shakemablog.com/*
 *://www.shiga-amuze.com/*
@@ -18299,6 +18296,8 @@ title/』が読める漫画アプリ/
 title/』が読める漫画アプリ7選！お得/
 title/』の漫画・アニメを無料で楽/
 title/【※※※】/
+title/【正規品、未開封品】/
+title/【正規品】/
 title/【税込?送料無料】/
 title/【顔画像】/
 title/その 声 は 全部 愛 の 唄 に 聞こえる/
@@ -18380,6 +18379,7 @@ title/調査してみた/
 title/調査！ /
 title/調査！/
 title/販売割引商品/
+title/購入廉価/
 title/転生も/
 title/過去の噂/
 title/顔バレ/
