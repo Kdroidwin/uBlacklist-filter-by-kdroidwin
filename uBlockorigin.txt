@@ -8597,7 +8597,6 @@ fp.no-sheep.org/services##.main
 ||vsoku.jp^$document
 ||vstats.jp^$document
 ||vstorrent.org^$document
-||vt.tiktok.com^$document
 ||vtuber-laboratory.com^$document
 ||vtuber-matome-media.com^$document
 ||vtuber-matomeblog.com^$document
