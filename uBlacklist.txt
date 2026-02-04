@@ -13968,7 +13968,6 @@
 *://vsm.cl/*
 *://vsoku.jp/*
 *://vstorrent.org/*
-*://vt.tiktok.com/*
 *://vtuber.tetramedia.co.jp/*
 *://vtuberinfo.net/*
 *://vtubermatome.com/*
