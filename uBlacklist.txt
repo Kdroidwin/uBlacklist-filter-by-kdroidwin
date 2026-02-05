@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -546,7 +545,6 @@
 *://*.arip-photo.org/*
 *://*.asterisk0.jp/*
 *://*.asusno22.blog.jp/*
-*://*.atlaq.com/*
 *://*.awaisora.com/*
 *://*.ayacnews2nd.com/*
 *://*.az/*.shtm
@@ -1605,8 +1603,6 @@
 *://*.clinic/?z=7*
 *://*.clinic/?z=8*
 *://*.clinic/?z=9*
-*://*.cloudflare.com.vn/*
-*://*.cm/*
 *://*.co.uk/?_g=0*
 *://*.co.uk/?_g=1*
 *://*.co.uk/?_g=2*
@@ -2728,7 +2724,7 @@
 *://*.com/comment.php?y*
 *://*.com/hiroshi.php?*
 *://*.com/index.php/*//?_g=*
-*://*.com/index.php//?_g=1*
+*://*.com/index.php//?_g=*
 *://*.com/index.php//?a=*
 *://*.com/index.php?products/*
 *://*.com/index.php?shop/items/*
@@ -3801,10 +3797,8 @@
 *://*.fr/?z=8*
 *://*.fr/?z=9*
 *://*.fyi/*
-*://*.ga/*
 *://*.gamemodfree.com/*
 *://*.gm/*
-*://*.goog/*
 *://*.gq/*
 *://*.group/?a=0*
 *://*.group/?a=1*
@@ -4591,7 +4585,6 @@
 *://*.id/?z=7*
 *://*.id/?z=8*
 *://*.id/?z=9*
-*://*.idol-jolt.com/*
 *://*.il/?a=0*
 *://*.il/?a=1*
 *://*.il/?a=2*
@@ -5386,8 +5379,6 @@
 *://*.it/?z=8*
 *://*.it/?z=9*
 *://*.it/shop/cart/cart.aspx?goods=*
-*://*.iteramos.com/*
-*://*.jike.in/*
 *://*.jonic.cn/*
 *://*.jp.af/*
 *://*.jp.al/*
@@ -5703,8 +5694,6 @@
 *://*.kokunanmonomousu.com/*
 *://*.kushi-mc.net/*
 *://*.kz/*
-*://*.ladytopi.jp/*
-*://*.lanscope.jp/*
 *://*.lat/*
 *://*.latestmodapks.com/*
 *://*.lifehack2ch.livedoor.biz/*
@@ -5962,7 +5951,6 @@
 *://*.lt/?z=9*
 *://*.lt/index.php?*
 *://*.mangasokuhou.com/*
-*://*.mediatagtw.com/*
 *://*.men/*
 *://*.mg/*
 *://*.microsoft.com.vn/*
@@ -5977,9 +5965,7 @@
 *://*.mx/*
 *://*.my/*
 *://*.myxstalk.lol/*
-*://*.namaejiten.com/*
 *://*.namaeuranai.biz/*
-*://*.narkive.jp/*
 *://*.net/?a=0*
 *://*.net/?a=1*
 *://*.net/?a=2*
@@ -7021,7 +7007,6 @@
 *://*.om/?z=9*
 *://*.onamae.com/*
 *://*.onecall2ch.com/*
-*://*.oniyomech.livedoor.biz/*
 *://*.oomonoyoutubersokuhou.blogo.jp/*
 *://*.org.tr/?k=7*
 *://*.org/?_g=5*
