@@ -10,7 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://*.reviversoft.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -7873,6 +7872,7 @@
 *://*.repoarchive.com/*
 *://*.repsoku.net/*
 *://*.reviews-convenient.net/*
+*://*.reviversoft.com/*
 *://*.riptutorial.com/*
 *://*.risposta.org/*
 *://*.ro/*
