@@ -415,7 +415,6 @@ fp.no-sheep.org/services##.main
 ||ai-skill.jp^$document
 ||ai-uruoi.com^$document
 ||aianimal.p2.weblife.me^$document
-||aiarty.com^$document
 ||aiboku-com.vercel.app^$document
 ||aibus.co.uk^$document
 ||aichansblog.com^$document
@@ -4339,7 +4338,6 @@ fp.no-sheep.org/services##.main
 ||lacosta-tokyo.com^$document
 ||ladylabo.tokyo^$document
 ||ladysonly.online^$document
-||ladytopi.jp^$document
 ||laevoyle.virtual-na.org^$document
 ||lagcapa.org^$document
 ||lagospostalcode.com^$document
@@ -5293,7 +5291,6 @@ fp.no-sheep.org/services##.main
 ||nakbrzpv.live^$document
 ||nako12.com^$document
 ||naltupo-movie.work^$document
-||namaejiten.com^$document
 ||namaeuranai.biz^$document
 ||namakemono-no-gogai.blog.ss-blog.jp^$document
 ||namakemonoyoshi.com^$document
@@ -6097,7 +6094,6 @@ fp.no-sheep.org/services##.main
 ||onimama.com^$document
 ||onitsukatigerdeal.com^$document
 ||onitsukatigersell.shop^$document
-||oniyomech.livedoor.biz^$document
 ||onlee.jp^$document
 ||onlinecampus.lk^$document
 ||onlineclass-gets.jp^$document
