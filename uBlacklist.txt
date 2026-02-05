@@ -9,40 +9,6 @@
 *://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
-*://alps-stech.jp/products/*
-*://timetf.com/*
-*://villaastori.com/detail/*
-*://*.com.au/products.php?*
-*://*.com.br/shop/*/*.html
-*://www.micasita.fr/*.htm
-*://*.com.br/shop/*.shtml
-*://*.com/saiga.php?shop/*
-*://presclinic.com/*
-*://*.ru/shop/*phtml
-*://wichtel-alm.de/item.php?shop/*
-*://alb-bm.com/products/*
-*://*.com/index.php/*//?_g=*
-*://*.ws/?a.*
-*://*.hu/*.phtml
-*://*.in/*.shtml
-*://*.by/shop/cart/cart.aspx?*
-*://*.it/shop/cart/cart.aspx?goods=*
-title/Aazon/
-*://*.lt/index.php?*
-title/【】/
-*://*.es/comment.php?n=*
-*://*.com/comment.php?y*
-*://ameblo.jp/kkawapy/entry-12938691207.html*
-*://*.com/shop/*/*.phtml
-*://*.com.au/content.php?q=*
-*://*.com/products.php?n=*
-*://*.fr/?m.*.html
-title/【HOT，新品】/
-title/【HOT】/
-*://*.az/*.shtm
-*://*.com/wp-*.php?product*
-*://*.no/*.shtm
-*://*.net/index.php?shopping/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
@@ -587,6 +553,7 @@ title/【HOT】/
 *://*.atlaq.com/*
 *://*.awaisora.com/*
 *://*.ayacnews2nd.com/*
+*://*.az/*.shtm
 *://*.bcqqvtlk.property/*
 *://*.bd/*
 *://*.best/*
@@ -855,6 +822,7 @@ title/【HOT】/
 *://*.by/?z=8*
 *://*.by/?z=9*
 *://*.by/?z=f*
+*://*.by/shop/cart/cart.aspx?*
 *://*.carnival00inkochi.jp/*
 *://*.cf/*
 *://*.cfd/*
@@ -1916,6 +1884,8 @@ title/【HOT】/
 *://*.co/?z=9*
 *://*.com.ar/*
 *://*.com.ar/?e=1*
+*://*.com.au/content.php?q=*
+*://*.com.au/products.php?*
 *://*.com.br/?_g=0*
 *://*.com.br/?_g=1*
 *://*.com.br/?_g=2*
@@ -2186,6 +2156,8 @@ title/【HOT】/
 *://*.com.br/?z=7*
 *://*.com.br/?z=8*
 *://*.com.br/?z=9*
+*://*.com.br/shop/*.shtml
+*://*.com.br/shop/*/*.html
 *://*.com.vn/?p=9*
 *://*.com/?_g=0
 *://*.com/?_g=0*
@@ -2757,12 +2729,18 @@ title/【HOT】/
 *://*.com/?z=9*
 *://*.com/?z=do*
 *://*.com/?z=e*
+*://*.com/comment.php?y*
 *://*.com/hiroshi.php?*
+*://*.com/index.php/*//?_g=*
 *://*.com/index.php//?_g=1*
 *://*.com/index.php//?a=*
 *://*.com/index.php?products/*
 *://*.com/index.php?shop/items/*
+*://*.com/products.php?n=*
 *://*.com/products.php?r=*
+*://*.com/saiga.php?shop/*
+*://*.com/shop/*/*.phtml
+*://*.com/wp-*.php?product*
 *://*.coromoo.com/*
 *://*.crx7601.com/*
 *://*.cyou/*
@@ -3560,6 +3538,7 @@ title/【HOT】/
 *://*.dk/?z=9*
 *://*.dovov.com/*
 *://*.enamae.net/*
+*://*.es/comment.php?n=*
 *://*.filkhabr.com/*
 *://*.firebaseapp.com/*
 *://*.fluffyfables.com/*
@@ -3684,6 +3663,7 @@ title/【HOT】/
 *://*.fr/?l=7*
 *://*.fr/?l=8*
 *://*.fr/?l=9*
+*://*.fr/?m.*.html
 *://*.fr/?m=0*
 *://*.fr/?m=1*
 *://*.fr/?m=2*
@@ -4351,6 +4331,7 @@ title/【HOT】/
 *://*.gt/?z=8*
 *://*.gt/?z=9*
 *://*.hair/*
+*://*.hu/*.phtml
 *://*.huat.jp/*
 *://*.icrt.cu/*
 *://*.icu/*
@@ -4875,6 +4856,7 @@ title/【HOT】/
 *://*.il/?z=7*
 *://*.il/?z=8*
 *://*.il/?z=9*
+*://*.in/*.shtml
 *://*.in/?_g=0*
 *://*.in/?_g=1*
 *://*.in/?_g=2*
@@ -5407,6 +5389,7 @@ title/【HOT】/
 *://*.it/?z=7*
 *://*.it/?z=8*
 *://*.it/?z=9*
+*://*.it/shop/cart/cart.aspx?goods=*
 *://*.iteramos.com/*
 *://*.jike.in/*
 *://*.jonic.cn/*
@@ -5981,6 +5964,7 @@ title/【HOT】/
 *://*.lt/?z=7*
 *://*.lt/?z=8*
 *://*.lt/?z=9*
+*://*.lt/index.php?*
 *://*.mangasokuhou.com/*
 *://*.mediatagtw.com/*
 *://*.men/*
@@ -6251,6 +6235,7 @@ title/【HOT】/
 *://*.net/?z=8*
 *://*.net/?z=9*
 *://*.net/index.php//?a=*
+*://*.net/index.php?shopping/*
 *://*.netflix.com.vn/*
 *://*.news/?a=0*
 *://*.news/?a=1*
@@ -6514,6 +6499,7 @@ title/【HOT】/
 *://*.news/?z=9*
 *://*.news30over.com/*
 *://*.news4wide.livedoor.biz/*
+*://*.no/*.shtm
 *://*.no/?a=0*
 *://*.no/?a=1*
 *://*.no/?a=2*
@@ -8174,6 +8160,7 @@ title/【HOT】/
 *://*.ru/?z=7*
 *://*.ru/?z=8*
 *://*.ru/?z=9*
+*://*.ru/shop/*phtml
 *://*.ru/wp-crom.php?ctg/*
 *://*.runebook.dev/*
 *://*.rupython.com/*
@@ -9882,6 +9869,7 @@ title/【HOT】/
 *://*.wl.co/*
 *://*.workers.dev/*
 *://*.world-fusigi.net/*
+*://*.ws/?a.*
 *://*.wujigu.com/*
 *://*.xbuba.com/*
 *://*.xmobile-allagi.jp/*
@@ -10338,6 +10326,7 @@ title/【HOT】/
 *://akuma-namarameshi.jp/*
 *://ala-table.jp/*
 *://alacibu.net/*
+*://alb-bm.com/products/*
 *://albblo.com/*
 *://alchembook.com/*
 *://ale-box.com/*
@@ -10371,6 +10360,7 @@ title/【HOT】/
 *://alnaimistudios.com/*
 *://alpinearagon.com/*
 *://alprazolamfaq.com/*
+*://alps-stech.jp/products/*
 *://alqaedtranslation.com/*
 *://alrescha.work/*
 *://alsocarrat.com/*
@@ -10416,6 +10406,7 @@ title/【HOT】/
 *://ameblo.jp/kashima1564*
 *://ameblo.jp/keepstreams/*
 *://ameblo.jp/kimetu-manga*
+*://ameblo.jp/kkawapy/entry-12938691207.html*
 *://ameblo.jp/komochi333/*
 *://ameblo.jp/kusowii*
 *://ameblo.jp/mangarawzip/*
@@ -16153,6 +16144,7 @@ title/【HOT】/
 *://prefixplacement.com/*
 *://premiersoinnordik.com/*
 *://premiosdosan.com/*
+*://presclinic.com/*
 *://presencia.nepm.org/*
 *://present-life.tokyo/*
 *://pressingleclair.fr/*
@@ -17613,6 +17605,7 @@ title/【HOT】/
 *://tiktokrevanced.com/*
 *://timbersinneugene.com/*
 *://timbuk2.jp/*
+*://timetf.com/*
 *://tims-fuku.work/*
 *://tingogtang.shop/*
 *://tips.jp/*
@@ -18063,6 +18056,7 @@ title/【HOT】/
 *://viet-bamboo.com/*
 *://vietscout.jp/*
 *://vile.eosose.ink/*
+*://villaastori.com/detail/*
 *://vin2chance.com/*
 *://vinyland45.com/*
 *://virginiacontractorspainters.com/*
@@ -18237,6 +18231,7 @@ title/【HOT】/
 *://whitbygrouppractice.nhs.uk/*
 *://whittoneveleigh.com.au/*
 *://whozyan.net/*
+*://wichtel-alm.de/item.php?shop/*
 *://wickatop.com/*
 *://wifi.inest-inc.co.jp/*
 *://wifi4games.net/*
@@ -19340,6 +19335,7 @@ title/【HOT】/
 *://www.mercure.jp/*
 *://www.mermaidsofearth.com/*
 *://www.micasaluxuries.com/*
+*://www.micasita.fr/*.htm
 *://www.michelesantarsiere.it/*
 *://www.micolla.co.jp/*
 *://www.microsoft.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
@@ -20591,6 +20587,7 @@ title/【HOT】/
 /.*(tomoyoafuta).*/
 title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
 title/(プロフ要確認)様/
+title/Aazon/
 title/HOT !/
 title/HOT!/
 title/OFFでまとめ買/
@@ -20608,7 +20605,10 @@ title/wiki風経歴/
 title/』が読める漫画アプリ/
 title/』が読める漫画アプリ7選！お得/
 title/』の漫画・アニメを無料で楽/
+title/【HOT】/
+title/【HOT，新品】/
 title/【※※※】/
+title/【】/
 title/【正規品、未開封品】/
 title/【正規品】/
 title/【税込?送料無料】/

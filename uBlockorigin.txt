@@ -491,6 +491,7 @@ fp.no-sheep.org/services##.main
 ||akuma-namarameshi.jp^$document
 ||ala-table.jp^$document
 ||alacibu.net^$document
+||alb-bm.com/products^$document
 ||albblo.com^$document
 ||alchembook.com^$document
 ||ale-box.com^$document
@@ -527,6 +528,7 @@ fp.no-sheep.org/services##.main
 ||alnaimistudios.com^$document
 ||alpinearagon.com^$document
 ||alprazolamfaq.com^$document
+||alps-stech.jp/products^$document
 ||alqaedtranslation.com^$document
 ||alrescha.work^$document
 ||alsocarrat.com^$document
@@ -6476,6 +6478,7 @@ fp.no-sheep.org/services##.main
 ||prefixplacement.com^$document
 ||premiersoinnordik.com^$document
 ||premiosdosan.com^$document
+||presclinic.com^$document
 ||presencia.nepm.org^$document
 ||present-life.tokyo^$document
 ||pressingleclair.fr^$document
@@ -8054,6 +8057,7 @@ fp.no-sheep.org/services##.main
 ||timbersinneugene.com^$document
 ||timbuk2.jp^$document
 ||timeglobal.cn^$document
+||timetf.com^$document
 ||tims-fuku.work^$document
 ||tingogtang.shop^$document
 ||tips.jp^$document
@@ -8531,6 +8535,7 @@ fp.no-sheep.org/services##.main
 ||viet-bamboo.com^$document
 ||vietscout.jp^$document
 ||vile.eosose.ink^$document
+||villaastori.com/detail^$document
 ||vin2chance.com^$document
 ||vinyland45.com^$document
 ||virginiacontractorspainters.com^$document
@@ -8734,6 +8739,7 @@ fp.no-sheep.org/services##.main
 ||whitbygrouppractice.nhs.uk^$document
 ||whittoneveleigh.com.au^$document
 ||whozyan.net^$document
+||wichtel-alm.de/item.php?shop^$document
 ||wickatop.com^$document
 ||wifi.inest-inc.co.jp^$document
 ||wifi4games.net^$document
