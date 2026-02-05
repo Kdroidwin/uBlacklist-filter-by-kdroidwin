@@ -4,15 +4,12 @@
 *://*.9ishenzhen.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://*.adobe.com.vn/*
-*://*.aiarty.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
-*://*.ali213.net/*
 *://*.all-nationz.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
