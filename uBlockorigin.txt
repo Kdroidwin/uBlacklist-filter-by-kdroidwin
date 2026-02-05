@@ -6933,7 +6933,6 @@ fp.no-sheep.org/services##.main
 ||rwqmw23.cn^$document
 ||rxxlvhj.cn^$document
 ||ryo-ishikawa.fun^$document
-||ryoban-disc.com^$document
 ||ryocuu.hatenablog.com^$document
 ||ryoko-rta.com^$document
 ||ryomemoblog.com^$document
@@ -7069,7 +7068,6 @@ fp.no-sheep.org/services##.main
 ||savethechildren.mx^$document
 ||sayaken.com^$document
 ||sayama-swimming-club.jp^$document
-||saydalia.net^$document
 ||sayyoufun.biz^$document
 ||sba.yandex.ru^$document
 ||sbapp.net^$document
@@ -7083,7 +7081,6 @@ fp.no-sheep.org/services##.main
 ||scarystories.jp^$document
 ||sch.id^$document
 ||schnaeppchenscout.com^$document
-||schoenheitsklinik-berlin.com^$document
 ||scholarship.slot42.online^$document
 ||school.dhw.co.jp^$document
 ||schoolball.yoshilover.com^$document
