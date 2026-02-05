@@ -6343,7 +6343,6 @@ fp.no-sheep.org/services##.main
 ||pimpandhochicago.com^$document
 ||pin.it^$document
 ||pingpongbytoulet.com^$document
-||pinimg.com^$document
 ||pink-burst.info^$document
 ||pinkbutterfliboutique.com^$document
 ||pinky-honey.com^$document
@@ -6632,7 +6631,6 @@ fp.no-sheep.org/services##.main
 ||ragsoutfitters.com^$document
 ||raifuappu.com^$document
 ||rail-inn.com^$document
-||railstoolkit.com^$document
 ||rainbowtransfer.com^$document
 ||rainmakerofnews.com^$document
 ||rainstalaciones.com.co^$document
@@ -6677,7 +6675,6 @@ fp.no-sheep.org/services##.main
 ||re-do.jp^$document
 ||re-tabushi.com^$document
 ||read-the-tale.com^$document
-||read01.com^$document
 ||readtoindia.com^$document
 ||real-estate-assist.japan-entertainment.mhx.jp^$document
 ||real-juku.jp^$document
