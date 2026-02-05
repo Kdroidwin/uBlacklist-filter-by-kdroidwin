@@ -8142,17 +8142,14 @@
 *://*.ru/wp-crom.php?ctg/*
 *://*.runebook.dev/*
 *://*.rupython.com/*
-*://*.ryoban-disc.com/*
 *://*.ryusoku.com/*
 *://*.s3-us-west-1.amazonaws.com/*
 *://*.sa.com/*
 *://*.sa/*
 *://*.saikyo-jump.com/*
 *://*.sanchezsalvador.com/*
-*://*.saydalia.net/*
 *://*.sbs/*
 *://*.sch.id/*
-*://*.schoenheitsklinik-berlin.com/*
 *://*.scienceplus2ch.com/*
 *://*.sd/*
 *://*.seika-riron.hatenablog.com/*
