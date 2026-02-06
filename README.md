@@ -16,7 +16,7 @@ uBlacklist,uBlock Origin用のフィルター　
 # uBlacklist用フィルター購読方法
 
  1. [uBlacklist](https://iorate.github.io/ublacklist/ja/docs)をインストールしてください。
- 2. chromeユーザーは下の購読を押してください。Firefox、SafariユーザーはURLをコピーボタンを押してコピーしてください。
+ 2. 下の購読を押してください。
 
 ※uBlock Origin用のフィルターはuBlacklistには使えません。
 
@@ -25,24 +25,7 @@ uBlacklist,uBlock Origin用のフィルター　
 - １つ目のは基本的なフィルターです。
 - 2つ目の購読の方は多少の誤ブロックが許せる方向けです。本来ブロックするべきではないサイトもブロックされる恐れがあります。実験的です。1つ目のフィルターに加えて使ってください。
 - 3つ目の除外用は購読必須です。1つめと2つめのフィルターの誤爆を減らすためのものです。
-- uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。
 
-
-下記はURL 
-- uBlacklistフィルター1 by Kdroidwin URL
-```
-https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt
-```
-
-- uBlacklistフィルター2 by Kdroidwin URL(実験的)
-```
-https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist2.txt
-```
-
-- uBlacklist exclusionフィルター(除外用) by Kdroidwin URL
-```
-https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt
-```
 
 
 <br>
@@ -65,6 +48,23 @@ Firefox及びそのフォークユーザー向け
 
 [除外用の購読](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist-Exclusion.txt)
 
+下記はURL 
+- uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。SafariユーザーはURLをコピーボタンを押してコピーしてください。
+<br>
+- uBlacklistフィルター1 by Kdroidwin URL
+```
+https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt
+```
+
+- uBlacklistフィルター2 by Kdroidwin URL(実験的)
+```
+https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist2.txt
+```
+
+- uBlacklist exclusionフィルター(除外用) by Kdroidwin URL
+```
+https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist-Exclusion.txt
+```
 
 <br>
 <br>
