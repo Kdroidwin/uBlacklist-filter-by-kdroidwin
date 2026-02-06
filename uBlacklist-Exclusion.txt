@@ -9,8 +9,6 @@
 @*://emulation.gametechwiki.com/*
 @*://minnadesonicmachisagashi.z11.web.core.windows.net/*
 @*://browserpicker.z13.web.core.windows.net/*
-@*://missav.ws/*
-@*://missav.ai/*
 @*://jjya.xyz/*
 @*://ghostpia.xyz/*
 @*://xiaoron.xyz/*
@@ -997,7 +995,6 @@
 @*://a1.gscloud.cfd/*
 @*://www.xn--kck9c8a7d.top/*
 @*://www.mxdj.top/*
-@*://kjshintani.com/*
 @*://ekubo.top/*
 @*://froghouse.top/*
 @*://fukunoya.top/*
