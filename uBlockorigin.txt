@@ -1186,7 +1186,6 @@ fp.no-sheep.org/services##.main
 ||blog.triedge-lab.com^$document
 ||blogjuicy.com^$document
 ||blogkanbee.info^$document
-||blogmura.com^$document
 ||blogrou.com^$document
 ||blogs.ergotron.com^$document
 ||blogs.esri-cis.ru^$document
