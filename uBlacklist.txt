@@ -8452,7 +8452,6 @@
 *://*.sunkist-cp2023.jp/*
 *://*.super-unix.com/*
 *://*.superduperartscamp.com/*
-*://*.suttonedfoundation.org/*
 *://*.sviluppo-web-qa.it/*
 *://*.switch-case.com/*
 *://*.switch-case.ru/*
@@ -8462,14 +8461,11 @@
 *://*.takenokosokuhou.com/*
 *://*.td/*
 *://*.tecahe.za.com/*
-*://*.tech-in-japan.github.io/*
 *://*.tech-ja.netlify.app/*
 *://*.techacademy.jp/*
 *://*.techbigs.com/*
 *://*.techfeed.net/*
 *://*.techylist.com/*
-*://*.tenorshare.jp/*
-*://*.tetramedia.co.jp/*
 *://*.thercb.org/*
 *://*.thinbug.com/*
 *://*.ti-enxame.com/*
@@ -8484,7 +8480,6 @@
 *://*.tj/*
 *://*.tlcpv.org/*
 *://*.today/*
-*://*.tohyotalk.com/*
 *://*.tomeon.net/*
 *://*.top/*
 *://*.tousu.in/*
@@ -8749,7 +8744,6 @@
 *://*.tr/?z=8*
 *://*.tr/?z=9*
 *://*.try2explore.com/*
-*://*.tuber-review.com/*
 *://*.tutorialguruji.com/*
 *://*.tutorialmore.com/*
 *://*.tw/?a=0*
@@ -9013,7 +9007,6 @@
 *://*.tw/?z=8*
 *://*.tw/?z=9*
 *://*.twitter.com.vn/*
-*://*.twstalker.com/*
 *://*.u1sokuhou.ldblog.jp/*
 *://*.ua/?a=0*
 *://*.ua/?a=1*
@@ -9540,13 +9533,10 @@
 *://*.uk/?z=7*
 *://*.uk/?z=8*
 *://*.uk/?z=9*
-*://*.ulab.unipo.sk/*
 *://*.updatestar.com/*
-*://*.uprrp.edu/*
 *://*.usersuper.ru/*
 *://*.utyatnishna.ru/*
 *://*.uwenku.com/*
-*://*.vfwpost8762.org/*
 *://*.vigge.cn/*
 *://*.vigge.net/*
 *://*.vigges.net/*
@@ -9820,7 +9810,6 @@
 *://*.vtuber-story.jp/*
 *://*.vtuber-youtube.hatenablog.com/*
 *://*.vtubernews.jp/*
-*://*.vtuberranking.com/*
 *://*.vtubervideo.blog.jp/*
 *://*.vtuberzense.com/*
 *://*.wake-up-neo.com/*
@@ -9835,7 +9824,6 @@
 *://*.web.core.windows.net/*
 *://*.webdevqa.jp.net/*
 *://*.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
-*://*.weeblysite.com/*
 *://*.wenyanet.com/*
 *://*.whatsapp.com.vn/*
 *://*.whereismyanswer.com/*
@@ -9844,8 +9832,6 @@
 *://*.win/*
 *://*.windowsbulletin.com/*
 *://*.wl.co/*
-*://*.workers.dev/*
-*://*.world-fusigi.net/*
 *://*.ws/?a.*
 *://*.wujigu.com/*
 *://*.xbuba.com/*
@@ -9864,9 +9850,7 @@
 *://*.zaizhele.net/*
 *://*.zhblog.net/*
 *://*.zhouni.net/*
-*://*.zinroonline.wiki.fc2.com/*
 *://*.zip/*
-*://*.zweryfikowac.pl/*
 *://*/*index.php?main_page=product_info&products_id=*
 *://0-scholar-google-com.brum.beds.ac.uk/*
 *://009933.xyz/*
