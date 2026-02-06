@@ -51,6 +51,7 @@ Firefox及びそのフォークユーザー向け
 下記はURL 
 - uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。SafariユーザーはURLをコピーボタンを押してコピーしてください。
 <br>
+
 - uBlacklistフィルター1 by Kdroidwin URL
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/main/uBlacklist.txt
