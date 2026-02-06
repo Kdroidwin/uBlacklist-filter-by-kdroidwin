@@ -48,8 +48,8 @@ Firefox及びそのフォークユーザー向け
 
 [除外用の購読](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FKdroidwin%2FuBlacklist-filter-by-kdroidwin%2Fmain%2FuBlacklist-Exclusion.txt)
 
-下記はURL 
-- uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。SafariユーザーはURLをコピーボタンを押してコピーしてください。
+下記は上の購読リンクで購読できなかった人向けのURLです。
+uBlacklistのオプション＞購読＞購読を追加する からコピーボタンを押してコピーしたURLと適当な名前を入力してください。SafariユーザーはURLをコピーボタンを押してコピーしてください。
 <br>
 
 - uBlacklistフィルター1 by Kdroidwin URL
