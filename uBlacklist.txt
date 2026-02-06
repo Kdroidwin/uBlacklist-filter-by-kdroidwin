@@ -17563,7 +17563,6 @@
 *://ti-blg-02.com/*
 *://tiara-inc.jp/*
 *://tibettibet.com/*
-*://ticketjam.jp/*
 *://tiebukurojinsei.com/*
 *://tienda-smattcom.com/*
 *://tiendinhnamviet.com/*
@@ -18810,7 +18809,6 @@
 *://www.fa-fa.co.uk/*
 *://www.fadein.cn/*
 *://www.fallintv.com/*
-*://www.fami-geki.com/*
 *://www.familypark.jp/*
 *://www.farmamedica.mx/*
 *://www.farsisaz.com/*
