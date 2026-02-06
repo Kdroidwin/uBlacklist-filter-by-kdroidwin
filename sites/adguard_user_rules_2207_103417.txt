@@ -1,0 +1,73 @@
+! Title: Kdroidwin Tracking Protection
+! Homepage: https://github.com/Kdroidwin/Kdroidwin-Tracking-Protection
+
+!作者　Kdroidwin
+!Twitter @Kdroidwin1
+!Web https://kdroidwin.hatenablog.com
+
+
+!LINE
+||firebase-settings.crashlytics.com^$app=jp.naver.line.android
+||graph.facebook.com^$app=jp.naver.line.android
+||yuki-cdn.line-apps.com^$app=jp.naver.line.android
+||linecrs.line-scdn.net^$app=jp.naver.line.android
+||2600:9000:26aa:9a00:7:2398:3e00:21^$app=jp.naver.line.android
+||legy-jp.line-apps.com^$app=jp.naver.line.android
+||uts-front.line-apps.com^$app=jp.naver.line.android
+||firebaselogging-pa.googleapis.com^$app=jp.naver.line.android
+||cix.line-apps.com^$app=jp.naver.line.android
+||firebaseremoteconfig.googleapis.com^$app=jp.naver.line.android
+||jp-col-tcp.nelo.linecorp.com^$app=jp.naver.line.android
+||18.65.100.94^$app=jp.naver.line.android
+||maps.googleapis.com^$app=jp.naver.line.android
+||ad.line-scdn.net^$app=jp.naver.line.android
+||3.163.200.41^$app=jp.naver.line.android
+
+!Chmate
+||crashlyticsreports-pa.googleapis.com^$app=jp.co.airfront.android.a2chMate
+
+!Lemon8
+||graph.facebook.com^$app=com.bd.nproject
+||mssdk-va.byteoversea.com^$app=com.bd.nproject
+||34.102.147.19:443^
+||34.110.200.237:443^
+||frontier-va.byteoversea.com^$important,app=com.bd.nproject
+||p16-sign-va.lemon8cdn.com^$app=com.bd.nproject
+||lf16-sourcecdn-tos.ibytedtos.com^$app=com.bd.nproject
+||mon-va.byteoversea.com^$app=com.bd.nproject
+||dns.google.com^$app=com.bd.nproject
+||jsb-sg.byteoversea.com^
+||rtlog.isnssdk.com^
+||lf16-effectcdn.byteeffecttos-g.com^$app=com.bd.nproject
+||gecko-va.byteoversea.com^$app=com.bd.nproject
+||gecko-va.byteoversea.com^
+||lf16-effectcdn.byteeffecttos-g.com^
+||log22-normal-useast1a.lemon8-app.com^
+||api22-normal.lemon8-app.com^
+||api16-normal.lemon8-app.com^
+
+!ChatGPT
+||o33249.ingest.sentry.io^$app=com.openai.chatgpt
+||chatgpt-async-webps-prod-centralus-0.webpubsub.azure.com^$app=com.openai.chatgpt
+||chatgpt-async-webps-prod-westus-0.webpubsub.azure.com^$app=com.openai.chatgpt
+||ab.chatgpt.com^$app=com.openai.chatgpt
+
+!Twitter
+||ads-api.twitter.com^$app=com.twitter.android
+||firebaseremoteconfig.googleapis.com^$app=com.twitter.android
+
+!Kiwi browser
+||settings.kiwibrowser.com^$app=com.kiwibrowser.browser
+
+!Androidユーザー向け
+||searchnotifications-pa.googleapis.com^$app=com.google.android.googlequicksearchbox
+||userlocation.googleapis.com^$important,app=com.google.android.gsf
+||semanticlocation-pa.googleapis.com^
+||firebase-settings.crashlytics.com^
+||firebaselogging.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||androidtvchannels-pa.googleapis.com^
+||clientmetrics-pa.googleapis.com^
+||ad-creatives-public.commondatastorage.googleapis.com^
+
+
