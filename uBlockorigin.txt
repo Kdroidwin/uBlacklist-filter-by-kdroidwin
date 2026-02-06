@@ -619,6 +619,7 @@ fp.no-sheep.org/services##.main
 ||android.hehezhou.cn^$document
 ||androidapp.jp.net^$document
 ||androidappsapk.co^$document
+||androidiani.net^$document
 ||androidiapk.com^$document
 ||androidloading.com^$document
 ||androidnext.info^$document
@@ -1057,6 +1058,7 @@ fp.no-sheep.org/services##.main
 ||bellblo.com^$document
 ||bellcurve.jp^$document
 ||belle-rencontre.site^$document
+||belleeaupiscine.fr^$document
 ||belltree1994.com^$document
 ||belmont-online.shop^$document
 ||belogorie.jp^$document
@@ -3263,6 +3265,7 @@ fp.no-sheep.org/services##.main
 ||healthykidshealthyfuture.org^$document
 ||heart-made-cafe.info^$document
 ||hedgehog.ryukyu/youtube-vanced^$document
+||hedgehog.ryukyu^$document
 ||heibon-heyboom.com^$document
 ||heim.jp^$document
 ||heipowersystem.com^$document
@@ -5718,6 +5721,7 @@ fp.no-sheep.org/services##.main
 ||note.com/kara0323^$document
 ||note.com/kaz_kashiwagi^$document
 ||note.com/kazu_feelin^$document
+||note.com/keizai_kousatsu^$document
 ||note.com/kenhonda^$document
 ||note.com/keshikakeuranai^$document
 ||note.com/kimetsu_mania^$document
@@ -7137,6 +7141,7 @@ fp.no-sheep.org/services##.main
 ||semicon-hub.tech^$document
 ||senchimentarubodo.com^$document
 ||sendai-startups.org^$document
+||sendgrid.net^$document
 ||sensitive-changes.com^$document
 ||sensitiveimages.com^$document
 ||sentou.jp^$document
@@ -8161,6 +8166,7 @@ fp.no-sheep.org/services##.main
 ||tosa-k-style.org^$document
 ||tosidensetu-story.com^$document
 ||totalnewsjp.com^$document
+||totalnewsworld.theletter.jp^$document
 ||totalpolitik.com^$document
 ||totteoki-machida.com^$document
 ||tottori-bf.jp^$document
@@ -10353,6 +10359,7 @@ fp.no-sheep.org/services##.main
 ||www.team-logi.co.jp^$document
 ||www.teamos.xyz^$document
 ||www.teamviewer.cn^$document
+||www.technopat.net^$document
 ||www.techopedia.com^$document
 ||www.tedium-life.com^$document
 ||www.teflon.cn^$document

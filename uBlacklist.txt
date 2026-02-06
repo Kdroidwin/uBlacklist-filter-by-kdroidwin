@@ -2,17 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://belleeaupiscine.fr/*
-*://hedgehog.ryukyu/*
-*://androidiani.net/*
-*://www.technopat.net/*
-*://note.com/keizai_kousatsu/*
-*://*.apk.markets/*
-*://*.sendgrid.net/*
-*://sendgrid.net/*
-*://totalnewsworld.theletter.jp/*
-*://sherbatovelite.com/detail*
-*://proizvodstvo.steel-ex.ru/?v=*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -287,6 +276,7 @@
 *://*.anige-sokuhouvip.com/*
 *://*.apk.dog/*
 *://*.apk.gold/*
+*://*.apk.markets/*
 *://*.apkrabi.com/*
 *://*.apkresult.io/*
 *://*.apktodo.io/*
@@ -8166,6 +8156,7 @@
 *://*.seika-riron.hatenablog.com/*
 *://*.seimei-handan.net/*
 *://*.sejuku.net/*
+*://*.sendgrid.net/*
 *://*.shabakngy.com/*
 *://*.shenzhenjia.cn/*
 *://*.shenzhenjia.net/*
@@ -10437,6 +10428,7 @@
 *://android.hehezhou.cn/*
 *://androidapp.jp.net/*
 *://androidappsapk.co/*
+*://androidiani.net/*
 *://androidiapk.com/*
 *://androidloading.com/*
 *://androidnext.info/*
@@ -10868,6 +10860,7 @@
 *://bellblo.com/*
 *://bellcurve.jp/*
 *://belle-rencontre.site/*
+*://belleeaupiscine.fr/*
 *://belltree1994.com/*
 *://belmont-online.shop/*
 *://belogorie.jp/*
@@ -13019,6 +13012,7 @@
 *://healthistanbulgroup.com/*
 *://healthykidshealthyfuture.org/*
 *://heart-made-cafe.info/*
+*://hedgehog.ryukyu/*
 *://hedgehog.ryukyu/youtube-vanced/*
 *://heibon-heyboom.com/*
 *://heim.jp/*
@@ -15398,6 +15392,7 @@
 *://note.com/kara0323/*
 *://note.com/kaz_kashiwagi/*
 *://note.com/kazu_feelin/*
+*://note.com/keizai_kousatsu/*
 *://note.com/kenhonda/*
 *://note.com/keshikakeuranai/*
 *://note.com/kimetsu_mania/*
@@ -16156,6 +16151,7 @@
 *://programmierfrage.com/*
 *://programming-door.com/*
 *://progroup.pt/*
+*://proizvodstvo.steel-ex.ru/?v=*
 *://projectorrenter.com/*
 *://projetos.planomestre.com/*
 *://promedmultispeciality.com/*
@@ -16736,6 +16732,7 @@
 *://semicon-hub.tech/*
 *://senchimentarubodo.com/*
 *://sendai-startups.org/*
+*://sendgrid.net/*
 *://sensitive-changes.com/*
 *://sensitiveimages.com/*
 *://sentou.jp/*
@@ -16771,6 +16768,7 @@
 *://sheeny.com.tw/*
 *://sheingivesback.com/*
 *://shenghuobao.net/*
+*://sherbatovelite.com/detail*
 *://shiawaseninaritai.com/*
 *://shibutaisai.com/*
 *://shicony.com/*
@@ -17696,6 +17694,7 @@
 *://tosa-k-style.org/*
 *://tosidensetu-story.com/*
 *://totalnewsjp.com/*
+*://totalnewsworld.theletter.jp/*
 *://totalpolitik.com/*
 *://totteoki-machida.com/*
 *://tottori-bf.jp/*
@@ -19826,6 +19825,7 @@
 *://www.tdk.com.cn/*
 *://www.teamos.xyz/*
 *://www.teamviewer.cn/*
+*://www.technopat.net/*
 *://www.techopedia.com/*
 *://www.tedium-life.com/*
 *://www.teflon.cn/*
