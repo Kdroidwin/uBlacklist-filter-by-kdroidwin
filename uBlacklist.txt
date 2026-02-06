@@ -10981,7 +10981,6 @@
 *://blog.triedge-lab.com/*
 *://blogjuicy.com/*
 *://blogkanbee.info/*
-*://blogmura.com/*
 *://blogrou.com/*
 *://blogs.ergotron.com/*
 *://blogs.esri-cis.ru/*
