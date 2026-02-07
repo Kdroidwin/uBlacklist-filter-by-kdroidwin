@@ -7,6 +7,10 @@
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
+*://note.com/shoji_orihara/*
+*://www.asahi.com/and/pressrelease/*
+*://note.ambitiousai.co.jp/*
+*://mjuehy.com/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
