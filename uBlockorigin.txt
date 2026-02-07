@@ -9777,7 +9777,6 @@ fp.no-sheep.org/services##.main
 ||www.macsome.com^$document
 ||www.maemuki-malco.com^$document
 ||www.maf.gov.tl^$document
-||www.mag2.com^$document
 ||www.magic-panda.com^$document
 ||www.magiskmodule.com^$document
 ||www.magmoe.com^$document
