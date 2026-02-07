@@ -7,10 +7,6 @@
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
-*://note.com/shoji_orihara/*
-*://www.asahi.com/and/pressrelease/*
-*://note.ambitiousai.co.jp/*
-*://mjuehy.com/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
@@ -14692,6 +14688,7 @@
 *://mizharu.com/*
 *://mizublochannel.com/*
 *://mizumoto-blog.com/*
+*://mjuehy.com/*
 *://mk8-robo.com/*
 *://mkm.maturbit.sa.com/*
 *://mlkm221021.com/*
@@ -15176,6 +15173,7 @@
 *://nortonshoresmichigan.com/*
 *://nostalghia11.com/*
 *://nostalgicdorama.com/*
+*://note.ambitiousai.co.jp/*
 *://note.com/0219toton/n/n010fc309fe3e*
 *://note.com/24hs_ksrr44/*
 *://note.com/2ch3ch/*
@@ -15439,6 +15437,7 @@
 *://note.com/shin_kon/*
 *://note.com/shinkouya_1453/*
 *://note.com/shinri_test/*
+*://note.com/shoji_orihara/*
 *://note.com/show6254/*
 *://note.com/shure8888/*
 *://note.com/sim_mobile/*
@@ -18373,6 +18372,7 @@
 *://www.artstedenbouw.nl/*
 *://www.artwave7.com/*
 *://www.arvindfashions.com/*
+*://www.asahi.com/and/pressrelease/*
 *://www.asjp.cerist.dz/*
 *://www.asp-as.com/*
 *://www.aspenart.org/*

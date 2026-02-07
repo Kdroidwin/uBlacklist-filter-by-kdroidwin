@@ -5050,6 +5050,7 @@ fp.no-sheep.org/services##.main
 ||mizharu.com^$document
 ||mizublochannel.com^$document
 ||mizumoto-blog.com^$document
+||mjuehy.com^$document
 ||mk8-robo.com^$document
 ||mkm.maturbit.sa.com^$document
 ||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml|~digit.ml|~ai.ml|~interpret.ml|~ushi.ml|~gov.ml|~ushi.ml
@@ -5564,6 +5565,7 @@ fp.no-sheep.org/services##.main
 ||nortonshoresmichigan.com^$document
 ||nostalghia11.com^$document
 ||nostalgicdorama.com^$document
+||note.ambitiousai.co.jp^$document
 ||note.com/0219toton/n/n010fc309fe3e^$document
 ||note.com/24hs_ksrr44^$document
 ||note.com/2ch3ch^$document
@@ -5838,6 +5840,7 @@ fp.no-sheep.org/services##.main
 ||note.com/shin_kon^$document
 ||note.com/shinkouya_1453^$document
 ||note.com/shinri_test^$document
+||note.com/shoji_orihara^$document
 ||note.com/show6254^$document
 ||note.com/shure8888^$document
 ||note.com/sim_mobile^$document
@@ -8974,6 +8977,7 @@ fp.no-sheep.org/services##.main
 ||www.artstedenbouw.nl^$document
 ||www.artwave7.com^$document
 ||www.arvindfashions.com^$document
+||www.asahi.com/and/pressrelease^$document
 ||www.asjp.cerist.dz^$document
 ||www.asp-as.com^$document
 ||www.aspenart.org^$document
