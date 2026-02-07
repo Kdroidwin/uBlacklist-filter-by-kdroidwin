@@ -411,6 +411,8 @@ fp.no-sheep.org/services##.main
 ||ahpc.org.pk^$document
 ||ahplk.kglyrifg.top^$document
 ||ai-ffiliate.net^$document
+||ai-l.net^$document
+||ai-lab-jp.com^$document
 ||ai-official.jp^$document
 ||ai-skill.jp^$document
 ||ai-uruoi.com^$document
@@ -5476,6 +5478,7 @@ fp.no-sheep.org/services##.main
 ||next.saract.com^$document
 ||nextkokuhoukyudna.com^$document
 ||nextstage444.com^$document
+||nexus0824.hatenablog.com^$document
 ||nezumikozo.info^$document
 ||nfl.cn^$document
 ||nfunnote.com^$document
@@ -5837,6 +5840,7 @@ fp.no-sheep.org/services##.main
 ||note.com/s4chax_^$document
 ||note.com/saa617^$document
 ||note.com/safe_panda2627^$document
+||note.com/sagihantai_note^$document
 ||note.com/sane_pothos8184^$document
 ||note.com/sato_c117127^$document
 ||note.com/sawai100^$document
@@ -8904,6 +8908,7 @@ fp.no-sheep.org/services##.main
 ||www.agronet.jp^$document
 ||www.aichi-now.cn^$document
 ||www.aifbmhc.cn^$document
+||www.ailabsuccess.com^$document
 ||www.airplay.co.uk^$document
 ||www.ais-esim.com^$document
 ||www.aisato.info^$document

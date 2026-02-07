@@ -10,11 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://note.com/sagihantai_note/*
-*://ai-lab-jp.com/*
-*://ai-l.net/*
-*://www.ailabsuccess.com/*
-*://nexus0824.hatenablog.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -10213,6 +10208,8 @@
 *://ahpc.org.pk/*
 *://ahplk.kglyrifg.top/*
 *://ai-ffiliate.net/*
+*://ai-l.net/*
+*://ai-lab-jp.com/*
 *://ai-official.jp/*
 *://ai-skill.jp/*
 *://ai-uruoi.com/*
@@ -15144,6 +15141,7 @@
 *://next.saract.com/*
 *://nextkokuhoukyudna.com/*
 *://nextstage444.com/*
+*://nexus0824.hatenablog.com/*
 *://nezumikozo.info/*
 *://nfl.cn/*
 *://nfunnote.com/*
@@ -15491,6 +15489,7 @@
 *://note.com/s4chax_/*
 *://note.com/saa617/*
 *://note.com/safe_panda2627/*
+*://note.com/sagihantai_note/*
 *://note.com/sane_pothos8184/*
 *://note.com/sato_c117127/*
 *://note.com/sawai100/*
@@ -18362,6 +18361,7 @@
 *://www.agronet.jp/*
 *://www.aichi-now.cn/*
 *://www.aifbmhc.cn/*
+*://www.ailabsuccess.com/*
 *://www.airplay.co.uk/*
 *://www.ais-esim.com/*
 *://www.aisato.info/*
