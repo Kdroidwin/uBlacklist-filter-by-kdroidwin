@@ -13462,7 +13462,6 @@
 *://japanese.beijingreview.com.cn/*
 *://japanese.china.org.cn/*
 *://japanese.cri.cn/*
-*://japanese.pudong.gov.cn/*
 *://japanknowledge-com-443.webvpn.zisu.edu.cn/*
 *://japannewsnavi.com/*
 *://japanshopping.org/*
@@ -13553,7 +13552,6 @@
 *://jp-yooho.com/*
 *://jp.adorable-pet.com/*
 *://jp.amp.xhamster.com/*
-*://jp.china-embassy.gov.cn/*
 *://jp.colormango.com/*
 *://jp.iherb.com/*
 *://jp.itopvpn.com/*
@@ -14292,7 +14290,6 @@
 *://madurasi.com.tr/*
 *://madvikingos.com/*
 *://maeharablog.com/*
-*://maf.gov.tl/*
 *://mafumafu-fan.com/*
 *://mag.app-liv.jp/*
 *://magazine-k.jp/*
@@ -14837,7 +14834,6 @@
 *://movie2free2.net/*
 *://moviesets.net/*
 *://movieswatchfree.net/*
-*://movilidadsantafedeantioquia.gov.co/*
 *://moxienashville.com/*
 *://moya-trend.com/*
 *://mpznqedu.com/*
@@ -14925,7 +14921,6 @@
 *://nagamonblog.com/*
 *://nagano-kensanpin-gift.jp/*
 *://nagasaki-ouenten.com/*
-*://nagasaki.china-consulate.gov.cn/*
 *://nagisa.online/*
 *://nagomiyamadoromi.jp/*
 *://nagoyajo.webmasteris.me/*
@@ -15134,7 +15129,6 @@
 *://niconicojikkyou.com/*
 *://nigiwasu.com/*
 *://nihon-ichi.jp/*
-*://niigata.china-consulate.gov.cn/*
 *://niigata.mypl.net/*
 *://niji.e-r-o-anime.xyz/*
 *://nijiholo-local.jp/*
@@ -15740,7 +15734,6 @@
 *://orqykth.biz/*
 *://osaboo.info/*
 *://osaka-breakfast.com/*
-*://osaka.china-consulate.gov.cn/*
 *://osaka.powerhousegym.jp/*
 *://osamunoyume.com/*
 *://osarai-media.net/*
@@ -16590,7 +16583,6 @@
 *://saorerin.com/*
 *://saorikblog.com/*
 *://sapgakkan.muse.weblife.me/*
-*://sapporo.china-consulate.gov.cn/*
 *://sarahzhuang.com/*
 *://sarattosokuhou.com/*
 *://sarimama.com/*
@@ -16709,7 +16701,6 @@
 *://shainteru.com/*
 *://shakerbrand.com/*
 *://shamikuni.com/*
-*://shanghai.chinatax.gov.cn/*
 *://sharedrop.io/*
 *://sharelifestyle.info/*
 *://sharmasteno.com/*
@@ -17438,7 +17429,6 @@
 *://test.dimax.ru/*
 *://test.test-ccrm.philips.ru/*
 *://testhub.me/*
-*://testing-bicto.bangsamoro.gov.ph/*
 *://testwebsite.ejcoms.co.jp/*
 *://tet7224.com/*
 *://tetsunandemo.club/*
@@ -17670,7 +17660,6 @@
 *://tracey.egyptianculture.net//*
 *://track.japex.ru/*
 *://tradedgkbilling.com.pk/*
-*://tradeinservices.mofcom.gov.cn/*
 *://trainwithkodi.com/*
 *://tramb.info/*
 *://transformationallinguistics.com/*
@@ -17929,7 +17918,6 @@
 *://vaccr.org/*
 *://vadunasy.xyz/*
 *://vagabr.online/*
-*://vak.minobrnauki.gov.ru/*
 *://valor0code.com/*
 *://vanced.com.co/*
 *://vanced.jp.uptodown.com/*
@@ -18313,7 +18301,6 @@
 *://www.actagainstaids.com/*
 *://www.adachi-kiyoshi.com/*
 *://www.addness.com/*
-*://www.adobe.ex1.https.443.g3.ipv6.lbq.gov.cn/*
 *://www.advancedpf.ca/*
 *://www.aeltcc.org/*
 *://www.aeon-pokemon-go.com/*
@@ -18707,7 +18694,6 @@
 *://www.e-netcaravan.jp/*
 *://www.e-onkyo.com/*
 *://www.easeus.com/*
-*://www.eastriding.gov.uk/*
 *://www.eastridinglibraries.co.uk/*
 *://www.ebay.me/*
 *://www.ebirds.ru/*
@@ -18958,7 +18944,6 @@
 *://www.hksgxw.cn/*
 *://www.hoalanfoods.vn/*
 *://www.hokkaido-edge.jp/*
-*://www.hokurikugas.co.jp.2519796247.proxy.kjj.lf.gov.cn/*
 *://www.hokuto-no-ken-musical.com/*
 *://www.hollandsvastgoed.com/*
 *://www.homefiks.no/*
@@ -19206,7 +19191,6 @@
 *://www.macrotkani.ru/*
 *://www.macsome.com/*
 *://www.maemuki-malco.com/*
-*://www.maf.gov.tl/*
 *://www.mag2.com/*
 *://www.magic-panda.com/*
 *://www.magiskmodule.com/*
@@ -19849,7 +19833,6 @@
 *://www.trendingnews.tokyo/*
 *://www.trendy-life33.com/*
 *://www.trenink.info/*
-*://www.tresor.gov.bf/*
 *://www.tricompany.ru/*
 *://www.triptravel.me/*
 *://www.truecaller.com/*
@@ -20476,7 +20459,6 @@
 *://zeroum.co.jp/*
 *://zesty1pk.arcjav.com/*
 *://zewiyig.live/*
-*://zexy.ex5.https.443.g0.ipv6.zhuhai.gov.cn/*
 *://zffsg.oss-ap-northeast-2.aliyuncs.com/*
 *://zglqcq.gebvvcheap.shop/*
 *://zhengxinpeixun.oss-cn-qingdao.aliyuncs.com/*
