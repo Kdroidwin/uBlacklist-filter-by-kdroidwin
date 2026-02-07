@@ -225,7 +225,6 @@ fp.no-sheep.org/services##.main
 ||6xz1gd.cn^$document
 ||6yfik268.r.us-east-1.awstrack.me^$document
 ||7063762596.pngseza.gov.pg^$document
-||711web.com^$document
 ||7227125.slot47.online^$document
 ||73569.gatecoin.online^$document
 ||7376-news.com^$document
