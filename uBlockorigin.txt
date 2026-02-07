@@ -164,7 +164,6 @@ fp.no-sheep.org/services##.main
 ||38hana.com^$document
 ||38k0sw2c.r.ap-northeast-1.awstrack.me^$document
 ||39jy3gbg.r.us-west-2.awstrack.me^$document
-||39mag.benesse.ne.jp^$document
 ||3bt5l7v.cn^$document
 ||3kidsmama-diary.com^$document
 ||3ndrop.main.jp^$document
@@ -182,7 +181,6 @@ fp.no-sheep.org/services##.main
 ||47.238.171.54^$document
 ||488131.bitgetexchange.online^$document
 ||4964649.slot42.online^$document
-||4ddig.tenorshare.com^$document
 ||4download.net^$document
 ||4dpocket.jp^$document
 ||4kaku.me^$document
@@ -192,7 +190,6 @@ fp.no-sheep.org/services##.main
 ||51.158.113.15^$document
 ||51with.cn^$document
 ||520vr.com^$document
-||52proxy.xyz^$document
 ||539019.bitgetexchange.online^$document
 ||54.197.245.249^$document
 ||54eeeadb.xyz^$document
@@ -8462,7 +8459,6 @@ fp.no-sheep.org/services##.main
 ||uwenku.com^$document
 ||uwmadisonpoker.com^$document
 ||uz.queenmobile.me^$document
-||v.52proxy.xyz^$document
 ||v.baran24.com^$document
 ||v9czzc2.apartamentysolarza.pl^$document
 ||vabiruonline.com^$document
