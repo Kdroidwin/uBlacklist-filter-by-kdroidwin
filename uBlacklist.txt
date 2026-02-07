@@ -7876,7 +7876,6 @@
 *://*.reviversoft.com/*
 *://*.riptutorial.com/*
 *://*.risposta.org/*
-*://*.ro/*
 *://*.rotadev.com/*
 *://*.ru.com/*
 *://*.ru/?a=0*
@@ -8152,7 +8151,6 @@
 *://*.sbs/*
 *://*.sch.id/*
 *://*.scienceplus2ch.com/*
-*://*.sd/*
 *://*.seika-riron.hatenablog.com/*
 *://*.seimei-handan.net/*
 *://*.sejuku.net/*
@@ -8479,7 +8477,6 @@
 *://*.titanwolf.org/*
 *://*.tj/*
 *://*.tlcpv.org/*
-*://*.today/*
 *://*.tomeon.net/*
 *://*.top/*
 *://*.tousu.in/*
