@@ -10213,14 +10213,11 @@
 *://aieromanga-aierocomic.com/*
 *://aifuku5.com/*
 *://aigamo8.com/*
-*://aigazo.com/*
 *://aiiku3.com/*
-*://aijobs.app/*
 *://aikiu.online/*
 *://aikru.com/*
 *://aikure.com/*
 *://aikuwabaratrio.com/*
-*://ail.ens.org.co/*
 *://aimii.jp/*
 *://aimstoinnovatein.xjow7.com/*
 *://aimyong-joho.com/*
@@ -10243,7 +10240,6 @@
 *://akasann.biz/*
 *://akasannbiz.com/*
 *://akase.xsrv.jp/*
-*://akasofa.hatenablog.com/*
 *://akayoshisite.com/*
 *://akeontokyo.jp/*
 *://akhbar-tibiya.shop/*
@@ -10286,7 +10282,6 @@
 *://alhibah-plus.com/*
 *://ali2.ru/*
 *://alicepatinvestments.com/*
-*://aliexpress.ru/*
 *://alife-lalala.com/*
 *://alisonn.blog106.fc2.com/*
 *://all-genre.net/*
@@ -10377,8 +10372,6 @@
 *://amoebafile.blog.fc2.com/*
 *://amorcos.ocnk.net/*
 *://amour-takarazuka.jp/*
-*://amp.amebaownd.com/*
-*://amp.theguardian.com/*
 *://amprime.hatenablog.com/*
 *://amy1181.com/*
 *://an1.ca/*
@@ -10455,7 +10448,6 @@
 *://answers.microsoft.ex1.https.443.ipv6.cqust.edu.cn/*
 *://antenatarou.warotamaker2.com/*
 *://antenna.ai-gazoukan.com/*
-*://antenna.jp/*
 *://antesquesemepase.com/*
 *://anthology.blog/*
 *://anthonyleger.com/*
@@ -10467,7 +10459,6 @@
 *://antmomew.com/*
 *://anturis.com/*
 *://anxious-topics.com/*
-*://any.run/*
 *://anzendouga.com/*
 *://anzhee.ru/*
 *://anzno.com/*
@@ -10479,16 +10470,9 @@
 *://aoisekai.net/*
 *://aoiumiblog.com/*
 *://aokiin.com/*
-*://aokita-law.com/*
-*://aorus.shop/*
 *://aoshima-kenta.jp/*
 *://aoyjpcgu.life/*
 *://apaie.org/*
-*://api.credaiwarangal.org/*
-*://api.dart.cn/*
-*://api.giftbuster.app/*
-*://api.legolas.uk/*
-*://api.wteam.xyz/*
 *://apicodes.hatenablog.com/*
 *://apil3.org/*
 *://apk-store.org/*
@@ -10545,7 +10529,6 @@
 *://app-games-casmanuus.xyz/*
 *://app-games-outrundersele.xyz/*
 *://app-info.xyz/*
-*://app-liv.jp/*
 *://app-story.net/*
 *://app.famitsu.com/category/android-apps/android-recommend/*
 *://app.joinin.online/*
