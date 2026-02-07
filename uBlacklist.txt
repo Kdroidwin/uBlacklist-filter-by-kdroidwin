@@ -10095,8 +10095,6 @@
 *://a8e2385.com/*
 *://aa-educare.com/*
 *://aaanews.net/*
-*://aabt.edu.au/*
-*://aahe.edu.au/*
 *://aalhoyr.cn/*
 *://aasc.or.jp/*
 *://ab-d.nl/*
@@ -10108,7 +10106,6 @@
 *://abccttoo.com/*
 *://abcd-blog.com/*
 *://abchomepreschool.com/*
-*://abcnews.go.com/*
 *://abdo.abdowap.com.ru/*
 *://abe-eishirou.jp/*
 *://abe3-blog.com/*
@@ -10152,7 +10149,6 @@
 *://ademas0719blog.com/*
 *://aditaishitukaizen.com/*
 *://admailmg.com/*
-*://admuseum.cuc.edu.cn/*
 *://adonisgreen.jp/*
 *://adpeak.net/*
 *://ads.google.cn/*
@@ -10178,7 +10174,6 @@
 *://afiri-star.com/*
 *://aflciopokerroom.com/*
 *://afmd.xxasj.cn/*
-*://africa.iclei.org/*
 *://africatvl.com/*
 *://afrohealth.care/*
 *://afyinfo.com/*
@@ -10191,7 +10186,6 @@
 *://agn-na.org/*
 *://agoga.me/*
 *://agoualand.com/*
-*://agreet7i.sghscdhaka.edu.bd/*
 *://agrenes.org/*
 *://agrifuture.africa/*
 *://ahedou.com/*
@@ -10665,7 +10659,6 @@
 *://asoboolog.com/*
 *://asotalk.com/*
 *://asoworld.com/*
-*://aspaen.edu.co/*
 *://assirobo.com/*
 *://associazionerivieradelconero.com/*
 *://astran.jp/*
@@ -11313,7 +11306,6 @@
 *://cinemaparadiso1989.blog.fc2.com/*
 *://cinnamon-hotel.com/*
 *://cinonsan.com/*
-*://ciraa.zju.edu.cn/*
 *://cirugiaplasticacbba.com/*
 *://cityofchix.com/*
 *://ciyoqprice.com/*
@@ -11334,7 +11326,6 @@
 *://clibomanager.com/*
 *://click.mail1.welcomebreak.online/*
 *://clickfordetayiso.online/*
-*://client.v.just.edu.cn/*
 *://clientes.selecmoda.com/*
 *://cloline.online/*
 *://closetoyoubelieve.com/*
@@ -11833,7 +11824,6 @@
 *://drtraining-jiyugaoka.jp/*
 *://ds-fabulous.com/*
 *://ds.wteam.xyz/*
-*://dsxt.ustc.edu.cn/*
 *://dtexapparel.com/*
 *://dtioykqj1u8de.cloudfront.net/*
 *://dubs.ru/*
@@ -11845,7 +11835,6 @@
 *://dwpsraipur.com/*
 *://dwz.365tol.top/*
 *://dx.meiriyixue.cn/*
-*://dy.zyufl.edu.cn/*
 *://dyakata.com/*
 *://dylanblush.xyz/*
 *://dylanduan.xyz/*
@@ -11864,7 +11853,6 @@
 *://e-fugu.jp/*
 *://e-news67.com/*
 *://e-reikinet.jp/*
-*://e-service.jpdm.edu.bd/*
 *://e025-subsc-bm.xyz/*
 *://e1ns.jp/*
 *://e849001b-b592-4312-ada6-f359392cf4f0.ct0.app/*
@@ -11910,7 +11898,6 @@
 *://edobryggan.se/*
 *://educacion.fecolsog.org/*
 *://educationworlddirector.com/*
-*://edutec.edu.do/*
 *://edwardsbike.com/*
 *://effectivedutchlessons.nl/*
 *://efire-matome.com/*
@@ -11954,7 +11941,6 @@
 *://elle0211.com/*
 *://elleetlui.org/*
 *://elovafi.immunityassist.sk/*
-*://elroble.apde.edu.gt/*
 *://eltonitokazu.com/*
 *://elvar.ee/*
 *://elysmexicangrill.online/*
@@ -12004,7 +11990,6 @@
 *://enjoybox0515.com/*
 *://enjoymediabox.com/*
 *://enne-trends.com/*
-*://ennuiner.sghscdhaka.edu.bd/*
 *://ent-n.com/*
 *://enta-nikki.jp/*
 *://entaentaenta.com/*
@@ -12132,7 +12117,6 @@
 *://esdg.org/*
 *://espacioapk.com/*
 *://espacioapk.com/youtube-revanced/*
-*://espana.edu.bo/*
 *://esportsplayer-pc.com/*
 *://espotimod.pro/*
 *://espritpress.com/*
@@ -12141,7 +12125,6 @@
 *://estatesnm.com/*
 *://estudioedelman.com/*
 *://esunoentame.com/*
-*://etcnew.sdut.edu.cn/*
 *://etsy.me/*
 *://etwinternational.com/*
 *://eudqk.ewaepaeb.biz/*
@@ -12239,7 +12222,6 @@
 *://feeb.jp/*
 *://feizeus.com/*
 *://feizeus2.com/*
-*://fem.ecnu.edu.cn/*
 *://femimatsu.com/*
 *://fenergybd.com/*
 *://ferquem.com/*
@@ -12647,7 +12629,6 @@
 *://ghaderipro.com/*
 *://ghib-mori.com/*
 *://gi-o.com/*
-*://gibed87e.sghscdhaka.edu.bd/*
 *://gifslangen.com/*
 *://giftpedia.jp/*
 *://gifu-taikyo.jp/*
@@ -12695,7 +12676,6 @@
 *://give-a-shot2020.com/*
 *://gizmodo.com/download/*
 *://gj.enova.top/*
-*://gjjl.ntu.edu.cn/*
 *://gkfnyskp.run/*
 *://gkt.me/*
 *://gl.alteroffice.ru/*
@@ -13219,7 +13199,6 @@
 *://i.instagram.com/*
 *://i2ibycitipost.com/*
 *://i711.com/*
-*://ias.tongji.edu.cn/*
 *://iasbanenge.co.in/*
 *://ib2056792.exblog.jp/*
 *://ibaraki.dijifinex.online/*
@@ -13299,7 +13278,6 @@
 *://imitsu.jp/*
 *://imperiacondos.com/*
 *://imperial-curse.de/*
-*://impis6e5.sghscdhaka.edu.bd/*
 *://impotentnomore.com/*
 *://impression-life.com/*
 *://inaxginza.info/*
@@ -15143,7 +15121,6 @@
 *://nginx.ru/*
 *://ngo-jvc.info/*
 *://nh-sports.jp/*
-*://nhaphoc.hmtu.edu.vn/*
 *://nhaxephuonganhphanthiet.com/*
 *://nhk-jyoshi.club/*
 *://nhrenshou.cn/*
@@ -16441,7 +16418,6 @@
 *://rk91v2nf.r.us-east-1.awstrack.me/*
 *://rkelsey.com/*
 *://rme-kaigo.jp/*
-*://rms.apollouniversity.edu.in/*
 *://rn2z8o6fe.adrianodosanjos.de/*
 *://robamimireport.com/*
 *://robesgxo.check-in-out.com/*
@@ -16554,7 +16530,6 @@
 *://sachiko-blog.com/*
 *://sachimomo88.blog/*
 *://sacksoenterprises.com/*
-*://saduni.edu.ge/*
 *://saeriho.com/*
 *://safety.t-com.ne.jp/*
 *://safewebtalk.com/check-site/infinitytweet-me-reviews*
@@ -18742,7 +18717,6 @@
 *://www.ecobulb.com/*
 *://www.ecopowersecurities.com/*
 *://www.ecsuchi.cn/*
-*://www.ecust.edu.cn/*
 *://www.eden-emu.me/*
 *://www.edion.com/special.html?identificationid=studentpc*
 *://www.edjx.io/*
@@ -18873,7 +18847,6 @@
 *://www.garmin.cn/*
 *://www.gatahime.com/*
 *://www.gaten-yoake.com/*
-*://www.gcnm.edu.gh/*
 *://www.gcpv.fr/*
 *://www.gebiproducts.com/*
 *://www.gecidq.com/*
@@ -19552,7 +19525,6 @@
 *://www.querythreads.com/*
 *://www.quick-drink.at/*
 *://www.qygzknr.cn/*
-*://www.qztc.edu.cn/*
 *://www.rabbanmoto.com/*
 *://www.raca.marketing/*
 *://www.radiobijelopolje.me/*
@@ -19899,7 +19871,6 @@
 *://www.twitscoop.com/*
 *://www.twlrnet.tw/*
 *://www.tyo2l.uk/*
-*://www.uasb.edu.bo/*
 *://www.uchina-web.co.jp/*
 *://www.uhrcgeneva.org/*
 *://www.ulster.ac.uk/*
