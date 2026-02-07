@@ -11061,7 +11061,6 @@
 *://bungakuseinen.com/*
 *://bunkumo99.com/*
 *://bunpone.com/*
-*://bunt.boku.ac.at/*
 *://bunudagoruyor.online/*
 *://burgundy-movie.jp/*
 *://burly3qm.amisha.co.uk/*
@@ -11424,7 +11423,6 @@
 *://copyeg.ru/*
 *://copyprogramming.com/*
 *://corasa.com.ec/*
-*://core.ac.uk/*
 *://coremaji-media.com/*
 *://corleonis8.com/*
 *://corndollythatching.com/*
@@ -12217,7 +12215,6 @@
 *://fgworks.jp/*
 *://fh-47c11dec2589de30---ken-prod-docker-3cdn7xgrva-uc.a.run.app/*
 *://fibonaccicorp.shop/*
-*://field.ac.cn/*
 *://fihtvzwcg.heidekevin.de/*
 *://filecr.com/*
 *://filecr.com/android/youtube-revanced-extended/*
@@ -12365,7 +12362,6 @@
 *://fruit727.com/*
 *://fstec.ru/*
 *://fstopics.com/*
-*://ft.unsoed.ac.id/*
 *://ftbooks.xyz/*
 *://ftnr.main.jp/*
 *://ftp.irbis.su/*
@@ -12702,7 +12698,6 @@
 *://gohantublog.com/*
 *://gokigenteikoku.jp/*
 *://gokyuzuvebalon.com/*
-*://golang.ac.cn/*
 *://golang.google.cn/*
 *://goldenheartmediation.com/*
 *://goldenkings.bl.kuroco-img.app/*
@@ -14040,7 +14035,6 @@
 *://learn-lens.com/*
 *://learn.corporate.ef.com/*
 *://learn.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn/*
-*://learn.oca.ac.uk/*
 *://learn.slot42.online/*
 *://learnandbless.com/*
 *://learnopenoffice.org/*
@@ -14076,7 +14070,6 @@
 *://lhig2z3.neurofaszia-therapie.de/*
 *://lhscans-raws.energin.cfd/*
 *://liamsj3c.watkd.pl/*
-*://lib.ia.ac.cn/*
 *://liberalu-mania.com/*
 *://liberog.net/*
 *://liberty-life-style.com/*
@@ -14084,7 +14077,6 @@
 *://libertysao.com/*
 *://libote.jp/*
 *://librabewindvoering.nl/*
-*://library.ap.tu.ac.th/*
 *://library.dmh.go.th/*
 *://library.ucclm.org/*
 *://libru.co.jp/*
@@ -14493,7 +14485,6 @@
 *://mbp-shizuoka.com/*
 *://mcd-mop.onelink.me/*
 *://mce-rtworld.com/*
-*://mce.ac.bw/*
 *://mcead.com/*
 *://mclarencars.cn/*
 *://mcrump.me/*
@@ -14841,7 +14832,6 @@
 *://mugicym.com/*
 *://mugidensetsu.com/*
 *://mugitomachee.com/*
-*://mukogawa.repo.nii.ac.jp/*
 *://multisitewoo.testbenchonline2.com/*
 *://mundoperfecto.net/*
 *://mundouniversitario.net/*
@@ -15137,7 +15127,6 @@
 *://njforeclosurelist.com/*
 *://nkjk.xxasj.cn/*
 *://nkuzistem.org/*
-*://nlpr.ia.ac.cn/*
 *://nmqf-policy.org/*
 *://nnews.top/*
 *://no-dorama-no-life.info/*
@@ -15877,7 +15866,6 @@
 *://peraichi.com/*
 *://perfectworld.shop/*
 *://performance-navi01.com/*
-*://performancescience.ac.uk/*
 *://perla.si/*
 *://persimmonichinaru.com/*
 *://person.sakura.ne.jp/*
@@ -16309,7 +16297,6 @@
 *://retty.me/*
 *://retwyia.com/*
 *://reussitescolairesn.com/*
-*://reuters.985.ac.cn/*
 *://revanced-apks.github.io/*
 *://revanced-apks.pages.dev/*
 *://revanced-auto-apk.pages.dev/*
@@ -17114,7 +17101,6 @@
 *://streamrental.com/*
 *://strongcorner.net/*
 *://strufin.in/*
-*://sts.law.ac.uk/*
 *://stube.info/*
 *://studioebi.com/*
 *://studionobres.com/*
@@ -18982,7 +18968,6 @@
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.jp.net/*
-*://www.it.ucg.ac.me/*
 *://www.it3.net.au/*
 *://www.italkyou.cn/*
 *://www.itd-lab.com/*
@@ -19324,7 +19309,6 @@
 *://www.ndda.net/*
 *://www.nekojirushi11.tokyo/*
 *://www.nelpur.shop/*
-*://www.neobji.ac.cn/*
 *://www.networkmoaleji2024.online/*
 *://www.newcsl.cn/*
 *://www.newlifeconstruction.co.uk/*
@@ -19837,7 +19821,6 @@
 *://www.tyo2l.uk/*
 *://www.uchina-web.co.jp/*
 *://www.uhrcgeneva.org/*
-*://www.ulster.ac.uk/*
 *://www.underconnection.com/*
 *://www.uneteacoordinadoratpc.org/*
 *://www.uninvited.com/*
