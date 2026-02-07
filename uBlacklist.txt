@@ -10,6 +10,11 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
+*://note.com/sagihantai_note/*
+*://ai-lab-jp.com/*
+*://ai-l.net/*
+*://www.ailabsuccess.com/*
+*://nexus0824.hatenablog.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
