@@ -19161,7 +19161,6 @@
 *://www.macrotkani.ru/*
 *://www.macsome.com/*
 *://www.maemuki-malco.com/*
-*://www.mag2.com/*
 *://www.magic-panda.com/*
 *://www.magiskmodule.com/*
 *://www.magmoe.com/*
