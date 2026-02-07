@@ -1317,7 +1317,6 @@ fp.no-sheep.org/services##.main
 ||bungakuseinen.com^$document
 ||bunkumo99.com^$document
 ||bunpone.com^$document
-||bunt.boku.ac.at^$document
 ||bunudagoruyor.online^$document
 ||burgundy-movie.jp^$document
 ||burly3qm.amisha.co.uk^$document
@@ -1693,7 +1692,6 @@ fp.no-sheep.org/services##.main
 ||copyeg.ru^$document
 ||copyprogramming.com^$document
 ||corasa.com.ec^$document
-||core.ac.uk^$document
 ||coremaji-media.com^$document
 ||corleonis8.com^$document
 ||corndollythatching.com^$document
@@ -2506,7 +2504,6 @@ fp.no-sheep.org/services##.main
 ||fgworks.jp^$document
 ||fh-47c11dec2589de30---ken-prod-docker-3cdn7xgrva-uc.a.run.app^$document
 ||fibonaccicorp.shop^$document
-||field.ac.cn^$document
 ||fihtvzwcg.heidekevin.de^$document
 ||filecr.com/android/youtube-revanced-extended/?id=248068864000^$document
 ||filecr.com/android/youtube-revanced-extended/?id=838799411000^$document
@@ -2658,7 +2655,6 @@ fp.no-sheep.org/services##.main
 ||fruit727.com^$document
 ||fstec.ru^$document
 ||fstopics.com^$document
-||ft.unsoed.ac.id^$document
 ||ftbooks.xyz^$document
 ||ftnr.main.jp^$document
 ||ftp.irbis.su^$document
@@ -3009,7 +3005,6 @@ fp.no-sheep.org/services##.main
 ||gohantublog.com^$document
 ||gokigenteikoku.jp^$document
 ||gokyuzuvebalon.com^$document
-||golang.ac.cn^$document
 ||golang.google.cn^$document
 ||goldenheartmediation.com^$document
 ||goldenkings.bl.kuroco-img.app^$document
@@ -4386,7 +4381,6 @@ fp.no-sheep.org/services##.main
 ||learn-lens.com^$document
 ||learn.corporate.ef.com^$document
 ||learn.microsoft.ex1.https.443.g0.ipv6.liuzhou.gov.cn^$document
-||learn.oca.ac.uk^$document
 ||learn.slot42.online^$document
 ||learnandbless.com^$document
 ||learnopenoffice.org^$document
@@ -4422,7 +4416,6 @@ fp.no-sheep.org/services##.main
 ||lhig2z3.neurofaszia-therapie.de^$document
 ||lhscans-raws.energin.cfd^$document
 ||liamsj3c.watkd.pl^$document
-||lib.ia.ac.cn^$document
 ||liberalu-mania.com^$document
 ||liberog.net^$document
 ||liberty-life-style.com^$document
@@ -4430,7 +4423,6 @@ fp.no-sheep.org/services##.main
 ||libertysao.com^$document
 ||libote.jp^$document
 ||librabewindvoering.nl^$document
-||library.ap.tu.ac.th^$document
 ||library.dmh.go.th^$document
 ||library.ucclm.org^$document
 ||libru.co.jp^$document
@@ -4851,7 +4843,6 @@ fp.no-sheep.org/services##.main
 ||mbp-shizuoka.com^$document
 ||mcd-mop.onelink.me^$document
 ||mce-rtworld.com^$document
-||mce.ac.bw^$document
 ||mcead.com^$document
 ||mclarencars.cn^$document
 ||mcrump.me^$document
@@ -5210,7 +5201,6 @@ fp.no-sheep.org/services##.main
 ||mugidensetsu.com^$document
 ||mugimeibiyori.com^$document
 ||mugitomachee.com^$document
-||mukogawa.repo.nii.ac.jp^$document
 ||multisitewoo.testbenchonline2.com^$document
 ||mundoperfecto.net^$document
 ||mundouniversitario.net^$document
@@ -5528,7 +5518,6 @@ fp.no-sheep.org/services##.main
 ||njforeclosurelist.com^$document
 ||nkjk.xxasj.cn^$document
 ||nkuzistem.org^$document
-||nlpr.ia.ac.cn^$document
 ||nmqf-policy.org^$document
 ||nnews.top^$document
 ||no-dorama-no-life.info^$document
@@ -6301,7 +6290,6 @@ fp.no-sheep.org/services##.main
 ||peraichi.com^$document
 ||perfectworld.shop^$document
 ||performance-navi01.com^$document
-||performancescience.ac.uk^$document
 ||perla.si^$document
 ||persimmonichinaru.com^$document
 ||person.sakura.ne.jp^$document
@@ -6764,7 +6752,6 @@ fp.no-sheep.org/services##.main
 ||retty.me^$document
 ||retwyia.com^$document
 ||reussitescolairesn.com^$document
-||reuters.985.ac.cn^$document
 ||revanced-apks.github.io^$document
 ||revanced-apks.pages.dev^$document
 ||revanced-auto-apk.pages.dev^$document
@@ -7628,7 +7615,6 @@ fp.no-sheep.org/services##.main
 ||string.quest^$document
 ||strongcorner.net^$document
 ||strufin.in^$document
-||sts.law.ac.uk^$document
 ||stube.info^$document
 ||studioebi.com^$document
 ||studionobres.com^$document
@@ -9600,7 +9586,6 @@ fp.no-sheep.org/services##.main
 ||www.it-swarm-ja.com^$document
 ||www.it-swarm-ja.tech^$document
 ||www.it-swarm.jp.net^$document
-||www.it.ucg.ac.me^$document
 ||www.it3.net.au^$document
 ||www.italkyou.cn^$document
 ||www.itd-lab.com^$document
@@ -9939,7 +9924,6 @@ fp.no-sheep.org/services##.main
 ||www.ndda.net^$document
 ||www.nekojirushi11.tokyo^$document
 ||www.nelpur.shop^$document
-||www.neobji.ac.cn^$document
 ||www.networkmoaleji2024.online^$document
 ||www.newcsl.cn^$document
 ||www.newlifeconstruction.co.uk^$document
@@ -10462,7 +10446,6 @@ fp.no-sheep.org/services##.main
 ||www.uasb.edu.bo^$document
 ||www.uchina-web.co.jp^$document
 ||www.uhrcgeneva.org^$document
-||www.ulster.ac.uk^$document
 ||www.underconnection.com^$document
 ||www.uneteacoordinadoratpc.org^$document
 ||www.uninvited.com^$document
