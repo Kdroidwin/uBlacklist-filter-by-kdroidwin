@@ -399,6 +399,7 @@ fp.no-sheep.org/services##.main
 ||agreet7i.sghscdhaka.edu.bd^$document
 ||agrenes.org^$document
 ||agrifuture.africa^$document
+||ahaloshop.com^$document
 ||ahedou.com^$document
 ||ahgbtju.com^$document
 ||ahh1008.blog.jp^$document
@@ -786,6 +787,7 @@ fp.no-sheep.org/services##.main
 ||applibito.com^$document
 ||appmatch.jp^$document
 ||appnee.com^$document
+||appnstore.com^$document
 ||appoholow.xyz^$document
 ||apprev.smt.docomo.ne.jp^$document
 ||apprimo.info^$document
@@ -2189,6 +2191,7 @@ fp.no-sheep.org/services##.main
 ||elhacker.info^$document
 ||eliehawi.com^$document
 ||elife-media.jp^$document
+||elilahook.com^$document
 ||elinstyle.com^$document
 ||elitdenta.ru^$document
 ||elixo.fr^$document
@@ -3251,6 +3254,7 @@ fp.no-sheep.org/services##.main
 ||hayarimeguri.com^$document
 ||hayarimono.work^$document
 ||hayawakari11.com^$document
+||hayito.com^$document
 ||hbox-webcomic.adult-h.com^$document
 ||hbr-square.com^$document
 ||healcipe.com^$document
@@ -3777,6 +3781,7 @@ fp.no-sheep.org/services##.main
 ||jayamerica.com^$document
 ||jayemmafarms.com^$document
 ||jayouth-hokkaido.jp^$document
+||jazkhh.com^$document
 ||jblwealthstrategies.com^$document
 ||jbs-kinki69.jp^$document
 ||jcgym.us^$document
@@ -5058,6 +5063,7 @@ fp.no-sheep.org/services##.main
 ||mm-smile.net^$document
 ||mmexfj.com^$document
 ||mmiimm.net^$document
+||mmoreshop.com^$document
 ||mmsgbr.com^$document
 ||mn.metaphase.cn^$document
 ||mn^$doc,domain=~montsame.mn|~mongoru-ryoko.mn|~navi.mn
@@ -6501,6 +6507,7 @@ fp.no-sheep.org/services##.main
 ||progroup.pt^$document
 ||projectbackpack.org^$document
 ||projectorrenter.com^$document
+||projectsunrise.pages.dev^$document
 ||projetos.planomestre.com^$document
 ||promedmultispeciality.com^$document
 ||prometiz.xyz^$document

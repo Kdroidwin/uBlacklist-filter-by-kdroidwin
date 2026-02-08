@@ -9,13 +9,6 @@
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
-*://appnstore.com/*
-*://ahaloshop.com/*
-*://elilahook.com/*
-*://hayito.com/*
-*://jazkhh.com/*
-*://mmoreshop.com/*
-*://projectsunrise.pages.dev/*
 *://*.all-nationz.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
@@ -10195,6 +10188,7 @@
 *://agoualand.com/*
 *://agrenes.org/*
 *://agrifuture.africa/*
+*://ahaloshop.com/*
 *://ahedou.com/*
 *://ahgbtju.com/*
 *://ahh1008.blog.jp/*
@@ -10553,6 +10547,7 @@
 *://applibito.com/*
 *://appmatch.jp/*
 *://appnee.com/*
+*://appnstore.com/*
 *://appoholow.xyz/*
 *://apprev.smt.docomo.ne.jp/*
 *://apprimo.info/*
@@ -11917,6 +11912,7 @@
 *://elhacker.info/*
 *://eliehawi.com/*
 *://elife-media.jp/*
+*://elilahook.com/*
 *://elinstyle.com/*
 *://elitdenta.ru/*
 *://elixo.fr/*
@@ -12944,6 +12940,7 @@
 *://hayarimeguri.com/*
 *://hayarimono.work/*
 *://hayawakari11.com/*
+*://hayito.com/*
 *://hbox-webcomic.adult-h.com/*
 *://hbr-square.com/*
 *://healcipe.com/*
@@ -13455,6 +13452,7 @@
 *://jayamerica.com/*
 *://jayemmafarms.com/*
 *://jayouth-hokkaido.jp/*
+*://jazkhh.com/*
 *://jblwealthstrategies.com/*
 *://jbs-kinki69.jp/*
 *://jcgym.us/*
@@ -14702,6 +14700,7 @@
 *://mm-smile.net/*
 *://mmexfj.com/*
 *://mmiimm.net/*
+*://mmoreshop.com/*
 *://mmsgbr.com/*
 *://mn.metaphase.cn/*
 *://mnogosdelal.ru/*
@@ -16080,6 +16079,7 @@
 *://progroup.pt/*
 *://proizvodstvo.steel-ex.ru/?v=*
 *://projectorrenter.com/*
+*://projectsunrise.pages.dev/*
 *://projetos.planomestre.com/*
 *://promedmultispeciality.com/*
 *://prometiz.xyz/*
