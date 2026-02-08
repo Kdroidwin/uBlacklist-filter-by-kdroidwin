@@ -18458,7 +18458,6 @@
 *://www.3hf3hxl.cn/*
 *://www.40407.com/*
 *://www.40a.com.cn/*
-*://www.4kdownload.com/*
 *://www.4wbk00.cn/*
 *://www.52888av.online/*
 *://www.52wts.cn/*
@@ -18889,11 +18888,8 @@
 *://www.dwdinteriors.com/*
 *://www.dwpsraipur.com/*
 *://www.dwrexbr.cn/*
-*://www.e-goods.site/*
 *://www.e-netcaravan.jp/*
 *://www.e-onkyo.com/*
-*://www.easeus.com/*
-*://www.eastridinglibraries.co.uk/*
 *://www.ebay.me/*
 *://www.ebirds.ru/*
 *://www.ec2instances.info/*
@@ -19585,9 +19581,6 @@
 *://www.olympichp.com/*
 *://www.onamae-desktop.com/*
 *://www.onamae-server.com/*
-*://www.oncologysquadllc.com/*
-*://www.ondesoft.jp/*
-*://www.onebreath.fr/*
 *://www.onedrop-cafe.com/*
 *://www.onetrickpony.jp/*
 *://www.opp.ftcgroup.com.ph/*
@@ -20140,7 +20133,6 @@
 *://www.wildwaadi.com/*
 *://www.win-rar.ru/*
 *://www.winrarcrack.pro/*
-*://www.winxdvd.com/*
 *://www.wirtschaftlicher-verband.de/*
 *://www.wish.com/*
 *://www.wizcase.com/*
@@ -20720,6 +20712,7 @@ title/【HOT，新品】/
 title/【※※※】/
 title/【】/
 title/【正規品、未開封品】/
+title/【正規品、中古】/
 title/【正規品】/
 title/【税込?送料無料】/
 title/【顔画像】/
@@ -20804,7 +20797,6 @@ title/調査！/
 title/販売割引商品/
 title/購入廉価/
 title/転生も/
-title/過去の噂/
 title/顔バレ/
 title/顔写真はや高校は？結婚/
 title/顔画像やFacebook/
