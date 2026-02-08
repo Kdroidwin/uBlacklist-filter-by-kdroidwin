@@ -9,6 +9,13 @@
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
+*://appnstore.com/*
+*://ahaloshop.com/*
+*://elilahook.com/*
+*://hayito.com/*
+*://jazkhh.com/*
+*://mmoreshop.com/*
+*://projectsunrise.pages.dev/*
 *://*.all-nationz.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
