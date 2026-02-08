@@ -11855,7 +11855,6 @@
 *://echizen-kanikanitei.jp/*
 *://echomedia.co.jp/*
 *://echour.com/*
-*://echowear.co.jp/*
 *://eclat-tokyo.jp/*
 *://eclesar1.over-blog.com/*
 *://ecmusika.com/*
@@ -12091,7 +12090,6 @@
 *://ertwas.com/*
 *://ertyws.com/*
 *://erumaru.com/*
-*://erunet.co.jp/*
 *://erwsiwc.com/*
 *://es.accountantromania.com/*
 *://escon-fighters.com/*
@@ -12396,7 +12394,6 @@
 *://fukushima-kurashi-shigoto2022.jp/*
 *://fukushima-zekkei.jp/*
 *://fukushu.jp/*
-*://full-spec.co.jp/*
 *://full.pai-navi.com/*
 *://fullgra.jp/*
 *://fullmoviesells.com/*
@@ -12449,7 +12446,6 @@
 *://g-ep.jp/*
 *://g-gensite.net/*
 *://g-muku.com/*
-*://g-r.co.jp/*
 *://g-salmon.com/*
 *://g1.redseafish.com/*
 *://g2015graman.top/*
@@ -13268,7 +13264,6 @@
 *://industrial.panasonic.cn/*
 *://industriallicence.com/*
 *://industrialwastecleanup.com/*
-*://inest-inc.co.jp/*
 *://inf.kimama2audio.com/*
 *://infinico2.sakura.ne.jp/*
 *://infinitweet.com/*
@@ -13547,7 +13542,6 @@
 *://jpsecengineer.com/*
 *://jsca-member--jp.proxy.shstvc.com.cn/*
 *://jsmjapan.com/*
-*://jt-entertainment.co.jp/*
 *://jtb-hotspringtickets.vip/*
 *://jtb-hotspringtickets.xyz/*
 *://jtbmusic.jp/*
@@ -14056,7 +14050,6 @@
 *://legends.org.tr/products/*
 *://legiontn46.com/*
 *://leisurego.jp/*
-*://lelabo.co.jp/*
 *://lemino-subdomain.onelink.me/*
 *://lemon-hiraya.com/*
 *://lemon-humming.com/*
@@ -14083,7 +14076,6 @@
 *://librabewindvoering.nl/*
 *://library.dmh.go.th/*
 *://library.ucclm.org/*
-*://libru.co.jp/*
 *://liemu669.com/*
 *://life-long-friend-ship.net/*
 *://life-mens.com/*
@@ -14254,7 +14246,6 @@
 *://mabomabo00.com/*
 *://macaluminio.com/*
 *://macclear.com/*
-*://machibun.co.jp/*
 *://mackcolthomes.com/*
 *://macked.app/*
 *://maco-25.com/*
@@ -14343,7 +14334,6 @@
 *://manadia.jp/*
 *://mandymcdanieldesigns.com/*
 *://maneki-rus.ru/*
-*://maneql.co.jp/*
 *://manga-bang.com/*
 *://manga-comicoro.com/*
 *://manga-ebookservice.com/*
@@ -14380,7 +14370,6 @@
 *://manganista.net/*
 *://mangazok.com/*
 *://mangazuki-314159.com/*
-*://mango.co.jp/*
 *://mankaikana.com/*
 *://manpukubiyori.com/*
 *://manpukunews.blog.jp/*
@@ -14565,7 +14554,6 @@
 *://mesquitaretomados.com/*
 *://met-flix.vercel.app/*
 *://metahers.xyz/*
-*://metalife.co.jp/*
 *://metashiftagency.com/*
 *://meteoriteman.shop/*
 *://methartenziel.eu/*
@@ -14629,7 +14617,6 @@
 *://mimublog.com/*
 *://min-ero.jp/*
 *://minabl.com/*
-*://minagu.co.jp/*
 *://minahina.com/*
 *://minamikublog.com/*
 *://mindhack2ch.com/*
@@ -14855,7 +14842,6 @@
 *://musiclog-hi.com/*
 *://musicnyt.jp/*
 *://musicstore.auone.jp/*
-*://musictrades.co.jp/*
 *://mustadapttosurvive.lcn40.com/*
 *://musubi10.com/*
 *://mutonlh0.hghconvention.com/*
@@ -14952,7 +14938,6 @@
 *://narayama-planetary-village.jp/*
 *://narimusicpublishing.com/*
 *://naroom-blog.com/*
-*://naruhodo-wifi.co.jp/*
 *://naruhodo-wifi.co.jp/vpn-app/*
 *://nasubigfarm.com/*
 *://nasupapa.com/*
@@ -15031,7 +15016,6 @@
 *://netpeak.me/*
 *://netsurfnews.com/*
 *://netuai.net/*
-*://neuron-x.co.jp/*
 *://new-challenge123.com/*
 *://new.artecpractice.com/*
 *://new.cdsm.cl/*
@@ -15078,7 +15062,6 @@
 *://newsyo.jp/*
 *://newyork.ethanyi.xyz/*
 *://newyoutubers.com/*
-*://nexer.co.jp/*
 *://nexosfilms.com/*
 *://nexsis.org/*
 *://next-support.online/*
@@ -15627,7 +15610,6 @@
 *://okigourmet.com/*
 *://okikunonichijyou.com/*
 *://okinawameguri.com/*
-*://okipro.co.jp/*
 *://okomechan6.com/*
 *://okomerium.com/*
 *://okuraya.shop/*
@@ -15790,7 +15772,6 @@
 *://p6li1chk.r.us-east-1.awstrack.me/*
 *://p7fcbp7.r.ap-northeast-1.awstrack.me/*
 *://pachi-media.com/*
-*://pacific-meta.co.jp/*
 *://paediatricplay.com.au/*
 *://page.line.me/*
 *://paidy.onelink.me/*
@@ -15807,7 +15788,6 @@
 *://pally-pally.com/*
 *://palm-springs-movie.com/*
 *://pamirprivateschool.org/*
-*://pamxy.co.jp/*
 *://panda-weblog.com/*
 *://panen138.bitgetexchange.online/*
 *://papagaku.com/*
@@ -15858,12 +15838,10 @@
 *://pdxk.gyqvajgq.biz/*
 *://peakproductivitycoaching.com/*
 *://peaks-comic.com/*
-*://peaksmarketing.co.jp/*
 *://peaku.co/*
 *://pearl-veteran.com/*
 *://peasun.jp/*
 *://peavyuai.styr.solutions/*
-*://pedia.3rd-in.co.jp/*
 *://pelulog.com/*
 *://penghuothgroup.com/*
 *://penguinblog.work/*
@@ -15896,7 +15874,6 @@
 *://php.rinet.ru/*
 *://phpa.me/*
 *://physicalsole.jp/*
-*://piace-enterprise.co.jp/*
 *://piano-when-music.com/*
 *://pica-lifedesigner.com/*
 *://piccolo-net.com/*
@@ -15907,7 +15884,6 @@
 *://picky-s.jp/college-student-laptop/*
 *://pico.inc/*
 *://pictureframeshub.com/*
-*://pignon.co.jp/*
 *://pikamama.com/*
 *://pikaonline.com/*
 *://pikeplacedesign.com/*
@@ -15935,7 +15911,6 @@
 *://pittsburghdancexplosion.com/*
 *://pixabay.com/*
 *://pixel-leaker.com/*
-*://pixela.co.jp/*
 *://pixls.jp/*
 *://pixt.me/*
 *://piyokogame.com/*
@@ -16012,7 +15987,6 @@
 *://popsfanlife.com/*
 *://popsokuhou.com/*
 *://popstoretokyo.com/*
-*://popteen.co.jp/*
 *://popularahora.com/*
 *://popversemix.com/*
 *://porka.shop/*
@@ -16215,7 +16189,6 @@
 *://ratio.thyshopp.life/*
 *://rawapk.com/*
 *://rawmangaraw.com/*
-*://ray-terrace.co.jp/*
 *://ray-terrace.co.jp/cheap-vpn/*
 *://razy.online/*
 *://rcc6kxk5.r.us-east-1.awstrack.me/*
@@ -16240,7 +16213,6 @@
 *://reblo.net/*
 *://rebooto3.com/*
 *://rechargewifi.base.shop/*
-*://recipe.rakuten.co.jp/*
 *://reco-link.com/*
 *://recomamadiary.com/*
 *://recomen-erocomi.anicomi3150.com/*
@@ -16395,7 +16367,6 @@
 *://robotstart.info/*
 *://rock-fes.com/*
 *://rock-note.com/*
-*://rocket-boys.co.jp/*
 *://rocketnews24.com/*
 *://rockonsocial.club/*
 *://rockresortrosario.com/*
@@ -16449,7 +16420,6 @@
 *://runachi2021.com/*
 *://runaruna-blog.com/*
 *://runrun777.com/*
-*://runsystem.co.jp/*
 *://runwearlifestyle.com/*
 *://ruriiro-mylife.com/*
 *://rusonbe-son.blog/*
@@ -16480,8 +16450,6 @@
 *://ryuuutamiblog.com/*
 *://ryzon-solutions.com/*
 *://s-direct.online/*
-*://s-seals.co.jp/*
-*://s.cinemacafe.net/*
 *://s.id/*
 *://s.newscafe.ne.jp/*
 *://s0ft4pc.com/*
@@ -16564,7 +16532,6 @@
 *://sarattosokuhou.com/*
 *://sarimama.com/*
 *://saron222.net/*
-*://saru.co.jp/*
 *://sarugakuchode.com/*
 *://sasa-blog42.com/*
 *://sasakinozomi-ouen.pink/*
@@ -16627,7 +16594,6 @@
 *://secure.taberu.me/*
 *://securitysoftguide.com/*
 *://see-d.jp/*
-*://seebeck.co.jp/*
 *://seed-pocket2.com/*
 *://seedo.augfund.biz/*
 *://seiai690152.ocnk.me/*
@@ -16717,7 +16683,6 @@
 *://shine-egg.com/*
 *://shineeday.com/*
 *://shingeki-no-nakayama.com/*
-*://shinjidai.co.jp/*
 *://shinju-oonuki.hatenadiary.org/*
 *://shinmaipapa.hatenablog.com/*
 *://shinno-asobi.com/*
@@ -16737,7 +16702,6 @@
 *://shiro-mi.com/*
 *://shiro.ousyukubai.com/*
 *://shiro24.com/*
-*://shirosaki-company.co.jp/*
 *://shirou-sports.com/*
 *://shiru-shiru.com/*
 *://shirurin.com/*
@@ -16759,7 +16723,6 @@
 *://shop-list.com/*
 *://shop.8dori.org/*
 *://shop.ccp.jp/*
-*://shop.enjoynet.co.jp/*
 *://shop.ghogphoto.com/*
 *://shop.hammockmusic.com/*
 *://shop.mitgard.com/*
@@ -16825,7 +16788,6 @@
 *://sirokumama-ikuji.com/*
 *://siryou.jp/*
 *://site.libecity.com/*
-*://sitecreation.co.jp/*
 *://sites.google.com/view/mullvadd-vpn/rapidvpn-vs-%E4%BB%96%E3%81%AEvpn%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E9%81%B8%E6%8A%9E%E8%82%A2%E3%81%AF%E3%81%A9%E3%82%8C
 *://sivbp.moonarama.za.com/*
 *://sixany.com/*
@@ -16855,7 +16817,6 @@
 *://skyanimeblog.com/*
 *://skyddaskolan.com/*
 *://skydrive.live.ru/*
-*://skyfall.co.jp/*
 *://skytouchservices.com/*
 *://skywave-net.com/*
 *://slashdot.jp/*
@@ -19428,7 +19389,7 @@
 *://www.pinterest.jp/*
 *://www.pipanic.com.ec/*
 *://www.pirelli.cn/*
-*://www.pixela.co.jp/products/pickup/tips/4ksmart_tips10_amazingapps.html*
+*://www.pixela.co.jp/*
 *://www.pixgenie.net/*
 *://www.planetpixmedia.com/*
 *://www.playstation.ru/*
