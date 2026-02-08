@@ -10044,6 +10044,7 @@ fp.no-sheep.org/services##.main
 ||www.pipanic.com.ec^$document
 ||www.pirelli.cn^$document
 ||www.pixela.co.jp/products/pickup/tips/4ksmart_tips10_amazingapps.html^$document
+||www.pixela.co.jp^$document
 ||www.pixgenie.net^$document
 ||www.planetpixmedia.com^$document
 ||www.playstation.ru^$document
