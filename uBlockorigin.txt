@@ -827,7 +827,6 @@ fp.no-sheep.org/services##.main
 ||aritai.jp^$document
 ||arizonite.com^$document
 ||arkofrefuge.org^$document
-||arm-renovation.jp^$document
 ||armageddonhomes.com^$document
 ||aroma-ism.jp^$document
 ||aroma83.com^$document
