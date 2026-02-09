@@ -5238,7 +5238,7 @@ fp.no-sheep.org/services##.main
 ||my-site-102068-108917.square.site^$document
 ||my.ai-li.xyz^$document
 ||my.hintup.io^$document
-||my^$document,from=~cotoviaclinic.my|~vectorgroup.my|~randkuj.my|~gov.my
+||my^$document,from=~cotoviaclinic.my|~vectorgroup.my|~randkuj.my|~gov.my|~frdl.my
 ||mybloganik26.com^$document
 ||mybouzu.info^$document
 ||mycolorfulcolor.com^$document
