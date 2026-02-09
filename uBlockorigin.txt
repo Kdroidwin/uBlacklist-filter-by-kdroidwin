@@ -1860,7 +1860,6 @@ fp.no-sheep.org/services##.main
 ||deluxecruisedeals.com^$document
 ||deman.konyaanto.net^$document
 ||demimen.jp^$document
-||demo.easeus.com^$document
 ||denden6464.com^$document
 ||dendenshaka.com^$document
 ||dennys.id^$document
@@ -2571,7 +2570,6 @@ fp.no-sheep.org/services##.main
 ||flgas.com^$document
 ||flhzjo.com^$document
 ||flix2day.com^$document
-||flixpal.jp^$document
 ||float.fun^$document
 ||floras.co.in^$document
 ||florencemainstreet.org^$document
@@ -4023,7 +4021,6 @@ fp.no-sheep.org/services##.main
 ||kazuhirog.com^$document
 ||kazutobi.com^$document
 ||kazutoshinarita.com^$document
-||kb.easeus.com^$document
 ||kban.me^$document
 ||kboard.jp^$document
 ||kchihua.xyz^$document
@@ -8520,7 +8517,6 @@ fp.no-sheep.org/services##.main
 ||videotwimgcom.atukan.com^$document
 ||videotwimgcom.dayuh.net^$document
 ||videotwin.ehoh.net^$document
-||vidon.me^$document
 ||viearth.com^$document
 ||viet-bamboo.com^$document
 ||vietscout.jp^$document
@@ -8842,7 +8838,6 @@ fp.no-sheep.org/services##.main
 ||www.3hf3hxl.cn^$document
 ||www.40407.com^$document
 ||www.40a.com.cn^$document
-||www.4kdownload.com^$document
 ||www.4wbk00.cn^$document
 ||www.52888av.online^$document
 ||www.52wts.cn^$document
@@ -9277,7 +9272,6 @@ fp.no-sheep.org/services##.main
 ||www.e-netcaravan.jp^$document
 ||www.e-onkyo.com^$document
 ||www.easeus-software.com^$document
-||www.easeus.com^$document
 ||www.eastriding.gov.uk^$document
 ||www.eastridinglibraries.co.uk^$document
 ||www.ebay.me^$document
@@ -9979,7 +9973,6 @@ fp.no-sheep.org/services##.main
 ||www.onamae-desktop.com^$document
 ||www.onamae-server.com^$document
 ||www.oncologysquadllc.com^$document
-||www.ondesoft.jp^$document
 ||www.onebreath.fr^$document
 ||www.onedrop-cafe.com^$document
 ||www.onetrickpony.jp^$document
@@ -10545,7 +10538,6 @@ fp.no-sheep.org/services##.main
 ||www.wildwaadi.com^$document
 ||www.win-rar.ru^$document
 ||www.winrarcrack.pro^$document
-||www.winxdvd.com^$document
 ||www.winzip.com^$document
 ||www.wirtschaftlicher-verband.de^$document
 ||www.wish.com^$document
@@ -10783,7 +10775,6 @@ fp.no-sheep.org/services##.main
 ||yamayamaprivateroom.jp^$document
 ||yamomo12.com^$document
 ||yamucollege.com^$document
-||yanai-ke.com^$document
 ||yancane-shukatsu.com^$document
 ||yang678.xyz^$document
 ||yaoply.com^$document
