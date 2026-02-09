@@ -9268,12 +9268,8 @@ fp.no-sheep.org/services##.main
 ||www.dwdinteriors.com^$document
 ||www.dwpsraipur.com^$document
 ||www.dwrexbr.cn^$document
-||www.e-goods.site^$document
 ||www.e-netcaravan.jp^$document
 ||www.e-onkyo.com^$document
-||www.easeus-software.com^$document
-||www.eastriding.gov.uk^$document
-||www.eastridinglibraries.co.uk^$document
 ||www.ebay.me^$document
 ||www.ebirds.ru^$document
 ||www.ec2instances.info^$document
@@ -9972,8 +9968,6 @@ fp.no-sheep.org/services##.main
 ||www.olympichp.com^$document
 ||www.onamae-desktop.com^$document
 ||www.onamae-server.com^$document
-||www.oncologysquadllc.com^$document
-||www.onebreath.fr^$document
 ||www.onedrop-cafe.com^$document
 ||www.onetrickpony.jp^$document
 ||www.opp.ftcgroup.com.ph^$document
