@@ -3,6 +3,9 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
+*://strepgeroki.digital/*
+*://wittmann.digital/*
+*://gammapoint360.digital/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
