@@ -789,6 +789,7 @@ fp.no-sheep.org/services##.main
 ||appnee.com^$document
 ||appnstore.com^$document
 ||appoholow.xyz^$document
+||appollo.jp^$document
 ||apprev.smt.docomo.ne.jp^$document
 ||apprimo.info^$document
 ||apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja^$document
@@ -1179,6 +1180,7 @@ fp.no-sheep.org/services##.main
 ||blog.livedoor.jp/rock1963roll^$document
 ||blog.livedoor.jp/schoolunderground^$document
 ||blog.livedoor.jp/tricktreat-eroge^$document
+||blog.livedoor.jp/wakusoku^$document
 ||blog.livedoor.jp/youtubelives^$document
 ||blog.livedoor.jp/zetusoku^$document
 ||blog.livedoor.jp/zzcj^$document
@@ -2030,6 +2032,8 @@ fp.no-sheep.org/services##.main
 ||doujin.furukawakan.jp^$document
 ||doujin.himepai.com^$document
 ||doujin.ton-ton.jp^$document
+||doujin2.makianosaihu.com^$document
+||doujinbank.com^$document
 ||doujincco-ero.com^$document
 ||doujinfree.com^$document
 ||doujinnews.com^$document
@@ -2128,6 +2132,7 @@ fp.no-sheep.org/services##.main
 ||ecdeaf.com^$document
 ||eches8x4.bizandleisure.com^$document
 ||echicomi.blog.jp^$document
+||echicosplay.com^$document
 ||echizen-kanikanitei.jp^$document
 ||echomedia.co.jp^$document
 ||echour.com^$document
@@ -2468,6 +2473,7 @@ fp.no-sheep.org/services##.main
 ||fanshub.jp^$document
 ||fanza-com.mystrikingly.com^$document
 ||fanza.coideco.jp^$document
+||fanzabooks.com^$document
 ||fanzonetokyo.jp^$document
 ||farsisaz.com^$document
 ||fashion.biglobe.ne.jp^$document
@@ -2894,7 +2900,11 @@ fp.no-sheep.org/services##.main
 ||getapkgame.com^$document
 ||getbt.blog.2nt.com^$document
 ||getintopc.com^$document
+||getintopc.cv^$document
+||getintopc.fit^$document
+||getintopc.im^$document
 ||getintopc.me^$document
+||getintopc.onl^$document
 ||getmodpc.net^$document
 ||getmodsapk.com/youtube-revanced-extended-mod-apk^$document
 ||getmodsapk.com^$document
@@ -3956,6 +3966,7 @@ fp.no-sheep.org/services##.main
 ||kamaenitachiyoru.com^$document
 ||kamana-black.jp^$document
 ||kameshiba1212.com^$document
+||kamisama-anime.jp^$document
 ||kan8oskar.com^$document
 ||kanagawa-yc.jp^$document
 ||kanagawacc.com^$document
@@ -4000,6 +4011,7 @@ fp.no-sheep.org/services##.main
 ||kasimakadar.online^$document
 ||kasparblumen.ch^$document
 ||kasu-min.com^$document
+||kasumidesign.com^$document
 ||kataomoi3.com^$document
 ||kate7.sakura.ne.jp^$document
 ||kato-manga.sakura.ne.jp^$document
@@ -4697,6 +4709,7 @@ fp.no-sheep.org/services##.main
 ||maneql.co.jp^$document
 ||manga-bang.com^$document
 ||manga-comicoro.com^$document
+||manga-dl.pai-navi.com^$document
 ||manga-ebookservice.com^$document
 ||manga-games.com^$document
 ||manga-ganma.com^$document
@@ -5513,6 +5526,7 @@ fp.no-sheep.org/services##.main
 ||nishichibayk-dc.com^$document
 ||nishinono.com^$document
 ||nissancagayandeoro.com^$document
+||nisshin-kogyo.jp^$document
 ||nisshinne.life^$document
 ||niterune.com^$document
 ||nithraplywoodandhardware.com^$document
@@ -5996,6 +6010,7 @@ fp.no-sheep.org/services##.main
 ||obnal-babosov.ru^$document
 ||ocaec.com^$document
 ||occhocoyomeko.com^$document
+||ocean-of-games.com^$document
 ||oceanmemo.com^$document
 ||oceanofgames.com^$document
 ||oceanofgames.me^$document
@@ -6383,6 +6398,7 @@ fp.no-sheep.org/services##.main
 ||playcreativelab.com^$document
 ||playforparkinsons.org^$document
 ||playkull.com^$document
+||playma.jp^$document
 ||playruneterra.cn^$document
 ||playwithyuzu.com^$document
 ||plazaosaka-database.113110.online^$document
@@ -6817,6 +6833,7 @@ fp.no-sheep.org/services##.main
 ||riablog08.com^$document
 ||riadou.com^$document
 ||riceds68.tpcljp.com^$document
+||ricetech.jp^$document
 ||richness4.com^$document
 ||ricoricoblog.com^$document
 ||ridgeways.shadelmontessoricentre.com^$document
@@ -8380,6 +8397,7 @@ fp.no-sheep.org/services##.main
 ||umi-darwn.jp^$document
 ||umiyuri-b.com^$document
 ||umnikizdes.ru^$document
+||uncensored.jp^$document
 ||unconditional777.com^$document
 ||under-the-veil.jp^$document
 ||unicen.americancouncils.org^$document
@@ -9423,6 +9441,7 @@ fp.no-sheep.org/services##.main
 ||www.gestiondefortune.com^$document
 ||www.getback-okayama.jp^$document
 ||www.getintomac.net^$document
+||www.getintopc.world^$document
 ||www.getkmspico.com^$document
 ||www.getmodsapk.cc^$document
 ||www.getspeedy.io^$document
@@ -11092,6 +11111,7 @@ fp.no-sheep.org/services##.main
 ||zlibrary.to^$document
 ||zlmmafzfeb.xyz^$document
 ||zofe-warszawa.com^$document
+||zoro-shop.jp^$document
 ||zoroastrian.net^$document
 ||zqye.aztgxvrd.biz^$document
 ||zsa9q04de98.xn--d1aby4ah.xn--p1ai^$document

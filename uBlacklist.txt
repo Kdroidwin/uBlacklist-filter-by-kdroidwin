@@ -3,26 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://ocean-of-games.com/*
-*://www.getintopc.world/*
-*://getintopc.fit/*
-*://getintopc.im/*
-*://getintopc.cv/*
-*://getintopc.onl/*
-*://appollo.jp/*
-*://kasumidesign.com/*
-*://manga-dl.pai-navi.com/*
-*://echicosplay.com/*
-*://doujinbank.com/*
-*://zoro-shop.jp/*
-*://kamisama-anime.jp/*
-*://uncensored.jp/*
-*://blog.livedoor.jp/wakusoku/*
-*://playma.jp/*
-*://ricetech.jp/*
-*://nisshin-kogyo.jp/*
-*://fanzabooks.com/*
-*://doujin2.makianosaihu.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -10829,6 +10809,7 @@
 *://appnee.com/*
 *://appnstore.com/*
 *://appoholow.xyz/*
+*://appollo.jp/*
 *://apprev.smt.docomo.ne.jp/*
 *://apprimo.info/*
 *://apps.apple.com/au/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8C%E3%82%8Bvisa%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353*
@@ -11207,6 +11188,7 @@
 *://blog.livedoor.jp/rock1963roll/*
 *://blog.livedoor.jp/schoolunderground/*
 *://blog.livedoor.jp/tricktreat-eroge/*
+*://blog.livedoor.jp/wakusoku/*
 *://blog.livedoor.jp/youtubelives/*
 *://blog.livedoor.jp/zetusoku/*
 *://blog.livedoor.jp/zzcj/*
@@ -12038,6 +12020,8 @@
 *://doujin.furukawakan.jp/*
 *://doujin.himepai.com/*
 *://doujin.ton-ton.jp/*
+*://doujin2.makianosaihu.com/*
+*://doujinbank.com/*
 *://doujincco-ero.com/*
 *://doujinfree.com/*
 *://doujinnews.com/*
@@ -12132,6 +12116,7 @@
 *://ecdeaf.com/*
 *://eches8x4.bizandleisure.com/*
 *://echicomi.blog.jp/*
+*://echicosplay.com/*
 *://echizen-kanikanitei.jp/*
 *://echomedia.co.jp/*
 *://echour.com/*
@@ -12460,6 +12445,7 @@
 *://fanshub.jp/*
 *://fanza-com.mystrikingly.com/*
 *://fanza.coideco.jp/*
+*://fanzabooks.com/*
 *://fanzonetokyo.jp/*
 *://farsisaz.com/*
 *://fashion.biglobe.ne.jp/*
@@ -12870,7 +12856,11 @@
 *://getapkgame.com/*
 *://getbt.blog.2nt.com/*
 *://getintopc.com/*
+*://getintopc.cv/*
+*://getintopc.fit/*
+*://getintopc.im/*
 *://getintopc.me/*
+*://getintopc.onl/*
 *://getmodpc.net/*
 *://getmodsapk.com/*
 *://getmodsapk.com/youtube-revanced-extended-mod-apk/*
@@ -13900,6 +13890,7 @@
 *://kamaenitachiyoru.com/*
 *://kamana-black.jp/*
 *://kameshiba1212.com/*
+*://kamisama-anime.jp/*
 *://kan8oskar.com/*
 *://kanagawa-yc.jp/*
 *://kanagawacc.com/*
@@ -13942,6 +13933,7 @@
 *://kasimakadar.online/*
 *://kasparblumen.ch/*
 *://kasu-min.com/*
+*://kasumidesign.com/*
 *://kataomoi3.com/*
 *://kate7.sakura.ne.jp/*
 *://kato-manga.sakura.ne.jp/*
@@ -14615,6 +14607,7 @@
 *://maneki-rus.ru/*
 *://manga-bang.com/*
 *://manga-comicoro.com/*
+*://manga-dl.pai-navi.com/*
 *://manga-ebookservice.com/*
 *://manga-games.com/*
 *://manga-ganma.com/*
@@ -15387,6 +15380,7 @@
 *://nishichibayk-dc.com/*
 *://nishinono.com/*
 *://nissancagayandeoro.com/*
+*://nisshin-kogyo.jp/*
 *://nisshinne.life/*
 *://niterune.com/*
 *://nithraplywoodandhardware.com/*
@@ -15850,6 +15844,7 @@
 *://obnal-babosov.ru/*
 *://ocaec.com/*
 *://occhocoyomeko.com/*
+*://ocean-of-games.com/*
 *://oceanmemo.com/*
 *://oceanofgames.com/*
 *://oceanofgames.me/*
@@ -16217,6 +16212,7 @@
 *://playcreativelab.com/*
 *://playforparkinsons.org/*
 *://playkull.com/*
+*://playma.jp/*
 *://playruneterra.cn/*
 *://playwithyuzu.com/*
 *://plazaosaka-database.113110.online/*
@@ -16614,6 +16610,7 @@
 *://riablog08.com/*
 *://riadou.com/*
 *://riceds68.tpcljp.com/*
+*://ricetech.jp/*
 *://richness4.com/*
 *://ricoricoblog.com/*
 *://ridgeways.shadelmontessoricentre.com/*
@@ -18061,6 +18058,7 @@
 *://umi-darwn.jp/*
 *://umiyuri-b.com/*
 *://umnikizdes.ru/*
+*://uncensored.jp/*
 *://unconditional777.com/*
 *://under-the-veil.jp/*
 *://unicen.americancouncils.org/*
@@ -19058,6 +19056,7 @@
 *://www.gestiondefortune.com/*
 *://www.getback-okayama.jp/*
 *://www.getintomac.net/*
+*://www.getintopc.world/*
 *://www.getkmspico.com/*
 *://www.getmodsapk.cc/*
 *://www.getspeedy.io/*
@@ -20690,6 +20689,7 @@
 *://zlibrary.to/*
 *://zlmmafzfeb.xyz/*
 *://zofe-warszawa.com/*
+*://zoro-shop.jp/*
 *://zoroastrian.net/*
 *://zqye.aztgxvrd.biz/*
 *://zsa9q04de98.xn--d1aby4ah.xn--p1ai/*
