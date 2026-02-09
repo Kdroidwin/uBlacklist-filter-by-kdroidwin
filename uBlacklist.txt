@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://rakutens-jp.shop/*
-*://vifox.aremove.shop/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -12,24 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://foc.roadel.xyz/*
-*://roadel.xyz/*
-*://bargain-bulk.com/*
-*://asdfgyk.com/*
-*://kisetsumi.com/*
-*://jp-nene.com/*
-*://jacklovea.com/*
-*://gykeyyyz.com/*
-*://cicn-mall.com/*
-*://loccevd.com/*
-*://lataoo.com/*
-*://riicoralis.com/*
-*://ootdctyt.com/*
-*://nemotera.com/*
-*://tianrbxbx.com/*
-*://muchmallss.com/*
-*://yondanon.com/*
-*://rcgvnynl.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -10901,6 +10881,7 @@
 *://asalkhabar.com/*
 *://ascalio.xyz/*
 *://asdfcvsdgfdc.com/*
+*://asdfgyk.com/*
 *://asdproject.jp/*
 *://aseiouemt.com/*
 *://asesoreslinra.com/*
@@ -11037,6 +11018,7 @@
 *://bar-ryuk.com/*
 *://bareboat.tips/*
 *://barerl64.bizandleisure.com/*
+*://bargain-bulk.com/*
 *://bargelloperfume.shop/*
 *://barrioantiguomex.com/*
 *://bartbeale.online/*
@@ -11559,6 +11541,7 @@
 *://churchfront.me/*
 *://chuzai-china.com/*
 *://ciatr.jp/*
+*://cicn-mall.com/*
 *://cikarciadam.online/*
 *://cimco-us.com/*
 *://cinderella.blog/*
@@ -12584,6 +12567,7 @@
 *://fmovieus.com/*
 *://fmwa.app/*
 *://fmwatasa.com/*
+*://foc.roadel.xyz/*
 *://focus-one.co.jp/*
 *://fogiews2.malaysiainternationalschools.com/*
 *://fokyo.life/*
@@ -13082,6 +13066,7 @@
 *://gwkzccabinet.com/*
 *://gxh.sweetbuy.shop/*
 *://gxt1831.com/*
+*://gykeyyyz.com/*
 *://gyoukaijin-log.com/*
 *://gyouza-yamatani.jp/*
 *://gypsoo.com/*
@@ -13704,6 +13689,7 @@
 *://ja.wizcase.com/*
 *://jaccul.org/*
 *://jackdappabluesradio.tv/*
+*://jacklovea.com/*
 *://jadancestudio.com/*
 *://jaisalmervoyage.in/*
 *://jalyuzi-mir.ru/*
@@ -13813,6 +13799,7 @@
 *://joyuu-media.com/*
 *://jp-2.dogge.info/*
 *://jp-m.banggood.com/*
+*://jp-nene.com/*
 *://jp-yooho.com/*
 *://jp.adorable-pet.com/*
 *://jp.amp.xhamster.com/*
@@ -14085,6 +14072,7 @@
 *://kiritoblog.com/*
 *://kirovskuiraion.ru/*
 *://kiset-season.com/*
+*://kisetsumi.com/*
 *://kisetsuneta.info/*
 *://kisetsuno-osusume.com/*
 *://kisocook.com/*
@@ -14302,6 +14290,7 @@
 *://laponas.com/*
 *://larousse-t.com/*
 *://last-letter-c.com/*
+*://lataoo.com/*
 *://latestmodapks.com/*
 *://laughbeauty.com/*
 *://launchcontrol.us/*
@@ -14439,6 +14428,7 @@
 *://loadpiece.xyz/*
 *://local.jiheishou-e.xyz/*
 *://locandroll.com/*
+*://loccevd.com/*
 *://lockets.jp/*
 *://login.ecount.cn/*
 *://login.jobcan.app/*
@@ -15110,6 +15100,7 @@
 *://mtrl.tokyo/*
 *://mttag.com/*
 *://mubaohiemxin.com/*
+*://muchmallss.com/*
 *://mudawanat-tibiya-sa.shop/*
 *://mufufu-comic.com/*
 *://muggywsy.thepines-melaka.com/*
@@ -15283,6 +15274,7 @@
 *://nekotopi.com/*
 *://nekoyasui.jp/*
 *://nemacicek.com/*
+*://nemotera.com/*
 *://nemutaiwow.com/*
 *://nen-syu.com/*
 *://nenshu-check.jp/*
@@ -15966,6 +15958,7 @@
 *://oodoori.com/*
 *://oomake.com/*
 *://oota01.com/*
+*://ootdctyt.com/*
 *://op1.info/*
 *://opc3.bandom.info/*
 *://opensea.io/*
@@ -16465,6 +16458,7 @@
 *://rakuenta.com/*
 *://rakuten-viki.hatenablog.com/*
 *://rakuten.tameshiyo.me/*
+*://rakutens-jp.shop/*
 *://ramcoenterprises.com/*
 *://ranariosaoluis.com/*
 *://rank-king.jp/*
@@ -16488,6 +16482,7 @@
 *://ray-terrace.co.jp/cheap-vpn/*
 *://razy.online/*
 *://rcc6kxk5.r.us-east-1.awstrack.me/*
+*://rcgvnynl.com/*
 *://rcp-sfc.com/*
 *://rcrc3345.com/*
 *://rdre.me/*
@@ -16635,6 +16630,7 @@
 *://ricoricoblog.com/*
 *://ridgeways.shadelmontessoricentre.com/*
 *://riekoblog.com/*
+*://riicoralis.com/*
 *://rika333ep.com/*
 *://rikeilifeblog.com/*
 *://rillyblog.net/*
@@ -16658,6 +16654,7 @@
 *://rkelsey.com/*
 *://rme-kaigo.jp/*
 *://rn2z8o6fe.adrianodosanjos.de/*
+*://roadel.xyz/*
 *://robamimireport.com/*
 *://robesgxo.check-in-out.com/*
 *://robogeki.sakura.ne.jp/*
@@ -17746,6 +17743,7 @@
 *://thisav.com/*
 *://thuexethanhnhan.com/*
 *://ti-blg-02.com/*
+*://tianrbxbx.com/*
 *://tiara-inc.jp/*
 *://tibettibet.com/*
 *://tiebukurojinsei.com/*
@@ -18213,6 +18211,7 @@
 *://viearth.com/*
 *://viet-bamboo.com/*
 *://vietscout.jp/*
+*://vifox.aremove.shop/*
 *://vile.eosose.ink/*
 *://villaastori.com/detail/*
 *://vin2chance.com/*
@@ -20453,6 +20452,7 @@
 *://yomidou.com/*
 *://yonayonafreedom.net/*
 *://yoncoichi.com/*
+*://yondanon.com/*
 *://yonetei.com/*
 *://yonoi.com/*
 *://yoor.jp/*
