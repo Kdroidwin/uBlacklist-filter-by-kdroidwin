@@ -12538,7 +12538,6 @@
 *://flgas.com/*
 *://flhzjo.com/*
 *://flix2day.com/*
-*://flixpal.jp/*
 *://float.fun/*
 *://floras.co.in/*
 *://florencemainstreet.org/*
@@ -18173,7 +18172,6 @@
 *://videotwimgcom.atukan.com/*
 *://videotwimgcom.dayuh.net/*
 *://videotwin.ehoh.net/*
-*://vidon.me/*
 *://viearth.com/*
 *://viet-bamboo.com/*
 *://vietscout.jp/*
@@ -20362,7 +20360,6 @@
 *://yamayamaprivateroom.jp/*
 *://yamomo12.com/*
 *://yamucollege.com/*
-*://yanai-ke.com/*
 *://yancane-shukatsu.com/*
 *://yang678.xyz/*
 *://yaoply.com/*
