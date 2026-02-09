@@ -3,9 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://strepgeroki.digital/*
-*://wittmann.digital/*
-*://gammapoint360.digital/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -12755,6 +12752,7 @@
 *://gamesblog0.blog63.fc2.com/*
 *://gamesoku.dreamlog.jp/*
 *://gaming-select.com/*
+*://gammapoint360.digital/*
 *://gamoblog.net/*
 *://gamushara-lab.jp/*
 *://ganbarinote.net/*
@@ -17366,6 +17364,7 @@
 *://storyweb.jp/*
 *://strategydata.cn/*
 *://streamrental.com/*
+*://strepgeroki.digital/*
 *://strongcorner.net/*
 *://strufin.in/*
 *://stube.info/*
@@ -18417,6 +18416,7 @@
 *://wiple-service.com/column/*
 *://wise-media-factory.com/*
 *://wisteriablog.net/*
+*://wittmann.digital/*
 *://wizbiz.me/*
 *://wizy.jp/*
 *://wkkgq.com/*

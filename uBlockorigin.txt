@@ -2793,6 +2793,7 @@ fp.no-sheep.org/services##.main
 ||gamesblog0.blog63.fc2.com^$document
 ||gamesoku.dreamlog.jp^$document
 ||gaming-select.com^$document
+||gammapoint360.digital^$document
 ||gamoblog.net^$document
 ||gamushara-lab.jp^$document
 ||ganbarinote.net^$document
@@ -7652,6 +7653,7 @@ fp.no-sheep.org/services##.main
 ||storyweb.jp^$document
 ||strategydata.cn^$document
 ||streamrental.com^$document
+||strepgeroki.digital^$document
 ||string.quest^$document
 ||strongcorner.net^$document
 ||strufin.in^$document
@@ -8791,6 +8793,7 @@ fp.no-sheep.org/services##.main
 ||wiple-service.com/column^$document
 ||wise-media-factory.com^$document
 ||wisteriablog.net^$document
+||wittmann.digital^$document
 ||wizbiz.me^$document
 ||wizy.jp^$document
 ||wkkgq.com^$document
