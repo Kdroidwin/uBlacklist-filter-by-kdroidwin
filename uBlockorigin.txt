@@ -8304,7 +8304,6 @@ fp.no-sheep.org/services##.main
 ||tricicloeco.com^$document
 ||tricompany.ru^$document
 ||triedp0s.ev0lverinc.com^$document
-||trilltrill.jp^$document
 ||trip-italy.com^$document
 ||trivia-and-know-how-notes.com^$document
 ||trivialicious.online^$document
