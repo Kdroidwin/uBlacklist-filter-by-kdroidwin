@@ -10,12 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://satorugames55.com/*
-*://a8.net/*
-*://jp.ldplayer.net/apps/*
-*://www.memuplay.com/jp/download*
-*://www.memuplay.com/en/download*
-*://jp.bignox.com/appcenter/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -10358,6 +10352,7 @@
 *://a4mdubai.com/*
 *://a551.omingcple.top/*
 *://a711.work/*
+*://a8.net/*
 *://a8e2385.com/*
 *://aa-educare.com/*
 *://aaanews.net/*
@@ -13811,7 +13806,9 @@
 *://jp-nene.com/*
 *://jp-yooho.com/*
 *://jp.adorable-pet.com/*
+*://jp.bignox.com/appcenter/*
 *://jp.itopvpn.com/*
+*://jp.ldplayer.net/apps/*
 *://jp.mobile.japex.ru/*
 *://jp.soft57.com/*
 *://jp.visit-japan.cn/*
@@ -16853,6 +16850,7 @@
 *://satoristudio.net/*
 *://satoritalk.jp/*
 *://satoru-try.com/*
+*://satorugames55.com/*
 *://satoyurulife.xyz/*
 *://satsuma-imo-blog.net/*
 *://satsutabato-onsen.com/*
@@ -19493,7 +19491,9 @@
 *://www.mejorcodigo.com/*
 *://www.mekan0.com/*
 *://www.memuplay.com/*/how-to-use-*-on-pc.html
+*://www.memuplay.com/en/download*
 *://www.memuplay.com/how-to-use-*-download-on-pc.html*
+*://www.memuplay.com/jp/download*
 *://www.menuguildsystem.com/*
 *://www.mercedesme.jp/*
 *://www.mercure.jp/*

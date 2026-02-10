@@ -293,6 +293,7 @@ fp.no-sheep.org/services##.main
 ||a4mdubai.com^$document
 ||a551.omingcple.top^$document
 ||a711.work^$document
+||a8.net^$document
 ||a8e2385.com^$document
 ||aa-educare.com^$document
 ||aaanews.net^$document
@@ -3879,7 +3880,9 @@ fp.no-sheep.org/services##.main
 ||jp-nene.com^$document
 ||jp-yooho.com^$document
 ||jp.adorable-pet.com^$document
+||jp.bignox.com/appcenter^$document
 ||jp.itopvpn.com^$document
+||jp.ldplayer.net/apps^$document
 ||jp.mobile.japex.ru^$document
 ||jp.soft57.com^$document
 ||jp.visit-japan.cn^$document
@@ -7093,6 +7096,7 @@ fp.no-sheep.org/services##.main
 ||satoristudio.net^$document
 ||satoritalk.jp^$document
 ||satoru-try.com^$document
+||satorugames55.com^$document
 ||satoyurulife.xyz^$document
 ||satsuma-imo-blog.net^$document
 ||satsutabato-onsen.com^$document
