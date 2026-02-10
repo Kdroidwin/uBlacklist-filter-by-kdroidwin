@@ -331,6 +331,7 @@ fp.no-sheep.org/services##.main
 ||access-network.jp^$document
 ||acchan-labo.com^$document
 ||accocolorpencil99.com^$document
+||account.antispy.shop^$document
 ||accounts.millenvpn.jp^$document
 ||accounts.recustomer.xyz^$document
 ||acehmediacenter.com^$document
@@ -4484,6 +4485,7 @@ fp.no-sheep.org/services##.main
 ||lineblog.me^$document
 ||lingualeo.com^$document
 ||linguistic.global^$document
+||link-card.online/cards^$document
 ||link.fmkorea.org^$document
 ||link.gevents.cn^$document
 ||link.photoprism.app^$document

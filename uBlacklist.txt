@@ -5,8 +5,6 @@
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
-*://account.antispy.shop/*
-*://link-card.online/cards/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
@@ -10389,6 +10387,7 @@
 *://access-network.jp/*
 *://acchan-labo.com/*
 *://accocolorpencil99.com/*
+*://account.antispy.shop/*
 *://accounts.millenvpn.jp/*
 *://accounts.recustomer.xyz/*
 *://acehmediacenter.com/*
@@ -14393,6 +14392,7 @@
 *://lineblog.me/*
 *://lingualeo.com/*
 *://linguistic.global/*
+*://link-card.online/cards/*
 *://link.fmkorea.org/*
 *://link.gevents.cn/*
 *://link.photoprism.app/*
