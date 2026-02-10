@@ -13803,17 +13803,11 @@
 *://joyo96.org/*
 *://joyuu-media.com/*
 *://jp-2.dogge.info/*
-*://jp-m.banggood.com/*
 *://jp-nene.com/*
 *://jp-yooho.com/*
 *://jp.adorable-pet.com/*
-*://jp.amp.xhamster.com/*
-*://jp.colormango.com/*
-*://jp.iherb.com/*
 *://jp.itopvpn.com/*
-*://jp.ldplayer.net/*
 *://jp.mobile.japex.ru/*
-*://jp.news.gree.net/*
 *://jp.soft57.com/*
 *://jp.visit-japan.cn/*
 *://jp.winxmac.com/*
