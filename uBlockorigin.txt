@@ -7011,6 +7011,7 @@ fp.no-sheep.org/services##.main
 ||saeriho.com^$document
 ||safety.t-com.ne.jp^$document
 ||safewebtalk.com/check-site/infinitytweet-me-reviews^$document
+||safty-news-information.com^$document
 ||saga-art.jp^$document
 ||sagasite.info^$document
 ||saha.cl^$document
