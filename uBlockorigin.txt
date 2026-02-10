@@ -9235,7 +9235,6 @@ fp.no-sheep.org/services##.main
 ||www.cosnet.jp^$document
 ||www.cpdportal.net^$document
 ||www.crackingcity.com^$document
-||www.crank-in.net^$document
 ||www.cranq.jp^$document
 ||www.creamiofoods.com^$document
 ||www.creodentistry.com^$document
