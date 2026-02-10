@@ -1007,3 +1007,4 @@
 @*://acortar.click/*
 @*://kakyo.sbs/*
 @*://ehimedoyoukai.sbs/*
+@*://nunflix.my/*
