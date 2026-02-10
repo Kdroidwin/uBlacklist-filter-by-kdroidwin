@@ -2873,7 +2873,6 @@ fp.no-sheep.org/services##.main
 ||geinouyuumei.com^$document
 ||geinouzin.net^$document
 ||geisposoul.com^$document
-||geitopi.com^$document
 ||gekibuzz.com^$document
 ||gekidan-shiki.com^$document
 ||gekka-bunko.com^$document
@@ -6380,7 +6379,6 @@ fp.no-sheep.org/services##.main
 ||pinokeblog.com^$document
 ||pintiaktivasyon.com^$document
 ||pinupbg5.latinncap.com^$document
-||pinzuba.news^$document
 ||pipi1211.com^$document
 ||pipikaizyu.com^$document
 ||pippirinrin.com^$document
