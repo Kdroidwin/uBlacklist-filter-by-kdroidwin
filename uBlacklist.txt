@@ -10,6 +10,12 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
+*://satorugames55.com/*
+*://a8.net/*
+*://jp.ldplayer.net/apps/*
+*://www.memuplay.com/jp/download*
+*://www.memuplay.com/en/download*
+*://jp.bignox.com/appcenter/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
