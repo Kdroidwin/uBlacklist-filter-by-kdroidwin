@@ -7975,6 +7975,7 @@ fp.no-sheep.org/services##.main
 ||test.crunch.is^$document
 ||test.dimax.ru^$document
 ||test.test-ccrm.philips.ru^$document
+||testdom.work^$document
 ||testhub.me^$document
 ||testing-bicto.bangsamoro.gov.ph^$document
 ||testwebsite.ejcoms.co.jp^$document

@@ -3,7 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://testdom.work/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -17668,6 +17667,7 @@
 *://test.crunch.is/*
 *://test.dimax.ru/*
 *://test.test-ccrm.philips.ru/*
+*://testdom.work/*
 *://testhub.me/*
 *://testwebsite.ejcoms.co.jp/*
 *://tet7224.com/*
