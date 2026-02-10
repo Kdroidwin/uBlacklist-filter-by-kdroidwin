@@ -2133,7 +2133,6 @@ fp.no-sheep.org/services##.main
 ||ebookstore.wpx.jp^$document
 ||ebpocket-free.jp.aptoide.com^$document
 ||ec-plus.panasonic.jp/store/page/pc/sp/organic/202108^$document
-||ec.line.me^$document
 ||ecdeaf.com^$document
 ||eches8x4.bizandleisure.com^$document
 ||echicomi.blog.jp^$document
