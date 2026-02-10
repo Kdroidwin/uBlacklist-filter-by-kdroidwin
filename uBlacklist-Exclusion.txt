@@ -1034,3 +1034,5 @@
 @*://nyxcosmetics.com.my/*
 @*://khatam.com.my/*
 @*://www.unipin.my/*
+@*://shinzushi.my/*
+@*://habra.com.my/*
