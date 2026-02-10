@@ -4663,7 +4663,6 @@ fp.no-sheep.org/services##.main
 ||mahiru-afiri.com^$document
 ||mahoyome-stage.jp^$document
 ||maidoerobooks.com^$document
-||maidonanews.jp^$document
 ||maikumo.com^$document
 ||mail.almightyinfra.com^$document
 ||mail.chocolateslacabana.com^$document
