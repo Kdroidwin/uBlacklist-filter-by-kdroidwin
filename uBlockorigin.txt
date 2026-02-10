@@ -138,7 +138,6 @@ fp.no-sheep.org/services##.main
 ||2ndweb.jp^$document
 ||2q8p4.cn^$document
 ||2tempo.shop^$document
-||2week.net^$document
 ||2xmlabs.com^$document
 ||3-ta.com^$document
 ||3.211.208.96^$document
