@@ -3,8 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://nadjopak.pro/*
-*://www.haken-kagos.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -15166,6 +15164,7 @@
 *://nachi-trend.com/*
 *://naclover.com/*
 *://nadinbg.com/*
+*://nadjopak.pro/*
 *://nafomusic.com/*
 *://nagamonblog.com/*
 *://nagano-kensanpin-gift.jp/*
@@ -19130,6 +19129,7 @@
 *://www.hachioji-orimono.jp/*
 *://www.hacocoro.com/*
 *://www.haitenjp.com/*
+*://www.haken-kagos.com/*
 *://www.hakone-chan.jp/*
 *://www.hakone-yamatoya.com/*
 *://www.hallaron.com/*

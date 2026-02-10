@@ -5289,6 +5289,7 @@ fp.no-sheep.org/services##.main
 ||nachi-trend.com^$document
 ||naclover.com^$document
 ||nadinbg.com^$document
+||nadjopak.pro^$document
 ||nafomusic.com^$document
 ||nagamonblog.com^$document
 ||nagano-kensanpin-gift.jp^$document
@@ -9517,6 +9518,7 @@ fp.no-sheep.org/services##.main
 ||www.hachioji-orimono.jp^$document
 ||www.hacocoro.com^$document
 ||www.haitenjp.com^$document
+||www.haken-kagos.com^$document
 ||www.hakone-chan.jp^$document
 ||www.hakone-yamatoya.com^$document
 ||www.hallaron.com^$document
