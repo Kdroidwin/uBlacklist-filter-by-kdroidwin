@@ -709,6 +709,7 @@ fp.no-sheep.org/services##.main
 ||aoshima-kenta.jp^$document
 ||aoyjpcgu.life^$document
 ||apaie.org^$document
+||apapablog.site^$document
 ||api.credaiwarangal.org^$document
 ||api.dart.cn^$document
 ||api.giftbuster.app^$document
@@ -2492,6 +2493,7 @@ fp.no-sheep.org/services##.main
 ||fb.me^$document
 ||fba.azurewebsites.net^$document
 ||fbfcmt27.autosns.app/^$document
+||fbfcmt27.autosns.app^$document
 ||fcvt-sale.com^$document
 ||fd.5201961.xyz^$document
 ||fe30a5b4.xyz^$document
@@ -3176,6 +3178,7 @@ fp.no-sheep.org/services##.main
 ||hamusoku.com^$document
 ||hana-naya.jp^$document
 ||hana-okane.com/temu-reviews^$document
+||hanae-blog.com^$document
 ||hanahanahappy.com^$document
 ||hanahappyblog.com^$document
 ||hanaji-dakimakura.taobao.com^$document
@@ -4621,6 +4624,7 @@ fp.no-sheep.org/services##.main
 ||m83afuvlx.marcel-geht-garnicht.de^$document
 ||ma-mekore.com^$document
 ||ma-net.jp^$document
+||ma-shi.info^$document
 ||ma^$doc,domain=~goq.ma|~abe.ma|~gov.ma
 ||maaengineerhouse.com^$document
 ||mabomabo00.com^$document
@@ -5649,6 +5653,7 @@ fp.no-sheep.org/services##.main
 ||note.com/crypto_y^$document
 ||note.com/cute_dietes883^$document
 ||note.com/cute_ruff6801^$document
+||note.com/cute_stilt636^$document
 ||note.com/cutecreaturecli^$document
 ||note.com/dapper_boar1528^$document
 ||note.com/decoboco_sisters^$document
@@ -5667,6 +5672,7 @@ fp.no-sheep.org/services##.main
 ||note.com/fuku_chie^$document
 ||note.com/fuku_chie^$document
 ||note.com/fukuzou^$document
+||note.com/futamen^$document
 ||note.com/gad_hammocchi^$document
 ||note.com/gadget8^$document
 ||note.com/gadget_news^$document
@@ -5751,6 +5757,7 @@ fp.no-sheep.org/services##.main
 ||note.com/koh7166^$document
 ||note.com/koishitsu_^$document
 ||note.com/koreaiimono^$document
+||note.com/koshiki_nakano^$document
 ||note.com/kototamashacho^$document
 ||note.com/kouichi_0703^$document
 ||note.com/kuma_ai_studio^$document
@@ -6407,6 +6414,7 @@ fp.no-sheep.org/services##.main
 ||plaso.jp^$document
 ||plataformaeducativa.educatics.com.ec^$document
 ||platinmods.com/threads/youtube-revanced-extended-v19-16-39-non-root-2-224-0.218220/?amp=1^$document
+||play-video-84.blogspot.com^$document
 ||play.google.com/store/apps/datasafety?id=com.bimilyoncu.sscoderr.revanced^$document
 ||play.google.com/store/apps/datasafety?id=com.morgandev.snake&hl=ja&gl=US^$document
 ||play.google.com/store/apps/dev?id=6891936352065498609&hl=ja^$document
@@ -7491,6 +7499,7 @@ fp.no-sheep.org/services##.main
 ||southsidemibor.com^$document
 ||souzoku-yokohama.net^$document
 ||sozhaatimes.com^$document
+||sp-link.link^$document
 ||sp.gettersiida.net^$document
 ||spaceshipearth.jp^$document
 ||spacha2026.com^$document
@@ -7665,6 +7674,7 @@ fp.no-sheep.org/services##.main
 ||studionobres.com^$document
 ||styleproud-labo.com^$document
 ||suava-boutique.com^$document
+||sub.hanae-blog.com^$document
 ||sub.sako-edutech.com^$document
 ||sub2-30.aairwwq.online^$document
 ||subarashii.me^$document
