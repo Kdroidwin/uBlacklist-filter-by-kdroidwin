@@ -12830,7 +12830,6 @@
 *://geinouyuumei.com/*
 *://geinouzin.net/*
 *://geisposoul.com/*
-*://geitopi.com/*
 *://gekibuzz.com/*
 *://gekidan-shiki.com/*
 *://gekka-bunko.com/*
@@ -16194,7 +16193,6 @@
 *://pinokeblog.com/*
 *://pintiaktivasyon.com/*
 *://pinupbg5.latinncap.com/*
-*://pinzuba.news/*
 *://pipi1211.com/*
 *://pipikaizyu.com/*
 *://pippirinrin.com/*
