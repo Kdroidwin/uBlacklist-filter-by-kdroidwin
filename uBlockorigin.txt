@@ -4487,6 +4487,7 @@ fp.no-sheep.org/services##.main
 ||link.photoprism.app^$document
 ||link0plus-czdbb5cgd4bbebab.z01.azurefd.net^$document
 ||links.giveawayoftheday.com^$document
+||linksnavi.com^$document
 ||linoo7.com^$document
 ||linosy.com^$document
 ||lisae.me.uk^$document
