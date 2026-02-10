@@ -14566,7 +14566,6 @@
 *://mahiru-afiri.com/*
 *://mahoyome-stage.jp/*
 *://maidoerobooks.com/*
-*://maidonanews.jp/*
 *://maikumo.com/*
 *://mail.almightyinfra.com/*
 *://mail.chocolateslacabana.com/*
