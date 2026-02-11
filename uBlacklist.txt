@@ -2,11 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-title/正品/
-title/超便宜/
-title/特价/
-title/100%正規品/
-title/完全正規品/
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -20743,6 +20738,7 @@ title/完全正規品/
 /.*(tomoyoafuta).*/
 title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
 title/(プロフ要確認)様/
+title/100%正規品/
 title/Aazon/
 title/HOT !/
 title/HOT!/
@@ -20805,6 +20801,7 @@ title/動画を無料で観る方法 配信中/
 title/危険性の解説！/
 title/売り出し割引/
 title/学歴まとめ/
+title/完全正規品/
 title/年収や顔画像/
 title/年齢や本名/
 title/年齢・本名は？/
@@ -20818,6 +20815,7 @@ title/本名は？/
 title/本日限定価格/
 title/様 専用/
 title/様専用/
+title/正品/
 title/正規品販促激安/
 title/歴代彼/
 title/漫画rawが閉鎖？復旧はいつ？代わりの無料サイト/
@@ -20830,6 +20828,7 @@ title/熱愛報道/
 title/熱愛彼女/
 title/熱愛彼氏/
 title/熱愛発覚/
+title/特价/
 title/犯人は誰？名前/
 title/現在の顔/
 title/生い立ちがすごい⁈/
@@ -20850,6 +20849,7 @@ title/調査！ /
 title/調査！/
 title/販売割引商品/
 title/購入廉価/
+title/超便宜/
 title/転生も/
 title/顔バレ/
 title/顔写真はや高校は？結婚/
