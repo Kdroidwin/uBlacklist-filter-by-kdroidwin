@@ -2,6 +2,11 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+title/正品/
+title/超便宜/
+title/特价/
+title/100%正規品/
+title/完全正規品/
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
