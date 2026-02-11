@@ -10327,7 +10327,6 @@ fp.no-sheep.org/services##.main
 ||www.sound.xyz^$document
 ||www.sousacontabilidade.net^$document
 ||www.spacioclub.ru^$document
-||www.spic-int.jp^$document
 ||www.spology.jp^$document
 ||www.sports.ru^$document
 ||www.sports2films.com^$document
