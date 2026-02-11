@@ -6544,7 +6544,6 @@ fp.no-sheep.org/services##.main
 ||promotions.champs-sportsclub.com^$document
 ||proteamworks.com^$document
 ||proyectolibelulaverde.com^$document
-||prtimes.jp^$document
 ||prwireonline.com^$document
 ||psalmsforkids.com^$document
 ||psaunsooksuthi.com^$document
