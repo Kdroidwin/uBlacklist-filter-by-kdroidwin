@@ -9,6 +9,7 @@
 @*://emulation.gametechwiki.com/*
 @*://minnadesonicmachisagashi.z11.web.core.windows.net/*
 @*://browserpicker.z13.web.core.windows.net/*
+@*://stkarteai1763705952.z11.web.core.windows.net/*
 @*://jjya.xyz/*
 @*://ghostpia.xyz/*
 @*://xiaoron.xyz/*
