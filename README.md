@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 メールアプリやSNSなどのアプリからリンクしたときなどに使えます。
 ⚠検索結果には表示されますがリンククリックするとuBlock Originのポップアップが出ます。
 
-- uBlock Origin 用フィルター URL 検索結果非表示
+- uBlock Origin 用フィルター for SearXNG
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/sites/uBO-note.txt
 ```
