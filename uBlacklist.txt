@@ -550,7 +550,6 @@
 *://*.ayacnews2nd.com/*
 *://*.az/*.shtm
 *://*.bcqqvtlk.property/*
-*://*.bd/*
 *://*.best/*
 *://*.bi/*
 *://*.bid/*
@@ -819,7 +818,6 @@
 *://*.by/?z=f*
 *://*.by/shop/cart/cart.aspx?*
 *://*.carnival00inkochi.jp/*
-*://*.cf/*
 *://*.cfd/*
 *://*.ch/?a=0*
 *://*.ch/?a=1*
