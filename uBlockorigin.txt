@@ -3144,6 +3144,7 @@ fp.no-sheep.org/services##.main
 ||hackerbot.net^$document
 ||hacking8.xyz^$document
 ||hadesign.jp^$document
+||hagelicious.com^$document
 ||hagemag.com^$document
 ||hagemarugt.com^$document
 ||hahahax282828.seesaa.net^$document
@@ -5479,6 +5480,7 @@ fp.no-sheep.org/services##.main
 ||newsinfomation.net^$document
 ||newslabo.inf^$document
 ||newslabo.info^$document
+||newsletter.umino-ai.com^$document
 ||newsmatomedia.com^$document
 ||newsnews.today^$document
 ||newspo24.com^$document
@@ -7675,6 +7677,7 @@ fp.no-sheep.org/services##.main
 ||suava-boutique.com^$document
 ||sub.hanae-blog.com^$document
 ||sub.sako-edutech.com^$document
+||sub.yyymeari.com^$document
 ||sub2-30.aairwwq.online^$document
 ||subarashii.me^$document
 ||subaru71.ru^$document
@@ -7930,6 +7933,7 @@ fp.no-sheep.org/services##.main
 ||td^$doc,domain=~itrad.td|~hama.td|~portail.td|~adac.td|~onape.td|~f.td
 ||tdburger.com^$document
 ||teamnacs5d2.selforder.live^$document
+||tearoomneko.com^$document
 ||teatrodelamemoria.com^$document
 ||teatrsobytie.ru^$document
 ||tecahe.za.com^$document

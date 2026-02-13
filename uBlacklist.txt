@@ -2,12 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://hagelicious.com/*
-*://sub.yyymeari.com/*
-*://tearoomneko.com/*
-*://newsletter.umino-ai.com/*
-*://antispy.shop/blogs/news/fake-antispyphone*
-*://*.com.br/*.php?*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -1885,6 +1879,7 @@
 *://*.com.ar/?e=1*
 *://*.com.au/content.php?q=*
 *://*.com.au/products.php?*
+*://*.com.br/*.php?*
 *://*.com.br/?_g=0*
 *://*.com.br/?_g=1*
 *://*.com.br/?_g=2*
@@ -10721,6 +10716,7 @@
 *://anthology.blog/*
 *://anthonyleger.com/*
 *://antimatter-dimensions-mod.glitch.me/*
+*://antispy.shop/blogs/news/fake-antispyphone*
 *://antispy.shop/checkouts/*
 *://antispy.shop/collections/*
 *://antispy.shop/pages/*
@@ -13096,6 +13092,7 @@
 *://hackerbot.net/*
 *://hacking8.xyz/*
 *://hadesign.jp/*
+*://hagelicious.com/*
 *://hagemag.com/*
 *://hagemarugt.com/*
 *://hahahax282828.seesaa.net/*
@@ -15345,6 +15342,7 @@
 *://newsinfomation.net/*
 *://newslabo.inf
 *://newslabo.info/*
+*://newsletter.umino-ai.com/*
 *://newsmatomedia.com/*
 *://newsnews.today/*
 *://newspo24.com/*
@@ -17391,6 +17389,7 @@
 *://suava-boutique.com/*
 *://sub.hanae-blog.com/*
 *://sub.sako-edutech.com/*
+*://sub.yyymeari.com/*
 *://sub2-30.aairwwq.online/*
 *://subarashii.me/*
 *://subaru71.ru/*
@@ -17633,6 +17632,7 @@
 *://tbs.slot31.online/*
 *://tdburger.com/*
 *://teamnacs5d2.selforder.live/*
+*://tearoomneko.com/*
 *://teatrodelamemoria.com/*
 *://teatrsobytie.ru/*
 *://techacademy.jp/*
