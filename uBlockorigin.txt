@@ -8130,6 +8130,7 @@ fp.no-sheep.org/services##.main
 ||tmepros.com^$document
 ||tn-luck.com^$document
 ||to-komaru.com^$document
+||to-link.click^$document
 ||tobacco.jp^$document
 ||tobaichiro.net^$document
 ||tobanaibuta.com^$document
