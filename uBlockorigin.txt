@@ -1258,6 +1258,7 @@ fp.no-sheep.org/services##.main
 ||books.makianosaihu.com^$document
 ||bookwiz.me^$document
 ||boqxywd.art^$document
+||borovena.com^$document
 ||bort85185.spb.ru^$document
 ||boshi-hawaii.com^$document
 ||botebil.com^$document
@@ -2217,6 +2218,7 @@ fp.no-sheep.org/services##.main
 ||em.weed-dev.online^$document
 ||emangablog.com^$document
 ||embarrassed-bridge.com^$document
+||emcz4ecubs.com^$document
 ||emerald-energies.com^$document
 ||emery.me.uk^$document
 ||emi-life.net^$document
@@ -3157,6 +3159,7 @@ fp.no-sheep.org/services##.main
 ||haisoku.jp^$document
 ||haitenjp.com.cutestat.com^$document
 ||haitenjp.com.siteindices.com^$document
+||haitenjp.com^$document
 ||haiyu-dorama.com^$document
 ||hajiichi-memo.com^$document
 ||hajime-angler.com^$document
@@ -3335,6 +3338,7 @@ fp.no-sheep.org/services##.main
 ||highendtopics.com^$document
 ||highheel-association.jp^$document
 ||highlandsofdurhamgames.com^$document
+||highmaha.com^$document
 ||highschool-wp-3ekxbwgmwq-an.a.run.app^$document
 ||highstonecap.com^$document
 ||hightleak.xyz^$document
@@ -4505,6 +4509,7 @@ fp.no-sheep.org/services##.main
 ||littlepsx.com^$document
 ||liupanlove.me^$document
 ||live-happily-blog.com^$document
+||live-pq.cc^$document
 ||live.doneru.jp^$document
 ||livecafe-jive.com^$document
 ||liveinsightlab.com^$document
@@ -5165,6 +5170,7 @@ fp.no-sheep.org/services##.main
 ||mono-persons.com^$document
 ||monokuro0210.com^$document
 ||monologue-style.com^$document
+||monosola.com^$document
 ||monpuran.com^$document
 ||montblancfa.com^$document
 ||montblues.com^$document
@@ -5696,6 +5702,7 @@ fp.no-sheep.org/services##.main
 ||note.com/goph_^$document
 ||note.com/gorilivesp^$document
 ||note.com/hachiojiiphone^$document
+||note.com/haitenjp^$document
 ||note.com/haken_se_30manen^$document
 ||note.com/hakushiki_san^$document
 ||note.com/hakutoumomo^$document
@@ -10689,6 +10696,7 @@ fp.no-sheep.org/services##.main
 ||xis2p9rqc.wydawnictwopbb.pl^$document
 ||xiywa.info^$document
 ||xjyzaty.life^$document
+||xmnsqet.com^$document
 ||xmobile-allagi.jp^$document
 ||xmobile.ne.jp^$document
 ||xmpvpov.property^$document

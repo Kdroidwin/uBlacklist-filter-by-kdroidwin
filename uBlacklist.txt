@@ -4,14 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://note.com/haitenjp/*
-*://haitenjp.com/*
-*://emcz4ecubs.com/*
-*://borovena.com/*
-*://highmaha.com/*
-*://monosola.com/*
-*://xmnsqet.com/*
-*://live-pq.cc/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -11275,6 +11267,7 @@
 *://books.makianosaihu.com/*
 *://bookwiz.me/*
 *://boqxywd.art/*
+*://borovena.com/*
 *://bort85185.spb.ru/*
 *://boshi-hawaii.com/*
 *://botebil.com/*
@@ -12207,6 +12200,7 @@
 *://em.weed-dev.online/*
 *://emangablog.com/*
 *://embarrassed-bridge.com/*
+*://emcz4ecubs.com/*
 *://emerald-energies.com/*
 *://emery.me.uk/*
 *://emi-life.net/*
@@ -13111,6 +13105,7 @@
 *://haisoku.jp/*
 *://haitenjp.com.cutestat.com/*
 *://haitenjp.com.siteindices.com/*
+*://haitenjp.com/*
 *://haiyu-dorama.com/*
 *://hajiichi-memo.com/*
 *://hajime-angler.com/*
@@ -13286,6 +13281,7 @@
 *://highendtopics.com/*
 *://highheel-association.jp/*
 *://highlandsofdurhamgames.com/*
+*://highmaha.com/*
 *://highschool-wp-3ekxbwgmwq-an.a.run.app/*
 *://highstonecap.com/*
 *://hightleak.xyz/*
@@ -14422,6 +14418,7 @@
 *://littlepsx.com/*
 *://liupanlove.me/*
 *://live-happily-blog.com/*
+*://live-pq.cc/*
 *://live.doneru.jp/*
 *://livecafe-jive.com/*
 *://liveinsightlab.com/*
@@ -15057,6 +15054,7 @@
 *://mono-persons.com/*
 *://monokuro0210.com/*
 *://monologue-style.com/*
+*://monosola.com/*
 *://monpuran.com/*
 *://montblancfa.com/*
 *://montblues.com/*
@@ -15555,6 +15553,7 @@
 *://note.com/goph_/*
 *://note.com/gorilivesp/*
 *://note.com/hachiojiiphone/*
+*://note.com/haitenjp/*
 *://note.com/haken_se_30manen/*
 *://note.com/hakushiki_san/*
 *://note.com/hakutoumomo/*
@@ -20296,6 +20295,7 @@
 *://xis2p9rqc.wydawnictwopbb.pl/*
 *://xiywa.info/*
 *://xjyzaty.life/*
+*://xmnsqet.com/*
 *://xmobile.ne.jp/*
 *://xmpvpov.property/*
 *://xn-----7kcbimcshalibxwklcikjm0j9a9gqa.xn--p1ai/*
