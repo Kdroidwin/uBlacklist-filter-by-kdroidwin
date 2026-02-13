@@ -33,6 +33,7 @@
 /^https?:\/\/[^\/]+\.jp\.[a-z]{2,3}(/|$)/$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /https?:\/\/[a-z0-9-]+-co-jp\.cn/
+||potofu.me/xxx-xxx^$document
 /https?:\/\/[a-z0-9-]+-co-jp\.com/
 /https?:\/\/[a-z0-9-]+-co-jp\.mobi/
 /https?:\/\/[a-z0-9-]+-co-jp\.net/
