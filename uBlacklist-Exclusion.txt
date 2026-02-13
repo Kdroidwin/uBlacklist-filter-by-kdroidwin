@@ -1002,6 +1002,7 @@
 @*://bellwether.click/*
 @*://www.fujita-clinic.click/*
 @*://satoken.click/*
+@*://hoteljanken.click/*
 @*://www.gracha.click/*
 @*://www.sakacho.click/*
 @*://fatturapro.click/*
