@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://www.yamazenusa.com/*.phtml
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -20223,6 +20222,7 @@
 *://www.yamabukisaaya.cn/*
 *://www.yamadamanblog.com/*
 *://www.yamaushiblog.com/*
+*://www.yamazenusa.com/*.phtml
 *://www.yasdl.com/*
 *://www.yauslife.com/vpn/*
 *://www.ycxba.cn/*

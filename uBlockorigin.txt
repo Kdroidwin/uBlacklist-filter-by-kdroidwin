@@ -596,6 +596,7 @@ fp.no-sheep.org/services##.main
 ||amne.co.jp^$document
 ||amoebafile.blog.fc2.com^$document
 ||amorcos.ocnk.net^$document
+||amour-takarazuka.jp^$document
 ||amp.amebaownd.com^$document
 ||amprime.hatenablog.com^$document
 ||amprime.hatenablog.com^$document
