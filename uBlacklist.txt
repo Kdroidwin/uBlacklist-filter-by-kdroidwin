@@ -2,6 +2,12 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
+*://hagelicious.com/*
+*://sub.yyymeari.com/*
+*://tearoomneko.com/*
+*://newsletter.umino-ai.com/*
+*://antispy.shop/blogs/news/fake-antispyphone*
+*://*.com.br/*.php?*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
