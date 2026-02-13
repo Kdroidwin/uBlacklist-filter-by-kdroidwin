@@ -5949,13 +5949,9 @@
 *://*.kanazawa-round.jp/*
 *://*.kandatasokuho.com/*
 *://*.katsumoku.net/*
-*://*.ke/*
 *://*.kimuta1105.livedoor.blog/*
-*://*.km/*
-*://*.kn/*
 *://*.kokunanmonomousu.com/*
 *://*.kushi-mc.net/*
-*://*.kz/*
 *://*.lat/*
 *://*.latestmodapks.com/*
 *://*.lifehack2ch.livedoor.biz/*
