@@ -48,6 +48,8 @@ a2zapk.io##[href^="https://beta-app-sprout.xyz/489/143"] > button
 audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
 audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
 fp.no-sheep.org/services##.main
+krakenfiles.com##.download-btn
+krakenfiles.com##.myardbox.nativebaner
 nxbrew.net##.code-block
 www.google.com##div.yhQgZb:has-text(HOT ! )
 www.google.com##div.yhQgZb:has-text(HOT !)
