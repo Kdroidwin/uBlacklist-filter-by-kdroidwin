@@ -44,17 +44,15 @@
 1link.jp##a[href*="b-short.link"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 1link.jp##a[href*="lite.tiktok.com"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 1link.jp##a[href*="tiktok.com/ug"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
+a2zapk.io##[href^="https://beta-app-sprout.xyz/489/143"] > button
+audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
+audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
 fp.no-sheep.org/services##.main
+nxbrew.net##.code-block
 www.google.com##div.yhQgZb:has-text(HOT ! )
 www.google.com##div.yhQgZb:has-text(HOT !)
 www.google.com##div.yhQgZb:has-text(HOT!)
 www.google.com##div.yhQgZb:has-text(HOT！)
-nxbrew.net##.code-block
-a2zapk.io##[href^="https://beta-app-sprout.xyz/489/143"] > button
-||audiobookbay.lu/images/drr.gif$image
-audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
-audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
-||audiobookbay.lu/images/d-t.gif$image
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
@@ -930,6 +928,8 @@ audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直�
 ||atsushi-hisatumi.amebaownd.com/posts/12184891^$document
 ||attractions-music.jp^$document
 ||atugifito.online^$document
+||audiobookbay.lu/images/d-t.gif$image
+||audiobookbay.lu/images/drr.gif$image
 ||auditable.cl^$document
 ||auditexpert.net^$document
 ||augma.fandom.com^$document
@@ -4102,6 +4102,7 @@ audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直�
 ||kepperhooepr.online^$document
 ||keren.jp^$document
 ||kerorin1010.com^$document
+||kervjrfjd.pro^$document
 ||kessler.therealnorth.xyz^$document
 ||ketchytune.com^$document
 ||keukenhulponline.nl^$document

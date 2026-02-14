@@ -4,7 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://kervjrfjd.pro/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -14019,6 +14018,7 @@
 *://kepperhooepr.online/*
 *://keren.jp/*
 *://kerorin1010.com/*
+*://kervjrfjd.pro/*
 *://kessler.therealnorth.xyz/*
 *://ketchytune.com/*
 *://keukenhulponline.nl/*
