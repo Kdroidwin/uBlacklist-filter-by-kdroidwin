@@ -49,6 +49,12 @@ www.google.com##div.yhQgZb:has-text(HOT ! )
 www.google.com##div.yhQgZb:has-text(HOT !)
 www.google.com##div.yhQgZb:has-text(HOT!)
 www.google.com##div.yhQgZb:has-text(HOT！)
+nxbrew.net##.code-block
+a2zapk.io##[href^="https://beta-app-sprout.xyz/489/143"] > button
+||audiobookbay.lu/images/drr.gif$image
+audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
+audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
+||audiobookbay.lu/images/d-t.gif$image
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
