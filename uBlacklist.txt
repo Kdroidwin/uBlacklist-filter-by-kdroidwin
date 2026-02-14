@@ -2,12 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://cyberpour.com/*
-*://*.ua/*.shtml
-*://*.com/products.php?shop/*.html
-*://apkrealmania.com/*
-*://www.modroid-apk.store/*
-*://www.apkfiles.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -2736,6 +2730,7 @@
 *://*.com/index.php?shop/items/*
 *://*.com/products.php?n=*
 *://*.com/products.php?r=*
+*://*.com/products.php?shop/*.html
 *://*.com/saiga.php?shop/*
 *://*.com/shop/*/*.phtml
 *://*.com/wp-*.php?product*
@@ -9266,6 +9261,7 @@
 *://*.tw/?z=9*
 *://*.twitter.com.vn/*
 *://*.u1sokuhou.ldblog.jp/*
+*://*.ua/*.shtml
 *://*.ua/?a=0*
 *://*.ua/?a=1*
 *://*.ua/?a=2*
@@ -10783,6 +10779,7 @@
 *://apkpure.com/youtube-revanced/*
 *://apkpure.net/youtube-revanced/*
 *://apkrabi.com/*
+*://apkrealmania.com/*
 *://apkresult.io/*
 *://apkrexo.com/*
 *://apksfull.com/*
@@ -11768,6 +11765,7 @@
 *://cyamatrend.com/*
 *://cyberapp.ru/*
 *://cyberbiatch.com/*
+*://cyberpour.com/*
 *://cybersecurity-jp.com/contents/internet/*
 *://cybrigtejtreexrx.xyz/*
 *://cymolb7h.cjfoodmanagement.com.my/*
@@ -18645,6 +18643,7 @@
 *://www.aoimori-norin.jp/*
 *://www.aoritsuito.com/*
 *://www.apk3.com/*
+*://www.apkfiles.com/*
 *://www.apkrogue.com/*
 *://www.apkturbo.com/*
 *://www.appbank.net/*
@@ -19552,6 +19551,7 @@
 *://www.mocamocablog.com/*
 *://www.mochiteasaku.com/*
 *://www.modathink.com/*
+*://www.modroid-apk.store/*
 *://www.moduloasr.com/*
 *://www.moeasia.net/*
 *://www.mohammedmubinmallick.com/*

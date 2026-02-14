@@ -33,7 +33,6 @@
 /^https?:\/\/[^\/]+\.jp\.[a-z]{2,3}(/|$)/$document
 /^https?:\/\/videotwimgcom\.[^.]+\.net\//
 /https?:\/\/[a-z0-9-]+-co-jp\.cn/
-||potofu.me/xxx-xxx^$document
 /https?:\/\/[a-z0-9-]+-co-jp\.com/
 /https?:\/\/[a-z0-9-]+-co-jp\.mobi/
 /https?:\/\/[a-z0-9-]+-co-jp\.net/
@@ -760,6 +759,7 @@ www.google.com##div.yhQgZb:has-text(HOT !)
 ||apkpure.com/youtube-revanced^$document
 ||apkpure.net/youtube-revanced^$document
 ||apkrabi.com^$document
+||apkrealmania.com^$document
 ||apkresult.io^$document
 ||apkrexo.com^$document
 ||apksfull.com^$document
@@ -1777,6 +1777,7 @@ www.google.com##div.yhQgZb:has-text(HOT !)
 ||cyamatrend.com^$document
 ||cyberapp.ru^$document
 ||cyberbiatch.com^$document
+||cyberpour.com^$document
 ||cybersecurity-jp.com/contents/internet^$document
 ||cybrigtejtreexrx.xyz^$document
 ||cymolb7h.cjfoodmanagement.com.my^$document
@@ -6497,6 +6498,7 @@ www.google.com##div.yhQgZb:has-text(HOT !)
 ||postly.app^$document
 ||pot-blog.com^$document
 ||poteton.com^$document
+||potofu.me/xxx-xxx^$document
 ||potoja.com^$document
 ||pouchs.jp^$document
 ||poundtimes.com^$document
@@ -9024,6 +9026,7 @@ www.google.com##div.yhQgZb:has-text(HOT !)
 ||www.aoimori-norin.jp^$document
 ||www.aoritsuito.com^$document
 ||www.apk3.com^$document
+||www.apkfiles.com^$document
 ||www.apkrogue.com^$document
 ||www.apkturbo.com^$document
 ||www.appbank.net/app-rank/useful/vpn-app^$document
@@ -9937,6 +9940,7 @@ www.google.com##div.yhQgZb:has-text(HOT !)
 ||www.mocamocablog.com^$document
 ||www.mochiteasaku.com^$document
 ||www.modathink.com^$document
+||www.modroid-apk.store^$document
 ||www.moduloasr.com^$document
 ||www.moeasia.net^$document
 ||www.mohammedmubinmallick.com^$document
