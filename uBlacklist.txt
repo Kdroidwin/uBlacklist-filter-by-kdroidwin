@@ -1,4 +1,11 @@
 *://*.000webhostapp.com/*
+*://gen-shun.com/*
+*://*.com/comment.php?*
+*://*.com.br/shop/*/*
+*://*.com.br/?products/*
+*://*.fr/index*.php//?*
+*://*.moscow/?_g=*
+*://*.com/product/*.shtm
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
