@@ -45,8 +45,8 @@
 1link.jp##a[href*="lite.tiktok.com"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 1link.jp##a[href*="tiktok.com/ug"]::before:style(content:"⚠ 詐欺・誘導注意";display:inline-block;background:red;color:white;font-weight:900;font-size:20px;padding:6px 10px;margin-right:6px;)
 fp.no-sheep.org/services##.main
-www.google.com##div.yhQgZb:has-text(HOT !)
 www.google.com##div.yhQgZb:has-text(HOT ! )
+www.google.com##div.yhQgZb:has-text(HOT !)
 www.google.com##div.yhQgZb:has-text(HOT!)
 www.google.com##div.yhQgZb:has-text(HOT！)
 ||0-scholar-google-com.brum.beds.ac.uk^$document
@@ -2889,6 +2889,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||gekkanmensphysique.com^$document
 ||gemala.me^$document
 ||gemandisuo.digital^$document
+||gen-shun.com^$document
 ||gen51.net^$document
 ||genalphaup.com^$document
 ||gendai-torendo.online^$document

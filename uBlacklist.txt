@@ -1,11 +1,4 @@
 *://*.000webhostapp.com/*
-*://gen-shun.com/*
-*://*.com/comment.php?*
-*://*.com.br/shop/*/*
-*://*.com.br/?products/*
-*://*.fr/index*.php//?*
-*://*.moscow/?_g=*
-*://*.com/product/*.shtm
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -2055,6 +2048,7 @@
 *://*.com.br/?p=7*
 *://*.com.br/?p=8*
 *://*.com.br/?p=9*
+*://*.com.br/?products/*
 *://*.com.br/?q=0*
 *://*.com.br/?q=1*
 *://*.com.br/?q=2*
@@ -2156,6 +2150,7 @@
 *://*.com.br/?z=8*
 *://*.com.br/?z=9*
 *://*.com.br/shop/*.shtml
+*://*.com.br/shop/*/*
 *://*.com.br/shop/*/*.html
 *://*.com.vn/?p=9*
 *://*.com/?_g=0
@@ -2728,6 +2723,7 @@
 *://*.com/?z=9*
 *://*.com/?z=do*
 *://*.com/?z=e*
+*://*.com/comment.php?*
 *://*.com/comment.php?y*
 *://*.com/hiroshi.php?*
 *://*.com/index.php/*//?_g=*
@@ -2735,6 +2731,7 @@
 *://*.com/index.php//?a=*
 *://*.com/index.php?products/*
 *://*.com/index.php?shop/items/*
+*://*.com/product/*.shtm
 *://*.com/products.php?n=*
 *://*.com/products.php?r=*
 *://*.com/products.php?shop/*.html
@@ -3804,6 +3801,7 @@
 *://*.fr/?z=7*
 *://*.fr/?z=8*
 *://*.fr/?z=9*
+*://*.fr/index*.php//?*
 *://*.fyi/*
 *://*.gamemodfree.com/*
 *://*.gm/*
@@ -6225,6 +6223,7 @@
 *://*.modcombo.com/*
 *://*.modfyp.com/*
 *://*.modilimitado.io/*
+*://*.moscow/?_g=*
 *://*.mw/*
 *://*.mx/*
 *://*.my/*
@@ -12847,6 +12846,7 @@
 *://gekkanmensphysique.com/*
 *://gemala.me/*
 *://gemandisuo.digital/*
+*://gen-shun.com/*
 *://gen51.net/*
 *://genalphaup.com/*
 *://gendai-torendo.online/*
