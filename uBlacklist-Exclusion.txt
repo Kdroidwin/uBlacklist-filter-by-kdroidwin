@@ -945,9 +945,9 @@
 @*://kagaku.click/*
 @*://kenkolab.click/*
 @*://science-hub.click/*
+@*://clicknupload.click/*
 @*://ima.click/*
 @*://sexvideo.click/*
-
 @*://miraitips.click/*
 @*://here2.click/*
 @*://www.ptpclatter.click/*
