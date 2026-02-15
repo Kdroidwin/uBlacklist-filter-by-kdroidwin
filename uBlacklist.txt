@@ -1,12 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-title/☆希少品☆/
-title/珍品】/
-*://nxbrew.games/*
-*://nxbrew.fit/*
-*://apunkagames.click/*
-*://nxbrew.cc/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -10833,6 +10827,7 @@ title/珍品】/
 *://apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP
 *://appsonwindows.com/*
 *://appteka.store/*
+*://apunkagames.click/*
 *://aqetaoutaouais.com/*
 *://aqhamilton.com/*
 *://aqmzjfz.work/*
@@ -15865,6 +15860,9 @@ title/珍品】/
 *://nwaradar.com/*
 *://nwknews.jp/*
 *://nxa.cljfncyq.shop/*
+*://nxbrew.cc/*
+*://nxbrew.fit/*
+*://nxbrew.games/*
 *://nxeegjt.cn/*
 *://ny-excited.com/*
 *://nyaa9.tromajan.xyz/*
@@ -20790,6 +20788,7 @@ title/^無題$/
 title/wikiプロ/
 title/wiki風プロ/
 title/wiki風経歴/
+title/☆希少品☆/
 title/』が読める漫画アプリ/
 title/』が読める漫画アプリ7選！お得/
 title/』の漫画・アニメを無料で楽/
@@ -20866,6 +20865,7 @@ title/熱愛彼氏/
 title/熱愛発覚/
 title/特价/
 title/犯人は誰？名前/
+title/珍品】/
 title/現在の顔/
 title/生い立ちがすごい⁈/
 title/結婚した理由について徹底解説/

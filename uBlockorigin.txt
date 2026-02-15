@@ -810,6 +810,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP^$document
 ||appsonwindows.com^$document
 ||appteka.store^$document
+||apunkagames.click^$document
 ||aqetaoutaouais.com^$document
 ||aqhamilton.com^$document
 ||aqmzjfz.work^$document
@@ -6032,6 +6033,9 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||nwaradar.com^$document
 ||nwknews.jp^$document
 ||nxa.cljfncyq.shop^$document
+||nxbrew.cc^$document
+||nxbrew.fit^$document
+||nxbrew.games^$document
 ||nxeegjt.cn^$document
 ||ny-excited.com^$document
 ||nyaa9.tromajan.xyz^$document
