@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://m.apksum.com/*
-*://apksum.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -10794,6 +10792,7 @@
 *://apkshub.com/*
 *://apksim.com/*
 *://apkspotify.net/*
+*://apksum.com/*
 *://apktitan.com/*
 *://apktodo.io/*
 *://apkvision.org/*
@@ -14527,6 +14526,7 @@
 *://m.amzhoka.top/*
 *://m.apkpure.net/*
 *://m.apkshub.com/*
+*://m.apksum.com/*
 *://m.bcr3g.top/*
 *://m.bnhouse.cn/*
 *://m.cocobrandshop.jp/*

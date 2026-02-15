@@ -776,6 +776,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||apkshub.com^$document
 ||apksim.com^$document
 ||apkspotify.net^$document
+||apksum.com^$document
 ||apktitan.com^$document
 ||apktodo.io^$document
 ||apkvision.org^$document
@@ -4627,6 +4628,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||m.amzhoka.top^$document
 ||m.apkpure.net^$document
 ||m.apkshub.com^$document
+||m.apksum.com^$document
 ||m.bcr3g.top^$document
 ||m.bnhouse.cn^$document
 ||m.cocobrandshop.jp^$document
