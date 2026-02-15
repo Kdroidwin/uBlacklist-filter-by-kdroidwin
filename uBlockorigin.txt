@@ -6877,6 +6877,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||revistasaga.org^$document
 ||reviversoft.com^$document
 ||revolt-tokyo.com^$document
+||rexdl.com^$document
+||rexdlbox.com^$document
 ||rhc-web-app.vercel.app^$document
 ||rhino3d.online^$document
 ||rhk.me^$document

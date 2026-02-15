@@ -3,8 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://rexdlbox.com/*
-*://rexdl.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -16648,6 +16646,8 @@
 *://review-we126.com/*
 *://revistasaga.org/*
 *://revolt-tokyo.com/*
+*://rexdl.com/*
+*://rexdlbox.com/*
 *://rhc-web-app.vercel.app/*
 *://rhino3d.online/*
 *://rhk.me/*
