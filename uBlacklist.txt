@@ -12505,7 +12505,6 @@
 *://filehippo.jp/*
 *://fileplanet.com/*
 *://filmlocos.com/shop/*
-*://filmora.wondershare.jp/*
 *://filmsjp.com/*
 *://filmsrpa.redeagle-security.com/*
 *://filmstar.jp/*
@@ -18014,7 +18013,6 @@
 *://trmrknng.com/*
 *://trokiss-gamer.com/*
 *://troopxkb.applevacations.sg/*
-*://troypoint.com/*
 *://true-bow.com/*
 *://truppe.team/*
 *://truss.me/*
