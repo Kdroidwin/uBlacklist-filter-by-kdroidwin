@@ -2544,7 +2544,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||fileplanet.com^$document
 ||filkhabr.com^$document
 ||filmlocos.com/shop^$document
-||filmora.wondershare.jp^$document
 ||filmsjp.com^$document
 ||filmsrpa.redeagle-security.com^$document
 ||filmstar.jp^$document
@@ -8350,7 +8349,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||trmrknng.com^$document
 ||trokiss-gamer.com^$document
 ||troopxkb.applevacations.sg^$document
-||troypoint.com^$document
 ||true-bow.com^$document
 ||truppe.team^$document
 ||truss.me^$document
