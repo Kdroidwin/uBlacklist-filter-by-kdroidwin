@@ -3135,7 +3135,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||gunosy.com^$document
 ||gurigetfree.com^$document
 ||gurimu-blog.com^$document
-||guru^$document,~inline-font,from=~mstdn.guru|~miomio.guru|~javguru.guru|~jav.guru|~9tsu.guru|~chita.guru
+||guru^$document,~inline-font,from=~mstdn.guru|~miomio.guru|~javguru.guru|~jav.guru|~9tsu.guru|~chita.guru|~watcher.guru
 ||guruffin.com^$document
 ||gvv1.ru^$document
 ||gwkzccabinet.com^$document
