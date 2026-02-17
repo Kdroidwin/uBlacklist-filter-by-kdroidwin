@@ -1,4 +1,4 @@
-# uBlacklist-filter-by-kdroidwin (Block malicious websites by Kdroidwin)
+# uB-filter-by-kdroidwin
 
 
 uBlacklist,uBlock Origin用のフィルター　
