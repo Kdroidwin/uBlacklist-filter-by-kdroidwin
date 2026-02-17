@@ -1216,6 +1216,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||blogs2bn.styr.live^$document
 ||blomonix.com^$document
 ||bloodworm.food^$document
+||bloomever.jp^$document
 ||blue-38.com^$document
 ||blue-thermal.jp^$document
 ||blue.tokyo^$document
@@ -1260,6 +1261,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||book.dldlinks.com^$document
 ||book.himepai.com^$document
 ||book.mynavi.jp/ashita_magazine/china-vpn-ucss^$document
+||book.mynavi.jp^$document
 ||book.st-hakky.com^$document
 ||bookandbedtokyo.com^$document
 ||bookcafedays.com^$document
@@ -2425,6 +2427,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||europdiff.com^$document
 ||eurotools.spdns.org^$document
 ||evbpudwz.info^$document
+||eve-gacha.com^$document
 ||eveninsight.com/safety-checker/website/infinitytweet.me^$document
 ||event-iroha.net^$document
 ||event4info.com^$document
@@ -2804,6 +2807,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||gamedva.com^$document
 ||gamefabrique.com^$document
 ||gamegadget.jp^$document
+||gamehub-lite.com^$document
 ||gamejksokuhou.com^$document
 ||gamejksokuhou.com^$document
 ||gamemodfree.com^$document
@@ -6580,6 +6584,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||promotion.weassist.jp^$document
 ||promotions.champs-sportsclub.com^$document
 ||proteamworks.com^$document
+||protect-honor.hatenablog.com^$document
 ||proyectolibelulaverde.com^$document
 ||prwireonline.com^$document
 ||psalmsforkids.com^$document
@@ -6844,6 +6849,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||revanced.en.softonic.com^$document
 ||revanced.freedown.io^$document
 ||revanced.info^$document
+||revanced.io^$document
 ||revanced.me^$document
 ||revanced.net^$document
 ||revanced.org^$document
@@ -6983,6 +6989,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||rukulife.com^$document
 ||rumah-pulsa.shop^$document
 ||rumbiz.ru^$document
+||ruminousplus.net^$document
 ||runachi2021.com^$document
 ||runaruna-blog.com^$document
 ||runebook.dev^$document
@@ -7438,6 +7445,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||smartpagebk.com^$document
 ||smartpharmrx.com^$document
 ||smartphone-life-moheji.hatenablog.com^$document
+||smartphone-note.com/revanced-easy^$document
 ||smarttube.app^$document
 ||smcw-member.jp^$document
 ||smdcgldv.art^$document
@@ -8666,6 +8674,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||vpninfo.jp^$document
 ||vpnjapan.wpx.jp^$document
 ||vpnlove.me^$document
+||vpnmedia.jp^$document
 ||vpnnippon.jp^$document
 ||vpnserver.sakura.ne.jp^$document
 ||vpnveteran.com^$document
@@ -9665,6 +9674,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.intel.cn^$document
 ||www.intel.ru^$document
 ||www.interface.ru^$document
+||www.interlink.or.jp^$document
 ||www.ipaccelerator.info^$document
 ||www.ippo.ne.jp^$document
 ||www.irigasi.info^$document
@@ -10164,6 +10174,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.puiver.fr^$document
 ||www.pullandbear.cn^$document
 ||www.purdyscentralhigh.com^$document
+||www.purevpn.com^$document
 ||www.pwc.co.uk^$document
 ||www.pxxfpdv.cn^$document
 ||www.q-englishacademy.com^$document

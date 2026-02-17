@@ -2,18 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://gamehub-lite.com/*
-*://smartphone-note.com/revanced-easy/*
-*://protect-honor.hatenablog.com/*
-*://www.interlink.or.jp/*
-*://book.mynavi.jp/*
-*://vpnmedia.jp/*
-*://www.purevpn.com/*
-*://chromewebstore.google.com/detail/1vpn-free-vpn*
-*://revanced.io/*
-*://bloomever.jp/*
-*://ruminousplus.net/*
-*://eve-gacha.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11229,6 +11217,7 @@
 *://blogs2bn.styr.live/*
 *://blomonix.com/*
 *://bloodworm.food/*
+*://bloomever.jp/*
 *://blue-38.com/*
 *://blue-thermal.jp/*
 *://blue.tokyo/*
@@ -11271,6 +11260,7 @@
 *://book-day.com/*
 *://book.dldlinks.com/*
 *://book.himepai.com/*
+*://book.mynavi.jp/*
 *://book.mynavi.jp/ashita_magazine/china-vpn-ucss/*
 *://book.st-hakky.com/*
 *://bookandbedtokyo.com/*
@@ -11557,6 +11547,7 @@
 *://christmas-bigsales.com/*
 *://chrome.google.com/webstore/detail/revanced-extended-latest/hhbckenadhgffcgbacbalchajeccplmj*
 *://chrome.zzzmh.cn/*
+*://chromewebstore.google.com/detail/1vpn-free-vpn*
 *://chronictacos.jp/*
 *://chubushoji.shop-pro.jp/*
 *://chun-shufu.com/*
@@ -12402,6 +12393,7 @@
 *://europdiff.com/*
 *://eurotools.spdns.org/*
 *://evbpudwz.info/*
+*://eve-gacha.com/*
 *://eveninsight.com/safety-checker/website/infinitytweet.me*
 *://event-iroha.net/*
 *://event4info.com/*
@@ -12768,6 +12760,7 @@
 *://gamedva.com/*
 *://gamefabrique.com/*
 *://gamegadget.jp/*
+*://gamehub-lite.com/*
 *://gamejksokuhou.com/*
 *://gamemodfree.com/*
 *://gamenexus.jp/wutheringwaves/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9Se/*
@@ -16393,6 +16386,7 @@
 *://promotion.weassist.jp/*
 *://promotions.champs-sportsclub.com/*
 *://proteamworks.com/*
+*://protect-honor.hatenablog.com/*
 *://proyectolibelulaverde.com/*
 *://prwireonline.com/*
 *://psalmsforkids.com/*
@@ -16627,6 +16621,7 @@
 *://revanced.en.softonic.com/*
 *://revanced.freedown.io/*
 *://revanced.info/*
+*://revanced.io/*
 *://revanced.me/*
 *://revanced.net/*
 *://revanced.org/*
@@ -16757,6 +16752,7 @@
 *://rukulife.com/*
 *://rumah-pulsa.shop/*
 *://rumbiz.ru/*
+*://ruminousplus.net/*
 *://runachi2021.com/*
 *://runaruna-blog.com/*
 *://runrun777.com/*
@@ -17178,6 +17174,7 @@
 *://smartpagebk.com/*
 *://smartpharmrx.com/*
 *://smartphone-life-moheji.hatenablog.com/*
+*://smartphone-note.com/revanced-easy/*
 *://smarttube.app/*
 *://smcw-member.jp/*
 *://smile-life.blog/*
@@ -18323,6 +18320,7 @@
 *://vpninfo.jp/*
 *://vpnjapan.wpx.jp/*
 *://vpnlove.me/*
+*://vpnmedia.jp/*
 *://vpnnippon.jp/*
 *://vpnserver.sakura.ne.jp/*
 *://vpnveteran.com/*
@@ -19277,6 +19275,7 @@
 *://www.intel.cn/*
 *://www.intel.ru/*
 *://www.interface.ru/*
+*://www.interlink.or.jp/*
 *://www.ipaccelerator.info/*
 *://www.ippo.ne.jp/*
 *://www.irigasi.info/*
@@ -19780,6 +19779,7 @@
 *://www.puiver.fr/*
 *://www.pullandbear.cn/*
 *://www.purdyscentralhigh.com/*
+*://www.purevpn.com/*
 *://www.pwc.co.uk/*
 *://www.pxxfpdv.cn/*
 *://www.q-englishacademy.com/*
