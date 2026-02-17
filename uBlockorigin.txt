@@ -188,6 +188,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||40daimama.tokyo^$document
 ||458rl1jp.r.us-east-1.awstrack.me^$document
 ||47.238.171.54^$document
+||47apk.com^$document
 ||488131.bitgetexchange.online^$document
 ||4964649.slot42.online^$document
 ||4download.net^$document
@@ -215,6 +216,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||5jhbaj6fe.adrianodosanjos.de^$document
 ||5jl3ah.cn^$document
 ||5min-break.com^$document
+||5mod.ru^$document
 ||5play.org^$document
 ||5qlm1wg.h-arlt-fotografie.de^$document
 ||5qlz1d8h.r.us-east-1.awstrack.me^$document
@@ -811,6 +813,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP^$document
 ||appsonwindows.com^$document
 ||appteka.store^$document
+||appvn.com^$document
 ||apunkagames.click^$document
 ||aqetaoutaouais.com^$document
 ||aqhamilton.com^$document
@@ -2736,6 +2739,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||fundacionbuenasemilla.org^$document
 ||fundacionlamuralla.com.uy^$document
 ||funlifehack.com^$document
+||funmodapk.com^$document
 ||funnews-cafe.com^$document
 ||funnyfunnynews.com^$document
 ||funontheark.com^$document
@@ -3479,6 +3483,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||hoshimemo.com^$document
 ||hosigumi.hatenablog.com^$document
 ||hosoho.jp^$document
+||hostapk.com^$document
 ||hosyusokuhou.jp^$document
 ||hosyusokuhou.jp^$document
 ||hot-koshigaya.jp^$document
@@ -5154,6 +5159,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||modyolo.com^$document
 ||modzmania.com^$document
 ||modzod.com^$document
+||modzozo.com^$document
 ||moedigi.com^$document
 ||moeeeani.blog.jp^$document
 ||moeeeani.blog.jp^$document
@@ -6956,6 +6962,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||roomclip.jp^$document
 ||roomkitdu.com^$document
 ||roomover.xyz^$document
+||root-device.com^$document
 ||rootsnote.com^$document
 ||roowiwolu.shop^$document
 ||ropaestillo.com^$document
@@ -9434,6 +9441,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.farmamedica.mx^$document
 ||www.farnsworthintelligence.com^$document
 ||www.farsisaz.com^$document
+||www.farsroid.com^$document
 ||www.fcgyadg.cn^$document
 ||www.fectiv.online^$document
 ||www.federalhiringadvice.com^$document
@@ -9587,6 +9595,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.happyfootstep.dk^$document
 ||www.happylife40.com^$document
 ||www.happymail.mu^$document
+||www.happymodapkdl.com^$document
 ||www.harmonyhousebnb.com^$document
 ||www.harrywinston.cn^$document
 ||www.haruyukiworld.com^$document
@@ -10026,11 +10035,13 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.ndda.net^$document
 ||www.nekojirushi11.tokyo^$document
 ||www.nelpur.shop^$document
+||www.nesabamedia.com^$document
 ||www.networkmoaleji2024.online^$document
 ||www.newcsl.cn^$document
 ||www.newlifeconstruction.co.uk^$document
 ||www.newsroomtransparencytracker.com^$document
 ||www.newsunpia.com^$document
+||www.nexusmods.com^$document
 ||www.nhrenshou.cn^$document
 ||www.nhyxmsy.cn^$document
 ||www.nicigas.shop^$document

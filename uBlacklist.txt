@@ -6,17 +6,6 @@
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
-*://modzozo.com/*
-*://root-device.com/*
-*://5mod.ru/*
-*://hostapk.com/*
-*://www.happymodapkdl.com/*
-*://appvn.com/*
-*://www.nesabamedia.com/*
-*://www.farsroid.com/*
-*://47apk.com/*
-*://funmodapk.com/*
-*://www.nexusmods.com/*
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
@@ -10251,6 +10240,7 @@
 *://40daimama.tokyo/*
 *://458rl1jp.r.us-east-1.awstrack.me/*
 *://47.238.171.54/*
+*://47apk.com/*
 *://488131.bitgetexchange.online/*
 *://4964649.slot42.online/*
 *://4download.net/*
@@ -10278,6 +10268,7 @@
 *://5jhbaj6fe.adrianodosanjos.de/*
 *://5jl3ah.cn/*
 *://5min-break.com/*
+*://5mod.ru/*
 *://5play.org/*
 *://5qlm1wg.h-arlt-fotografie.de/*
 *://5qlz1d8h.r.us-east-1.awstrack.me/*
@@ -10839,6 +10830,7 @@
 *://apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP
 *://appsonwindows.com/*
 *://appteka.store/*
+*://appvn.com/*
 *://apunkagames.click/*
 *://aqetaoutaouais.com/*
 *://aqhamilton.com/*
@@ -12705,6 +12697,7 @@
 *://fundacionbuenasemilla.org/*
 *://fundacionlamuralla.com.uy/*
 *://funlifehack.com/*
+*://funmodapk.com/*
 *://funnews-cafe.com/*
 *://funnyfunnynews.com/*
 *://funontheark.com/*
@@ -13423,6 +13416,7 @@
 *://hoshimemo.com/*
 *://hosigumi.hatenablog.com/*
 *://hosoho.jp/*
+*://hostapk.com/*
 *://hosyusokuhou.jp/*
 *://hot-koshigaya.jp/*
 *://hot-topic-trends.com/*
@@ -15041,6 +15035,7 @@
 *://modyolo.com/revanced.html*
 *://modzmania.com/*
 *://modzod.com/*
+*://modzozo.com/*
 *://moedigi.com/*
 *://moeeeani.blog.jp/*
 *://moes.taobao.com/*
@@ -16732,6 +16727,7 @@
 *://roomclip.jp/*
 *://roomkitdu.com/*
 *://roomover.xyz/*
+*://root-device.com/*
 *://rootsnote.com/*
 *://roowiwolu.shop/*
 *://ropaestillo.com/*
@@ -19054,6 +19050,7 @@
 *://www.familypark.jp/*
 *://www.farmamedica.mx/*
 *://www.farsisaz.com/*
+*://www.farsroid.com/*
 *://www.fcgyadg.cn/*
 *://www.fectiv.online/*
 *://www.federalhiringadvice.com/*
@@ -19202,6 +19199,7 @@
 *://www.happyfootstep.dk/*
 *://www.happylife40.com/*
 *://www.happymail.mu/*
+*://www.happymodapkdl.com/*
 *://www.harmonyhousebnb.com/*
 *://www.harrywinston.cn/*
 *://www.haruyukiworld.com/*
@@ -19643,11 +19641,13 @@
 *://www.ndda.net/*
 *://www.nekojirushi11.tokyo/*
 *://www.nelpur.shop/*
+*://www.nesabamedia.com/*
 *://www.networkmoaleji2024.online/*
 *://www.newcsl.cn/*
 *://www.newlifeconstruction.co.uk/*
 *://www.newsroomtransparencytracker.com/*
 *://www.newsunpia.com/*
+*://www.nexusmods.com/*
 *://www.nhrenshou.cn/*
 *://www.nhyxmsy.cn/*
 *://www.nicigas.shop/*
