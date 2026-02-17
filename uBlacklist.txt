@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://atthelake.info/*
-*://plsd0nate.github.io/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -10946,6 +10944,7 @@
 *://atre-club.jp/*
 *://atsu-blog.com/*
 *://atsushi-hisatumi.amebaownd.com/posts/12184891/*
+*://atthelake.info/*
 *://attractions-music.jp/*
 *://atugifito.online/*
 *://auditable.cl/*
@@ -16277,6 +16276,7 @@
 *://plazaosaka-database.113110.online/*
 *://pleasanter.org/*
 *://plrm.me/*
+*://plsd0nate.github.io/*
 *://plth.me/*
 *://plumblossombakery.com/*
 *://plus.fm-p.jp/*

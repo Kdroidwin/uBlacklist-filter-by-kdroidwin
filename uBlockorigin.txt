@@ -934,6 +934,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||atre-club.jp^$document
 ||atsu-blog.com^$document
 ||atsushi-hisatumi.amebaownd.com/posts/12184891^$document
+||atthelake.info^$document
 ||attractions-music.jp^$document
 ||atugifito.online^$document
 ||audiobookbay.lu/images/d-t.gif$image
@@ -6467,6 +6468,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||plazaosaka-database.113110.online^$document
 ||pleasanter.org^$document
 ||plrm.me^$document
+||plsd0nate.github.io^$document
 ||plth.me^$document
 ||plumblossombakery.com^$document
 ||plus.fm-p.jp^$document
