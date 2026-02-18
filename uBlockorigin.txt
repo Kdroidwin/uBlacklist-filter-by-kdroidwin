@@ -455,6 +455,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||aiolin.com^$document
 ||airoiseisaku.base.shop^$document
 ||aisaika2022.com^$document
+||aisanponn.com^$document
 ||aistageup777.com^$document
 ||aiuemam-new.com^$document
 ||aiyyfu.com^$document
@@ -1541,6 +1542,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||chimu3838.net^$document
 ||china-wp-3ekxbwgmwq-an.a.run.app^$document
 ||chineko-blog.com^$document
+||chingqiu.com^$document
 ||chirkrpy.jettysuites.com^$document
 ||chiyuki.jp^$document
 ||chlog.work^$document
@@ -3937,6 +3939,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||jukenz.com^$document
 ||juliatrofimenko.ru^$document
 ||jump-netabare.love^$document
+||jumpu2021.com^$document
 ||junabroadinfo.com^$document
 ||junchandream.com^$document
 ||juncook.com^$document
@@ -6111,6 +6114,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||okdebrid.com^$document
 ||oki-itsmylife.com^$document
 ||okiam-02.com^$document
+||okichan.site^$document
 ||okigourmet.com^$document
 ||okikuhabataku.blog^$document
 ||okikunonichijyou.com^$document
@@ -7295,6 +7299,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||shingeki-no-nakayama.com^$document
 ||shinjidai.co.jp^$document
 ||shinju-oonuki.hatenadiary.org^$document
+||shinkigeki.com^$document
 ||shinmaipapa.hatenablog.com^$document
 ||shinno-asobi.com^$document
 ||shinnyu1-guide.com^$document
@@ -10292,6 +10297,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.salesforintroverts.com^$document
 ||www.samacharvichar.in^$document
 ||www.sammyexpresslive.com/item^$document
+||www.samurai-stage.jp^$document
 ||www.sanbio.online^$document
 ||www.sandvik.coromant.cn^$document
 ||www.sanko-metal.cn^$document

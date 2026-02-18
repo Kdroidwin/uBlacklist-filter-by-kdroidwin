@@ -2,13 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://www.samurai-stage.jp/*
-*://cooking-life-style.com/*
-*://aisanponn.com/*
-*://shinkigeki.com/*
-*://jumpu2021.com/*
-*://okichan.site/*
-*://chingqiu.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -10500,6 +10493,7 @@
 *://aiolin.com/*
 *://airoiseisaku.base.shop/*
 *://aisaika2022.com/*
+*://aisanponn.com/*
 *://aistageup777.com/*
 *://aiuemam-new.com/*
 *://aiyyfu.com/*
@@ -11540,6 +11534,7 @@
 *://chimu3838.net/*
 *://china-wp-3ekxbwgmwq-an.a.run.app/*
 *://chineko-blog.com/*
+*://chingqiu.com/*
 *://chirkrpy.jettysuites.com/*
 *://chiyuki.jp/*
 *://chlog.work/*
@@ -11707,6 +11702,7 @@
 *://conunestilodiferente.com/*
 *://conwaystewart.cn/*
 *://coochanenjoyblog.com/*
+*://cooking-life-style.com/*
 *://coopers-pub.ch/*
 *://cooptq0u.malaysiainternationalschools.com/*
 *://copayeoh.jettysuites.com/*
@@ -13862,6 +13858,7 @@
 *://jukenz.com/*
 *://juliatrofimenko.ru/*
 *://jump-netabare.love/*
+*://jumpu2021.com/*
 *://junabroadinfo.com/*
 *://junchandream.com/*
 *://juncook.com/*
@@ -15945,6 +15942,7 @@
 *://okdebrid.com/*
 *://oki-itsmylife.com/*
 *://okiam-02.com/*
+*://okichan.site/*
 *://okigourmet.com/*
 *://okikunonichijyou.com/*
 *://okinawameguri.com/*
@@ -17038,6 +17036,7 @@
 *://shineeday.com/*
 *://shingeki-no-nakayama.com/*
 *://shinju-oonuki.hatenadiary.org/*
+*://shinkigeki.com/*
 *://shinmaipapa.hatenablog.com/*
 *://shinno-asobi.com/*
 *://shinnyu1-guide.com/*
@@ -19903,6 +19902,7 @@
 *://www.salesforintroverts.com/*
 *://www.samacharvichar.in/*
 *://www.sammyexpresslive.com/item/*
+*://www.samurai-stage.jp/*
 *://www.sanbio.online/*
 *://www.sandvik.coromant.cn/*
 *://www.sanko-metal.cn/*
