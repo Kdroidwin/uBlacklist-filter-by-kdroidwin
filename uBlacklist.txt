@@ -1,14 +1,10 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://afsupo.click/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
-*://www.vanced.cloud/*
-*://magiskapp.pro/*
-*://magisk.io/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
@@ -10446,6 +10442,7 @@
 *://afmd.xxasj.cn/*
 *://africatvl.com/*
 *://afrohealth.care/*
+*://afsupo.click/*
 *://afyinfo.com/*
 *://againagesxrx.xyz/*
 *://ageforex.com.au/*
@@ -14592,9 +14589,11 @@
 *://magicwands1.com/*
 *://magisk-manager.malavida.com/*
 *://magisk-manager.softonic.ru/*
+*://magisk.io/*
 *://magisk.me/*
 *://magisk.online/*
 *://magiskapp.com/*
+*://magiskapp.pro/*
 *://magiskmanager.com/*
 *://magiskmanager.org/*
 *://magiskmanagerroot.com/*
@@ -20195,6 +20194,7 @@
 *://www.val-de-cognac.com/*
 *://www.valueadd.se/*
 *://www.vanced-official.com/*
+*://www.vanced.cloud/*
 *://www.vanced.io/*
 *://www.vanceneshop.com/*
 *://www.vancleefarpels.cn/*

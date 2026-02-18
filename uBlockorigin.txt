@@ -60,7 +60,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||000webhostapp.com^$document
 ||009933.xyz^$document
 ||01.futako.info^$document
-||magiskapp.$document,from=~topjohnwu.github.io
 ||03kurata01.com^$document
 ||0630kyosuke.hatenablog.com^$document
 ||09bd5a69.xyz^$document
@@ -400,6 +399,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||africa.iclei.org^$document
 ||africatvl.com^$document
 ||afrohealth.care^$document
+||afsupo.click^$document
 ||afyinfo.com^$document
 ||againagesxrx.xyz^$document
 ||ageforex.com.au^$document
@@ -4692,9 +4692,12 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||magicwands1.com^$document
 ||magisk-manager.malavida.com^$document
 ||magisk-manager.softonic.ru^$document
+||magisk.io^$document
 ||magisk.me^$document
 ||magisk.online^$document
+||magiskapp.$document,from=~topjohnwu.github.io
 ||magiskapp.com^$document
+||magiskapp.pro^$document
 ||magiskmanager.com^$document
 ||magiskmanager.org^$document
 ||magiskmanagerroot.com^$document
@@ -10596,6 +10599,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.val-de-cognac.com^$document
 ||www.valueadd.se^$document
 ||www.vanced-official.com^$document
+||www.vanced.cloud^$document
 ||www.vanced.io^$document
 ||www.vanceneshop.com^$document
 ||www.vancleefarpels.cn^$document
