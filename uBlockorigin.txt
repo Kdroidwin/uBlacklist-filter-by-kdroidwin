@@ -2471,6 +2471,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||extendedrevanced.org^$document
 ||extns.notion.site^$document
 ||extra-newspaper.com^$document
+||ey43.com^$document
 ||eylamermer.5bweb.com^$document
 ||f-f-shukatsu.jp^$document
 ||f-shirushi.com^$document
