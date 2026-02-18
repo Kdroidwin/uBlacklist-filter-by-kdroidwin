@@ -165,6 +165,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||360life.shinyusha.co.jp^$document
 ||360pindrop.com^$document
 ||360saburoku.com^$document
+audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 ||365dni.top^$document
 ||371643.dijifinex.online^$document
 ||37chimama.com^$document
