@@ -60,6 +60,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||000webhostapp.com^$document
 ||009933.xyz^$document
 ||01.futako.info^$document
+||magiskapp.$document,from=~topjohnwu.github.io
 ||03kurata01.com^$document
 ||0630kyosuke.hatenablog.com^$document
 ||09bd5a69.xyz^$document
