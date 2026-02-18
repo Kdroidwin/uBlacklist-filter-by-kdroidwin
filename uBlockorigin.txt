@@ -1768,6 +1768,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||cross.miaomiaole.xyz^$document
 ||crosscubja60.net^$document
 ||cruiseloyal.com^$document
+||crurkin.info^$document
 ||crx7601.com^$document
 ||cs.wingarc.com.cn^$document
 ||cspa79c.jp^$document
@@ -6281,6 +6282,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||owenhone.com.au^$document
 ||owls-garden.jp^$document
 ||oxy.cloud^$document
+||oxyain.fit^$document
 ||oyakudachi2525.com^$document
 ||oyakudachinews.com^$document
 ||oyakudachizyouhou.com^$document

@@ -2,10 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://crurkin.info/*
-*://oxyain.fit/*
-*://*.crurkin.info/*
-*://*.oxyain.fit/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -2743,6 +2739,7 @@
 *://*.com/shop/*/*.phtml
 *://*.com/wp-*.php?product*
 *://*.coromoo.com/*
+*://*.crurkin.info/*
 *://*.crx7601.com/*
 *://*.cyou/*
 *://*.cz/?a=0*
@@ -7533,6 +7530,7 @@
 *://*.org/shop/*/*.shtml*
 *://*.oryouri.2chblog.jp/*
 *://*.overstack.in/*
+*://*.oxyain.fit/*
 *://*.ozawaren.com/*
 *://*.paridom.wiki/*
 *://*.paypal.com.vn/*
@@ -11757,6 +11755,7 @@
 *://cross.miaomiaole.xyz/*
 *://crosscubja60.net/*
 *://cruiseloyal.com/*
+*://crurkin.info/*
 *://cs.wingarc.com.cn/*
 *://cspa79c.jp/*
 *://cspsacademy.com/*
@@ -16104,6 +16103,7 @@
 *://owenhone.com.au/*
 *://owls-garden.jp/*
 *://oxy.cloud/*
+*://oxyain.fit/*
 *://oyakudachi2525.com/*
 *://oyakudachinews.com/*
 *://oyakudachizyouhou.com/*
