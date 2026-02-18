@@ -6231,6 +6231,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||ossmndst.com^$document
 ||osusume-anime.com^$document
 ||osusume-kaigaidorama.com^$document
+||osusume-matome.2chblog.jp^$document
 ||osusume.mynavi.jp^$document
 ||ot2512.com^$document
 ||ota-goods.info^$document
