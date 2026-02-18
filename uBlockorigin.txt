@@ -47,6 +47,7 @@
 a2zapk.io##[href^="https://beta-app-sprout.xyz/489/143"] > button
 audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
 audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
+audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 fp.no-sheep.org/services##.main
 krakenfiles.com##.download-btn
 krakenfiles.com##.myardbox.nativebaner
@@ -165,7 +166,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||360life.shinyusha.co.jp^$document
 ||360pindrop.com^$document
 ||360saburoku.com^$document
-audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 ||365dni.top^$document
 ||371643.dijifinex.online^$document
 ||37chimama.com^$document

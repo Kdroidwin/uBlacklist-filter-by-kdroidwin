@@ -3,7 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-title/on PC with MEmu/
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -20831,6 +20830,7 @@ title/^(?=.*Amazon)(?=.*Premium Unlocked).*/
 title/^(?=.*Netflix)(?=.*Premium Unlocked).*/
 title/^(?=.*漫画raw)(?=.*1001).*/
 title/^無題$/
+title/on PC with MEmu/
 title/wikiプロ/
 title/wiki風プロ/
 title/wiki風経歴/
