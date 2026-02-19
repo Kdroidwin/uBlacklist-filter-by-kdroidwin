@@ -10,6 +10,12 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
+*://www.infocart.jp/*
+*://somsalut.com/item.php?products/*
+*://rezzoeresenha.store/?z.*.html
+*://*.com/ammika.php?*
+*://deaiappnews.com/*
+*://b-b-s.site/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
