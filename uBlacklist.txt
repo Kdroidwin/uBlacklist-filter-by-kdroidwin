@@ -2,8 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://chan21jd.org/*
-*://fukunohana8.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -11482,6 +11480,7 @@
 *://cham-group.com/*
 *://chamangelsgab11.com/*
 *://chambredessecrets.com/*
+*://chan21jd.org/*
 *://chanceman.work/*
 *://chandraveerniwas.com/*
 *://changcoroom.com/*
@@ -12688,6 +12687,7 @@
 *://fukumama.net/*
 *://fukumames.com/*
 *://fukuniko.com/*
+*://fukunohana8.com/*
 *://fukuoka40mama.com/*
 *://fukuroi-fuurin.jp/*
 *://fukushima-kurashi-shigoto2022.jp/*

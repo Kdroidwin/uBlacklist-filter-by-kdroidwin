@@ -139,7 +139,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||282835.xyz^$document
 ||2861805.slot15.online^$document
 ||296.fm^$document
-||yomiuri.*^$document,domain=~yomiuri.co.jp
 ||2b633168.xyz^$document
 ||2bighazameen.com^$document
 ||2ch.0726.biz^$document
@@ -1487,6 +1486,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||cham-group.com^$document
 ||chamangelsgab11.com^$document
 ||chambredessecrets.com^$document
+||chan21jd.org^$document
 ||chanceman.work^$document
 ||chandraveerniwas.com^$document
 ||changcoroom.com^$document
@@ -2726,6 +2726,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||fukumama.net^$document
 ||fukumames.com^$document
 ||fukuniko.com^$document
+||fukunohana8.com^$document
 ||fukuoka40mama.com^$document
 ||fukuroi-fuurin.jp^$document
 ||fukushima-kurashi-shigoto2022.jp^$document
@@ -10957,6 +10958,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||yolo-world.com^$document
 ||yomeno-tadaima.com^$document
 ||yomidou.com^$document
+||yomiuri.*^$document,domain=~yomiuri.co.jp
 ||yonayonafreedom.net^$document
 ||yoncoichi.com^$document
 ||yondanon.com^$document
