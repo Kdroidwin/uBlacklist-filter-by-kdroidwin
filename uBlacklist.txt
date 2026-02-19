@@ -19966,7 +19966,6 @@
 *://www.shopostore.com/*
 *://www.shoreditchinn.com/*
 *://www.shouhichan.jp/*
-*://www.showcase-tv.com/*
 *://www.shuchannel.com/*
 *://www.siciliacannolo.com/*
 *://www.sideshift.app/*
