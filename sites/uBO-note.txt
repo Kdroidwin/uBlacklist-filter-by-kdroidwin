@@ -1,5 +1,7 @@
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/0219toton"])
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/0219toton"])
+note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/1121raian"])
+note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/1121raian"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/24hs_ksrr44"])
 note.com##.o-horizontalTimeLineNote:has(.fn.o-horizontalTimeLineNote__link[href*="/24hs_ksrr44"])
 note.com##.m-largeNoteWrapper__card:has(.fn.m-largeNoteWrapper__link[href*="/2ch3ch"])
