@@ -48,7 +48,6 @@ a2zapk.io##[href^="https://beta-app-sprout.xyz"] > button
 audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
 audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
 audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
-||audiobookbay.lu/images/direct-download.png$image
 audiobookbay.lu##td:nth-of-type(n):has-text(You could try out alternative bittorrent clients)
 fp.no-sheep.org/services##.main
 krakenfiles.com##.download-btn
@@ -943,6 +942,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||attractions-music.jp^$document
 ||atugifito.online^$document
 ||audiobookbay.lu/images/d-t.gif$image
+||audiobookbay.lu/images/direct-download.png$image
 ||audiobookbay.lu/images/drr.gif$image
 ||auditable.cl^$document
 ||auditexpert.net^$document
@@ -5651,6 +5651,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||nostalgicdorama.com^$document
 ||note.ambitiousai.co.jp^$document
 ||note.com/0219toton/n/n010fc309fe3e^$document
+||note.com/1121raian^$document
 ||note.com/24hs_ksrr44^$document
 ||note.com/2ch3ch^$document
 ||note.com/4jinooyaji^$document
@@ -9918,6 +9919,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.manekineko-k.com^$document
 ||www.maneo.jp^$document
 ||www.mangabiyori.online^$document
+||www.manganoie.com^$document
 ||www.mangataisho.com^$document
 ||www.mantiscentipede.work^$document
 ||www.maoppy.com^$document

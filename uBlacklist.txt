@@ -3,8 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://note.com/1121raian/*
-*://www.manganoie.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -15499,6 +15497,7 @@
 *://nostalgicdorama.com/*
 *://note.ambitiousai.co.jp/*
 *://note.com/0219toton/n/n010fc309fe3e*
+*://note.com/1121raian/*
 *://note.com/24hs_ksrr44/*
 *://note.com/2ch3ch/*
 *://note.com/4jinooyaji/*
@@ -19522,6 +19521,7 @@
 *://www.manekineko-k.com/*
 *://www.maneo.jp/*
 *://www.mangabiyori.online/*
+*://www.manganoie.com/*
 *://www.mangataisho.com/*
 *://www.mantiscentipede.work/*
 *://www.maoppy.com/*
