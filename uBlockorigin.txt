@@ -9940,7 +9940,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.maxmediaweb.net^$document
 ||www.mazda-favorit-motors.ru^$document
 ||www.mazoni.pt^$document
-||www.mcafee.com^$document
 ||www.mceyy.site^$document
 ||www.mclarencars.cn^$document
 ||www.mculnqe.cn^$document
