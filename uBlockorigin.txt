@@ -4418,7 +4418,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||landing.server4testing.com^$document
 ||languagehelpsunderstand.zah59.com^$document
 ||lanikainahele.com^$document
-||lanscope.jp^$document
 ||lansingtinyhouse.com^$document
 ||laponas.com^$document
 ||larousse-t.com^$document
