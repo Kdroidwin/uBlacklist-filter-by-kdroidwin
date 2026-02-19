@@ -3830,7 +3830,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||japanese.beijingreview.com.cn^$document
 ||japanese.china.org.cn^$document
 ||japanese.cri.cn^$document
-||japanese.pudong.gov.cn^$document
 ||japanknowledge-com-443.webvpn.zisu.edu.cn^$document
 ||japannewsnavi.com^$document
 ||japanshopping.org^$document
@@ -4685,7 +4684,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||madurasi.com.tr^$document
 ||madvikingos.com^$document
 ||maeharablog.com^$document
-||maf.gov.tl^$document
 ||mafumafu-fan.com^$document
 ||mag.app-liv.jp^$document
 ||magazine-k.jp^$document
@@ -5253,7 +5251,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||movie2free2.net^$document
 ||moviesets.net^$document
 ||movieswatchfree.net^$document
-||movilidadsantafedeantioquia.gov.co^$document
 ||moxienashville.com^$document
 ||moya-trend.com^$document
 ||mpznqedu.com^$document
@@ -5347,7 +5344,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||nagamonblog.com^$document
 ||nagano-kensanpin-gift.jp^$document
 ||nagasaki-ouenten.com^$document
-||nagasaki.china-consulate.gov.cn^$document
 ||nagisa.online^$document
 ||nagomiyamadoromi.jp^$document
 ||nagoyajo.webmasteris.me^$document
@@ -5573,7 +5569,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||niconicojikkyou.com^$document
 ||nigiwasu.com^$document
 ||nihon-ichi.jp^$document
-||niigata.china-consulate.gov.cn^$document
 ||niigata.mypl.net^$document
 ||niji.e-r-o-anime.xyz^$document
 ||nijiholo-local.jp^$document
@@ -6221,7 +6216,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||oryouri.2chblog.jp^$document
 ||osaboo.info^$document
 ||osaka-breakfast.com^$document
-||osaka.china-consulate.gov.cn^$document
 ||osaka.powerhousegym.jp^$document
 ||osamunoyume.com^$document
 ||osarai-media.net^$document
@@ -7142,7 +7136,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||saorerin.com^$document
 ||saorikblog.com^$document
 ||sapgakkan.muse.weblife.me^$document
-||sapporo.china-consulate.gov.cn^$document
 ||sarahzhuang.com^$document
 ||saramimaman24.com^$document
 ||sarattosokuhou.com^$document
@@ -7271,7 +7264,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||shainteru.com^$document
 ||shakerbrand.com^$document
 ||shamikuni.com^$document
-||shanghai.chinatax.gov.cn^$document
 ||sharedrop.io^$document
 ||sharelifestyle.info^$document
 ||sharmasteno.com^$document
@@ -8054,7 +8046,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||test.test-ccrm.philips.ru^$document
 ||testdom.work^$document
 ||testhub.me^$document
-||testing-bicto.bangsamoro.gov.ph^$document
 ||testwebsite.ejcoms.co.jp^$document
 ||tet7224.com^$document
 ||tetramedia.co.jp^$document
@@ -8304,7 +8295,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||tracey.egyptianculture.net/^$document
 ||track.japex.ru^$document
 ||tradedgkbilling.com.pk^$document
-||tradeinservices.mofcom.gov.cn^$document
 ||trainwithkodi.com^$document
 ||tramb.info^$document
 ||transformationallinguistics.com^$document
@@ -8580,7 +8570,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||vaccr.org^$document
 ||vadunasy.xyz^$document
 ||vagabr.online^$document
-||vak.minobrnauki.gov.ru^$document
 ||valor0code.com^$document
 ||vanced.com.co^$document
 ||vanced.jp.uptodown.com^$document
@@ -9656,7 +9645,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.hksgxw.cn^$document
 ||www.hoalanfoods.vn^$document
 ||www.hokkaido-edge.jp^$document
-||www.hokurikugas.co.jp.2519796247.proxy.kjj.lf.gov.cn^$document
 ||www.hokuto-no-ken-musical.com^$document
 ||www.hollandsvastgoed.com^$document
 ||www.homefiks.no^$document
@@ -9903,7 +9891,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.macrotkani.ru^$document
 ||www.macsome.com^$document
 ||www.maemuki-malco.com^$document
-||www.maf.gov.tl^$document
 ||www.magic-panda.com^$document
 ||www.magiskmodule.com^$document
 ||www.magmoe.com^$document
@@ -10552,7 +10539,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.trendingnews.tokyo^$document
 ||www.trendy-life33.com^$document
 ||www.trenink.info^$document
-||www.tresor.gov.bf^$document
 ||www.tricompany.ru^$document
 ||www.triptravel.me^$document
 ||www.truecaller.com^$document
@@ -11198,7 +11184,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||zeroum.co.jp^$document
 ||zesty1pk.arcjav.com^$document
 ||zewiyig.live^$document
-||zexy.ex5.https.443.g0.ipv6.zhuhai.gov.cn^$document
 ||zffsg.oss-ap-northeast-2.aliyuncs.com^$document
 ||zglqcq.gebvvcheap.shop^$document
 ||zhblog.net^$document
