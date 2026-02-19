@@ -4506,7 +4506,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||lifestyle.assist-all.co.jp^$document
 ||lifestyle1030.com^$document
 ||lifetopiccom.com^$document
-||liff.line.me^$document
 ||lifunas.com^$document
 ||lightofhopealliance.org^$document
 ||liguelabatt.com^$document
