@@ -993,6 +993,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||azukichi-trend.com^$document
 ||azukimama.com^$document
 ||azukisanchi.xsrv.jp^$document
+||b-b-s.site^$document
 ||b-corsairs.bl.kuroco-img.app^$document
 ||b-short.link^$document
 ||b-us.liuhe36.cn^$document
@@ -1872,6 +1873,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||de-vraag.com^$document
 ||de2.45rina.com^$document
 ||deai-wakare.tokyo^$document
+||deaiappnews.com^$document
 ||deaino-onayami.com^$document
 ||dearteenme.com^$document
 ||deatonhospital.com^$document
@@ -7527,6 +7529,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||solutionsbyswain.com^$document
 ||solveforum.com^$document
 ||solvusoft.com^$document
+||somsalut.com/item.php?products^$document
 ||sonasgrill.com^$document
 ||sonicch.com^$document
 ||sonicmovie.net^$document
@@ -9682,6 +9685,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.imrisk.com^$document
 ||www.indiegogo.jp^$document
 ||www.indigocowork.space^$document
+||www.infocart.jp^$document
 ||www.infotop.jp^$document
 ||www.innocentcapitaltax.com^$document
 ||www.inspiracionkohler.com^$document

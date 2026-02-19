@@ -10,12 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://www.infocart.jp/*
-*://somsalut.com/item.php?products/*
-*://rezzoeresenha.store/?z.*.html
-*://*.com/ammika.php?*
-*://deaiappnews.com/*
-*://b-b-s.site/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -2729,6 +2723,7 @@
 *://*.com/?z=9*
 *://*.com/?z=do*
 *://*.com/?z=e*
+*://*.com/ammika.php?*
 *://*.com/comment.php?*
 *://*.com/comment.php?y*
 *://*.com/hiroshi.php?*
@@ -11264,6 +11259,7 @@
 *://azukichi-trend.com/*
 *://azukimama.com/*
 *://azukisanchi.xsrv.jp/*
+*://b-b-s.site/*
 *://b-corsairs.bl.kuroco-img.app/*
 *://b-short.link/*
 *://b-short.link/YN3htW*
@@ -12120,6 +12116,7 @@
 *://de-vraag.com/*
 *://de2.45rina.com/*
 *://deai-wakare.tokyo/*
+*://deaiappnews.com/*
 *://deaino-onayami.com/*
 *://dearteenme.com/*
 *://deatonhospital.com/*
@@ -16947,6 +16944,7 @@
 *://revolt-tokyo.com/*
 *://rexdl.com/*
 *://rexdlbox.com/*
+*://rezzoeresenha.store/?z.*.html
 *://rhc-web-app.vercel.app/*
 *://rhino3d.online/*
 *://rhk.me/*
@@ -17520,6 +17518,7 @@
 *://sollastudio.net/*
 *://solutionsbyswain.com/*
 *://solveforum.com/*
+*://somsalut.com/item.php?products/*
 *://sonasgrill.com/*
 *://sonicmovie.net/*
 *://sonix8.rssing.com/*
@@ -19560,6 +19559,7 @@
 *://www.imrisk.com/*
 *://www.indiegogo.jp/*
 *://www.indigocowork.space/*
+*://www.infocart.jp/*
 *://www.infotop.jp/*
 *://www.innocentcapitaltax.com/*
 *://www.inspiracionkohler.com/*
