@@ -10,7 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://*.by/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -816,6 +815,7 @@
 *://*.bid/*
 *://*.bond/*
 *://*.brow2ing.com/*
+*://*.by/*
 *://*.by/?a=0*
 *://*.by/?a=1*
 *://*.by/?a=2*
