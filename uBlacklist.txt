@@ -10,6 +10,14 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
+*://*.la/?_g=*
+*://*.sk/?*.html*
+*://*.com/products.php?*
+*://*.com.br/?*.html
+*://*.it/?d.*.html*
+*://*.nl/index.php*
+*://*.com/index.php/?detail/*
+*://*.com/index.php//?detail*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
