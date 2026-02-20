@@ -5729,6 +5729,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/galaxy_s2526^$document
 ||note.com/gameandlife^$document
 ||note.com/gamer_zundamon^$document
+||note.com/gekiatu777^$document
 ||note.com/genial_okapi1028^$document
 ||note.com/getgadgetgot^$document
 ||note.com/getgadgetgot^$document
@@ -9545,6 +9546,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.getintomac.net^$document
 ||www.getintopc.world^$document
 ||www.getkmspico.com^$document
+||www.getminecore.com^$document
 ||www.getmodsapk.cc^$document
 ||www.getspeedy.io^$document
 ||www.gevtmmv.cn^$document

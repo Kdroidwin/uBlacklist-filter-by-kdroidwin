@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://note.com/gekiatu777/*
-*://www.getminecore.com/*
-*://*.net/shop/*.shtm
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -9873,6 +9870,7 @@
 *://*.net/?z=9*
 *://*.net/index.php//?a=*
 *://*.net/index.php?shopping/*
+*://*.net/shop/*.shtm
 *://*.netflix.com.vn/*
 *://*.news/?a=0*
 *://*.news/?a=1*
@@ -20532,6 +20530,7 @@
 *://note.com/galaxy_s2526/*
 *://note.com/gameandlife/*
 *://note.com/gamer_zundamon/*
+*://note.com/gekiatu777/*
 *://note.com/genial_okapi1028/*
 *://note.com/getgadgetgot/*
 *://note.com/getpoint_frommno/*
@@ -24118,6 +24117,7 @@
 *://www.getintomac.net/*
 *://www.getintopc.world/*
 *://www.getkmspico.com/*
+*://www.getminecore.com/*
 *://www.getmodsapk.cc/*
 *://www.getspeedy.io/*
 *://www.gevtmmv.cn/*
