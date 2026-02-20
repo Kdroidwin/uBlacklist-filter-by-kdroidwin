@@ -1,6 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://note.com/gekiatu777/*
+*://www.getminecore.com/*
+*://*.net/shop/*.shtm
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
