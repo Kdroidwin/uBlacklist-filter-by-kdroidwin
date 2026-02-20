@@ -5165,6 +5165,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||modsmaniac.com^$document
 ||modspoti.com^$document
 ||modtoapk.com^$document
+||modtodays.com^$document
 ||moduloasr.com^$document
 ||modversionapk.com^$document
 ||modygirl.com^$document
@@ -6475,6 +6476,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||playforparkinsons.org^$document
 ||playkull.com^$document
 ||playma.jp^$document
+||playmods.net^$document
 ||playruneterra.cn^$document
 ||playwithyuzu.com^$document
 ||plazaosaka-database.113110.online^$document
@@ -9073,6 +9075,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.anycodings.com^$document
 ||www.aoimori-norin.jp^$document
 ||www.aoritsuito.com^$document
+||www.apk20.com^$document
 ||www.apk3.com^$document
 ||www.apkfiles.com^$document
 ||www.apkrogue.com^$document

@@ -1,13 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://modtodays.com/*
-*://playmods.net/*
-*://www.apk20.com/*
-*://*.com/index.php?*.phtml
-*://*.com/*.shtm
-*://*.com/saiga.php?*
-title/static.mercdn.net/
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -2160,6 +2153,7 @@ title/static.mercdn.net/
 *://*.com.br/shop/*/*
 *://*.com.br/shop/*/*.html
 *://*.com.vn/?p=9*
+*://*.com/*.shtm
 *://*.com/?_g=0
 *://*.com/?_g=0*
 *://*.com/?_g=1
@@ -2737,12 +2731,14 @@ title/static.mercdn.net/
 *://*.com/index.php/*//?_g=*
 *://*.com/index.php//?_g=*
 *://*.com/index.php//?a=*
+*://*.com/index.php?*.phtml
 *://*.com/index.php?products/*
 *://*.com/index.php?shop/items/*
 *://*.com/product/*.shtm
 *://*.com/products.php?n=*
 *://*.com/products.php?r=*
 *://*.com/products.php?shop/*.html
+*://*.com/saiga.php?*
 *://*.com/saiga.php?shop/*
 *://*.com/shop/*/*.phtml
 *://*.com/wp-*.php?product*
@@ -15311,6 +15307,7 @@ title/static.mercdn.net/
 *://modsmaniac.com/*
 *://modspoti.com/*
 *://modtoapk.com/*
+*://modtodays.com/*
 *://moduloasr.com/*
 *://modversionapk.com/*
 *://modygirl.com/*
@@ -16557,6 +16554,7 @@ title/static.mercdn.net/
 *://playforparkinsons.org/*
 *://playkull.com/*
 *://playma.jp/*
+*://playmods.net/*
 *://playruneterra.cn/*
 *://playwithyuzu.com/*
 *://plazaosaka-database.113110.online/*
@@ -18965,6 +18963,7 @@ title/static.mercdn.net/
 *://www.anycodings.com/*
 *://www.aoimori-norin.jp/*
 *://www.aoritsuito.com/*
+*://www.apk20.com/*
 *://www.apk3.com/*
 *://www.apkfiles.com/*
 *://www.apkrogue.com/*
@@ -21105,6 +21104,7 @@ title/^(?=.*Netflix)(?=.*Premium Unlocked).*/
 title/^(?=.*漫画raw)(?=.*1001).*/
 title/^無題$/
 title/on PC with MEmu/
+title/static.mercdn.net/
 title/wikiプロ/
 title/wiki風プロ/
 title/wiki風経歴/
