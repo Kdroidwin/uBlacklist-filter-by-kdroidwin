@@ -4,6 +4,12 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
+*://*.com/item.php?products/*
+*://*.games/?t.*
+title/m.media-amazon.com/
+*://*.health/?*
+*://*.pt/shop/*.phtml
+*://*.pl/?*.html
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
