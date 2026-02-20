@@ -4,12 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://*.com/item.php?products/*
-*://*.games/?t.*
-title/m.media-amazon.com/
-*://*.health/?*
-*://*.pt/shop/*.phtml
-*://*.pl/?*.html
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -3781,6 +3775,7 @@ title/m.media-amazon.com/
 *://*.com/index.php?*.phtml
 *://*.com/index.php?products/*
 *://*.com/index.php?shop/items/*
+*://*.com/item.php?products/*
 *://*.com/product/*.shtm
 *://*.com/products.php?n=*
 *://*.com/products.php?r=*
@@ -5636,6 +5631,7 @@ title/m.media-amazon.com/
 *://*.fr/index*.php//?*
 *://*.fyi/*
 *://*.gamemodfree.com/*
+*://*.games/?t.*
 *://*.gm/*
 *://*.gq/*
 *://*.gr/?a=0*
@@ -6419,6 +6415,7 @@ title/m.media-amazon.com/
 *://*.gt/?z=8*
 *://*.gt/?z=9*
 *://*.hair/*
+*://*.health/?*
 *://*.hu/*.phtml
 *://*.hu/?a=0
 *://*.hu/?a=0*
@@ -11235,6 +11232,7 @@ title/m.media-amazon.com/
 *://*.pintrest.com/*
 *://*.pintrist.com/*
 *://*.pk/*
+*://*.pl/?*.html
 *://*.pl/?a=0
 *://*.pl/?a=0*
 *://*.pl/?a=1
@@ -12281,6 +12279,7 @@ title/m.media-amazon.com/
 *://*.pt/?z=7*
 *://*.pt/?z=8*
 *://*.pt/?z=9*
+*://*.pt/shop/*.phtml
 *://*.purisoku.com/*
 *://*.python.engineering/*
 *://*.python2.net/*
@@ -25790,6 +25789,7 @@ title/^(?=.*Amazon)(?=.*Premium Unlocked).*/
 title/^(?=.*Netflix)(?=.*Premium Unlocked).*/
 title/^(?=.*漫画raw)(?=.*1001).*/
 title/^無題$/
+title/m.media-amazon.com/
 title/on PC with MEmu/
 title/static.mercdn.net/
 title/wikiプロ/
