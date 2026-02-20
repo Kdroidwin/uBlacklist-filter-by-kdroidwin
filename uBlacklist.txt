@@ -10,14 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://*.la/?_g=*
-*://*.sk/?*.html*
-*://*.com/products.php?*
-*://*.com.br/?*.html
-*://*.it/?d.*.html*
-*://*.nl/index.php*
-*://*.com/index.php/?detail/*
-*://*.com/index.php//?detail*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -2927,6 +2919,7 @@
 *://*.com.au/content.php?q=*
 *://*.com.au/products.php?*
 *://*.com.br/*.php?*
+*://*.com.br/?*.html
 *://*.com.br/?_g=0*
 *://*.com.br/?_g=1*
 *://*.com.br/?_g=2*
@@ -3780,11 +3773,14 @@
 *://*.com/index.php/*//?_g=*
 *://*.com/index.php//?_g=*
 *://*.com/index.php//?a=*
+*://*.com/index.php//?detail*
+*://*.com/index.php/?detail/*
 *://*.com/index.php?*.phtml
 *://*.com/index.php?products/*
 *://*.com/index.php?shop/items/*
 *://*.com/item.php?products/*
 *://*.com/product/*.shtm
+*://*.com/products.php?*
 *://*.com/products.php?n=*
 *://*.com/products.php?r=*
 *://*.com/products.php?shop/*.html
@@ -8551,6 +8547,7 @@
 *://*.it/?c=7*
 *://*.it/?c=8*
 *://*.it/?c=9*
+*://*.it/?d.*.html*
 *://*.it/?d=0*
 *://*.it/?d=1*
 *://*.it/?d=2*
@@ -9093,6 +9090,7 @@
 *://*.kimuta1105.livedoor.blog/*
 *://*.kokunanmonomousu.com/*
 *://*.kushi-mc.net/*
+*://*.la/?_g=*
 *://*.lat/*
 *://*.latestmodapks.com/*
 *://*.lifehack2ch.livedoor.biz/*
@@ -10922,6 +10920,7 @@
 *://*.nl/?z=7*
 *://*.nl/?z=8*
 *://*.nl/?z=9*
+*://*.nl/index.php*
 *://*.no/*.shtm
 *://*.no/?a=0*
 *://*.no/?a=1*
@@ -13122,6 +13121,7 @@
 *://*.shenzhenjia.cn/*
 *://*.shenzhenjia.net/*
 *://*.siwib.org/*
+*://*.sk/?*.html*
 *://*.sk/?a=0*
 *://*.sk/?a=1*
 *://*.sk/?a=2*
