@@ -10034,7 +10034,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.musictrades.co.jp^$document
 ||www.mutualjerarquicos.org^$document
 ||www.myclass.jp^$document
-||www.myday.com.tw^$document
 ||www.myrtleestate.com.au^$document
 ||www.mysqlserver.cn^$document
 ||www.myzone.shop^$document
