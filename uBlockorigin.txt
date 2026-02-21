@@ -7387,7 +7387,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||shrine-carine.com^$document
 ||shufu-run.net^$document
 ||shufuwork.com^$document
-||shuguo.com.tw^$document
 ||shuhu-tomo-blog.com^$document
 ||shukuhakuwari.com^$document
 ||shumidon.com^$document
