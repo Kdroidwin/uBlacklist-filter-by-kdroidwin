@@ -1611,6 +1611,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||client.v.just.edu.cn^$document
 ||clientes.selecmoda.com^$document
 ||cloline.online^$document
+||cloodnerw.com^$document
 ||closetoyoubelieve.com^$document
 ||cloudflare.com.vn^$document
 ||cloudmc.xyz^$document
@@ -1762,6 +1763,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||cracklemovie.org^$document
 ||crackshash.com^$document
 ||crackshash.org^$document
+||cradlevibe.com^$document
 ||craft-beer.life^$document
 ||crapez6g.erajohor.com^$document
 ||crass21m.jettysuites.com^$document
@@ -1999,6 +2001,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||dmoss-ci.com^$document
 ||dmpatent.com^$document
 ||dnrhoee.com^$document
+||dntworkshop.com/detail^$document
 ||do.hiraku946.jp^$document
 ||do2512.com^$document
 ||doboku21.com^$document
@@ -3031,6 +3034,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||globaxiscorp.com^$document
 ||globeflightdeals.com^$document
 ||glocalnet.jp^$document
+||glotoolhub.com^$document
 ||glowluxv.com^$document
 ||gluglu.jp^$document
 ||gm^$document
@@ -4630,6 +4634,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||luupy.net^$document
 ||luvasti.com^$document
 ||luxecathaven.com^$document
+||luxeelao.com^$document
 ||luxio-tarou.com^$document
 ||luxury-biz.com^$document
 ||luxury.gyutora.jp^$document
@@ -6107,6 +6112,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||ogiri.moshimobox.top^$document
 ||ohanasi-blog.com^$document
 ||ohisamaso.com^$document
+||oioi-min.com^$document
 ||oip.yongjoo.za.com^$document
 ||oishiimomlife.com^$document
 ||ojinabeblog.com^$document
@@ -6399,6 +6405,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||petitwings.com^$document
 ||pewtalk.nl^$document
 ||pg^$doc,domain=~datec.com.pg|~ccda.gov.pg|~rpngc.gov.pg|~ibsu.ac.pg|~pomcci.org.pg|~gov.pg|~ac.pg
+||phas.today^$document
 ||philadelphiaple.amebaownd.com^$document
 ||philboothforecasts.com^$document
 ||philka.ru^$document
@@ -6703,8 +6710,10 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||quick-timez.com^$document
 ||quickget.jp^$document
 ||quitoko.com^$document
+||qunque.work^$document
 ||quocardpay.onelink.me^$document
 ||qvdwmm1j.r.ap-northeast-1.awstrack.me^$document
+||qwq-min.com^$document
 ||qxlqgdx.studio^$document
 ||qy62ijjz2.benecicios-bancorrientes.online^$document
 ||r-press.su^$document
@@ -7451,6 +7460,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||skywave-net.com^$document
 ||sl^$document,from=~gov.sl
 ||slashdot.jp^$document
+||sldytd.com^$document
 ||slolita.taobao.com^$document
 ||sloloura.com^$document
 ||slope-media.jp^$document
@@ -7713,6 +7723,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||stg-kanaboon.emtg.xyz^$document
 ||stg.logtube.jp^$document
 ||stillness.life^$document
+||stitchzo.com^$document
 ||stlassh.com^$document
 ||stock-marketech.com^$document
 ||stonefree130.com^$document
@@ -8569,6 +8580,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||uz.queenmobile.me^$document
 ||v.52proxy.xyz^$document
 ||v.baran24.com^$document
+||v12worldwide.com/shop^$document
 ||v9czzc2.apartamentysolarza.pl^$document
 ||vabiruonline.com^$document
 ||vacancesmartinique.fr^$document
@@ -10872,6 +10884,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||xstack.us^$document
 ||xtmk.net^$document
 ||xtrust.jp^$document
+||xvxv-min.com^$document
 ||xxkaiwai.com^$document
 ||xxx.report^$document
 ||xxxyuxxxka.com^$document
@@ -10927,6 +10940,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||yertias.com^$document
 ||yes-sports.com^$document
 ||yesbud.online^$document
+||yesinne.com^$document
 ||yesterday-tv.com^$document
 ||yetu.tours^$document
 ||ygaero.com^$document

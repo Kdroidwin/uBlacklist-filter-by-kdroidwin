@@ -6,34 +6,6 @@
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
-*://dntworkshop.com/detail/*
-*://*.tw/index.php?shop/*
-*://*.co.uk/*.phtml
-*://*.co.uk/index.php?shop/*
-*://*.pl/shop/*
-*://*.no/shop/*
-*://*.hu/?f*
-*://*.co.in/?*.html
-*://*.ge/*.shtml
-*://v12worldwide.com/shop/*
-*://*.com/?i=f*
-*://*.cz/?_g=*
-*://*.th/index.php/*
-*://*.co.jp/?o.*
-*://*.id/?_g=*
-*://*.dk/comment.php?*
-*://cradlevibe.com/*
-*://stitchzo.com/*
-*://qunque.work/*
-*://phas.today/*
-*://cloodnerw.com/*
-*://glotoolhub.com/*
-*://luxeelao.com/*
-*://oioi-min.com/*
-*://qwq-min.com/*
-*://yesinne.com/*
-*://xvxv-min.com/*
-*://sldytd.com/*
 *://*.akhbara24.news/*
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
@@ -2671,6 +2643,9 @@
 *://*.clinic/?z=7*
 *://*.clinic/?z=8*
 *://*.clinic/?z=9*
+*://*.co.in/?*.html
+*://*.co.jp/?o.*
+*://*.co.uk/*.phtml
 *://*.co.uk/?_g=0*
 *://*.co.uk/?_g=1*
 *://*.co.uk/?_g=2*
@@ -2681,6 +2656,7 @@
 *://*.co.uk/?_g=7*
 *://*.co.uk/?_g=8*
 *://*.co.uk/?_g=9*
+*://*.co.uk/index.php?shop/*
 *://*.co.za/*
 *://*.co/?a=0*
 *://*.co/?a=1*
@@ -3442,6 +3418,7 @@
 *://*.com/?i=9*
 *://*.com/?i=do*
 *://*.com/?i=e*
+*://*.com/?i=f*
 *://*.com/?j.0*
 *://*.com/?j.1*
 *://*.com/?j.2*
@@ -3820,6 +3797,7 @@
 *://*.crurkin.info/*
 *://*.crx7601.com/*
 *://*.cyou/*
+*://*.cz/?_g=*
 *://*.cz/?a=0*
 *://*.cz/?a=1*
 *://*.cz/?a=2*
@@ -4612,6 +4590,7 @@
 *://*.dk/?z=7*
 *://*.dk/?z=8*
 *://*.dk/?z=9*
+*://*.dk/comment.php?*
 *://*.do/?a=0*
 *://*.do/?a=1*
 *://*.do/?a=2*
@@ -5924,6 +5903,7 @@
 *://*.fyi/*
 *://*.gamemodfree.com/*
 *://*.games/?t.*
+*://*.ge/*.shtml
 *://*.gm/*
 *://*.gq/*
 *://*.gr/?a=0*
@@ -6809,6 +6789,7 @@
 *://*.hu/?e=8*
 *://*.hu/?e=9
 *://*.hu/?e=9*
+*://*.hu/?f*
 *://*.hu/?f=0
 *://*.hu/?f=0*
 *://*.hu/?f=1
@@ -7232,6 +7213,7 @@
 *://*.huat.jp/*
 *://*.icrt.cu/*
 *://*.icu/*
+*://*.id/?_g=*
 *://*.id/?a=0*
 *://*.id/?a=1*
 *://*.id/?a=2*
@@ -11210,6 +11192,7 @@
 *://*.no/?z=7*
 *://*.no/?z=8*
 *://*.no/?z=9*
+*://*.no/shop/*
 *://*.nogomi.ru/*
 *://*.okaimonoclub.jp/*
 *://*.okikuhabataku.blog/*
@@ -12309,6 +12292,7 @@
 *://*.pl/?z=8*
 *://*.pl/?z=9
 *://*.pl/?z=9*
+*://*.pl/shop/*
 *://*.pn/*
 *://*.pro/?a=0*
 *://*.pro/?a=1*
@@ -14235,6 +14219,7 @@
 *://*.techbigs.com/*
 *://*.techfeed.net/*
 *://*.techylist.com/*
+*://*.th/index.php/*
 *://*.thercb.org/*
 *://*.thinbug.com/*
 *://*.ti-enxame.com/*
@@ -14774,6 +14759,7 @@
 *://*.tw/?z=7*
 *://*.tw/?z=8*
 *://*.tw/?z=9*
+*://*.tw/index.php?shop/*
 *://*.twitter.com.vn/*
 *://*.u1sokuhou.ldblog.jp/*
 *://*.ua/*.shtml
@@ -17366,6 +17352,7 @@
 *://clickfordetayiso.online/*
 *://clientes.selecmoda.com/*
 *://cloline.online/*
+*://cloodnerw.com/*
 *://closetoyoubelieve.com/*
 *://cloudmc.xyz/*
 *://cloudteams.xyz/*
@@ -17513,6 +17500,7 @@
 *://cracklemovie.org/*
 *://crackshash.com/*
 *://crackshash.org/*
+*://cradlevibe.com/*
 *://craft-beer.life/*
 *://crapez6g.erajohor.com/*
 *://crass21m.jettysuites.com/*
@@ -17748,6 +17736,7 @@
 *://dmoss-ci.com/*
 *://dmpatent.com/*
 *://dnrhoee.com/*
+*://dntworkshop.com/detail/*
 *://do.hiraku946.jp/*
 *://do2512.com/*
 *://doboku21.com/*
@@ -18743,6 +18732,7 @@
 *://globaxiscorp.com/*
 *://globeflightdeals.com/*
 *://glocalnet.jp/*
+*://glotoolhub.com/*
 *://glowluxv.com/*
 *://gluglu.jp/*
 *://gmeetmeat.xyz/*
@@ -20298,6 +20288,7 @@
 *://luupy.net/*
 *://luvasti.com/*
 *://luxecathaven.com/*
+*://luxeelao.com/*
 *://luxio-tarou.com/*
 *://luxury-biz.com/*
 *://luxury.gyutora.jp/*
@@ -21707,6 +21698,7 @@
 *://ogiri.moshimobox.top/*
 *://ohanasi-blog.com/*
 *://ohisamaso.com/*
+*://oioi-min.com/*
 *://oip.yongjoo.za.com/*
 *://oishiimomlife.com/*
 *://ojinabeblog.com/*
@@ -21982,6 +21974,7 @@
 *://pesktop.com/en/windows/kms-matrix*
 *://petitwings.com/*
 *://pewtalk.nl/*
+*://phas.today/*
 *://philadelphiaple.amebaownd.com/*
 *://philboothforecasts.com/*
 *://philka.ru/*
@@ -22257,8 +22250,10 @@
 *://quick-timez.com/*
 *://quickget.jp/*
 *://quitoko.com/*
+*://qunque.work/*
 *://quocardpay.onelink.me/*
 *://qvdwmm1j.r.ap-northeast-1.awstrack.me/*
+*://qwq-min.com/*
 *://qxlqgdx.studio/*
 *://qy62ijjz2.benecicios-bancorrientes.online/*
 *://r-press.su/*
@@ -22957,6 +22952,7 @@
 *://skytouchservices.com/*
 *://skywave-net.com/*
 *://slashdot.jp/*
+*://sldytd.com/*
 *://slolita.taobao.com/*
 *://sloloura.com/*
 *://slope-media.jp/*
@@ -23193,6 +23189,7 @@
 *://stg-kanaboon.emtg.xyz/*
 *://stg.logtube.jp/*
 *://stillness.life/*
+*://stitchzo.com/*
 *://stlassh.com/*
 *://stock-marketech.com/*
 *://stonefree130.com/*
@@ -23996,6 +23993,7 @@
 *://uz.queenmobile.me/*
 *://v.52proxy.xyz/*
 *://v.baran24.com/*
+*://v12worldwide.com/shop/*
 *://v9czzc2.apartamentysolarza.pl/*
 *://vabiruonline.com/*
 *://vacancesmartinique.fr/*
@@ -26241,6 +26239,7 @@
 *://xstack.us/*
 *://xtmk.net/*
 *://xtrust.jp/*
+*://xvxv-min.com/*
 *://xxkaiwai.com/*
 *://xxx.report/*
 *://xxxyuxxxka.com/*
@@ -26294,6 +26293,7 @@
 *://yertias.com/*
 *://yes-sports.com/*
 *://yesbud.online/*
+*://yesinne.com/*
 *://yesterday-tv.com/*
 *://yetu.tours/*
 *://ygaero.com/*
