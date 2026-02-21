@@ -25406,7 +25406,6 @@
 *://www.musictrades.co.jp/*
 *://www.mutualjerarquicos.org/*
 *://www.myclass.jp/*
-*://www.myday.com.tw/*
 *://www.myrtleestate.com.au/*
 *://www.mysqlserver.cn/*
 *://www.myzone.shop/*
