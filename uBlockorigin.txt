@@ -7285,7 +7285,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||shauncafe.com^$document
 ||shaunkentarme-zakkiblog.com^$document
 ||shawn620.online^$document
-||sheeny.com.tw^$document
 ||sheingivesback.com^$document
 ||shenghuobao.net^$document
 ||shiawaseninaritai.com^$document
@@ -9864,7 +9863,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.legame-gr.jp^$document
 ||www.lemon8-app.com^$document
 ||www.lepang.cn^$document
-||www.letao.com.tw^$document
 ||www.letempsdunevasion.fr^$document
 ||www.leterna.top^$document
 ||www.letzmanage.com^$document
