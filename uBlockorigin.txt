@@ -8457,7 +8457,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||twitter.com/zlib_official^$document
 ||twitter.nuxt.xyz^$document
 ||twn-rt.onelink.me^$document
-||twstalker.com^$document
 ||twtwmatome.hatenablog.com^$document
 ||txp.fxisvpiw.my^$document
 ||tyerukun.com^$document
