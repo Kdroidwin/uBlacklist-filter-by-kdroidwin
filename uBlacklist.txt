@@ -22783,7 +22783,6 @@
 *://shauncafe.com/*
 *://shaunkentarme-zakkiblog.com/*
 *://shawn620.online/*
-*://sheeny.com.tw/*
 *://sheingivesback.com/*
 *://shenghuobao.net/*
 *://sherbatovelite.com/detail*
@@ -22884,7 +22883,6 @@
 *://shrine-carine.com/*
 *://shufu-run.net/*
 *://shufuwork.com/*
-*://shuguo.com.tw/*
 *://shuhu-tomo-blog.com/*
 *://shukuhakuwari.com/*
 *://shumidon.com/*
@@ -25234,7 +25232,6 @@
 *://www.lemon8-app.com/*
 *://www.lensoffer.in/?m=f*
 *://www.lepang.cn/*
-*://www.letao.com.tw/*
 *://www.letempsdunevasion.fr/*
 *://www.leterna.top/*
 *://www.letzmanage.com/*
