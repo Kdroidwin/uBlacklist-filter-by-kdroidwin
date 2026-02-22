@@ -315,7 +315,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||aalhoyr.cn^$document
 ||aasc.or.jp^$document
 ||ab-d.nl^$document
-||ab6ix-cafe.jp^$document
 ||abc-co.ru^$document
 ||abc.us.org^$document
 ||abccmoo.com^$document
@@ -4144,7 +4143,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||khbtbfkm.life^$document
 ||khoanguyenchuong.com^$document
 ||kicks-blog.com^$document
-||kigyolog.com^$document
 ||kihachi-log.com^$document
 ||kiiropicks.com^$document
 ||kijitora-chan.com^$document
