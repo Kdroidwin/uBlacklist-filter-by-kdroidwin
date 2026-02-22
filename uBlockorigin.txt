@@ -9506,7 +9506,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.fpservicesnc.com^$document
 ||www.freedomken.com^$document
 ||www.freee.co.jp^$document
-||www.fromjapan.co.jp^$document
 ||www.frostwire.com^$document
 ||www.fujifilm.ru^$document
 ||www.fujiya-avic.co.jp^$document
