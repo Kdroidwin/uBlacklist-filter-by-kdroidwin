@@ -24884,7 +24884,6 @@
 *://www.fpservicesnc.com/*
 *://www.freedomken.com/*
 *://www.freee.co.jp/*
-*://www.fromjapan.co.jp/*
 *://www.frostwire.com/*
 *://www.fujifilm.ru/*
 *://www.fujiya-avic.co.jp/*
