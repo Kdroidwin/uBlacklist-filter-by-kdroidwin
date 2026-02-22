@@ -1579,7 +1579,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||cimco-us.com^$document
 ||cinderella.blog^$document
 ||cinemaangel.jp^$document
-||cinemacana.jp^$document
 ||cinemachi.net^$document
 ||cinemadaisuki.com^$document
 ||cinemaparadiso1989.blog.fc2.com^$document
