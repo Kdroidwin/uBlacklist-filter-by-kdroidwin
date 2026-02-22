@@ -7913,6 +7913,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||tadanohimatsubushi.com^$document
 ||tadasakan.com^$document
 ||tadatabilife.hatenablog.com^$document
+||tadatadatalk.com^$document
 ||taggypunkblog.com^$document
 ||tagsqa.com^$document
 ||tai-gee.com^$document
