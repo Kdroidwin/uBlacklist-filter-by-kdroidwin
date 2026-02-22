@@ -121,6 +121,7 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 - 危険なソフトウェアダウンロードサイト(マルウェア配布等)
 - 悪質なまとめサイト（多すぎるので一部の悪質なサイトのみ）
 - 誤った情報を多く含むサイト(AIのハルシネーション等)
+- 偽のダウンロードボタンリンク
 
 <br>
 <br>
