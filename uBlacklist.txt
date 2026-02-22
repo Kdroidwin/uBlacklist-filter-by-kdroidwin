@@ -16120,7 +16120,6 @@
 *://aalhoyr.cn/*
 *://aasc.or.jp/*
 *://ab-d.nl/*
-*://ab6ix-cafe.jp/*
 *://abc-co.ru/*
 *://abc.us.org/*
 *://abccmoo.com/*
@@ -19815,7 +19814,6 @@
 *://khbtbfkm.life/*
 *://khoanguyenchuong.com/*
 *://kicks-blog.com/*
-*://kigyolog.com/*
 *://kihachi-log.com/*
 *://kiiropicks.com/*
 *://kijitora-chan.com/*
