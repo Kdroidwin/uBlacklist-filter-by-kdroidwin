@@ -1573,7 +1573,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||chupea-club.jp^$document
 ||churchfront.me^$document
 ||chuzai-china.com^$document
-||ci^$document
 ||ciatr.jp^$document
 ||cicn-mall.com^$document
 ||cikarciadam.online^$document
