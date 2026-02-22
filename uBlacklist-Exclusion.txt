@@ -1006,6 +1006,7 @@
 @*://www.gracha.click/*
 @*://www.sakacho.click/*
 @*://fatturapro.click/*
+@*://technote.click/*
 @*://acortar.click/*
 @*://kakyo.sbs/*
 @*://ehimedoyoukai.sbs/*
