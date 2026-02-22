@@ -3,6 +3,11 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
+*://*.com.br/jp/*
+*://*.com.br/ja/*
+*://*.org/?a=e*
+*://www.mentor.at/grw3*
+*://tadatadatalk.com/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
