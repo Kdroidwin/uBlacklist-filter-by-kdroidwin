@@ -5509,7 +5509,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||news-us.jp^$document
 ||news-wakaru.com^$document
 ||news.2chblog.jp^$document
-||news.careerconnection.jp^$document
 ||news.cube-soft.jp^$document
 ||news.eeany.cn^$document
 ||news.ganma.jp^$document
