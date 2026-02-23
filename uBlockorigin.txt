@@ -1384,6 +1384,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||buzztopick.jp^$document
 ||buzzwriteyear.com^$document
 ||byodoji.live^$document
+||rapidgators.net^$document
 ||byp.yongjoo.za.com^$document
 ||byqz.uzvkniid.love^$document
 ||byslww.cn^$document
