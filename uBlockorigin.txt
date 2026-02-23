@@ -339,6 +339,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||abvs.org^$document
 ||abxw.xxasj.cn^$document
 ||ac.3ps-ad.online^$document
+||ac.ellls.net^$document
 ||ac.ms-track.info^$document
 ||academic-box.be^$document
 ||access-network.jp^$document
@@ -1384,7 +1385,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||buzztopick.jp^$document
 ||buzzwriteyear.com^$document
 ||byodoji.live^$document
-||rapidgators.net^$document
 ||byp.yongjoo.za.com^$document
 ||byqz.uzvkniid.love^$document
 ||byslww.cn^$document
@@ -6756,6 +6756,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||ranobezipper.blog.fc2.com^$document
 ||ranzuki.jp^$document
 ||raoesn.co^$document
+||rapidgators.net^$document
 ||rapportsecurity.com^$document
 ||rarbg.to^$document
 ||rarecenter.org^$document

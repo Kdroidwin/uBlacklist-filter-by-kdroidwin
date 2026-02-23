@@ -2,9 +2,7 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://ac.ellls.net/*
 *://*.addness.co.jp/*
-*://rapidgators.net/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -16140,6 +16138,7 @@
 *://abvs.org/*
 *://abxw.xxasj.cn/*
 *://ac.3ps-ad.online/*
+*://ac.ellls.net/*
 *://ac.ms-track.info/*
 *://academic-box.be/*
 *://access-network.jp/*
@@ -22295,6 +22294,7 @@
 *://ranobezipper.blog.fc2.com/*
 *://ranzuki.jp/*
 *://raoesn.co/*
+*://rapidgators.net/*
 *://rapportsecurity.com/*
 *://rarbg.to/*
 *://rarecenter.org/*
