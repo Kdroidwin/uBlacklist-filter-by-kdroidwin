@@ -3,7 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://*.download.it/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -4849,6 +4848,7 @@
 *://*.do/?z=8*
 *://*.do/?z=9*
 *://*.dovov.com/*
+*://*.download.it/*
 *://*.ec/?a=0*
 *://*.ec/?a=1*
 *://*.ec/?a=2*
