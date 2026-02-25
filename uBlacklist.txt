@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://download.it/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -17820,6 +17819,7 @@
 *://download.capcutvip.top/*
 *://download.cnet.com/*
 *://download.cnet.com/ccleaner/3000-18512_4-10315544.html*
+*://download.it/*
 *://download.juxia.com/*
 *://dozin30.com/*
 *://dpmptsp.bireuenkab.go.id/*

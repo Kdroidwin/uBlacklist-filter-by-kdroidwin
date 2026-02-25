@@ -2086,6 +2086,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||download.capcutvip.top^$document
 ||download.cnet.com/ccleaner/3000-18512_4-10315544.html^$document
 ||download.cnet.com^$document
+||download.it^$document
 ||download.juxia.com^$document
 ||dozin30.com^$document
 ||dpmptsp.bireuenkab.go.id^$document
