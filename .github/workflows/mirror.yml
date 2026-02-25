@@ -1,0 +1,33 @@
+name: Mirror to Codeberg (Keep README)
+
+on:
+  push:
+    branches:
+      - main  # 必要に応じて他のブランチも追加
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Add Codeberg remote
+        env:
+          CODEBERG_USERNAME: ${{ secrets.CODEBERG_USERNAME }}
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+        run: |
+          git remote add codeberg https://${CODEBERG_USERNAME}:${CODEBERG_TOKEN}@codeberg.org/Kdroidwin/uB-filter-by-kdroidwin.git
+
+      - name: Push to Codeberg (excluding README)
+        run: |
+          # README.md を一時退避
+          if [ -f README.md ]; then mv README.md README.md.bak; fi
+          
+          # 全ブランチ・タグを push
+          git push codeberg main --tags
+          
+          # README.md を元に戻す
+          if [ -f README.md.bak ]; then mv README.md.bak README.md; fi
