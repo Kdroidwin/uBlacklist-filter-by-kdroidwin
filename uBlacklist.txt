@@ -3,15 +3,6 @@
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
-*://beelzeboulxxx.com/*
-*://nokuo.blog.jp/*
-*://catmiimi.com/*
-*://kemono-friendsbbs.com/*
-*://irodorich.com/*
-*://blog.livedoor.jp/insidears/*
-*://news4vip.livedoor.biz/*
-*://wonderfulnews.xyz/*
-*://shironeko-guild.blog.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
@@ -16841,6 +16832,7 @@
 *://bebordeaux.jp/*
 *://bedbathclose.com/*
 *://bedrockinfra.com/*
+*://beelzeboulxxx.com/*
 *://beerprice.life/*
 *://befree-life.com/*
 *://beginner-husband.com/*
@@ -16956,6 +16948,7 @@
 *://blog.livedoor.jp/christmas1224/*
 *://blog.livedoor.jp/dqnplus/*
 *://blog.livedoor.jp/goldennews/*
+*://blog.livedoor.jp/insidears/*
 *://blog.livedoor.jp/kinisoku*
 *://blog.livedoor.jp/kinisoku/*
 *://blog.livedoor.jp/kumakazu1207/*
@@ -17198,6 +17191,7 @@
 *://catboy2019.com/*
 *://catch-up-net.com/*
 *://catchmove.net/*
+*://catmiimi.com/*
 *://catorce.jp/*
 *://cbsllc.me/*
 *://cc-mayu.com/*
@@ -19427,6 +19421,7 @@
 *://irodori-cafeblog.com/*
 *://irodori3.com/*
 *://irodori365.com/*
+*://irodorich.com/*
 *://irohanihohoho.com/*
 *://iroiro-hassin-blog.com/*
 *://iroirog.info/*
@@ -19790,6 +19785,7 @@
 *://kelsey-asbillenude.nude.com/*
 *://kelvinshi.me/*
 *://kemono-friends-shop.net/*
+*://kemono-friendsbbs.com/*
 *://kemur.jp/*
 *://ken-sakulifehack.com/*
 *://kenboo-weblife.com/*
@@ -21142,6 +21138,7 @@
 *://news.mynavi.jp/securitysoft/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
 *://news.vodfan.com/*
+*://news4vip.livedoor.biz/*
 *://newscomic.net/*
 *://newsee-media.com/*
 *://newseveryday.jp/*
@@ -21241,6 +21238,7 @@
 *://nojiblog.com/*
 *://nokarimazi.com/*
 *://nokiblog.work/*
+*://nokuo.blog.jp/*
 *://nolomaiblog.com/*
 *://noma66.com/*
 *://nomad-saving.com/*
@@ -22842,6 +22840,7 @@
 *://shiro-mi.com/*
 *://shiro.ousyukubai.com/*
 *://shiro24.com/*
+*://shironeko-guild.blog.jp/*
 *://shirou-sports.com/*
 *://shiru-shiru.com/*
 *://shirurin.com/*
@@ -24284,6 +24283,7 @@
 *://wolfsakusaku.net/*
 *://wonda-onepiece22.jp/*
 *://wonderful-wife.net/*
+*://wonderfulnews.xyz/*
 *://wondia.net/*
 *://woodlandgreencondo.com/*
 *://woods-of-hamada.com/*

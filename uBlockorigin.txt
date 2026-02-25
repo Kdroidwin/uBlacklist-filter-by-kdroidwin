@@ -1076,6 +1076,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||bebordeaux.jp^$document
 ||bedbathclose.com^$document
 ||bedrockinfra.com^$document
+||beelzeboulxxx.com^$document
 ||beerprice.life^$document
 ||befree-life.com^$document
 ||beginner-husband.com^$document
@@ -1196,6 +1197,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||blog.livedoor.jp/christmas1224^$document
 ||blog.livedoor.jp/dqnplus^$document
 ||blog.livedoor.jp/goldennews^$document
+||blog.livedoor.jp/insidears^$document
 ||blog.livedoor.jp/kinisoku^$document
 ||blog.livedoor.jp/kinisoku^$document
 ||blog.livedoor.jp/kumakazu1207^$document
@@ -1444,6 +1446,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||catboy2019.com^$document
 ||catch-up-net.com^$document
 ||catchmove.net^$document
+||catmiimi.com^$document
 ||catorce.jp^$document
 ||cbsllc.me^$document
 ||cc-mayu.com^$document
@@ -3745,6 +3748,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||irodori-cafeblog.com^$document
 ||irodori3.com^$document
 ||irodori365.com^$document
+||irodorich.com^$document
 ||irohanihohoho.com^$document
 ||iroiro-hassin-blog.com^$document
 ||iroirog.info^$document
@@ -4114,6 +4118,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||kelsey-asbillenude.nude.com^$document
 ||kelvinshi.me^$document
 ||kemono-friends-shop.net^$document
+||kemono-friendsbbs.com^$document
 ||kemur.jp^$document
 ||ken-sakulifehack.com^$document
 ||kenboo-weblife.com^$document
@@ -5521,6 +5526,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||news.mynavi.jp/securitysoft^$document
 ||news.vodfan.com^$document
 ||news30over.com^$document
+||news4vip.livedoor.biz^$document
 ||news4wide.livedoor.biz^$document
 ||newscomic.net^$document
 ||newsee-media.com^$document
@@ -5627,6 +5633,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||nojiblog.com^$document
 ||nokarimazi.com^$document
 ||nokiblog.work^$document
+||nokuo.blog.jp^$document
 ||nolomaiblog.com^$document
 ||noma66.com^$document
 ||nomad-saving.com^$document
@@ -7335,6 +7342,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||shiro-mi.com^$document
 ||shiro.ousyukubai.com^$document
 ||shiro24.com^$document
+||shironeko-guild.blog.jp^$document
 ||shirosaki-company.co.jp^$document
 ||shirou-sports.com^$document
 ||shiru-shiru.com^$document
@@ -8894,6 +8902,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||wolfsakusaku.net^$document
 ||wonda-onepiece22.jp^$document
 ||wonderful-wife.net^$document
+||wonderfulnews.xyz^$document
 ||wondia.net^$document
 ||woodlandgreencondo.com^$document
 ||woods-of-hamada.com^$document
