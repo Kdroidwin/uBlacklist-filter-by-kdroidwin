@@ -5061,6 +5061,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||mimosa-313.com^$document
 ||mimublog.com^$document
 ||min-ero.jp^$document
+||mina-trend.com^$document
 ||minabl.com^$document
 ||minagu.co.jp^$document
 ||minahina.com^$document

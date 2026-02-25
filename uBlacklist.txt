@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://mina-trend.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -20698,6 +20697,7 @@
 *://mimosa-313.com/*
 *://mimublog.com/*
 *://min-ero.jp/*
+*://mina-trend.com/*
 *://minabl.com/*
 *://minahina.com/*
 *://minamikublog.com/*
