@@ -2083,6 +2083,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||doujinsokuhou45.com^$document
 ||douzin.archimedes.jp^$document
 ||douzinnsi-eromannga.com^$document
+||download-new.utorrent.com^$document
 ||download.capcutvip.top^$document
 ||download.cnet.com/ccleaner/3000-18512_4-10315544.html^$document
 ||download.cnet.com^$document
@@ -8568,6 +8569,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||utamonogatari.jp^$document
 ||utilly.ne.jp/article^$document
 ||utina-ketumekko.com^$document
+||utorrent.jp.uptodown.com^$document
 ||utqbffn.cn^$document
 ||utyatnishna.ru^$document
 ||uu4nfcq.buergerhaus-initiative.de^$document
@@ -8578,6 +8580,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||v.52proxy.xyz^$document
 ||v.baran24.com^$document
 ||v12worldwide.com/shop^$document
+||v2.utorrent.com^$document
 ||v9czzc2.apartamentysolarza.pl^$document
 ||vabiruonline.com^$document
 ||vacancesmartinique.fr^$document
@@ -9175,6 +9178,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.bistro4.fi^$document
 ||www.bitcomet.com^$document
 ||www.bitlord.com^$document
+||www.bittorrent.com^$document
 ||www.bjbnb.cn^$document
 ||www.bjjbwl.cn^$document
 ||www.bl-n.com^$document

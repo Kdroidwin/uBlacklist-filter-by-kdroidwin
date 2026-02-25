@@ -1,10 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://utorrent.jp.uptodown.com/*
-*://v2.utorrent.com/*
-*://download-new.utorrent.com/*
-*://www.bittorrent.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -17820,6 +17816,7 @@
 *://doujinsokuhou45.com/*
 *://douzin.archimedes.jp/*
 *://douzinnsi-eromannga.com/*
+*://download-new.utorrent.com/*
 *://download.capcutvip.top/*
 *://download.cnet.com/*
 *://download.cnet.com/ccleaner/3000-18512_4-10315544.html*
@@ -23988,6 +23985,7 @@
 *://utamonogatari.jp/*
 *://utilly.ne.jp/article/*
 *://utina-ketumekko.com/*
+*://utorrent.jp.uptodown.com/*
 *://utqbffn.cn/*
 *://uu4nfcq.buergerhaus-initiative.de/*
 *://uugwidnrfbb.com/*
@@ -23996,6 +23994,7 @@
 *://v.52proxy.xyz/*
 *://v.baran24.com/*
 *://v12worldwide.com/shop/*
+*://v2.utorrent.com/*
 *://v9czzc2.apartamentysolarza.pl/*
 *://vabiruonline.com/*
 *://vacancesmartinique.fr/*
@@ -24557,6 +24556,7 @@
 *://www.bistro4.fi/*
 *://www.bitcomet.com/*
 *://www.bitlord.com/*
+*://www.bittorrent.com/*
 *://www.bjbnb.cn/*
 *://www.bjjbwl.cn/*
 *://www.bl-n.com/*
