@@ -7800,7 +7800,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||sumika.info^$document
 ||suministrostrio.com^$document
 ||sumire-yururoma.com^$document
-||summary.fc2.com^$document
 ||summersetcontinentalhotel.com^$document
 ||sunao-journal.com^$document
 ||sunglasses-dz.com^$document
