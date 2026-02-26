@@ -2368,7 +2368,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||eroazu.com^$document
 ||erobooker.com^$document
 ||erobookjapan.com^$document
-||erocate.com^$document
 ||erocomic-love.net^$document
 ||erocomic-plant.com^$document
 ||erodaizensyu.com^$document
