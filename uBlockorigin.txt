@@ -385,9 +385,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||advancedgloskinclinicpune.com^$document
 ||advancemotorsllc.com^$document
 ||advansteadily2310.com^$document
-||ae^$doc,domain=~eightone.ae|~ac.ae|~gov.ae
 ||aeonculture.info^$document
-||af^$doc,domain=~m.aqr.af|~gov.af|~ac.af
 ||afacarlit.cat^$document
 ||affigolrich.com^$document
 ||affiliatebook.net^$document
@@ -561,7 +559,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||alwofnce.xyz^$document
 ||alyevs.com^$document
 ||am-portfolio.com^$document
-||am^$doc,domain=~uyragnigotocr.am|~gov.am|~ac.am
 ||ama-industry.jp^$document
 ||amacsindia.com^$document
 ||amadige.com^$document
@@ -824,7 +821,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||aqreativez.com^$document
 ||aqtpgpoqd.apotheken-kooperationen.de^$document
 ||aqua-aoyama.com^$document
-||ar^$doc,domain=~centronikkei.org.ar|~gov.ar
 ||araou.jp^$document
 ||arasa-mama.com^$document
 ||archivando.jp^$document
@@ -1120,7 +1116,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||bhoutletsale.shop^$document
 ||bhspecial.com^$document
 ||bi-love.net^$document
-||bi^$document,from=~gov.bi|~edu.bi
 ||bibi-star.jp^$document
 ||bibitobleague.club^$document
 ||bibri.com^$document
@@ -1472,7 +1467,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||cezardouvretoi.fr^$document
 ||cf2.top^$document
 ||cf962692.cloudfree.jp^$document
-||cf^$doc,domain=~wacw.cf|~www.river.cf
 ||cfd^$document,from=~freedium-mirror.cfd|~ayurveda.cfd|~www.rebekka.cfd|~valuecrestoperators.cfd|~structurelineinsight.cfd|~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd|~freedium.cfd|~coremethodventures.cfd|~neworder.cfd|~turkhub.cfd|~31vakti65.cfd|~turkifsa41.cfd|~doeda54.cfd|~31vakti74.cfd|~turkifsa44.cfd|~hdabla45.cfd|~turkhub7.cfd|~55av.cfd|~a1.gscloud.cfd
 ||cfksaklwnx.xyz^$document
 ||cg-corp.com^$document
@@ -2792,7 +2786,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||g2015graman.top^$document
 ||g2c28wr.onlinetanke.de^$document
 ||g2mo30u9g.birralafirm.it^$document
-||ga^$doc,domain=~cgcgabon.ga|~gouvernement.ga|~techies.ga|~clikpay.ga|~1win.ga|~igad.ga|~courcomptes.ga|~auri.ga|~gabonexposition.ga
 ||gadge-taku.com/osusume-android-apps^$document
 ||gadgeski.hatenablog.com^$document
 ||gadget-app.com^$document
@@ -3029,7 +3022,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||glotoolhub.com^$document
 ||glowluxv.com^$document
 ||gluglu.jp^$document
-||gm^$document
 ||gmeetmeat.xyz^$document
 ||gmk.be^$document
 ||gmmfprc.cn^$document
@@ -3111,7 +3103,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||goversys.com^$document
 ||govorite.ru^$document
 ||gpslp-ptp5.vercel.app^$document
-||gq^$document
 ||grabmodapk.com^$document
 ||grace17.com^$document
 ||gracefulwolf.com^$document
@@ -3615,7 +3606,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||ikujipapa.net^$document
 ||ikumen-smile.com^$document
 ||ikuno-koreatown.com^$document
-||il^$document,from=~gov.il|~ac.il
 ||ilf82z3.neurofaszia-therapie.de^$document
 ||illmatic-shop.com^$document
 ||illustshikou.com^$document
@@ -3798,12 +3788,12 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||j-inagaki.com^$document
 ||j-rocklove.com^$document
 ||ja-beta-reactjs-org.vercel.app^$document
-||ja.all10soft.com^$document
-||ja.copress.shop^$document
-||ja.miki.com^$document
-||ja.safetydetectives.com^$document
-||ja.taiwebs.com^$document
-||ja.vpnmentor.com^$document
+||all10soft.com^$document
+||copress.shop^$document
+||miki.com^$document
+||safetydetectives.com^$document
+||taiwebs.com^$document
+||vpnmentor.com^$document
 ||ja.wikipedia.sky4k.top^$document
 ||ja.wizcase.com^$document
 ||jaccul.org^$document
@@ -4088,7 +4078,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||kchihua.xyz^$document
 ||kcsf-eco-ap.jp^$document
 ||kdbtdhqm.bar^$document
-||ke^$document,from=~kibu.ac.ke|~mpesacharges.co.ke|~teacher.co.ke|~kippra.or.ke
 ||keazikane.shop^$document
 ||keeeeeke.com^$document
 ||keepvid.ch^$document
@@ -4217,7 +4206,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||kkontrol-59.ru/detail^$document
 ||kkwing.jp^$document
 ||klogex.com^$document
-||km^$document
 ||kms-full.com^$document
 ||kmsmatrix.com^$document
 ||kmspico.io^$document
@@ -4436,7 +4424,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||layerzrocoin.app^$document
 ||lazonechawarma.ca^$document
 ||lazzmusic.com^$document
-||lb^$doc,domain=~www.mtv.com.lb
 ||lcconcreteproduct.com^$document
 ||ldlemthm.r.eu-west-1.awstrack.me^$document
 ||le-domaine-de-lepiniere.fr^$document
@@ -4645,7 +4632,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||m-view.jp^$document
 ||m.4uhd.cn^$document
 ||m.amzhoka.top^$document
-||m.apkpure.net^$document
 ||m.apkshub.com^$document
 ||m.apksum.com^$document
 ||m.bcr3g.top^$document
@@ -5002,7 +4988,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||mf-bbc-ch.com^$document
 ||mfasting.net^$document
 ||mfui.ru^$document
-||mg^$doc,domain=~storm.mg|~mirrormedia.mg|~upmedia.mg
 ||mgfdm.taobao.com^$document
 ||mgmenjoy85.com^$document
 ||mgnews.ru^$document
@@ -5135,8 +5120,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||mmoreshop.com^$document
 ||mmsgbr.com^$document
 ||mn.metaphase.cn^$document
-||mn^$doc,domain=~montsame.mn|~mongoru-ryoko.mn|~navi.mn
-||mn^$doc,domain=~trade.mn|~mass.mn|~eguur.mn|~joinme.mn|~beautysecrets.mn|~shoppy.mn|~iaac.mn|~datacom.mn|~ergelt.mn|~greensoft.mn|~bny.mn|~esain.mn|~neyoto.mn|~news.mn|~itstore.mn|~kpmg.mn|~ac.mn
 ||mnogosdelal.ru^$document
 ||mo-mo-town.com^$document
 ||moans759.malaysiainternationalschools.com^$document
@@ -6495,7 +6478,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||pluscolorn.sub.jp^$document
 ||pluswood.jp^$document
 ||pmprofi.ru^$document
-||pn^$doc,domain=~yj.pn|~nic.pn|~gr.pn|~ac.pn|~gov.pn
 ||poap.xyz^$document
 ||pocketapk.net^$document
 ||pocop0c0.blog.fc2.com^$document
@@ -7206,7 +7188,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||scrap-shop.online^$document
 ||screenplaysmag.com/blog/youtube-revanced-extended-history-not-working-on-android^$document
 ||scspuc.in^$document
-||sd^$document,from=~gov.sd
 ||sdouga.com^$document
 ||se.fc-review.com^$document
 ||sea358mm25.com^$document
@@ -8002,7 +7983,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||taylorblogg.com^$document
 ||tazzawn5.styr.solutions^$document
 ||tbs.slot31.online^$document
-||td^$doc,domain=~itrad.td|~hama.td|~portail.td|~adac.td|~onape.td|~f.td
 ||tdburger.com^$document
 ||teamnacs5d2.selforder.live^$document
 ||tearoomneko.com^$document
@@ -8184,7 +8164,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||tk-create.com^$document
 ||tk-kmt.jp^$document
 ||tk196054.com^$document
-||tk^$doc,domain=~air.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk|~yado.tk|~www.nabeta.tk|~www.dot.tk|~labo.wovs.tk|~www.bcllub.tk|~hogehoge.tk
 ||tklog.work^$document
 ||tkm-3.com^$document
 ||tktktakunet.com^$document
@@ -8485,7 +8464,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||uefir.com^$document
 ||uelog.com^$document
 ||ueno-tokyo.com^$document
-||ug^$doc,domain=~isoc.ug|~renumesh.ug|~mbu.ug|~nbs.ug|~can.ug|~jobadverts.ug|~howwe.ug|~nilepost.co.ug|~uvtab.go.ug|~microhaem.co.ug|~sun.ac.ug|~prudential.ug|~go.ug|~ac.ug|~green.co.ug
 ||uharica.ptice.si^$document
 ||uhn3tnp07de43.xn--16-mlca8awqz.xn--p1ai^$document
 ||uiahnle6.calanchipiceni.it^$document
