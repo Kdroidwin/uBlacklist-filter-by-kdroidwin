@@ -360,7 +360,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||actualizate.ar^$document
 ||ad-nex.com^
 ||ad5a0.cn^$document
-||ad^$document,from=~unicef.ad|~penguin.ad|~onlinenotep.ad|~mcb.ad|~creandfundacio.ad|~bus.ad|~odiseo.ad|~ior.ad|~chalk.ad|~museucarmenthyssenandorra.ad|~hiverinfini.ad|~iad.ad|~gov.ad
+||ad^$document,from=~unicef.ad|~penguin.ad|~onlinenotep.ad|~mcb.ad|~creandfundacio.ad|~bus.ad|~odiseo.ad|~ior.ad|~chalk.ad|~museucarmenthyssenandorra.ad|~hiverinfini.ad|~iad.ad|~gov.ad|~femboy.ad
 ||adathi-havicoco.com^$document
 ||adblockluna.com^$document
 ||addchannel.net^$document
@@ -3576,7 +3576,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||icpictokyo.jp^$document
 ||icrrvbuy.education^$document
 ||icrt.cu^$document
-||icu^$doc,domain=~iroiro.icu|~masaki.icu|~orthopedic.icu|~honesty.icu|~culture.icu|~momoblog.icu|~www.axistechnologies.icu|~www.catalogue.icu|~aoi-gadget.icu|~www.chuo-medicalcl.icu|~www.e-hoiku.icu|~triplog.icu|~idol-seifuku.icu|~morian.icu|~www.tomoe.icu|~www.accessmaji.icu|~ito.naosel.icu
+||icu^$doc,domain=~iroiro.icu|~masaki.icu|~orthopedic.icu|~honesty.icu|~culture.icu|~momoblog.icu|~www.axistechnologies.icu|~www.catalogue.icu|~aoi-gadget.icu|~www.chuo-medicalcl.icu|~www.e-hoiku.icu|~triplog.icu|~idol-seifuku.icu|~morian.icu|~www.tomoe.icu|~www.accessmaji.icu|~ito.naosel.icu|~lunar.icu
 ||idea-noto.com^$document
 ||idobata-salon.com^$document
 ||idobata1.com^$document
