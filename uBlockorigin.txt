@@ -7163,6 +7163,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||sasamamai.site^$document
 ||sasanohanisuzu.com^$document
 ||sasayamarche.jp^$document
+||sasayuri-shiga.com/article^$document
 ||satimo-notes.com^$document
 ||sato-yokohama.jp^$document
 ||satobayashi.net^$document

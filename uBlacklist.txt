@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://sasayuri-shiga.com/article/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -22671,6 +22670,7 @@
 *://sasamamai.site/*
 *://sasanohanisuzu.com/*
 *://sasayamarche.jp/*
+*://sasayuri-shiga.com/article/*
 *://satimo-notes.com/*
 *://sato-yokohama.jp/*
 *://satobayashi.net/*
