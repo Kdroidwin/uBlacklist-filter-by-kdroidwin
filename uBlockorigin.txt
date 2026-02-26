@@ -1190,7 +1190,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||blog.goo.ne.jp/isehakusandou^$document
 ||blog.himaka-trip.com^$document
 ||blog.kanpan.info^$document
-||blog.kyanny.me^$document
 ||blog.lebara.co.uk^$document
 ||blog.livedoor.jp/anikitorrent^$document
 ||blog.livedoor.jp/chihhylove^$document
@@ -1217,14 +1216,12 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||blog.livedoor.jp/zzcj^$document
 ||blog.lorentzca.me^$document
 ||blog.myplace-events.com^$document
-||blog.stardream.online^$document
 ||blog.triedge-lab.com^$document
 ||blogjuicy.com^$document
 ||blogkanbee.info^$document
 ||blogrou.com^$document
 ||blogs.ergotron.com^$document
 ||blogs.esri-cis.ru^$document
-||blogs.mcafee.jp^$document
 ||blogs2bn.styr.live^$document
 ||blomonix.com^$document
 ||bloodworm.food^$document
