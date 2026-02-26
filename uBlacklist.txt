@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://note.com/mumu2212/*
-*://navi.gamegift.jp/article/61210009988*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -21014,6 +21012,7 @@
 *://nav.xybin.top/*
 *://navara-launch.nissankenya.com/*
 *://naver.me/*
+*://navi.gamegift.jp/article/61210009988*
 *://nayami-sodan.net/*
 *://nazenazeblog.com/*
 *://nazo-don.net/*
@@ -21412,6 +21411,7 @@
 *://note.com/morin4g4/*
 *://note.com/moteotokolabo/*
 *://note.com/motokoku/*
+*://note.com/mumu2212/*
 *://note.com/muratooo/*
 *://note.com/muryoudouga*
 *://note.com/myluck/*

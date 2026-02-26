@@ -5851,6 +5851,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/morin4g4^$document
 ||note.com/moteotokolabo^$document
 ||note.com/motokoku^$document
+||note.com/mumu2212^$document
 ||note.com/muratooo^$document
 ||note.com/muryoudouga^$document
 ||note.com/myluck^$document
