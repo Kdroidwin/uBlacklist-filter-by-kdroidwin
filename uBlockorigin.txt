@@ -1151,7 +1151,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||birthday.sdl.com^$document
 ||biscoteca.it^$document
 ||bismillahfoodbd.com^$document
-||bitbucket.org^$document
 ||bitcash.me^$document
 ||bitcoden.com^$document
 ||bitdefenderantivirus.jp^$document
@@ -2110,7 +2109,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||dreamgateway01.com^$document
 ||dreamriverpress.com^$document
 ||dressy.pla-cole.wedding^$document
-||dribbble.com^$document
 ||dripmoreeu.com^$document
 ||drivesurje.jp^$document
 ||drollwolf.com^$document
