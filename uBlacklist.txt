@@ -16904,7 +16904,6 @@
 *://birthday.sdl.com/*
 *://biscoteca.it/*
 *://bismillahfoodbd.com/*
-*://bitbucket.org/*
 *://bitcash.me/*
 *://bitcoden.com/*
 *://bitdefenderantivirus.jp/*
@@ -17844,7 +17843,6 @@
 *://dreamgateway01.com/*
 *://dreamriverpress.com/*
 *://dressy.pla-cole.wedding/*
-*://dribbble.com/*
 *://dripmoreeu.com/*
 *://drivesurje.jp/*
 *://drollwolf.com/*
