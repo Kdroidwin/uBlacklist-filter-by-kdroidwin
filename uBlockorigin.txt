@@ -2468,7 +2468,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||excesssecurity.com/recommended-vpn^$document
 ||exchangetuts.com^$document
 ||excite-matome.com^$document
-||exhearts.com^$document
 ||exileds1.planettravel.com.uy^$document
 ||exmachina4649.com^$document
 ||exmple.cn^$document
