@@ -16941,7 +16941,6 @@
 *://blog.goo.ne.jp/isehakusandou/*
 *://blog.himaka-trip.com/*
 *://blog.kanpan.info/*
-*://blog.kyanny.me/*
 *://blog.lebara.co.uk/*
 *://blog.livedoor.jp/anikitorrent*
 *://blog.livedoor.jp/chihhylove/*
@@ -16968,14 +16967,12 @@
 *://blog.livedoor.jp/zzcj/*
 *://blog.lorentzca.me/*
 *://blog.myplace-events.com/*
-*://blog.stardream.online/*
 *://blog.triedge-lab.com/*
 *://blogjuicy.com/*
 *://blogkanbee.info/*
 *://blogrou.com/*
 *://blogs.ergotron.com/*
 *://blogs.esri-cis.ru/*
-*://blogs.mcafee.jp/*
 *://blogs2bn.styr.live/*
 *://blomonix.com/*
 *://bloodworm.food/*
