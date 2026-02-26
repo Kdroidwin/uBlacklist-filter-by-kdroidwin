@@ -1,4 +1,5 @@
 @*://gomuraw.com/*
+@*://searx.lunar.icu/*
 @*://mangaruu.com/*
 @*://ahsvr.tech/*
 @*://www.bsbsb.top/*
