@@ -11197,6 +11197,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||zen-seer.com^$document
 ||zenipawer.com^$document
 ||zenmate.com^$document
+||zenmate.jp.uptodown.com^$document
 ||zenn-news.net^$document
 ||zennnews.com^$document
 ||zensyaren.net^$document

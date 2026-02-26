@@ -4,8 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://zenmate.jp.uptodown.com/*
-*://microsoftedge.microsoft.com/addons/detail/zenmate-free-vpn*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -20622,6 +20620,7 @@
 *://miciks.com/*
 *://microeducate.tech/*
 *://microphone-global.ru/*
+*://microsoftedge.microsoft.com/addons/detail/zenmate-free-vpn*
 *://microsoftstore.ru/*
 *://midorikiryu-navi.com/*
 *://midt.me/*
@@ -26510,6 +26509,7 @@
 *://zen-seer.com/*
 *://zenipawer.com/*
 *://zenmate.com/*
+*://zenmate.jp.uptodown.com/*
 *://zenn-news.net/*
 *://zennnews.com/*
 *://zensyaren.net/*
