@@ -633,6 +633,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||androforever.com^$document
 ||android-games.freewebgames.xyz^$document
 ||android.hehezhou.cn^$document
+||androidadbdriver.com^$document
 ||androidapp.jp.net^$document
 ||androidappsapk.co^$document
 ||androidiani.net^$document
@@ -8682,6 +8683,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||vod-memonet.com^$document
 ||vod-site.org^$document
 ||vod.animegaphone.jp^$document
+||vod.app-liv.jp^$document
+||vod.netoff.co.jp^$document
 ||vod365.net^$document
 ||vodafone.uk^$document
 ||vodinsights.com^$document
@@ -9469,6 +9472,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.fa-fa.co.uk^$document
 ||www.fadein.cn^$document
 ||www.fallintv.com^$document
+||www.fami-geki.com^$document
 ||www.familypark.jp^$document
 ||www.farmamedica.mx^$document
 ||www.farnsworthintelligence.com^$document
@@ -10446,6 +10450,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.sungrove.co.jp^$document
 ||www.sunlounge-go-ya-gym.com^$document
 ||www.sunshinecoast.surf^$document
+||www.superdramatv.com^$document
 ||www.supergenji.jp^$document
 ||www.superstarpledis.jp^$document
 ||www.suunto.cn^$document
