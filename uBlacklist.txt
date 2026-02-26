@@ -2915,8 +2915,7 @@
 *://*.co/?z=7*
 *://*.co/?z=8*
 *://*.co/?z=9*
-*://*.com.ar/*
-*://*.com.ar/?e=1*
+*://*.com.ar/?*
 *://*.com.au/content.php?q=*
 *://*.com.au/products.php?*
 *://*.com.br/*.php?*
@@ -5109,7 +5108,6 @@
 *://*.ec/?z=7*
 *://*.ec/?z=8*
 *://*.ec/?z=9*
-*://*.enamae.net/*
 *://*.es/comment.php?n=*
 *://*.eu/?a=0*
 *://*.eu/?a=1*
@@ -5901,8 +5899,6 @@
 *://*.gamemodfree.com/*
 *://*.games/?t.*
 *://*.ge/*.shtml
-*://*.gm/*
-*://*.gq/*
 *://*.gr/?a=0*
 *://*.gr/?a=1*
 *://*.gr/?a=2*
@@ -8961,16 +8957,6 @@
 *://*.jp/?l=7*
 *://*.jp/?l=8*
 *://*.jp/?l=9*
-*://*.jp/?m=0*
-*://*.jp/?m=1*
-*://*.jp/?m=2*
-*://*.jp/?m=3*
-*://*.jp/?m=4*
-*://*.jp/?m=5*
-*://*.jp/?m=6*
-*://*.jp/?m=7*
-*://*.jp/?m=8*
-*://*.jp/?m=9*
 *://*.jp/?n=0*
 *://*.jp/?n=1*
 *://*.jp/?n=2*
@@ -9098,7 +9084,6 @@
 *://*.kokunanmonomousu.com/*
 *://*.kushi-mc.net/*
 *://*.la/?_g=*
-*://*.lat/*
 *://*.latestmodapks.com/*
 *://*.lifehack2ch.livedoor.biz/*
 *://*.linkedin.com.vn/*
@@ -10136,18 +10121,13 @@
 *://*.media/?z=8*
 *://*.media/?z=9*
 *://*.men/*
-*://*.mg/*
 *://*.microsoft.com.vn/*
 *://*.military38.com/*
-*://*.ml/*
 *://*.mlink.in/*
-*://*.mn/*
 *://*.modcombo.com/*
 *://*.modfyp.com/*
 *://*.modilimitado.io/*
 *://*.moscow/?_g=*
-*://*.mw/*
-*://*.mx/*
 *://*.my/*
 *://*.myxstalk.lol/*
 *://*.namaeuranai.biz/*
@@ -10271,16 +10251,6 @@
 *://*.net/?l=7*
 *://*.net/?l=8*
 *://*.net/?l=9*
-*://*.net/?m=0*
-*://*.net/?m=1*
-*://*.net/?m=2*
-*://*.net/?m=3*
-*://*.net/?m=4*
-*://*.net/?m=5*
-*://*.net/?m=6*
-*://*.net/?m=7*
-*://*.net/?m=8*
-*://*.net/?m=9*
 *://*.net/?n=0*
 *://*.net/?n=1*
 *://*.net/?n=2*
@@ -11768,7 +11738,6 @@
 *://*.pinterst.com/*
 *://*.pintrest.com/*
 *://*.pintrist.com/*
-*://*.pk/*
 *://*.pl/?*.html
 *://*.pl/?a=0
 *://*.pl/?a=0*
@@ -12291,7 +12260,6 @@
 *://*.pl/?z=9
 *://*.pl/?z=9*
 *://*.pl/shop/*
-*://*.pn/*
 *://*.pro/?a=0*
 *://*.pro/?a=1*
 *://*.pro/?a=2*
@@ -13121,7 +13089,6 @@
 *://*.saikyo-jump.com/*
 *://*.sanchezsalvador.com/*
 *://*.sbs/*
-*://*.sch.id/*
 *://*.scienceplus2ch.com/*
 *://*.seika-riron.hatenablog.com/*
 *://*.seimei-handan.net/*
@@ -13392,7 +13359,6 @@
 *://*.sk/?z=7*
 *://*.sk/?z=8*
 *://*.sk/?z=9*
-*://*.sl/*
 *://*.slot.2chblog.jp/*
 *://*.smdcgldv.art/*
 *://*.soft112.com/*
@@ -14210,7 +14176,6 @@
 *://*.t.codebug.vip/*
 *://*.tagsqa.com/*
 *://*.takenokosokuhou.com/*
-*://*.td/*
 *://*.tecahe.za.com/*
 *://*.tech-ja.netlify.app/*
 *://*.techacademy.jp/*
@@ -14229,7 +14194,6 @@
 *://*.tiktok.com/zh/trending/*
 *://*.timeglobal.cn/*
 *://*.titanwolf.org/*
-*://*.tj/*
 *://*.tlcpv.org/*
 *://*.tomeon.net/*
 *://*.top/*
@@ -15025,7 +14989,6 @@
 *://*.ubuntugeeks.com/*
 *://*.uebu-kaihatsu.jp.net/*
 *://*.uefir.com/*
-*://*.ug/*
 *://*.uk/?a=0*
 *://*.uk/?a=1*
 *://*.uk/?a=2*
@@ -15582,7 +15545,6 @@
 *://*.whereismyanswer.com/*
 *://*.while-do.com/*
 *://*.willbe07.blog.jp/*
-*://*.win/*
 *://*.windowsbulletin.com/*
 *://*.wl.co/*
 *://*.ws/?a.*
@@ -15597,7 +15559,6 @@
 *://*.youtube.com.vn/*
 *://*.z36.web.core.windows.net/*
 *://*.za.com/*
-*://*.za/*
 *://*.zainale.net/*
 *://*.zaizhele.cn/*
 *://*.zaizhele.net/*
