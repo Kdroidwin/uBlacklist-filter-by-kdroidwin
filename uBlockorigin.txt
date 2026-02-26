@@ -3795,7 +3795,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||taiwebs.com^$document
 ||vpnmentor.com^$document
 ||ja.wikipedia.sky4k.top^$document
-||ja.wizcase.com^$document
+||wizcase.com^$document
 ||jaccul.org^$document
 ||jackdappabluesradio.tv^$document
 ||jacklovea.com^$document
@@ -3912,12 +3912,10 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||jp-yooho.com^$document
 ||jp.adorable-pet.com^$document
 ||jp.bignox.com/appcenter^$document
-||jp.itopvpn.com^$document
+||itopvpn.com^$document
 ||jp.ldplayer.net/apps^$document
 ||jp.mobile.japex.ru^$document
 ||jp.soft57.com^$document
-||jp.visit-japan.cn^$document
-||jp.winxmac.com^$document
 ||jp24h.com^$document
 ||jpbitgetwallet.com^$document
 ||jpkanon.com^$document
