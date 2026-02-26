@@ -2936,6 +2936,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||geomanga.jp^$document
 ||geronag.com^$document
 ||geronhaita.com^$document
+||get-miles.ninja^$document
 ||get45.com^$document
 ||getagriponlighting.com^$document
 ||getapkgame.com^$document

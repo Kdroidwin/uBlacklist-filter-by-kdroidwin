@@ -4,7 +4,6 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
-*://get-miles.ninja/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
@@ -18601,6 +18600,7 @@
 *://geomanga.jp/*
 *://geronag.com/*
 *://geronhaita.com/*
+*://get-miles.ninja/*
 *://get45.com/*
 *://getagriponlighting.com/*
 *://getapkgame.com/*
