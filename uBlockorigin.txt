@@ -1929,11 +1929,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||detstomat.ru^$document
 ||dev-jpbl.emtg.xyz^$document
 ||dev.bimm.com^$document
-||dev.classmethod.jp^$document
-||dev.classmetod.jp^$document
 ||developer.android.google.cn^$document
 ||developers.google.cn^$document
-||developers.line.me^$document
 ||device.panasonic.cn^$document
 ||deyar-sa.com^$document
 ||dftvtrb.bar^$document
