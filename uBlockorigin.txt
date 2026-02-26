@@ -805,7 +805,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||appli-world.jp/posts/15380^$document
 ||appli-world.jp/posts/18197^$document
 ||applibito.com^$document
-||appmatch.jp^$document
 ||appnee.com^$document
 ||appnstore.com^$document
 ||appoholow.xyz^$document
@@ -2264,7 +2263,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||en.taiwebs.com^$document
 ||en.zlibrary.to^$document
 ||en1.savefrom.net^$document
-||enamae.net^$document
 ||enazoapps.com^$document
 ||encar.id^$document
 ||enchantmedia.co.jp^$document
