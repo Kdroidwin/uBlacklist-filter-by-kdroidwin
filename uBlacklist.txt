@@ -1,6 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://note.com/mumu2212/*
+*://navi.gamegift.jp/article/61210009988*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
