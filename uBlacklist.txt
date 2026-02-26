@@ -4,6 +4,7 @@
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
+*://get-miles.ninja/*
 *://*.akachan-meimei.com/*
 *://*.akb48matomemory.com/*
 *://*.akhbara24.news/*
