@@ -17663,11 +17663,8 @@
 *://detstomat.ru/*
 *://dev-jpbl.emtg.xyz/*
 *://dev.bimm.com/*
-*://dev.classmethod.jp/*
-*://dev.classmetod.jp/*
 *://developer.android.google.cn/*
 *://developers.google.cn/*
-*://developers.line.me/*
 *://device.panasonic.cn/*
 *://deyar-sa.com/*
 *://dftvtrb.bar/*
