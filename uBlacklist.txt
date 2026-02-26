@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://imperva.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -19321,6 +19320,7 @@
 *://imitsu.jp/*
 *://imperiacondos.com/*
 *://imperial-curse.de/*
+*://imperva.jp/*
 *://impotentnomore.com/*
 *://impression-life.com/*
 *://inaxginza.info/*

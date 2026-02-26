@@ -3643,6 +3643,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||imitsu.jp^$document
 ||imperiacondos.com^$document
 ||imperial-curse.de^$document
+||imperva.jp^$document
 ||impis6e5.sghscdhaka.edu.bd^$document
 ||impotentnomore.com^$document
 ||impression-life.com^$document
