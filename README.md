@@ -9,6 +9,7 @@ uBlacklist,uBlock Origin用のフィルター　
 重要
 - 2/27 Freenom 系 ccTLD のフィッシングドメイン件数が大幅に減少しているため削除
 - 2/27 国際的な管理・規制側の強化のため多くのccTLD（≒国別TLD）を削除
+- 2/27 pinterest　ルールから削除(以前ほど検索妨害はしなくなったため)※もしブロックしたい場合はpinterest専用のフィルターを購読してください。
 - 5/6 除外用のURL変更に伴い、再度uBlacklistに登録が必要
 
 [完全な変更履歴](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/commits/main/)
