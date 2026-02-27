@@ -7050,6 +7050,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||s8000.works^$document
 ||sa-ta-mi.com^$document
 ||sa.com^$document,domain=~sfec.sa.com|~sac.sa.com||sabucaru.com
+||sabucaru.com^$document
 ||saburokuday.jp^$document
 ||sabusuku.net^$document
 ||sac-a-main.org^$document
@@ -10141,6 +10142,9 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.pictoart.net^$document
 ||www.pilutkiewicz.pl^$document
 ||www.pincenter.com^$document
+||www.pinterest.co.uk^$document
+||www.pinterest.com^$document
+||www.pinterest.jp^$document
 ||www.pipanic.com.ec^$document
 ||www.pirelli.cn^$document
 ||www.pixela.co.jp/products/pickup/tips/4ksmart_tips10_amazingapps.html^$document
@@ -11143,6 +11147,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||z.ksmlc.cn^$document
 ||z56.nextguest.app^$document
 ||za.com^$document,domain=~9anime.za.com|~sentinel.za.com|~aad.za.com|~yaskawa.za.com||zaichan-blog.com
+||zaichan-blog.com^$document
 ||zainale.net^$document
 ||zaintech.co.id^$document
 ||zaitakusyufu.net^$document
