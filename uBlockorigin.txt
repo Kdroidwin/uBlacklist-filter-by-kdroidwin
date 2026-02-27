@@ -1419,6 +1419,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||care-telecom.com^$document
 ||careandglory.uk^$document
 ||careerboost.wpx.jp^$document
+||careerhero.io^$document
 ||careerintern.jp^$document
 ||caress.blog^$document
 ||caribbeancomn.jp^$document
@@ -6672,6 +6673,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||qpqotbrxnr.shop^$document
 ||qqlink.ru^$document
 ||qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net^$document
+||qr.io^$document
+||qrfy.com^$document
 ||qte.me^$document
 ||quabr.com^$document
 ||quakeprediction.com^$document
@@ -7823,6 +7826,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||support.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn^$document
 ||support.millenvpn.jp^$document
 ||support.myqnapcloud.cn^$document
+||support.qr-code-generator.com^$document
 ||support.qrio.me^$document
 ||suqsaudi.com^$document
 ||surfshark.com/ja/blog/surfshark-vs-mullvad^$document
@@ -10198,6 +10202,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.qjukvpc.cn^$document
 ||www.qole-oracle.jp^$document
 ||www.qqszz.net^$document
+||www.qr-code-generator.com^$document
+||www.qrcode-monkey.com^$document
 ||www.qsssqs.cn^$document
 ||www.quakeprediction.com^$document
 ||www.quareclare.ie^$document

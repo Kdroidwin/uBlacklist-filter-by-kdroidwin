@@ -1,10 +1,4 @@
 *://*.000webhostapp.com/*
-*://www.qr-code-generator.com/*
-*://www.qrcode-monkey.com/*
-*://support.qr-code-generator.com/*
-*://careerhero.io/*
-*://qrfy.com/*
-*://qr.io/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -17135,6 +17129,7 @@
 *://care-telecom.com/*
 *://careandglory.uk/*
 *://careerboost.wpx.jp/*
+*://careerhero.io/*
 *://careerintern.jp/*
 *://caress.blog/*
 *://caribbeancomn.jp/*
@@ -22205,6 +22200,8 @@
 *://qpqotbrxnr.shop/*
 *://qqlink.ru/*
 *://qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net/*
+*://qr.io/*
+*://qrfy.com/*
 *://qte.me/*
 *://qualist.jp/*
 *://quality-of-life-ryoblog.com/*
@@ -23276,6 +23273,7 @@
 *://support.microsoft.ex1.ipv6.zhaopin.cnooc.com.cn/*
 *://support.millenvpn.jp/*
 *://support.myqnapcloud.cn/*
+*://support.qr-code-generator.com/*
 *://support.qrio.me/*
 *://suqsaudi.com/*
 *://surfshark.com/ja/blog/surfshark-vs-mullvad*
@@ -25563,6 +25561,8 @@
 *://www.qjukvpc.cn/*
 *://www.qole-oracle.jp/*
 *://www.qqszz.net/*
+*://www.qr-code-generator.com/*
+*://www.qrcode-monkey.com/*
 *://www.qsssqs.cn/*
 *://www.quakeprediction.com/*
 *://www.quareclare.ie/*
