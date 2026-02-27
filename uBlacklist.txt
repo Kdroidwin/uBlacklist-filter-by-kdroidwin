@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://natalorigen.com/prize/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -20942,6 +20941,7 @@
 *://naruhodo-wifi.co.jp/vpn-app/*
 *://nasubigfarm.com/*
 *://nasupapa.com/*
+*://natalorigen.com/prize/*
 *://natamamablog.com/*
 *://natbjohn.com/*
 *://natchy.jp/*

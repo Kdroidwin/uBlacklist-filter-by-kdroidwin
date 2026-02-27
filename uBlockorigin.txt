@@ -5387,6 +5387,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||naruhodo-wifi.co.jp^$document
 ||nasubigfarm.com^$document
 ||nasupapa.com^$document
+||natalorigen.com/prize^$document
 ||natamamablog.com^$document
 ||natbjohn.com^$document
 ||natchy.jp^$document
