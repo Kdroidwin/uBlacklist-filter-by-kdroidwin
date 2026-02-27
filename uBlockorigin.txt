@@ -10149,6 +10149,9 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.pictoart.net^$document
 ||www.pilutkiewicz.pl^$document
 ||www.pincenter.com^$document
+||www.pinterest.co.uk^$document
+||www.pinterest.com^$document
+||www.pinterest.jp^$document
 ||www.pipanic.com.ec^$document
 ||www.pirelli.cn^$document
 ||www.pixela.co.jp/products/pickup/tips/4ksmart_tips10_amazingapps.html^$document
