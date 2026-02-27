@@ -4,7 +4,6 @@
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
-nxbrew.net##.wp-element-button
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
@@ -47,14 +46,14 @@ nxbrew.net##.wp-element-button
 a2zapk.io##[href^="https://beta-app-sprout.xyz"] > button
 audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Download|Download Files Now/)
 audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
+audiobookbay.lu##td:nth-of-type(n):has-text(Ad)
 audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 audiobookbay.lu##td:nth-of-type(n):has-text(You could try out alternative bittorrent clients)
-audiobookbay.lu##td:nth-of-type(n):has-text(Ad)
-||audiobookbay.lu/images/*.gif$image
 fp.no-sheep.org/services##.main
 krakenfiles.com##.download-btn
 krakenfiles.com##.myardbox.nativebaner
 nxbrew.net##.code-block
+nxbrew.net##.wp-element-button
 searxng.site,search.rhscz.eu,searx.tiekoetter.com,search.hbubli.cc,searx.dresden.network,search.inetol.net,searx.rhscz.eu,search.zina.dev,search.bladerunn.in,search.indst.eu,ooglester.com,opnxng.com,search.rowie.at,priv.au,search.internetsucks.net,search.charliewhiskey.net,searxng.canine.tools,s.mble.dk,searxng.shreven.org,kantan.cat,search.freestater.org,search.abohiccups.com,search.ipsys.bf,search.minus27315.dev,grep.vim.wtf,searxng.cups.moe,search.mdosch.de,search.catboy.house,search.ethibox.fr,search.femboy.ad,search.2b9t.xyz,searx.party,search.ononoki.org,www.gruble.de,searx.sev.monster,searx.ro,searxng.website,searx.namejeff.xyz,search.sapti.me,search.privacyredirect.com,paulgo.io,copp.gg,searx.perennialte.ch,search.undertale.uk,etsi.me,search.wdpserver.com,baresearch.org,searx.oloke.xyz,search.im-in.space,searx.stream,search.einfachzocken.eu,searx.tuxcloud.net,find.xenorio.xyz,search.pi.vps.pw,search.unredacted.org,o5.gg,searx.ankha.ac,searx.ox2.fr,seek.fyi,search.anoni.net,searx.mxchange.org,searx.mbuf.net,search.darkness.services,search.url4irl.com,sx.catgirl.cloud,searx.lunar.icu##article.category-general.result-default.result:has-text(/HOT\s?[!！]/)
 www.google.com##div.yhQgZb:has-text(HOT ! )
 www.google.com##div.yhQgZb:has-text(HOT !)
@@ -940,6 +939,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||atthelake.info^$document
 ||attractions-music.jp^$document
 ||atugifito.online^$document
+||audiobookbay.lu/images/*.gif$image
 ||audiobookbay.lu/images/d-t.gif$image
 ||audiobookbay.lu/images/direct-download.png$image
 ||audiobookbay.lu/images/drr.gif$image
