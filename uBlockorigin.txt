@@ -48,6 +48,8 @@ audiobookbay.lu##.torrent_info span:has-text(/今すぐ|直接|Start Direct Down
 audiobookbay.lu##td:nth-of-type(n):has-text(/Direct|安全|Secured Download|直接|Tips|ヒント|場合によっては|Sometimes the torrent health/i)
 audiobookbay.lu##td:nth-of-type(n):has-text(Download Files Now)
 audiobookbay.lu##td:nth-of-type(n):has-text(You could try out alternative bittorrent clients)
+audiobookbay.lu##td:nth-of-type(n):has-text(Ad)
+||audiobookbay.lu/images/*.gif$image
 fp.no-sheep.org/services##.main
 krakenfiles.com##.download-btn
 krakenfiles.com##.myardbox.nativebaner
