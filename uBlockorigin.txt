@@ -2629,7 +2629,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||fmovieus.com^$document
 ||fmwa.app^$document
 ||fmwatasa.com^$document
-||fo^$doc,domain=~bragdid.fo|~rsf.fo|~autisma.fo|~redcross.fo|~fma.fo|~diabetes.fo|~bokhandil.fo|~books.fo|~you.fo|~archive.fo|~afs.fo|~hoteltorshavn.fo|~designa.fo|~hvonn.fo|~isf.fo|~fuglafjordur.fo|~nam.fo|~tjarnir.fo|~hsf.fo|~tonik.fo|~biobank.fo|~fair.fo|~gov.fo
 ||foc.roadel.xyz^$document
 ||focus-one.co.jp^$document
 ||fogiews2.malaysiainternationalschools.com^$document
@@ -3181,7 +3180,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||hai-kai.com^$document
 ||haibandvd.com^$document
 ||haikara-syokudo.jp^$document
-||hair^$doc,domain=~cattleya.hair|~uppercutdeluxe.hair|~soeur.hair|~hibi.hair|~frames.hair|~dorado.hair|~kiari.hair|~merry.hair|~carne.hair|~jako.hair|~isshy.hair|~cutkozo.hair|~roost.hair|~rutile.hair|~boiboi.hair|~erucala.hair|~haru.hair|~relive.hair|~mic.hair|~remilio.hair|~shiozawa.hair|~kema.hair|~www.sisi.hair|~www.blanca.hair|~kami-byoin.hair|~soleil.hair|~and-b.hair|~cut-jun.hair|~azzurri.hair|~www.success.hair|~nuu.hair|~hairroom-union.hair|~www.mauve.hair|~www.fivestar.hair|~www.azto.hair|~c-and.hair|~yuit.hair|~www.coco-2023.hair|~www.plus-moi.hair|~melon.salo.hair|~filer.salo.hair|~www.toh.hair|~lucas.salo.hair|~rebirth.hair|~www.lovest-kyoto.hair|~www.kamikiriya-kuro.hair|~mine.salo.hair|~tender.hair|~www.tender.hair|~elmo.hair|~kanaeru.hair|~wim.hair|~hadient.hair|~maisha.hair|~smilecc.hair|~jav.hair
 ||hairandthere.frontwp.no^$document
 ||haisoku.jp^$document
 ||haisoku.jp^$document
@@ -3723,7 +3721,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||iptvservicenow.com^$document
 ||iqf.education^$document
 ||iquestion.pro^$document
-||ir^$doc,domain=~parstoday.ir|~gov.ir
 ||irannkotosii.seesaa.net^$document
 ||ireeianzjind.xyz^$document
 ||irigasi.info^$document
@@ -4657,7 +4654,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||ma-mekore.com^$document
 ||ma-net.jp^$document
 ||ma-shi.info^$document
-||ma^$doc,domain=~goq.ma|~abe.ma|~gov.ma
 ||maaengineerhouse.com^$document
 ||mabomabo00.com^$document
 ||macaluminio.com^$document
@@ -5118,7 +5114,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||mjuehy.com^$document
 ||mk8-robo.com^$document
 ||mkm.maturbit.sa.com^$document
-||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml|~digit.ml|~ai.ml|~interpret.ml|~ushi.ml|~gov.ml|~ushi.ml
 ||mlkm221021.com^$document
 ||mm-smile.net^$document
 ||mmexfj.com^$document
@@ -5295,10 +5290,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||muutan.work^$document
 ||muxic.tv^$document
 ||muza-kawasaki.jp^$document
-||mw^$doc,domain=~mbc.mw|~smartapps.mw|~continentalcapital.mw|~finca.mw|~sjog.mw|~macra.mw|~muuni.mw|~nbs.mw|~habitat.mw|~premiercasino.mw|~selectafrica.mw|~ngora.mw|~npc.mw|~fam.mw|~karakasis.mw|~combinecargo.mw|~satcp.mw|~mchs.mw|~tourism.mw|~hillviewschool.mw|~isla.mw|~nyaleinstitute.org.mw|~fr.mw|~visitmalawi.mw|~airtel.mw|~easypack.mw|~hopetv.mw|~bmis.mw|~gov.mw|~ac.mw
 ||mwdentistry.com^$document
 ||mwtossxuwcgz.xkescgb.cn^$document
-||mx^$doc,domain=~puentelibre.mx|~diario.mx|~expansion.mx|~nfl.mx|~futbollibre.mx
 ||my-best.com^$document
 ||my-own-pace.com^$document
 ||my-site-102068-108917.square.site^$document
