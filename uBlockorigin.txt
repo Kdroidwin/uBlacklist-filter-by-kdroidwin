@@ -5539,7 +5539,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||nezumikozo.info^$document
 ||nfl.cn^$document
 ||nfunnote.com^$document
-||ng^$doc,domain=~www.twinkl.com.ng|~www.bedienungsanleitu.ng
 ||ngenccs.com^$document
 ||nginx.ru^$document
 ||ngo-jvc.info^$document
@@ -6360,7 +6359,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||pdilms.com^$document
 ||pdspm.in^$document
 ||pdxk.gyqvajgq.biz^$document
-||pe^$doc,domain=~larepublica.pe|~phon.pe|~boticasperu.pe|~rpp.pe|~canaln.pe|~isil.pe|~elperuano.pe|~inkafarma.pe|~panchita.pe|~urbania.pe
 ||peakproductivitycoaching.com^$document
 ||peaks-comic.com^$document
 ||peaksmarketing.co.jp^$document
@@ -6389,7 +6387,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||pesktop.com^$document
 ||petitwings.com^$document
 ||pewtalk.nl^$document
-||pg^$doc,domain=~datec.com.pg|~ccda.gov.pg|~rpngc.gov.pg|~ibsu.ac.pg|~pomcci.org.pg|~gov.pg|~ac.pg
 ||phas.today^$document
 ||philadelphiaple.amebaownd.com^$document
 ||philboothforecasts.com^$document
@@ -6450,7 +6447,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||pizzalikeheaven.com^$document
 ||pizzaofrock.com^$document
 ||pizzasta.jp^$document
-||pk^$doc,domain=~ticketwala.pk|~jazmin.pk|~highfy.pk|~baroque.pk|~pescobill.pk|~ktrade.pk|~gomilaintersole.pk|~ronin.pk|~digiskills.pk|~streamed.pk|~gov.pk|~ac.pk
 ||pkaki.com^$document
 ||pkshampoo.com^$document
 ||planetacadiz.com^$document
@@ -6676,7 +6672,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||qoo-weblife.com^$document
 ||qoob.name^$document
 ||qoupyoo771-ocn.xyz^$document
-||qpon^$document
+||qpon^$document,from=~get.qpon
 ||qpqotbrxnr.shop^$document
 ||qqlink.ru^$document
 ||qqqnewww-ewcgfrh4ezbdbkc9.z01.azurefd.net^$document
@@ -6945,7 +6941,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||rme-kaigo.jp^$document
 ||rms.apollouniversity.edu.in^$document
 ||rn2z8o6fe.adrianodosanjos.de^$document
-||ro^$document,from=~uehi.ro|~exact-tours.ro|~dze.ro|~gov.ro|~ac.ro
 ||roadel.xyz^$document
 ||robamimireport.com^$document
 ||robesgxo.check-in-out.com^$document
@@ -8167,7 +8162,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||titanyachts.com^$document
 ||titi-time.com^$document
 ||tits.fetishp.com^$document
-||tj^$doc,domain=~kmt.tj|~tajmobile.tj|~sputnik.tj|~1win.tj|~gov.tj|~mfa.tj
 ||tk-create.com^$document
 ||tk-kmt.jp^$document
 ||tk196054.com^$document
@@ -11158,7 +11152,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||z.ksmlc.cn^$document
 ||z56.nextguest.app^$document
 ||za.com^$doc
-||za^$doc,domain=~sundownsfc.co.za|~stadio.ac.za|~myrunway.co.za|~cashcrusaders.co.za|~galxboy.co.za|~numetro.co.za|~valueco.co.za|~interbet.co.za|~decofurnsa.co.za|~cjc.edu.za|~jetour.co.za|~canalwalk.co.za|~maroelamedia.co.za|~csrd.co.za|~foodloversmarket.co.za
 ||zaichan-blog.com^$document
 ||zainale.net^$document
 ||zaintech.co.id^$document
@@ -11208,7 +11201,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||zimplow.co.zw^$document
 ||zinroonline.wiki.fc2.com^$document
 ||zintosuru.com^$document
-||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~makea.zip|~transfer.zip|~uploaded-files.zip|~voron.zip|~www.gas.zip|~zxcs.zip|~www.iwara.zip|~shadowban.lami.zip
 ||zired.net^$document
 ||ziro83.com^$document
 ||zitakurouzyou.com^$document
