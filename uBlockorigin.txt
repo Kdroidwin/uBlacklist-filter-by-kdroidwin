@@ -7050,7 +7050,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||s795530940.websitebuilder.online^$document
 ||s8000.works^$document
 ||sa-ta-mi.com^$document
-||sa.com^$document,domain=~sfec.sa.com|~sac.sa.com||sabucaru.com
+||sa.com^$document,domain=~sfec.sa.com|~sac.sa.com
+||sabucaru.com
 ||sabucaru.com^$document
 ||saburokuday.jp^$document
 ||sabusuku.net^$document
@@ -11143,7 +11144,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||z-library.wiki^$document
 ||z.ksmlc.cn^$document
 ||z56.nextguest.app^$document
-||za.com^$document,domain=~9anime.za.com|~sentinel.za.com|~aad.za.com|~yaskawa.za.com||zaichan-blog.com
+||za.com^$document,domain=~9anime.za.com|~sentinel.za.com|~aad.za.com|~yaskawa.za.com
+||zaichan-blog.com
 ||zaichan-blog.com^$document
 ||zainale.net^$document
 ||zaintech.co.id^$document
