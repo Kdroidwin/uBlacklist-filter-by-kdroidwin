@@ -1040,3 +1040,12 @@
 @*://www.unipin.my/*
 @*://shinzushi.my/*
 @*://habra.com.my/*
+@*://sac.sa.com/*
+@*://sfec.sa.com/*
+@*://get.qpon/*
+@*://gogoanime.ru.com/*
+@*://9anime.za.com/*
+@*://www.yaskawa.za.com/*
+@*://aad.za.com/*
+@*://www.sentinel.za.com/*
+@*://yflix.ru.com/*
