@@ -525,6 +525,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||all-genre.net^$document
 ||all-nationz.com^$document
 ||all.jiheishou-e.xyz^$document
+||all10soft.com^$document
 ||allaboutbelgaum.com^$document
 ||allayfx7.bruneida.com^$document
 ||allcolorful.xsrv.jp^$document
@@ -1718,6 +1719,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||cooptq0u.malaysiainternationalschools.com^$document
 ||copayeoh.jettysuites.com^$document
 ||copilot.6m6c.cn^$document
+||copress.shop^$document
 ||copyeg.ru^$document
 ||copyprogramming.com^$document
 ||corasa.com.ec^$document
@@ -3769,6 +3771,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||itemcube.jp^$document
 ||iti-inc.co.jp^$document
 ||itone.co.jp^$document
+||itopvpn.com^$document
 ||itssicani.it^$document
 ||itudemodokodemo.com^$document
 ||itzmysnow.com^$document
@@ -3788,14 +3791,14 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||j-inagaki.com^$document
 ||j-rocklove.com^$document
 ||ja-beta-reactjs-org.vercel.app^$document
-||all10soft.com^$document
-||copress.shop^$document
-||miki.com^$document
-||safetydetectives.com^$document
-||taiwebs.com^$document
-||vpnmentor.com^$document
+||ja.all10soft.com^$document
+||ja.copress.shop^$document
+||ja.miki.com^$document
+||ja.safetydetectives.com^$document
+||ja.taiwebs.com^$document
+||ja.vpnmentor.com^$document
 ||ja.wikipedia.sky4k.top^$document
-||wizcase.com^$document
+||ja.wizcase.com^$document
 ||jaccul.org^$document
 ||jackdappabluesradio.tv^$document
 ||jacklovea.com^$document
@@ -3912,10 +3915,12 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||jp-yooho.com^$document
 ||jp.adorable-pet.com^$document
 ||jp.bignox.com/appcenter^$document
-||itopvpn.com^$document
+||jp.itopvpn.com^$document
 ||jp.ldplayer.net/apps^$document
 ||jp.mobile.japex.ru^$document
 ||jp.soft57.com^$document
+||jp.visit-japan.cn^$document
+||jp.winxmac.com^$document
 ||jp24h.com^$document
 ||jpbitgetwallet.com^$document
 ||jpkanon.com^$document
@@ -4630,6 +4635,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||m-view.jp^$document
 ||m.4uhd.cn^$document
 ||m.amzhoka.top^$document
+||m.apkpure.net^$document
 ||m.apkshub.com^$document
 ||m.apksum.com^$document
 ||m.bcr3g.top^$document
@@ -5019,6 +5025,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||mikansan.xyz^$document
 ||mikasroom17.com^$document
 ||mikeshawenespanol.com^$document
+||miki.com^$document
 ||miki333.com^$document
 ||mikimane.com^$document
 ||mikimaster.moe^$document
@@ -7066,6 +7073,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||saduni.edu.ge^$document
 ||saeriho.com^$document
 ||safety.t-com.ne.jp^$document
+||safetydetectives.com^$document
 ||safewebtalk.com/check-site/infinitytweet-me-reviews^$document
 ||safty-news-information.com^$document
 ||saga-art.jp^$document
@@ -7902,6 +7910,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||taisan.blog^$document
 ||taisetsuzan-ultratrail.com^$document
 ||taiwebs.com^$document
+||taiwebs.com^$document
 ||taji26.com^$document
 ||tajimi-akiyabank.jp^$document
 ||tak16.com^$document
@@ -8686,6 +8695,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||vpnjapan.wpx.jp^$document
 ||vpnlove.me^$document
 ||vpnmedia.jp^$document
+||vpnmentor.com^$document
 ||vpnnippon.jp^$document
 ||vpnserver.sakura.ne.jp^$document
 ||vpnveteran.com^$document
@@ -8863,6 +8873,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||wisteriablog.net^$document
 ||wittmann.digital^$document
 ||wizbiz.me^$document
+||wizcase.com^$document
 ||wizy.jp^$document
 ||wkkgq.com^$document
 ||wl.co^$document
