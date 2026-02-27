@@ -9668,7 +9668,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.iggy.tokyo^$document
 ||www.ihg.com.cn^$document
 ||www.ihomegypt.com^$document
-||www.iid.co.jp^$document
 ||www.ijuin.info^$document
 ||www.ikegami-hihuka.xyz^$document
 ||www.ikujineko.com^$document
