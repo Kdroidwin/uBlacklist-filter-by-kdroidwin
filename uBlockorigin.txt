@@ -4,6 +4,7 @@
 .life/*/?*=*&*=*&*=*&*=*&*=$doc
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
+nxbrew.net##.wp-element-button
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
