@@ -22817,7 +22817,6 @@
 *://shokupan-eight.com/*
 *://shonen-youthcomic.com/*
 *://shoottex.net/*
-*://shop-list.com/*
 *://shop.8dori.org/*
 *://shop.ccp.jp/*
 *://shop.ghogphoto.com/*
