@@ -23166,7 +23166,6 @@
 *://stores.chaumet.cn/*
 *://storyoffilm-japan.com/*
 *://storypick.net/*
-*://storyweb.jp/*
 *://strategydata.cn/*
 *://streamrental.com/*
 *://strepgeroki.digital/*
