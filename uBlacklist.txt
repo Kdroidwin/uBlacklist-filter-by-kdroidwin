@@ -24978,7 +24978,6 @@
 *://www.iggy.tokyo/*
 *://www.ihg.com.cn/*
 *://www.ihomegypt.com/*
-*://www.iid.co.jp/*
 *://www.ijuin.info/*
 *://www.ikegami-hihuka.xyz/*
 *://www.ikujineko.com/*
