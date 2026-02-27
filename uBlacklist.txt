@@ -10,7 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://ifdvnburj8.pro/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -19225,6 +19224,7 @@
 *://iecolle.com/*
 *://ieigsc.org/*
 *://iepvirgendelaasuncion.com/*
+*://ifdvnburj8.pro/*
 *://ifes.jp/*
 *://ifntofashion.education/*
 *://ifuxicif.bhp-leszczynski.pl/*

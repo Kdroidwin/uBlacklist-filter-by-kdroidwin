@@ -3577,6 +3577,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||iecolle.com^$document
 ||ieigsc.org^$document
 ||iepvirgendelaasuncion.com^$document
+||ifdvnburj8.pro^$document
 ||ifes.jp^$document
 ||ifntofashion.education^$document
 ||ifuxicif.bhp-leszczynski.pl^$document
