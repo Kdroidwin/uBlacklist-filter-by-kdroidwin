@@ -7338,7 +7338,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||shokupan-eight.com^$document
 ||shonen-youthcomic.com^$document
 ||shoottex.net^$document
-||shop-list.com^$document
 ||shop.8dori.org^$document
 ||shop.ccp.jp^$document
 ||shop.enjoynet.co.jp^$document
