@@ -25458,9 +25458,6 @@
 *://www.pictoart.net/*
 *://www.pilutkiewicz.pl/*
 *://www.pincenter.com/*
-*://www.pinterest.co.uk/*
-*://www.pinterest.com/*
-*://www.pinterest.jp/*
 *://www.pipanic.com.ec/*
 *://www.pirelli.cn/*
 *://www.pixela.co.jp/*
