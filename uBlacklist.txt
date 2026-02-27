@@ -1,4 +1,10 @@
 *://*.000webhostapp.com/*
+*://www.qr-code-generator.com/*
+*://www.qrcode-monkey.com/*
+*://support.qr-code-generator.com/*
+*://careerhero.io/*
+*://qrfy.com/*
+*://qr.io/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -2654,7 +2660,6 @@
 *://*.co.uk/?_g=8*
 *://*.co.uk/?_g=9*
 *://*.co.uk/index.php?shop/*
-*://*.co.za/*
 *://*.co/?a=0*
 *://*.co/?a=1*
 *://*.co/?a=2*
@@ -5895,7 +5900,6 @@
 *://*.fr/?z=8*
 *://*.fr/?z=9*
 *://*.fr/index*.php//?*
-*://*.fyi/*
 *://*.gamemodfree.com/*
 *://*.games/?t.*
 *://*.ge/*.shtml
@@ -13085,7 +13089,6 @@
 *://*.ryusoku.com/*
 *://*.s3-us-west-1.amazonaws.com/*
 *://*.sa.com/*
-*://*.sa/*
 *://*.saikyo-jump.com/*
 *://*.sanchezsalvador.com/*
 *://*.sbs/*
