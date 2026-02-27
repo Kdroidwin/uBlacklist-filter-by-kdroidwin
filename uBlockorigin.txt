@@ -6995,7 +6995,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||rtrend365.com^$document
 ||rttyinfo.com^$document
 ||ru-nestjs-docs.netlify.app^$document
-||ru.com^$document,~inline-font
+||ru.com^$document,~inline-font|~yflix.ru.com|~gogoanime.ru.com
 ||rudrasurgiwell.online^$document
 ||rueproductions.com^$document
 ||rukaruka7676.online^$document
@@ -7054,8 +7054,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||s795530940.websitebuilder.online^$document
 ||s8000.works^$document
 ||sa-ta-mi.com^$document
-||sa.com^$document
-||sa^$document,from=~gov.sa|~ac.sa
+||sa.com^$document,~sfec.sa.com|~sac.sa.com
 ||sabucaru.com^$document
 ||saburokuday.jp^$document
 ||sabusuku.net^$document
@@ -11151,7 +11150,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||z-library.wiki^$document
 ||z.ksmlc.cn^$document
 ||z56.nextguest.app^$document
-||za.com^$doc
+||za.com^$document,~9anime.za.com|~sentinel.za.com|~aad.za.com|~yaskawa.za.com|~
 ||zaichan-blog.com^$document
 ||zainale.net^$document
 ||zaintech.co.id^$document
