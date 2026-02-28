@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://pawakichi.xyz/archives/38727680.html
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -21843,6 +21842,7 @@
 *://patty.yetile.fit/*
 *://pauleetmikevape.fr/*
 *://paultodd.com/*
+*://pawakichi.xyz/archives/38727680.html
 *://pawsandpower.hatenablog.com/*
 *://pay.line.me/*
 *://payment.on.your.account.rangdeindia.jp/*
