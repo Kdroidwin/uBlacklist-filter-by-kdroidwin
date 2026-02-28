@@ -1,4 +1,8 @@
 *://*.000webhostapp.com/*
+*://chromewebstore.google.com/detail/revanced-extended-latest/*
+*://play.google.com/store/apps/details?id=us.videolite*
+*://revanced-manager.jp.uptodown.com/*
+*://revanced.pk/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
