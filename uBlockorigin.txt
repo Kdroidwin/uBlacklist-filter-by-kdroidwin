@@ -7042,7 +7042,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||ryoto-seeking-dailylife.com^$document
 ||ryouteikoujyou-shop.jp^$document
 ||ryuichi-blog.com^$document
-||ryukyushimpo.jp^$document
 ||ryusoku.com^$document
 ||ryusoku.com^$document
 ||ryuukouyukue.com^$document
