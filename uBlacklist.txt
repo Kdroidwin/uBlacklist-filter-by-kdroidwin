@@ -1,4 +1,11 @@
 *://*.000webhostapp.com/*
+*://morpheapp.net/*
+*://morphemanager.com/*
+*://morphe-app.com/*
+*://github.com/Svznify/MorpheX*
+*://morphe-official.com/*
+*://youtubemorphe.net/*
+*://youtubemorphe.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
