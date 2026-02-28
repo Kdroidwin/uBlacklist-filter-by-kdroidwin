@@ -5226,6 +5226,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||morumoru1426.com^$document
 ||mossashoes.com^$document
 ||mot4932.com^$document
+||moteo.best^$document
 ||motetsu.com^$document
 ||motochanblog.com^$document
 ||motorlife-world.com^$document
@@ -6233,6 +6234,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||osusume-anime.com^$document
 ||osusume-kaigaidorama.com^$document
 ||osusume-matome.2chblog.jp^$document
+||osusume.best^$document
 ||osusume.mynavi.jp^$document
 ||ot2512.com^$document
 ||ota-goods.info^$document
@@ -11031,6 +11033,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||youtubevanced.gg^$document
 ||youtubevanced.muragon.com^$document
 ||youtubevanced.org^$document
+||youtubevanced.su^$document
 ||youtubevanced.tools^$document
 ||youtubevancedapk.io^$document
 ||youtubevancedapk.online^$document

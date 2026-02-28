@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://youtubevanced.su/*
-*://osusume.best/*
-*://moteo.best/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -20791,6 +20788,7 @@
 *://morumoru1426.com/*
 *://mossashoes.com/*
 *://mot4932.com/*
+*://moteo.best/*
 *://motetsu.com/*
 *://motochanblog.com/*
 *://motorlife-world.com/*
@@ -21750,6 +21748,7 @@
 *://osusume-anime.com/*
 *://osusume-kaigaidorama.com/*
 *://osusume-matome.2chblog.jp/*
+*://osusume.best/*
 *://osusume.mynavi.jp/*
 *://ot2512.com/*
 *://ota-goods.info/*
@@ -26329,6 +26328,7 @@
 *://youtubevanced.gg/*
 *://youtubevanced.muragon.com/*
 *://youtubevanced.org/*
+*://youtubevanced.su/*
 *://youtubevanced.tools/*
 *://youtubevancedapk.io/*
 *://youtubevancedapk.online/*
