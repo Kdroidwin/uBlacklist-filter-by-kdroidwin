@@ -1,5 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://note.com/cio_travel/*
+*://www.iid.co.jp/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
