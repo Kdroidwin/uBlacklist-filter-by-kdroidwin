@@ -5,7 +5,6 @@
 .live/*/?*=*&*=*&*=*&*=*&*=$doc
 .xyz/*/?*=*&*=*&*=*&*=*&*=$doc
 /%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%B1\.%F0%9D%90%A1%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%A5/$document
-||cf^$doc,domain=~wacw.cf|~www.river.cf
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com\/.*\?_g=\d+$/$document
@@ -1471,6 +1470,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||cezardouvretoi.fr^$document
 ||cf2.top^$document
 ||cf962692.cloudfree.jp^$document
+||cf^$doc,domain=~wacw.cf|~www.river.cf
 ||cfd^$document,from=~freedium-mirror.cfd|~ayurveda.cfd|~www.rebekka.cfd|~valuecrestoperators.cfd|~structurelineinsight.cfd|~lmez709825.cfd|~www.shaonvds.cfd|~www.omiaa.cfd|~mday787825.cfd|~mday774325.cfd|~lmez779125.cfd|~xn--3bs824g.nmaaa.cfd|~xn--vjq696j.nmaaa.cfd|~gdlink.cfd|~llw583425.cfd|~anime9-official.cfd|~potbellylistens.cfd|~mday478125.cfd|~komikcast.cfd|~llw602825.cfd|~ymhy913525.cfd|~ymhy798625.cfd|~xn--1104-1taohuasbs-vi98a.taohua31.cfd|~xn--1108-2taohuasbs-vi98a.taohua32.cfd|~xn--1113-2com-qq4pn60spifuw5fhdwc.mihe32.cfd|~www.hdj13.cfd|~xn--1113-1com-v76oj59ogexarp4gw5e.jisu32.cfd|~xn--1107-1taohuasbs-vi98a.taohua32.cfd|~xn--1105-2qq-0l7mr69jdmkmg5at8d.ikanxm31.cfd|~xn--1108-1com-qc6ny85ama7362bhq5c.tutu32.cfd|~xn--1025-2com-qc6ny85ama7362bhq5c.tutu31.cfd|~xn--0920-1com-qc6ny85ama7362bhq5c.tutu28.cfd|~onlykdrama.cfd|~freedium.cfd|~coremethodventures.cfd|~neworder.cfd|~turkhub.cfd|~31vakti65.cfd|~turkifsa41.cfd|~doeda54.cfd|~31vakti74.cfd|~turkifsa44.cfd|~hdabla45.cfd|~turkhub7.cfd|~55av.cfd|~a1.gscloud.cfd
 ||cfksaklwnx.xyz^$document
 ||cg-corp.com^$document
@@ -5676,6 +5676,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/chawanwabita^$document
 ||note.com/chizuru1122^$document
 ||note.com/chocolateflower^$document
+||note.com/cio_travel^$document
 ||note.com/clean_echium264^$document
 ||note.com/clean_pothos9868^$document
 ||note.com/clean_sage687^$document
@@ -9681,6 +9682,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||www.iggy.tokyo^$document
 ||www.ihg.com.cn^$document
 ||www.ihomegypt.com^$document
+||www.iid.co.jp^$document
 ||www.ijuin.info^$document
 ||www.ikegami-hihuka.xyz^$document
 ||www.ikujineko.com^$document

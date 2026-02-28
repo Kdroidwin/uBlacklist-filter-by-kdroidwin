@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://note.com/cio_travel/*
-*://www.iid.co.jp/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -21218,6 +21216,7 @@
 *://note.com/chawanwabita/*
 *://note.com/chizuru1122/*
 *://note.com/chocolateflower/*
+*://note.com/cio_travel/*
 *://note.com/clean_echium264/*
 *://note.com/clean_pothos9868/*
 *://note.com/clean_sage687/*
@@ -24997,6 +24996,7 @@
 *://www.iggy.tokyo/*
 *://www.ihg.com.cn/*
 *://www.ihomegypt.com/*
+*://www.iid.co.jp/*
 *://www.ijuin.info/*
 *://www.ikegami-hihuka.xyz/*
 *://www.ikujineko.com/*
