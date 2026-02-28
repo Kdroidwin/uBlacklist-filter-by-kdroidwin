@@ -1,11 +1,4 @@
 *://*.000webhostapp.com/*
-*://morpheapp.net/*
-*://morphemanager.com/*
-*://morphe-app.com/*
-*://github.com/Svznify/MorpheX*
-*://morphe-official.com/*
-*://youtubemorphe.net/*
-*://youtubemorphe.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -18606,6 +18599,7 @@
 *://github.com/AbakNacchan/revanced-extended/*
 *://github.com/AnthemHorizon453/*
 *://github.com/NoName-exe/revanced-extended*
+*://github.com/Svznify/MorpheX*
 *://github.com/YouTube-Premium-APK01/*
 *://github.com/YoutubePremiummod/*
 *://github.com/revanced-apks/build-apps/*
@@ -20787,6 +20781,10 @@
 *://morlaine.fr/*
 *://mormonchamber.com/*
 *://morozvest.ru/*
+*://morphe-app.com/*
+*://morphe-official.com/*
+*://morpheapp.net/*
+*://morphemanager.com/*
 *://morumoru1426.com/*
 *://mossashoes.com/*
 *://mot4932.com/*
@@ -26302,6 +26300,8 @@
 *://youtube-vanced.jp.aptoide.com/*
 *://youtube.coimobile.io/*
 *://youtubegold.net/*
+*://youtubemorphe.com/*
+*://youtubemorphe.net/*
 *://youtubemusicpremium.com/*
 *://youtubepremium.app/*
 *://youtubepremium.cba.pl/*

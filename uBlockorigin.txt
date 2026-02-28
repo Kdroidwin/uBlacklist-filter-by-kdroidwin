@@ -5220,6 +5220,10 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||morlaine.fr^$document
 ||mormonchamber.com^$document
 ||morozvest.ru^$document
+||morphe-app.com^$document
+||morphe-official.com^$document
+||morpheapp.net^$document
+||morphemanager.com^$document
 ||morumoru1426.com^$document
 ||mossashoes.com^$document
 ||mot4932.com^$document
@@ -11002,6 +11006,8 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||youtube.coimobile.io^$document
 ||youtube.com.vn^$document
 ||youtubegold.net^$document
+||youtubemorphe.com^$document
+||youtubemorphe.net^$document
 ||youtubemusicpremium.com^$document
 ||youtubepremium.app^$document
 ||youtubepremium.cba.pl^$document
