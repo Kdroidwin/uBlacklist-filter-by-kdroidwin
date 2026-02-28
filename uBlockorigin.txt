@@ -4409,7 +4409,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||laponas.com^$document
 ||larousse-t.com^$document
 ||last-letter-c.com^$document
-||lat^$doc,domain=~www.asmrzm.lat|~aidou.1024xp.lat|brainly.lat|~ecomlac.lat
 ||lataoo.com^$document
 ||latestmodapks.com^$document
 ||latestmodapks.com^$document
