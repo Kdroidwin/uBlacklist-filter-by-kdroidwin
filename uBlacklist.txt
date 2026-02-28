@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://p-cipher.store/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -21792,6 +21791,7 @@
 *://ozmrvgov.com/*
 *://ozycrbx.work/*
 *://p-any.net/*
+*://p-cipher.store/*
 *://p6li1chk.r.us-east-1.awstrack.me/*
 *://p7fcbp7.r.ap-northeast-1.awstrack.me/*
 *://pachi-media.com/*

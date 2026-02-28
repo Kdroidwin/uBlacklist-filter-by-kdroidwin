@@ -6282,6 +6282,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||ozmrvgov.com^$document
 ||ozycrbx.work^$document
 ||p-any.net^$document
+||p-cipher.store^$document
 ||p6li1chk.r.us-east-1.awstrack.me^$document
 ||p7fcbp7.r.ap-northeast-1.awstrack.me^$document
 ||pachi-media.com^$document
