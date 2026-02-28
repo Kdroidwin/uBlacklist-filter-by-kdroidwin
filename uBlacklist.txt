@@ -10117,7 +10117,6 @@
 *://*.media/?z=7*
 *://*.media/?z=8*
 *://*.media/?z=9*
-*://*.men/*
 *://*.microsoft.com.vn/*
 *://*.military38.com/*
 *://*.mlink.in/*
