@@ -5213,6 +5213,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||more.hpplus.jp^$document
 ||moremoremore888.com^$document
 ||mori08.com^$document
+||morikaemeijin.com^$document
 ||moriken0801.com^$document
 ||morimo2.info^$document
 ||morimorimoritto.com^$document
@@ -5671,6 +5672,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/bright_llama373^$document
 ||note.com/chawanwabita^$document
 ||note.com/chizuru1122^$document
+||note.com/chocolateflower^$document
 ||note.com/clean_echium264^$document
 ||note.com/clean_pothos9868^$document
 ||note.com/clean_sage687^$document
@@ -5679,6 +5681,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/cozy_plover2302^$document
 ||note.com/cream_corone^$document
 ||note.com/crisp_avocet516^$document
+||note.com/crisp_frog6853^$document
 ||note.com/crypto_y^$document
 ||note.com/cute_dietes883^$document
 ||note.com/cute_ruff6801^$document
@@ -5691,6 +5694,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/device_textbook^$document
 ||note.com/direct_style^$document
 ||note.com/dream1004^$document
+||note.com/duppyclub^$document
 ||note.com/egao_no_care_nao^$document
 ||note.com/f00b4r/n/n1fe7afacadd7^$document
 ||note.com/fair_godwit545^$document
@@ -5785,6 +5789,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/kenhonda^$document
 ||note.com/keshikakeuranai^$document
 ||note.com/kimetsu_mania^$document
+||note.com/kiyumoto_works^$document
 ||note.com/koh7166^$document
 ||note.com/koishitsu_^$document
 ||note.com/koreaiimono^$document
@@ -5896,6 +5901,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/rinks_shop1288^$document
 ||note.com/roshalke^$document
 ||note.com/ruria_aria88^$document
+||note.com/ryoutakaaan^$document
 ||note.com/s4chax_^$document
 ||note.com/saa617^$document
 ||note.com/safe_panda2627^$document
@@ -5932,6 +5938,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/takkxi^$document
 ||note.com/takumi333^$document
 ||note.com/takumi_hakata^$document
+||note.com/takumigadget^$document
 ||note.com/tasty_holly7883^$document
 ||note.com/tasty_okapi8736^$document
 ||note.com/tbola^$document

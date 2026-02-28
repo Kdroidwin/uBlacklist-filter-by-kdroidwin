@@ -1,11 +1,4 @@
 *://*.000webhostapp.com/*
-*://morikaemeijin.com/*
-*://note.com/crisp_frog6853/*
-*://note.com/duppyclub/*
-*://note.com/takumigadget/*
-*://note.com/ryoutakaaan/*
-*://note.com/chocolateflower/*
-*://note.com/kiyumoto_works/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -20778,6 +20771,7 @@
 *://more.hpplus.jp/*
 *://moremoremore888.com/*
 *://mori08.com/*
+*://morikaemeijin.com/*
 *://moriken0801.com/*
 *://morimo2.info/*
 *://morimorimoritto.com/*
@@ -21214,6 +21208,7 @@
 *://note.com/bright_llama373/*
 *://note.com/chawanwabita/*
 *://note.com/chizuru1122/*
+*://note.com/chocolateflower/*
 *://note.com/clean_echium264/*
 *://note.com/clean_pothos9868/*
 *://note.com/clean_sage687/*
@@ -21222,6 +21217,7 @@
 *://note.com/cozy_plover2302/*
 *://note.com/cream_corone/*
 *://note.com/crisp_avocet516/*
+*://note.com/crisp_frog6853/*
 *://note.com/crypto_y/*
 *://note.com/cute_dietes883/*
 *://note.com/cute_ruff6801/*
@@ -21234,6 +21230,7 @@
 *://note.com/device_textbook/*
 *://note.com/direct_style/*
 *://note.com/dream1004*
+*://note.com/duppyclub/*
 *://note.com/egao_no_care_nao/*
 *://note.com/f00b4r/n/n1fe7afacadd7*
 *://note.com/fair_godwit545/*
@@ -21321,6 +21318,7 @@
 *://note.com/kenhonda/*
 *://note.com/keshikakeuranai/*
 *://note.com/kimetsu_mania/*
+*://note.com/kiyumoto_works/*
 *://note.com/koh7166/*
 *://note.com/koishitsu_/*
 *://note.com/koreaiimono/*
@@ -21430,6 +21428,7 @@
 *://note.com/rinks_shop1288/*
 *://note.com/roshalke/*
 *://note.com/ruria_aria88/*
+*://note.com/ryoutakaaan/*
 *://note.com/s4chax_/*
 *://note.com/saa617/*
 *://note.com/safe_panda2627/*
@@ -21463,6 +21462,7 @@
 *://note.com/takkxi/*
 *://note.com/takumi333/*
 *://note.com/takumi_hakata/*
+*://note.com/takumigadget/*
 *://note.com/tasty_holly7883/*
 *://note.com/tasty_okapi8736/*
 *://note.com/tbola/*
