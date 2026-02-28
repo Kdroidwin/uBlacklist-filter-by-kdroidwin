@@ -22505,7 +22505,6 @@
 *://ryoto-seeking-dailylife.com/*
 *://ryouteikoujyou-shop.jp/*
 *://ryuichi-blog.com/*
-*://ryukyushimpo.jp/*
 *://ryusoku.com/*
 *://ryuukouyukue.com/*
 *://ryuuseinogotoku-trend.com/*
