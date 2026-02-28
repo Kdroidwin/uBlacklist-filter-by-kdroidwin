@@ -10,7 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://*.cf/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -1858,6 +1857,7 @@
 *://*.by/?z=f*
 *://*.by/shop/cart/cart.aspx?*
 *://*.carnival00inkochi.jp/*
+*://*.cf/*
 *://*.cfd/*
 *://*.ch/?a=0*
 *://*.ch/?a=1*
