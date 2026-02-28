@@ -362,7 +362,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||actualizate.ar^$document
 ||ad-nex.com^
 ||ad5a0.cn^$document
-||ad^$document,from=~unicef.ad|~penguin.ad|~onlinenotep.ad|~mcb.ad|~creandfundacio.ad|~bus.ad|~odiseo.ad|~ior.ad|~chalk.ad|~museucarmenthyssenandorra.ad|~hiverinfini.ad|~iad.ad|~gov.ad|~femboy.ad
 ||adathi-havicoco.com^$document
 ||adblockluna.com^$document
 ||addchannel.net^$document
