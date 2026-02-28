@@ -1563,6 +1563,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||christmas-bigsales.com^$document
 ||chrome.google.com/webstore/detail/revanced-extended-latest/hhbckenadhgffcgbacbalchajeccplmj^$document
 ||chrome.zzzmh.cn^$document
+||chromewebstore.google.com/detail/revanced-extended-latest^$document
 ||chronictacos.jp^$document
 ||chubushoji.shop-pro.jp^$document
 ||chun-shufu.com^$document
@@ -6858,6 +6859,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||revanced-extended.en.uptodown.com^$document
 ||revanced-extended.jp.malavida.com^$document
 ||revanced-extended.jp.uptodown.com^$document
+||revanced-manager.jp.uptodown.com^$document
 ||revanced-mininxd.vercel.app^$document
 ||revanced-mininxd.vercel.app^$document
 ||revanced.apk.watch^$document
@@ -6870,6 +6872,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||revanced.me^$document
 ||revanced.net^$document
 ||revanced.org^$document
+||revanced.pk^$document
 ||revanced.softonic.jp^$document
 ||revanced.su^$document
 ||revanced.to^$document

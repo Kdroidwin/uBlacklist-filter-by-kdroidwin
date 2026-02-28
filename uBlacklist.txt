@@ -1,8 +1,4 @@
 *://*.000webhostapp.com/*
-*://chromewebstore.google.com/detail/revanced-extended-latest/*
-*://play.google.com/store/apps/details?id=us.videolite*
-*://revanced-manager.jp.uptodown.com/*
-*://revanced.pk/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -17221,6 +17217,7 @@
 *://chrome.google.com/webstore/detail/revanced-extended-latest/hhbckenadhgffcgbacbalchajeccplmj*
 *://chrome.zzzmh.cn/*
 *://chromewebstore.google.com/detail/1vpn-free-vpn*
+*://chromewebstore.google.com/detail/revanced-extended-latest/*
 *://chronictacos.jp/*
 *://chubushoji.shop-pro.jp/*
 *://chun-shufu.com/*
@@ -21968,6 +21965,7 @@
 *://play.google.com/store/apps/details?id=com.truecaller*
 *://play.google.com/store/apps/details?id=inc.nudge.prod&hl*
 *://play.google.com/store/apps/details?id=inc.nudge.prod&hl=ja*
+*://play.google.com/store/apps/details?id=us.videolite*
 *://play.google.com/store/apps/dev?id=6891936352065498609&hl=ja*
 *://play.suitsme.xyz/*
 *://playapks.com/*
@@ -22332,6 +22330,7 @@
 *://revanced-extended.en.uptodown.com/*
 *://revanced-extended.jp.malavida.com/*
 *://revanced-extended.jp.uptodown.com/*
+*://revanced-manager.jp.uptodown.com/*
 *://revanced-mininxd.vercel.app/*
 *://revanced.apk.watch/*
 *://revanced.cloud/*
@@ -22343,6 +22342,7 @@
 *://revanced.me/*
 *://revanced.net/*
 *://revanced.org/*
+*://revanced.pk/*
 *://revanced.softonic.jp/*
 *://revanced.su/*
 *://revanced.to/*
