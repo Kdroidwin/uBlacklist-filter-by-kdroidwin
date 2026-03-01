@@ -1786,6 +1786,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||cupclickphoto.com^$document
 ||cuponink.com^$document
 ||curas.jp^$document
+||curationbrknews.blog.jp^$document
 ||curiosity-trendnews.com^$document
 ||curious-insights.hatenablog.com^$document
 ||curious-rabble.net^$document
@@ -5919,6 +5920,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||note.com/sekinogen1^$document
 ||note.com/shiba_inunosuke^$document
 ||note.com/shin_kon^$document
+||note.com/shinko_joho_news^$document
 ||note.com/shinkouya_1453^$document
 ||note.com/shinri_test^$document
 ||note.com/shoji_orihara^$document
