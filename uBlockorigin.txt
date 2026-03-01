@@ -1138,7 +1138,6 @@ www.nijioma.blog##.eye-catch-wrap
 ||bibitobleague.club^$document
 ||bibri.com^$document
 ||bicycle-select.jp^$document
-||bid^$doc,domain=~www.smilenw.bid
 ||big-celeb.jp^$document
 ||big-name.blog.ss-blog.jp^$document
 ||bigbears28.com^$document
