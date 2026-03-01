@@ -1,5 +1,4 @@
 *://*.000webhostapp.com/*
-*://mirai-guide.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -20634,6 +20633,7 @@
 *://miochannel.com/*
 *://miplghana.com/*
 *://mira0502.com/*
+*://mirai-guide.com/*
 *://miraie.org/*
 *://mirandadeutsch.com/*
 *://mirandazrealtor.com/*

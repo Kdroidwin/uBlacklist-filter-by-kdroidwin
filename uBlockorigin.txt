@@ -5069,6 +5069,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||miochannel.com^$document
 ||miplghana.com^$document
 ||mira0502.com^$document
+||mirai-guide.com^$document
 ||miraie.org^$document
 ||mirandadeutsch.com^$document
 ||mirandazrealtor.com^$document
