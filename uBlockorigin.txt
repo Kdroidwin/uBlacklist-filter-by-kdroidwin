@@ -8,6 +8,16 @@
 nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(1)
 nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
 nswpedia.com##.file-download-btnn
+www.gadget2ch.com###main > div.article-text-rss-box
+nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(1)
+nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
+nswpedia.com##.file-download-btnn
+romsns.com##.idb-btn
+switchrom.net##.code-block-4.code-block > .wp-element-button.has-link-color.has-background.has-text-color.has-base-3-color.wp-block-button__link
+switch-roms.org##.code-block-1.code-block > .wp-element-button.has-link-color.has-background.has-text-color.has-base-3-color.wp-block-button__link
+www.gadget2ch.com###page > div.article-text-rss-box
+www.gadget2ch.com###page > .posts-inner
+androplus.jp##fieldset
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.co.uk\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com\/.*\?_g=\d+$/$document
