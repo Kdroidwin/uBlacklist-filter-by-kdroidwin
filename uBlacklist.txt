@@ -1,6 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://trend.hubmedia.co.jp/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -11,8 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://romsns.com/*
-*://romsdroid.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -22449,6 +22446,8 @@
 *://roman-so-words.bandcamp.com/*
 *://romeoandrosaline.com/*
 *://romhacking.ru/*
+*://romsdroid.com/*
+*://romsns.com/*
 *://ronherman.shop/*
 *://ronigirls.jp/*
 *://ronron299.com/*
@@ -23720,6 +23719,7 @@
 *://trend-usagi.com/*
 *://trend-wide.com/*
 *://trend-ya.com/*
+*://trend.hubmedia.co.jp/*
 *://trend.karinsan.com/*
 *://trend.koregasiritai.com/*
 *://trendcinema.net/*
