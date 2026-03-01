@@ -10,6 +10,8 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
+*://romsns.com/*
+*://romsdroid.com/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
