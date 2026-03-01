@@ -1,6 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://curationbrknews.blog.jp/*
+*://note.com/shinko_joho_news/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
