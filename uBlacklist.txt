@@ -2,7 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://nxbrew.me/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -21579,6 +21578,7 @@
 *://nxbrew.cc/*
 *://nxbrew.fit/*
 *://nxbrew.games/*
+*://nxbrew.me/*
 *://nxeegjt.cn/*
 *://ny-excited.com/*
 *://nyaa9.tromajan.xyz/*

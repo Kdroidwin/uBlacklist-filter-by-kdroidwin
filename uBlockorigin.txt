@@ -6056,6 +6056,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||nxbrew.cc^$document
 ||nxbrew.fit^$document
 ||nxbrew.games^$document
+||nxbrew.me^$document
 ||nxeegjt.cn^$document
 ||ny-excited.com^$document
 ||nyaa9.tromajan.xyz^$document
