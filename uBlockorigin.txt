@@ -11212,6 +11212,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||zimplow.co.zw^$document
 ||zinroonline.wiki.fc2.com^$document
 ||zintosuru.com^$document
+||ziperto.me^$document
 ||zired.net^$document
 ||ziro83.com^$document
 ||zitakurouzyou.com^$document
