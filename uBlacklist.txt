@@ -1,4 +1,5 @@
 *://*.000webhostapp.com/*
+*://mirai-guide.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
