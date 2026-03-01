@@ -5590,7 +5590,6 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||nnews.top^$document
 ||no-dorama-no-life.info^$document
 ||no-magazine.com^$document
-||no-sheep.org^$document
 ||no-sheep.org^$document,domain=~fp.no-sheep.org
 ||no-title-journal-next.com^$document
 ||no111777666.com^$document
