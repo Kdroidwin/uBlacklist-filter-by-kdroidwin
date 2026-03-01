@@ -5590,6 +5590,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||nnews.top^$document
 ||no-dorama-no-life.info^$document
 ||no-magazine.com^$document
+||no-sheep.org^$document
 ||no-sheep.org^$document,domain=~fp.no-sheep.org
 ||no-title-journal-next.com^$document
 ||no111777666.com^$document
@@ -11213,6 +11214,7 @@ www.google.com##div.yhQgZb:has-text(HOT！)
 ||zinroonline.wiki.fc2.com^$document
 ||zintosuru.com^$document
 ||ziperto.me^$document
+||ziperto.org^$document
 ||zired.net^$document
 ||ziro83.com^$document
 ||zitakurouzyou.com^$document
