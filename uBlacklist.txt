@@ -10,7 +10,6 @@
 *://*.akirakaminagara.blog.jp/*
 *://*.alfalfalfa.com/*
 *://*.all-nationz.com/*
-*://hvooaalooi.tech/*
 *://*.am/?a=0*
 *://*.am/?a=1*
 *://*.am/?a=2*
@@ -19139,6 +19138,7 @@
 *://hunting4gold.com/*
 *://hurtlocker.jp/*
 *://huzurumsi.online/*
+*://hvooaalooi.tech/*
 *://hwd839.com/*
 *://hwinfo.su/*
 *://hwr6spdq.r.eu-central-1.awstrack.me/*
