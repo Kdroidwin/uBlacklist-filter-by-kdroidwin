@@ -79,10 +79,10 @@ www.google.com##div.yhQgZb:has-text(HOT!)
 www.google.com##div.yhQgZb:has-text(HOT！)
 www.mangalear.blog##.eye-catch-wrap
 www.nijioma.blog##.eye-catch-wrap
+www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
 www.privacytools.io/privacy-vpn##div.container:nth-of-type(3)
 www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
-www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 ||0-scholar-google-com.brum.beds.ac.uk^$document
 ||000webhostapp.com^$document
 ||009933.xyz^$document
