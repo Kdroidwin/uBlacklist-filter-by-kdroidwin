@@ -1,5 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://nxbrew.com/*
+*://microg.net/*
+*://ghostphone.co/*
+*://stars-kings.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
