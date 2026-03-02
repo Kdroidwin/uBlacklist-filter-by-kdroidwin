@@ -1,6 +1,11 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://anilabapkdownload.com/*
+*://anilabapp.com/*
+*://anilab.cc/*
+*://anilab.com.in/*
+*://www.privacytools.io/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
