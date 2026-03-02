@@ -56,11 +56,11 @@ krakenfiles.com##.download-btn
 krakenfiles.com##.myardbox.nativebaner
 nswpedia.com##.file-download-btnn
 nswpedia.com##.file-download-btnn
-nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(1)
-nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(1)
-nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
-nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
 nswpedia.com##.my-3.btn-block > div
+nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(1)
+nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(1)
+nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
+nswpedia.com##a[href^="https://ertdfe.com/direct/"]:nth-of-type(2)
 nxbrew.net##.code-block
 nxbrew.net##.wp-element-button
 romsns.com##.idb-btn
@@ -670,6 +670,10 @@ www.nijioma.blog##.eye-catch-wrap
 ||anikaru.jp^$document
 ||anikoma-movie.jp^$document
 ||anikosu.com^$document
+||anilab.cc^$document
+||anilab.com.in^$document
+||anilabapkdownload.com^$document
+||anilabapp.com^$document
 ||aniloop.net^$document
 ||animan.yuchanh.com^$document
 ||animate-group.info^$document
@@ -10209,6 +10213,7 @@ www.nijioma.blog##.eye-catch-wrap
 ||www.prime-service.info^$document
 ||www.primeaudits.com^$document
 ||www.prius01.tokyo^$document
+||www.privacytools.io^$document
 ||www.privateinternetaccess.com^$document
 ||www.priyagrown.com^$document
 ||www.procell.cn^$document

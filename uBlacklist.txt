@@ -1,11 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://anilabapkdownload.com/*
-*://anilabapp.com/*
-*://anilab.cc/*
-*://anilab.com.in/*
-*://www.privacytools.io/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -16344,6 +16339,10 @@
 *://anikaru.jp/*
 *://anikoma-movie.jp/*
 *://anikosu.com/*
+*://anilab.cc/*
+*://anilab.com.in/*
+*://anilabapkdownload.com/*
+*://anilabapp.com/*
 *://aniloop.net/*
 *://animan.yuchanh.com/*
 *://animate-group.info/*
@@ -25517,6 +25516,7 @@
 *://www.prime-service.info/*
 *://www.primeaudits.com/*
 *://www.prius01.tokyo/*
+*://www.privacytools.io/*
 *://www.privateinternetaccess.com/*
 *://www.priyagrown.com/*
 *://www.procell.cn/*
