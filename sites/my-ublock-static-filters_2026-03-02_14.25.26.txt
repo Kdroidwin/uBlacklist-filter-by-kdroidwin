@@ -204,14 +204,6 @@ www.naporitansushi.com##.acl
 ! 2023-10-20 https://ciksiti.com
 ciksiti.com##.us-close
 
-! 2023-10-20 http://www.gadget2ch.com
-www.gadget2ch.com##.clearfix.social-button-area
-
-
-! 2023-10-20 http://www.gadget2ch.com
-www.gadget2ch.com##div.posts-inner:nth-of-type(11)
-||www.gadget2ch.com/wp-content/uploads/2023/10/RE2PRmJ-1-1-1-1-1.jpg-1.webp$image
-www.gadget2ch.com##.p-entry__pushLike
 
 ! 2023-10-20 https://niji-gazo.com
 niji-gazo.com##.bounceInUp.gallery-ad-block-b-on.animated.gallery-ad-block
@@ -222,9 +214,6 @@ adguard.com###sticky_bar_fixed > .container > .new-sticky-bar__in
 
 ! 2023-10-20 https://www.serebii.net
 ||www.serebii.net/potw-sv$image
-
-||www.gadget2ch.com/wp-content/uploads/2016/06/twitter.jpg$image
-||www.gadget2ch.com/wp-content/uploads/2016/06/twitter.jpg$image
 
 
 ! 2023-10-28 https://www.google.com
@@ -354,14 +343,9 @@ osomatsusan.hatenablog.com##[href="https://osomatsusan.hatenablog.com/pokemonsle
 osomatsusan.hatenablog.com##li:nth-of-type(3)
 
 
-! 2023-12-21 http://www.gadget2ch.com
-www.gadget2ch.com##.widget-title.popular-posts.widget
 
 ! 2023-12-22 https://www.sankei.com
 www.sankei.com###__member_offer_block
-
-! 2023-12-22 http://www.gadget2ch.com
-www.gadget2ch.com##:xpath(//article[contains(./a ,家電)])
 
 
 ! 2023-12-25 https://kdroidwin.hatenablog.com
