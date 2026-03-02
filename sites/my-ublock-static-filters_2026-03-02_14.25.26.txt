@@ -1,0 +1,594 @@
+! 2023-09-01 https://jp.pornhub.com
+jp.pornhub.com##.innerContainer
+jp.pornhub.com##.ph-icon-upload-image-new
+jp.pornhub.com##.footer
+jp.pornhub.com##.section_title > h3
+jp.pornhub.com##.section_bar_sidebar
+jp.pornhub.com##.abAlertInner
+||cdn1-smallimg.phncdn.com/n172nWs1UEcnquuObA5x52osw51230gH/rta-2.gif$image
+
+! 2023-09-01 https://drive.google.com
+drive.google.com##.AeBiU-RLmnJb.AeBiU-mRLv6
+drive.google.com##.ml-Pr-kg
+
+!再生数100以下
+youtube.com##ytd-rich-item-renderer:has(#metadata-line > .ytd-video-meta-block:nth-of-type(1):has-text(/^(100|\d{1,2}) 回視聴/))
+youtube.com##ytd-video-renderer:has(#metadata-line > .ytd-video-meta-block:nth-of-type(1):has-text(/^(100|\d{1,2}) 回視聴/))
+youtube.com##ytd-compact-video-renderer:has(#metadata-line > .ytd-video-meta-block:nth-of-type(1):has-text(/^(100|\d{1,2}) 回視聴/))
+youtube.com##ytd-rich-grid-row:has(#metadata-line > .ytd-video-meta-block:nth-of-type(1):has-text(/^(100|\d{1,2}) 回視聴/))
+
+!コメント　NG
+youtube.com##ytd-comment-renderer:has-text(/プライベートAV|AVガール|動画見たら1万|学校でいじめられてます/)
+www.youtube.com##.ytd-download-button-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.ytd-download-button-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+!ホーム画面　チャンネル名　NG
+youtube.com##[page-subtype="home"] ytd-rich-item-renderer:has(ytd-channel-name:has-text(/はじめまして|国さんアニメ|2ch|雑学少女|フェミニスト|ぎゃおぼん|ツイフェミ|ひろゆき|チェリー東大/))
+!Thanks オフラインボタン　非表示
+youtube.com##ytd-download-button-renderer
+youtube.com##ytd-button-renderer:has([aria-label="Thanks"])
+youtube.com###sponsor-button
+youtube.com###clarify-box
+
+
+! 「クリップ」ボタン非表示
+www.youtube.com##ytd-button-renderer:has(a>#button>button[aria-label="クリップ"])
+youtube.com##ytd-button-renderer:has([aria-label="クリップ"])
+youtube.com##.card-yt-live-chat-viewer-engagement-message-renderer 
+display: none !important;
+
+! 2023-09-02 https://www.youtube.com
+www.youtube.com##.ytp-paid-content-overlay-link
+
+www.youtube.com###efyt-speed > svg
+www.youtube.com###efyt-speed
+www.youtube.com###efyt-whitelist
+www.youtube.com###efyt-not-interested > svg
+www.youtube.com###efyt-not-interested
+www.youtube.com###efyt-cinema-mode
+www.youtube.com###efyt-keyboard-shortcuts
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(4)
+www.youtube.com###efyt-size > svg
+www.youtube.com###efyt-size
+
+www.youtube.com##.ytd-live-chat-frame.style-scope > yt-button-shape > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.ytd-live-chat-frame.style-scope > yt-button-shape > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+youtube.com##.ytp-button.branding-img-container
+
+youtube.com##ytd-guide-section-renderer:has(h3:has-text(/YouTube の他のサービス))
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! 動画下クリップ、Thanks、オフラインを非表示
+youtube.com##yt-button-view-model:has(button[aria-label="Thanks"])
+youtube.com##yt-button-view-model:has(button[aria-label="クリップ"])
+
+outube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer),ytd-secondary-search-container-renderer
+! チャンネルを表示させる場合
+youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer,ytd-channel-renderer),ytd-secondary-search-container-renderer
+
+! ホームのミックスリスト
+youtube.com##[page-subtype="home"] #video-title-link[title*="ミックス"][href$="start_radio=1"]:upward(ytd-rich-item-renderer)
+! 動画右のミックスリスト
+youtube.com##ytd-watch-next-secondary-results-renderer ytd-compact-radio-renderer
+! youtube musicのプレイリスト
+youtube.com##ytd-compact-playlist-renderer
+
+! 2023-11-24 https://www.youtube.com
+www.youtube.com##h3.ytd-guide-section-renderer.style-scope > .ytd-guide-section-renderer.style-scope
+
+! 動画下共有の文字のみを非表示
+youtube.com##[aria-label="共有"] > .yt-spec-button-shape-next--button-text-content
+
+! 2024-01-03 https://www.youtube.com　ショート　サイドバー
+www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(ショート)
+
+! 2024-01- チャット　コミュニティガイドライン
+youtube.com###card.yt-live-chat-viewer-engagement-message-renderer
+
+! premiumm 勧誘
+youtube.com##tp-yt-paper-dialog.style-scope.ytd-popup-container:has([href^="/premium?ybp="])
+! 2024-01-03 https://www.youtube.com　サイドバー　ショート
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:has-text(ショート)
+
+! すりガラス　通知など
+youtube.com#$#.style-scope.ytd-popup-container  { background-color: rgba(32, 32, 32, 0.2) !important;backdrop-filter: blur(10px) !important;border-radius: 15px !important;overflow: hidden !important; }
+!　プレイリスト　高さ調節
+youtube.com#$#ytd-add-to-playlist-renderer { margin-bottom: 0 !important; }
+youtube.com#$#div#secondary :is(ytd-playlist-panel-renderer#playlist,div#container.ytd-playlist-panel-renderer) {max-height: 850px !important;}
+
+!  https://www.youtube.com　アカウント設定
+www.youtube.com###endpoint > .ytd-compact-link-renderer.style-scope:has-text(購入)
+www.youtube.com###endpoint > .ytd-compact-link-renderer.style-scope:has-text(ヘルプ)
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:has-text(フィードバック)
+
+! 2024-01-04 https://www.youtube.com サイドバー　クリップ
+www.youtube.com###endpoint > .ytd-guide-entry-renderer.style-scope:has-text(自分のクリップ)
+www.youtube.com###section-items > ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(自分のクリップ)
+
+!検索除外
+www.youtube.com#?#ytd-search :is(ytd-video-renderer, ytd-reel-item-renderer):-abp-has(#video-title:-abp-contains(/ヤバ(?:すぎる|い理由)|マジかよ/))
+www.youtube.com#?#ytd-search :is(ytd-video-renderer, ytd-reel-item-renderer):-abp-has(#video-title:-abp-contains(/ひろゆき|2ch|5ch/))
+
+!ライブチャット　ハート
+www.youtube.com###reaction-control-panel-overlay
+
+www.youtube.com##.tab-content.style-scope.tp-yt-paper-tab:has-text(ショート):upward(1)
+
+! スーパーチャットボタン非表示
+www.youtube.com##yt-live-chat-icon-toggle-button-renderer#product-picker 
+
+
+blog.livedoor.jp##.rss-box
+blog.livedoor.jp##.article-footer
+
+! 2023-09-02 http://ideal2ch.livedoor.biz
+||livedoor.blogimg.jp/ideal2ch/imgs/f/9/f9ae57b3.jpg$image
+ideal2ch.livedoor.biz###footer > p
+ideal2ch.livedoor.biz###footer
+
+
+! 2023-10-08 http://blog.livedoor.jp
+blog.livedoor.jp###comments > p
+! 2023-10-10 http://blog.livedoor.jp
+blog.livedoor.jp###main > .adsmid
+blog.livedoor.jp##.content > nav.section-box > .box-margin.article-button-simple
+
+
+! 2023-09-03 https://tver.jp
+||statics.tver.jp/images/content/companion/default.jpg$image
+||statics.tver.jp/images/content/companion/default.jpg$image
+tver.jp##.cross-column-layout_sidebar__W3bG5
+
+
+
+! 2023-09-21 https://www.serebii.net
+||www.serebii.net/anime/pokemon/251.gif$image
+
+
+! 2023-09-27 https://mega.nz
+mega.nz##.visible.toast
+
+! 2023-09-27 https://www.serebii.net
+||www.serebii.net/potw-sv/1017.jpg$image
+www.serebii.net###rbar > a.navheader
+||www.serebii.net/potw-sv/1017.jpg$image
+www.serebii.net###content > .center
+www.serebii.net##main > div:nth-of-type(2) > p:nth-of-type(1)
+
+! 2023-09-27 https://www.terabox.com
+||data.terabox.com/issue/terabox/%2F2022V3operating/03-27-gold-center.png$image
+www.terabox.com##a.header-btn:nth-of-type(5)
+
+! 2023-09-29 https://egg.5ch.net
+egg.5ch.net##div:nth-of-type(2) > div
+
+! 2023-09-29 https://lavender.5ch.net
+lavender.5ch.net###adoverlay
+
+
+! 2023-10-02 https://jp.mercari.com
+jp.mercari.com##.lJkqm.sc-356bb0e8-0
+
+! 2023-10-02 https://www.crunchyroll.com
+||www.crunchyroll.com/build/assets/img/series_premium_upsell/background*.png$image
+||www.crunchyroll.com/build/assets/img/series_premium_upsell/background*.png$image
+
+! 2023-10-02 https://open.spotify.com　右上ボタン
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.encore-inverted-light-set.jfhNps.ButtonInner-sc-14ud5tc-0
+open.spotify.com##.hArLmW.IconWrapper__Wrapper-sc-1hf1hjl-0 > .haNxPq.Svg-sc-ytk21e-0 > path
+open.spotify.com##.ellipsis-one-line.eoWRdH.Type__TypeElement-sc-goli3j-0
+open.spotify.com##.hArLmW.IconWrapper__Wrapper-sc-1hf1hjl-0 > .haNxPq.Svg-sc-ytk21e-0
+open.spotify.com##.encore-over-media-set.eDaZIM.ButtonInner-sc-14ud5tc-0
+
+
+www.serebii.net##article:has-text(/In The Pokémon of the Week Department/)
+||www.serebii.net/potw-sv/1011.jpg$image
+
+! 2023-10-20 https://blog.hatena.ne.jp　新規ドメイン　有料勧誘
+blog.hatena.ne.jp##.onamaeDomain-main
+blog.hatena.ne.jp##.onamaeDomain-notice
+blog.hatena.ne.jp##.tutorial-banners
+blog.hatena.ne.jp##li.admin-menu-odai > .sidebar-item-link
+
+! 2023-10-20 https://blog.hatena.ne.jp
+blog.hatena.ne.jp##.admin-menu-pro-btn
+blog.hatena.ne.jp##span.is-active.promotion-button:nth-of-type(1)
+blog.hatena.ne.jp##span.is-active.promotion-button:nth-of-type(2)
+! 2023-12-16 https://blog.hatena.ne.jp　アプリストアリンク
+blog.hatena.ne.jp##.section-appSuggest-banner > p
+
+
+! 2023-10-20 https://www.naporitansushi.com
+www.naporitansushi.com##.act
+www.naporitansushi.com##.acl
+
+! 2023-10-20 https://ciksiti.com
+ciksiti.com##.us-close
+
+! 2023-10-20 http://www.gadget2ch.com
+www.gadget2ch.com##.clearfix.social-button-area
+
+
+! 2023-10-20 http://www.gadget2ch.com
+www.gadget2ch.com##div.posts-inner:nth-of-type(11)
+||www.gadget2ch.com/wp-content/uploads/2023/10/RE2PRmJ-1-1-1-1-1.jpg-1.webp$image
+www.gadget2ch.com##.p-entry__pushLike
+
+! 2023-10-20 https://niji-gazo.com
+niji-gazo.com##.bounceInUp.gallery-ad-block-b-on.animated.gallery-ad-block
+niji-gazo.com##.bounceInUp.gallery-ad-block-a-on.animated.gallery-ad-block
+
+! 2023-10-20 https://adguard.com
+adguard.com###sticky_bar_fixed > .container > .new-sticky-bar__in
+
+! 2023-10-20 https://www.serebii.net
+||www.serebii.net/potw-sv$image
+
+||www.gadget2ch.com/wp-content/uploads/2016/06/twitter.jpg$image
+||www.gadget2ch.com/wp-content/uploads/2016/06/twitter.jpg$image
+
+
+! 2023-10-28 https://www.google.com
+www.google.com###arc-srp_130 > div > .Pqkn2e.ClPXac > div.card-section > div.a1DBFd > i
+
+! 2023-10-29 https://www.serebii.net
+www.serebii.net###footer > div
+
+
+! 2023-10-30 https://tunamod.com　余計な紹介
+tunamod.com##figure.is-resized.size-full.wp-block-image > [href="https://www.hafh.com/invite/vvs1NI5msayA29u4"]
+tunamod.com##.-external.p-blogCard > .p-blogCard__inner
+
+! 2023-10-30 https://detail.chiebukuro.yahoo.co.jp
+||s.yimg.jp/images/ks/clap/image/banner/detail_list_pc_ppost.png$image
+
+
+! 2023-11-06 https://www.google.com
+www.google.com###QcKD2v > input
+
+! 2023-11-06 https://www.animescape.link
+www.animescape.link##.adsense > h2
+
+
+! 2023-11-24 https://hisubway.online
+hisubway.online##body > div
+
+!さらに表示
+x.com##div[data-testid="tweetText"]:style(-webkit-line-clamp: initial !important;)
+x.com##[data-testid="tweet-text-show-more-link"]
+
+
+! 2023-10-10 https://www.amazon.co.jp
+www.amazon.co.jp##.a-spacing-top-medium.a-spacing-medium.a-section > .sg-row
+
+
+! https://www.reddit.com　設定のプレミアム勧誘など
+www.reddit.com##a._24UNt1hkbrZxLzs5vkvuDh:nth-of-type(2)
+www.reddit.com##._1dBtowHdRHcGyLbVEaOL8t._2I12Htze2UzJmmfnrgYJOn._2zZ-KGHbWWqrwGlHWXR90y
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS > .f8nXLisWxOYzMMl1uIAP3
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(1)
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(2)
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(3)
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(5)
+www.reddit.com##a.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(4)
+
+! 2023-12-01 https://mega.nz
+mega.nz##.js-lpbtn.btn-link
+
+
+! 2023-12-04 https://toyokeizai.net
+toyokeizai.net##.pi_modalbg
+toyokeizai.net##.pi_content
+toyokeizai.net##.pi_modal
+
+! 2023-12-05 https://detail.chiebukuro.yahoo.co.jp
+||s.yimg.jp/images/ks/clap/image/banner/aianswer/banner_ai_detail_test_pc.png$image
+
+
+! 2023-09-01 https://gigazine.net
+||i.gzn.jp/img/snsicon.png$image
+gigazine.net##.social-button
+gigazine.net##footer
+gigazine.net##section:has(span[class="catab"]:has-text("広告"))
+gigazine.net##section:has(span[class="catab"]:has-text("乗り物"))
+gigazine.net##section:has(span[class="catab"]:has-text("ピックアップ"))
+gigazine.net##section:has(span[class="catab"]:has-text("食"))
+gigazine.net##section:has(span[class="catab"]:has-text("レビュー"))
+gigazine.net##section:has(span[class="catab"]:has-text("試食"))
+gigazine.net##section:has(span[class="catab"]:has-text("食べ物"))
+gigazine.net##section:has(span[class="catab"]:has-text("取材"))
+gigazine.net##section:has(span[class="catab"]:has-text("アニメ"))
+gigazine.net##section:has(span[class="catab"]:has-text("マンガ"))
+gigazine.net##section:has(span[class="catab"]:has-text("インタビュー"))
+gigazine.net##section:has(span[class="catab"]:has-text("映画"))
+gigazine.net##section:has(span[class="catab"]:has-text("お知らせ"))
+gigazine.net##:has-text(/懸念/)
+gigazine.net##section:has(span[class="catab"]:has-text("動画"))
+gigazine.net##b:has-text(/懸念/)
+gigazine.net##section:has(span[class="catab"]:has-text("メンバー限定"))
+gigazine.net##section:has(span[class="catab"]:has-text("ヘッドライン"))
+gigazine.net##section:has(span[class="catab"]:has-text("コラム"))
+gigazine.net###donate_footer
+gigazine.net##section:has-text(/赤ちゃん/)
+
+news.yahoo.co.jp##.clVgDB.MicropaymentRecommendItem__Link-feNuHp
+news.yahoo.co.jp##.yjnSub_section_title
+news.yahoo.co.jp##a:has-text(アスキー)
+news.yahoo.co.jp##a:has-text(ねとらぼ)
+news.yahoo.co.jp##a:has-text(LINE)
+news.yahoo.co.jp##a:has-text(BuzzFeed)
+news.yahoo.co.jp##a:has-text(Web担当者)
+news.yahoo.co.jp##a:has-text(BCN)
+news.yahoo.co.jp##a:has-text(ネットショップ担当者)
+yahoo.co.jp##a:has-text(ZDNET Japan)
+yahoo.co.jp##a:has-text(ひろゆき)
+yahoo.co.jp##a:has-text(ホリエモン)
+
+
+! 2023-12-14 https://www.google.com　上のファイナンス　トラベル　タブ
+www.google.com##[href^="https://www.google.com/finance"]
+www.google.com##[href^="https://www.google.com/travel/flights"]
+
+
+
+! 2023-12-17 https://9ketsuki.info　おすすめピックアップ
+9ketsuki.info##.infoHead
+||9ketsuki.info/wp-content/uploads/2023/12/5442c497-ed23-4461-bc4a-a38e40db8589-768x439.webp$image
+||9ketsuki.info/wp-content/uploads/2023/12/5442c497-ed23-4461-bc4a-a38e40db8589-768x439.webp$image
+9ketsuki.info##.pickup3 > .container
+9ketsuki.info##.pickup3
+9ketsuki.info##.searchHead__input
+9ketsuki.info###menu-item-19803 > [href="https://9ketsuki.info/amazon-otoku-campaign/"]
+
+
+
+! 2023-12-19 https://osomatsusan.hatenablog.com
+osomatsusan.hatenablog.com##.sns-tag-cloud-under > p
+osomatsusan.hatenablog.com##section.autopagerize_page_element:has-text(/ポケモンスリープ/)
+osomatsusan.hatenablog.com##section.autopagerize_page_element.test-archive-entry.archive-entry:has-text(/Sleep/)
+osomatsusan.hatenablog.com##section.autopagerize_page_element.test-archive-entry.archive-entry:has-text(/カード/)
+osomatsusan.hatenablog.com##.hatena-module-entries-access-ranking.hatena-module
+osomatsusan.hatenablog.com##.hatena-module-body > div
+osomatsusan.hatenablog.com###box2-inner > div.hatena-module-html.hatena-module > div
+osomatsusan.hatenablog.com##[href="https://osomatsusan.hatenablog.com/pokemonsleep0"]
+osomatsusan.hatenablog.com##li:nth-of-type(3)
+
+
+! 2023-12-21 http://www.gadget2ch.com
+www.gadget2ch.com##.widget-title.popular-posts.widget
+
+! 2023-12-22 https://www.sankei.com
+www.sankei.com###__member_offer_block
+
+! 2023-12-22 http://www.gadget2ch.com
+www.gadget2ch.com##:xpath(//article[contains(./a ,家電)])
+
+
+! 2023-12-25 https://kdroidwin.hatenablog.com
+kdroidwin.hatenablog.com###touch-archive-header-ad
+kdroidwin.hatenablog.com##.article-list-ad.ad-online-afc.ad
+
+@@||dragontea.ink^$ghide
+@@*$image,script,xhr,domain=dragontea.ink,badfilter
+dragontea.ink##body > div[style]:not([id]):style(position: static !important; background-color: rgba(0, 0, 0, 0) !important)
+dragontea.ink##html, body:style(overflow: visible !important;)
+dragontea.ink##iframe[id^="google_ads_iframe"]
+dragontea.ink##.dta
+dragontea.ink##+js(nosiif, _0x)
+dragontea.ink##style:has-text(.reading-content img):remove()
+
+
+serebii.net##article:has-text(/Sleep/)
+
+www.serebii.net##.subcat:has-text(/Sleep|スリープ/)
+||www.serebii.net/pokemonsleep$image
+
+www.serebii.net##.subcat:has-text(/Pokémon Café ReMix|カフェ リミックス/)
+||www.serebii.net/cafemix$image
+
+www.serebii.net##.subcat:has-text(/Pokémon Masters EX|ポケモンマスターズ/)
+||www.serebii.net/pokemonsleep$image
+
+www.serebii.net##.subcat:has-text(/Pokémon UNITE|ユナイト/)
+||www.serebii.net/cafemix$image
+
+||www.serebii.net/pokemonmasters/$image
+||www.serebii.net/pokemonunite/$image
+
+
+@@||shindanmaker.com^$ghide
+
+! 2023-12-31 https://kdroidwin.hatenablog.com
+kdroidwin.hatenablog.com##.section.entry-footer > .variable-rectangle-ad
+
+! 2023-12-31 https://mainichi.jp　毎日新聞　NG
+mainichi.jp##.border-section:has-text(カルチャー)
+mainichi.jp##.toprelatedservice > li:nth-of-type(1) > [href="//mainichi.jp/kimochi/"]
+mainichi.jp###index-popular > .toprelatedservice
+mainichi.jp###index-popular > .mb-8.title-block
+mainichi.jp###index-sponichi
+mainichi.jp##li:nth-of-type(5) > .border-section
+mainichi.jp##.is-3col.catlist > li:nth-of-type(5)
+mainichi.jp##.l-side
+mainichi.jp##.l-listmain > .mb-16.border-section
+mainichi.jp##a:has-text(結婚)
+mainichi.jp##a:has-text(宝塚)
+mainichi.jp##a:has-text(強姦)
+
+
+
+! 2024-01-01 https://blog.hatena.ne.jp
+blog.hatena.ne.jp##.dashboard-sidebar-header
+blog.hatena.ne.jp##.dashboard-sidebar-content
+blog.hatena.ne.jp##.twitter-follow-hatenablog-header
+blog.hatena.ne.jp##.test-dashboard-information-weekly-hatenablog.dashboard-information > .dashboard-information-header
+blog.hatena.ne.jp##.test-dashboard-information-weekly-hatenablog.dashboard-information > .dashboard-information-list
+blog.hatena.ne.jp##.test-dashboard-information-weekly-hatenablog.dashboard-information > .dashboard-information-footer
+
+
+! 2024/07/15 https://apkpure.com
+||static-sg.winudf.com/wupload/xy/aprojectadmin/*.png$image
+
+
+! 2024/08/05 https://searx.tiekoetter.com 寄付
+searx.tiekoetter.com##.link_on_top_donate
+
+! 2024/08/09 https://apkpure.com
+apkpure.com##div.ad-adsense
+
+! 2024/08/10 https://www.nicovideo.jp
+www.nicovideo.jp##.common-header-1524g3q
+www.nicovideo.jp##.common-header-1fxu773
+www.nicovideo.jp##.common-header-13w6jkz
+
+! 2024/08/13 https://news.biglobe.ne.jp
+news.biglobe.ne.jp###right-side-inner
+
+! 2024/08/22 https://gazlog.jp
+gazlog.jp##.is-style-bg_stripe.c-prNotation
+
+
+! タイトルのフォントサイズを小さく
+youtube.com###title .ytd-watch-metadata:style(font-weight: 400;font-size: 1.8rem;)
+! 概要欄の再生回数と投稿日時を薄く
+youtube.com###info.ytd-watch-metadata:style(color: var(--yt-spec-text-secondary)!important)
+! 概要欄の「もっと見る」と「一部を表示」を薄く
+youtube.com##tp-yt-paper-button#expand:style(color: var(--yt-spec-text-secondary)!important;font-size: 1.3rem!important)
+youtube.com##tp-yt-paper-button#collapse:style(color: var(--yt-spec-text-secondary)!important;font-size: 1.3rem!important)
+
+youtube.com##button.yt-spec-button-shape-next--segmented-start > .yt-spec-button-shape-next__icon > yt-icon:style(padding-left: 2px !important;)
+youtube.com##button.yt-spec-button-shape-next--segmented-end:style(width: 46px !important;)
+youtube.com##button.yt-spec-button-shape-next--segmented-end > .yt-spec-button-shape-next__icon:style(margin-left: -3px !important;)
+
+
+
+! 2024/10/02 https://duckduckgo.com
+duckduckgo.com##._dJ357tkKXSh_Sup5xdW.wZ4JdaHxSAhGy1HoNVja.TtApESNnpBUUYUTugtHv
+
+! 2024/10/30 https://kdroidwin.hatenablog.com
+kdroidwin.hatenablog.com##.variable-rectangle-ad
+
+! 2024/11/01 https://www.youtube.com
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope > .ytd-menu-service-item-renderer.style-scope:has-text(Thanks)
+
+! 2024/11/03 https://www.perplexity.ai
+www.perplexity.ai##.bg-transparent.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.pb-sm.px-md
+
+! 2024/11/04 https://tenbin.ai
+tenbin.ai##.gmoGroupHeader-sustainable.gmoGroupHeader
+tenbin.ai##.p-RecaptchaDisclaimer.recaptcha-disclaimer.jsx-4627d2d0f262bd68
+
+
+
+! 2024/11/04 https://www.youtube.com
+www.youtube.com##.yt-share-panel-header-renderer.style-scope > .yt-community-post-section-renderer.style-scope:has-text(チャンネル登録者数)
+
+! 2024/11/07 https://duckduckgo.com
+duckduckgo.com##.FMX8dqvgZtyN5QKD1Jqh
+
+! 2024/11/16 https://www.hoyolab.com
+www.hoyolab.com##.recommend-users.mhy-side-section
+
+! 2024/11/20 https://www.androidauthority.com
+www.androidauthority.com##div.d_e.d_Z.d_Dh:nth-of-type(4)
+www.androidauthority.com##.d_ei.d_e
+
+! 2024/11/22 https://dic.nicovideo.jp
+dic.nicovideo.jp###nicoad_point_article_pc_a_area
+dic.nicovideo.jp##.a-area_buttons-left > .st-button_nicoad-campaign
+
+kdroidwin.hatenablog.com##a[href*="PR"]:upward(1)
+
+! 2024/12/08 https://play.games.dmm.co.jp
+play.games.dmm.co.jp##.css-26tb2w
+play.games.dmm.co.jp##.css-1w87w1e
+
+
+!プロモーションを含みます 削除 誤タップ防止
+youtube.com##ytm-paid-content-overlay-renderer.ytmPaidContentOverlayHost
+
+dmm.com##outgame > div:nth-child(1) > img:nth-child(2)
+
+||assets4.mist-train-girls.com/production-client-web-static/Information/img/undergame/20210909_datalinkage.png$image
+
+! 2025/01/12 https://hianime.to
+hianime.to##.header-group > .anw-group > .zrg-list > div.item:nth-of-type(2) > a.tl-btn.zr-social-button:nth-of-type(1)
+
+
+blog.hatena.ne.jp##a.nav-item:nth-child(2)
+
+! 2025/01/14 https://www.youtube.com 左のメニューバー
+www.youtube.com###endpoint > .ytd-guide-entry-renderer.style-scope:has-text(オフライン)
+www.youtube.com###downloads-entry > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint
+
+! 2025/01/22 https://x.com x zombie kiler
+x.com###xzk-displayArea
+!パロディアカウント
+x.com##.r-14gqq1x.r-1wbh5a2.r-1habvwh.css-175oi2r
+
+! ハートマーク
+youtube.com##div[id="reaction-control-panel"]
+
+
+! 2025/02/20 https://www.youtube.com ショート非表示
+
+youtube.com##.ytdRichGridGroupContents
+www.youtube.com##ytd-rich-grid-group.ytdRichGridGroupHost
+
+! 2025/03/02 https://bookmeter.com
+||bookmeter.com/packs/50percent_off_banner_900x200-d2ca5a857692140ea02a41bf46a1ef95.png$image
+bookmeter.com##a[href^="https://www.video.unext.jp/book/title/BSD0000287388/BID0000474676"]:nth-of-type(2)
+bookmeter.com##._1cjwurAAUQ4VlKfquXZmc6.yRMqp9NMnnzvj5kOqGuYt
+
+! 2025/03/03 https://erogamescape.dyndns.org
+erogamescape.dyndns.org###expectation
+
+
+
+! 2025/03/13 https://bookmeter.com
+bookmeter.com##[href^="https://ck.jp.ap.valuecommerce.com/servlet/referral"]
+bookmeter.com##[href="https://www.kinokuniya.co.jp/f/dsg-01-9784840233538"]
+bookmeter.com##._2307hfKZmBhSmhfRKeUU1E.yRMqp9NMnnzvj5kOqGuYt
+bookmeter.com##[href^="//ck.jp.ap.valuecommerce.com/servlet/referral"]
+bookmeter.com##[href^="https://ebookjapan.yahoo.co.jp/books/199367/A000201376/"]
+bookmeter.com##[href^="https://hb.afl.rakuten.co.jp/hgc/g00q0726.ex39aa19.g00q0726.ex39b3c7/"]
+
+
+^https?:\/\/(?!([a-z0-9-]+\.)?mercari\.com$|mercari-shops\.com$)[^\/]*mercari[^\/]*\.[^\/]+\/?$/$document
+
+www.youtube.com##ytd-guide-entry-renderer[title="ショート"]
+
+! 2025/04/10 https://bakkyalo.hatenablog.jp
+bakkyalo.hatenablog.jp##.hatena-module-custom-ads.hatena-module-html.hatena-module
+
+! 2025/04/10 https://search.yahoo.co.jp
+search.yahoo.co.jp###sr > div > .Tweet_overall__a5p_9.Tweet_TweetContainer__aezGm:has-text(あんスタ)
+search.yahoo.co.jp###sr > div > .Tweet_overall__a5p_9.Tweet_TweetContainer__aezGm > .Tweet_Tweet__sna2i:has-text(Raging Torrent)
+
+
+!ショート
+ youtube.com##ytd-rich-section-renderer
+ 
+ 
+
+! 2025/04/26 https://www.youtube.com
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+
+
+! 2025/04/26 https://search.yahoo.co.jp
+search.yahoo.co.jp##.mhdBanner
+search.yahoo.co.jp###sr > div > .Tweet_overall__a5p_9.Tweet_TweetContainer__aezGm > .Tweet_Tweet__sna2i:has-text(@meteorite_0825)
+
+
+! 2025/09/28 https://abema.tv
+abema.tv##.com-vod-VODPlayerNextContentRecommendBase__inner--is-show.com-vod-VODPlayerNextContentRecommendBase__inner
+
+
+! NHK ONE 強制ポップアップ無効化
+||apps.web.nhk/ops/api/v1/common/registrationEnforcement.json$xmlhttprequest
+||apps.web.nhk/ops/api/v1/common/enforcementSettings.json$xmlhttprequest
+||www.web.nhk/assets/conf/dms/v1/enforcement/enforcementConfig.json$xmlhttprequest
+
+! 2025/11/18 https://www.e-select.jp
+||www.e-select.jp/member/sp2/img_png_sukasi.php?w=2600&h=2079&sn=21$image
+||www.e-select.jp/member/sp2/img_png_sukasi.php?w=2600&h=2133&sn=21$image
