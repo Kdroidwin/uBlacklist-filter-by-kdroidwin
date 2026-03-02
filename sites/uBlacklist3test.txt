@@ -23,7 +23,6 @@
 *://urasunday.com/*
 *://comic-walker.com/*
 *://www.b-ch.com/*
-*://filmarks.com/*
 *://mora.jp/*
 *://japan-anime-song.com/*
 *://music.line.me/*
