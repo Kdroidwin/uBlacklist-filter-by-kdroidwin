@@ -5,6 +5,7 @@
 ||ad^$document,from=~unicef.ad|~penguin.ad|~onlinenotep.ad|~mcb.ad|~creandfundacio.ad|~bus.ad|~odiseo.ad|~ior.ad|~chalk.ad|~museucarmenthyssenandorra.ad|~hiverinfini.ad|~iad.ad|~gov.ad|~femboy.ad
 ||guru^$document,~inline-font,from=~mstdn.guru|~miomio.guru|~javguru.guru|~jav.guru|~9tsu.guru|~chita.guru|~watcher.guru
 ||lat^$doc,domain=~www.asmrzm.lat|~aidou.1024xp.lat|brainly.lat|~ecomlac.lat
+||li^$document
 ||bi^$document,from=~gov.bi|~edu.bi
 ||ar^$doc,domain=~centronikkei.org.ar|~gov.ar
 ||am^$doc,domain=~uyragnigotocr.am|~gov.am|~ac.am
@@ -23,3 +24,4 @@
 ||td^$doc,domain=~itrad.td|~hama.td|~portail.td|~adac.td|~onape.td|~f.td
 ||tk^$doc,domain=~air.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk|~yado.tk|~www.nabeta.tk|~www.dot.tk|~labo.wovs.tk|~www.bcllub.tk|~hogehoge.tk
 ||ug^$doc,domain=~isoc.ug|~renumesh.ug|~mbu.ug|~nbs.ug|~can.ug|~jobadverts.ug|~howwe.ug|~nilepost.co.ug|~uvtab.go.ug|~microhaem.co.ug|~sun.ac.ug|~prudential.ug|~go.ug|~ac.ug|~green.co.ug
+||pub^$document
