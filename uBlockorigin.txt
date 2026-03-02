@@ -2984,6 +2984,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ggdata1.cnr.cn^$document
 ||ghaderipro.com^$document
 ||ghib-mori.com^$document
+||ghostphone.co^$document
 ||gi-o.com^$document
 ||gibed87e.sghscdhaka.edu.bd^$document
 ||gifslangen.com^$document
@@ -5032,6 +5033,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||micheleandjon.com^$document
 ||miciks.com^$document
 ||microeducate.tech^$document
+||microg.net^$document
 ||microphone-global.ru^$document
 ||microsoftstore.ru^$document
 ||midorikiryu-navi.com^$document
@@ -6085,6 +6087,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nwknews.jp^$document
 ||nxa.cljfncyq.shop^$document
 ||nxbrew.cc^$document
+||nxbrew.com^$document
 ||nxbrew.fit^$document
 ||nxbrew.games^$document
 ||nxbrew.me^$document
@@ -7721,6 +7724,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||starry-night-wish-cometrue.com^$document
 ||starryinsighthub.com^$document
 ||starrymountain.org^$document
+||stars-kings.com^$document
 ||startup-live.jp^$document
 ||starwars.ru^$document
 ||staseon.com^$document

@@ -1,9 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://nxbrew.com/*
-*://microg.net/*
-*://ghostphone.co/*
-*://stars-kings.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -18579,6 +18575,7 @@
 *://ggdata1.cnr.cn/*
 *://ghaderipro.com/*
 *://ghib-mori.com/*
+*://ghostphone.co/*
 *://gi-o.com/*
 *://gifslangen.com/*
 *://giftpedia.jp/*
@@ -20580,6 +20577,7 @@
 *://micheleandjon.com/*
 *://miciks.com/*
 *://microeducate.tech/*
+*://microg.net/*
 *://microphone-global.ru/*
 *://microsoftedge.microsoft.com/addons/detail/zenmate-free-vpn*
 *://microsoftstore.ru/*
@@ -21588,6 +21586,7 @@
 *://nwknews.jp/*
 *://nxa.cljfncyq.shop/*
 *://nxbrew.cc/*
+*://nxbrew.com/*
 *://nxbrew.fit/*
 *://nxbrew.games/*
 *://nxbrew.me/*
@@ -23115,6 +23114,7 @@
 *://starry-night-wish-cometrue.com/*
 *://starryinsighthub.com/*
 *://starrymountain.org/*
+*://stars-kings.com/*
 *://startup-live.jp/*
 *://starwars.ru/*
 *://staseon.com/*
