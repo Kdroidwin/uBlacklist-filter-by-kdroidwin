@@ -576,3 +576,57 @@ abema.tv##.com-vod-VODPlayerNextContentRecommendBase__inner--is-show.com-vod-VOD
 ! 2025/11/18 https://www.e-select.jp
 ||www.e-select.jp/member/sp2/img_png_sukasi.php?w=2600&h=2079&sn=21$image
 ||www.e-select.jp/member/sp2/img_png_sukasi.php?w=2600&h=2133&sn=21$image
+
+
+!  Google Discover www.androidauthority.com
+www.androidauthority.com##.e_El.e_Fl.e_e
+www.androidauthority.com##.e_am.e_e.viafoura
+
+
+
+! 2026/03/01 https://kdroidwin.hatenablog.com
+kdroidwin.hatenablog.com##.hatena-bookmark-button-frame
+kdroidwin.hatenablog.com##.support-button
+
+! 2026/03/01 https://duck.ai
+duck.ai##.gtdoeDz_zSFRe9iGzCBQ.lPP3Xx8wugFDJ1_BdZJX.WykTM0VMEgCt1hj7iB6x
+
+! 2026/03/01 https://sagirare.hatenablog.com
+sagirare.hatenablog.com##.sc_frame
+sagirare.hatenablog.com##p > span > strong
+sagirare.hatenablog.com##p:nth-of-type(1)
+sagirare.hatenablog.com##.entry-header > .social-buttons
+||cdn-ak.f.st-hatena.com/images/fotolife/s/sorasanai58/20240706/20240706232844.png$image
+
+! 2026/03/01 https://www.neo-blood.co.jp
+www.neo-blood.co.jp##p:nth-of-type(4)
+www.neo-blood.co.jp##p:nth-of-type(5)
+www.neo-blood.co.jp###text-59 > .textwidget > p
+www.neo-blood.co.jp###form2_widget-5 > .st-originallink > .st-originalbtn
+www.neo-blood.co.jp##p:nth-of-type(3)
+www.neo-blood.co.jp##p:nth-of-type(6)
+www.neo-blood.co.jp###text-45 > .textwidget > p
+www.neo-blood.co.jp###text-56 > .textwidget > p
+www.neo-blood.co.jp##.post.home-post > .widget_text.top-wbox-u
+
+! 2026/03/01 https://sagirare.hatenablog.com
+sagirare.hatenablog.com##.hatenablog-entry.entry-content > p > span
+sagirare.hatenablog.com##strong:nth-of-type(1)
+sagirare.hatenablog.com##div.green.fa_check.li.sc_designlist > ul > li
+sagirare.hatenablog.com##p:nth-of-type(14)
+sagirare.hatenablog.com##p:nth-of-type(n)
+sagirare.hatenablog.com##.hatena-asin-detail
+sagirare.hatenablog.com###サイト名実在するショップをそのまま悪用している場合あり > span
+
+! 2026/03/02 https://www.privacytools.io
+
+! 2026/03/02 https://www.privacytools.io
+www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
+
+www.privacytools.io/privacy-vpn##div.container:nth-of-type(3)
+www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
+www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
+
+! 2026/03/02 https://search.yahoo.co.jp
+search.yahoo.co.jp##.spLoginBannerWrapper
+
