@@ -1,6 +1,9 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://nswpedia.com.im/*
+*://zjeogv.press/*
+*://eggns-emulator.org/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
