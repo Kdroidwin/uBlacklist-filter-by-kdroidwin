@@ -13,6 +13,9 @@ jp.pornhub.com###welcome
 drive.google.com##.AeBiU-RLmnJb.AeBiU-mRLv6
 drive.google.com##.ml-Pr-kg
 
+! クッキー同意 livedoor系
+###gdpr-banner
+
 !再生数100以下
 youtube.com##ytd-rich-item-renderer:has(#metadata-line > .ytd-video-meta-block:nth-of-type(1):has-text(/^(100|\d{1,2}) 回視聴/))
 youtube.com##ytd-video-renderer:has(#metadata-line > .ytd-video-meta-block:nth-of-type(1):has-text(/^(100|\d{1,2}) 回視聴/))
