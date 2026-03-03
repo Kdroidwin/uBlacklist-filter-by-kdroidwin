@@ -632,4 +632,11 @@ search.yahoo.co.jp##.spLoginBannerWrapper
 hatena.ne.jp##aside.banner-upgrade-to-pro
 blog.hatena.ne.jp##[href^="/-/curation/promotion"]
 
+
+! はてなスター ソーシャルボタン
+hatenablog.com##.social-buttons
+||s.hatena.ne.jp^
+hatenablog.com##.entry-header-html > p
+
+
 duckduckgo.com##.footer
