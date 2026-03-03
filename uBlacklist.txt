@@ -1,8 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://ublockdns.com/*
-*://ublockorigin.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -23848,6 +23846,8 @@
 *://uat.newgarage.com/*
 *://uberpartner.hatenablog.com/*
 *://ublock-origin-lite.softonic.ru/*
+*://ublockdns.com/*
+*://ublockorigin.com/*
 *://ubulira.immunityassist.sk/*
 *://ubuntubin.com/*
 *://ucbalbania.com/?n=f*

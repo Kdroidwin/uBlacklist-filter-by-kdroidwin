@@ -8499,6 +8499,8 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||uat.newgarage.com^$document
 ||uberpartner.hatenablog.com^$document
 ||ublock-origin-lite.softonic.ru^$document
+||ublockdns.com^$document
+||ublockorigin.com^$document
 ||ubulira.immunityassist.sk^$document
 ||ubuntu.buildwebhost.com^$document
 ||ubuntubin.com^$document
