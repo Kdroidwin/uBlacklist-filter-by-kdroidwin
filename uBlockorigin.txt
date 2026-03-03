@@ -2230,6 +2230,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||efuyuiblog.com^$document
 ||egao888.com^$document
 ||egaomama.com^$document
+||eggns-emulator.org^$document
 ||egkhpno.cn^$document
 ||ego-event.fr^$document
 ||egtspl.com^$document
@@ -6065,6 +6066,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nsl-enter.com^$document
 ||nsw2u.com^$document
 ||nswdl.com^$document
+||nswpedia.com.im^$document
 ||nt124-style.com^$document
 ||ntfjsip.guru^$document
 ||ntg-guinee.com^$document
@@ -11258,6 +11260,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ziro83.com^$document
 ||zitakurouzyou.com^$document
 ||zizineta.com^$document
+||zjeogv.press^$document
 ||zjkqcbx.cn^$document
 ||zkimtm.com^$document
 ||zkteco-ea.com^$document

@@ -1,9 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://nswpedia.com.im/*
-*://zjeogv.press/*
-*://eggns-emulator.org/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -17846,6 +17843,7 @@
 *://efuyuiblog.com/*
 *://egao888.com/*
 *://egaomama.com/*
+*://eggns-emulator.org/*
 *://egkhpno.cn/*
 *://ego-event.fr/*
 *://egtspl.com/*
@@ -21567,6 +21565,7 @@
 *://nsl-enter.com/*
 *://nsw2u.com/*
 *://nswdl.com/*
+*://nswpedia.com.im/*
 *://nt124-style.com/*
 *://ntfjsip.guru/*
 *://ntg-guinee.com/*
@@ -26528,6 +26527,7 @@
 *://ziro83.com/*
 *://zitakurouzyou.com/*
 *://zizineta.com/*
+*://zjeogv.press/*
 *://zjkqcbx.cn/*
 *://zkimtm.com/*
 *://zkteco-ea.com/*
