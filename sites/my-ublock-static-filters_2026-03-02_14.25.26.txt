@@ -6,6 +6,8 @@ jp.pornhub.com##.section_title > h3
 jp.pornhub.com##.section_bar_sidebar
 jp.pornhub.com##.abAlertInner
 ||cdn1-smallimg.phncdn.com/n172nWs1UEcnquuObA5x52osw51230gH/rta-2.gif$image
+jp.pornhub.com###welcome
+
 
 ! 2023-09-01 https://drive.google.com
 drive.google.com##.AeBiU-RLmnJb.AeBiU-mRLv6
@@ -623,5 +625,6 @@ sagirare.hatenablog.com###サイト名実在するショップをそのまま悪
 ! 2026/03/02 https://search.yahoo.co.jp
 search.yahoo.co.jp##.spLoginBannerWrapper
 
-
+! プロにアップグレードを非表示　記事の提案非表示
+blog.hatena.ne.jp##div#globalheader-ng-root div.drawer.expanded div.drawerContent nav.drawer-menu ul.drawer-menu-main li.menu-item
 blog.hatena.ne.jp##[href^="/-/curation/promotion"]
