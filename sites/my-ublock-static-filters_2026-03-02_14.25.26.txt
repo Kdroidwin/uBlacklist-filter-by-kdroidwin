@@ -626,5 +626,5 @@ sagirare.hatenablog.com###サイト名実在するショップをそのまま悪
 search.yahoo.co.jp##.spLoginBannerWrapper
 
 ! プロにアップグレードを非表示　記事の提案非表示
-blog.hatena.ne.jp##div#globalheader-ng-root div.drawer.expanded div.drawerContent nav.drawer-menu ul.drawer-menu-main li.menu-item
+hatena.ne.jp##aside.banner-upgrade-to-pro
 blog.hatena.ne.jp##[href^="/-/curation/promotion"]
