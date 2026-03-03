@@ -631,3 +631,5 @@ search.yahoo.co.jp##.spLoginBannerWrapper
 ! プロにアップグレードを非表示　記事の提案非表示
 hatena.ne.jp##aside.banner-upgrade-to-pro
 blog.hatena.ne.jp##[href^="/-/curation/promotion"]
+
+duckduckgo.com##.footer
