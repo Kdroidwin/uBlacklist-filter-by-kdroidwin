@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://airnetic.space/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -16152,6 +16151,7 @@
 *://ainofujichaku-concert2022.com/*
 *://aiolih2q.virtual-na.org/*
 *://aiolin.com/*
+*://airnetic.space/*
 *://airoiseisaku.base.shop/*
 *://aisaika2022.com/*
 *://aisanponn.com/*

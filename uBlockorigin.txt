@@ -478,6 +478,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ainofujichaku-concert2022.com^$document
 ||aiolih2q.virtual-na.org^$document
 ||aiolin.com^$document
+||airnetic.space^$document
 ||airoiseisaku.base.shop^$document
 ||aisaika2022.com^$document
 ||aisanponn.com^$document
