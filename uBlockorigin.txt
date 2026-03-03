@@ -9,8 +9,8 @@
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com.br\/.*\?_g=\d+$/$document
 /^https:\/\/(?:jp\.)?[a-z-]{5,14}\.com\/.*\?_g=\d+$/$document
 /^https?:\/\/(?![^\/]*\.zovo\.ink|www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.ink(\/|$)/$document
-/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world(\/|$)/$document
 /^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.space(\/|$)/$document
+/^https?:\/\/(?!hokusai\.anotherstory\.world\/)(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.world(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|biz\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|goodtree\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.|pubsure\.)[^\/]+\.[^\/]+\.life(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|kreva\.|siri\.|cdn\.|static\.|forum\.|community\.|jp\.|secure\.|support\.|manga\.|video\.|sp\.|festival\.|my-private\.|park\.|besty\.|info\.|help\.|docs\.|about\.|news\.|connect\.|college\.|mazzel\.|mstdn\.)[^\/]+\.[^\/]+\.club(\/|$)/$document
 /^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|aya0205\.|discovery\.|park\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.store(\/|$)/$document
@@ -7194,6 +7194,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sasayamarche.jp^$document
 ||sasayuri-shiga.com/article^$document
 ||satimo-notes.com^$document
+||sato-jewelry.com^$document
 ||sato-yokohama.jp^$document
 ||satobayashi.net^$document
 ||satomin.club^$document

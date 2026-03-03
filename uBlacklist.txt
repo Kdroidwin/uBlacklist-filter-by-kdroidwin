@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://sato-jewelry.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -22622,6 +22621,7 @@
 *://sasayamarche.jp/*
 *://sasayuri-shiga.com/article/*
 *://satimo-notes.com/*
+*://sato-jewelry.com/*
 *://sato-yokohama.jp/*
 *://satobayashi.net/*
 *://satomin.club/*
