@@ -588,7 +588,7 @@ www.androidauthority.com##.e_am.e_e.viafoura
 kdroidwin.hatenablog.com##.hatena-bookmark-button-frame
 kdroidwin.hatenablog.com##.support-button
 
-! 2026/03/01 https://duck.ai
+! 2026/03/01 https://duck.ai 無料表示
 duck.ai##.gtdoeDz_zSFRe9iGzCBQ.lPP3Xx8wugFDJ1_BdZJX.WykTM0VMEgCt1hj7iB6x
 
 ! 2026/03/01 https://sagirare.hatenablog.com
@@ -618,15 +618,10 @@ sagirare.hatenablog.com##p:nth-of-type(n)
 sagirare.hatenablog.com##.hatena-asin-detail
 sagirare.hatenablog.com###サイト名実在するショップをそのまま悪用している場合あり > span
 
-! 2026/03/02 https://www.privacytools.io
 
-! 2026/03/02 https://www.privacytools.io
-www.privacytools.io/privacy-vpn##div.container:nth-of-type(2)
-
-www.privacytools.io/privacy-vpn##div.container:nth-of-type(3)
-www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
-www.privacytools.io/encrypted-cloud-storage##div.container:nth-of-type(3)
 
 ! 2026/03/02 https://search.yahoo.co.jp
 search.yahoo.co.jp##.spLoginBannerWrapper
 
+
+blog.hatena.ne.jp##[href^="/-/curation/promotion"]
