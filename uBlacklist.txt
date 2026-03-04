@@ -1,5 +1,40 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
+*://chrome.google.com/webstore/detail/ublock/*
+*://ublock.org/*
+*://freeadblockerbrowser.com/*
+title/Free Adblocker Browser:Adblock/
+*://adblockbrowser.org/*
+*://adblockplus.org/*
+*://getadblock.com/*
+*://help.adblockbrowser.org/*
+*://free-adblocker-browser.jp.uptodown.com/*
+title/Adblock Plus - free ad blocker - /
+*://free-adblocker-browser.jp.aptoide.com/*
+title/Adblock Browser：/
+title/Free Adblocker Browser - Adblock /
+*://www.standsapp.org/*
+*://adblock-browser.jp.uptodown.com/*
+title/AdBlock - ウェブ上の広告をブロック - /
+*://adspamblock.com/*
+*://adblockpro.com/*
+title/AdBlock Pro 広告ブロックアプリ - App Store/
+*://microsoftedge.microsoft.com/addons/detail/ndcileolkflehcjpmjnfbnaibdcgglog?*
+*://news.mynavi.jp/article/20180421-chrome/*
+*://addons.mozilla.org/ja/firefox/addon/adblock-plus/*
+*://free-adblocker-browser.en.uptodown.com/*
+title/Adblock Browser: Fast & Secure - Apps on Google Play/
+*://www.youtube.com/watch?v=KiHxZnVa0Q0
+title/AdBlock Browser: Fast & Secure - Google Play のアプリ/
+*://gigazine.net/news/20150521-adblock-browser/*
+title/ADB Browser - Faster Web/
+*://gameappch.com/*
+*://manegica.jp/*
+*://apps.apple.com/jp/app/adblock-for-mobile/id1036484810*
+*://kbm.slp-contents.com/*
+*://adbpremium.slp-contents.com/*
+*://jp.adlock.com/*
+*://app-liv.jp/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
