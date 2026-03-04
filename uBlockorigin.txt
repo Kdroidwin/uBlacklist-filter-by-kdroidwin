@@ -3483,6 +3483,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hokanko-alt.com^$document
 ||hokkaidougurashi.com^$document
 ||hokkaidougurashi.com^$document
+||hola.org^$document
 ||holabeauty.center^$document
 ||holidaymelon.com^$document
 ||hollyhappy.com^$document
@@ -3529,6 +3530,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hotelluxmidreamz.com^$document
 ||hotelparkcity.ru^$document
 ||hotnfill.com^$document
+||hotspot-shield-vpn.jp.uptodown.com^$document
 ||hotword-coolword.com^$document
 ||houkan-cuore.jp^$document
 ||houseofk.co.in^$document
@@ -4991,6 +4993,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||memomalog.com^$document
 ||memorog.com^$document
 ||memorylane-media.com^$document
+||memuplay.com^$document
 ||menbouyuzu.hatenablog.com^$document
 ||mendakonews.com^$document
 ||menrybe.buzz^$document
@@ -7852,6 +7855,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||superdysale.nl^$document
 ||superiorspamfilter.com^$document
 ||supershuttle.jp^$document
+||supervpn-free-vpn-client.en.uptodown.com^$document
 ||supjav-debut.com^$document
 ||supjav.jp^$document
 ||supo-tu-fan.com^$document
@@ -9202,6 +9206,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.bedruthan.com^$document
 ||www.berluti.cn^$document
 ||www.bestmamafinds.com^$document
+||www.betternet.co^$document
 ||www.beyourlover.co.jp^$document
 ||www.biccamera.com/bc/i/topics/osusume_pc_university/index.jsp^$document
 ||www.biglobe-hikari.net^$document
@@ -9714,10 +9719,12 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.hotel-spasskaya.ru^$document
 ||www.hotelduus.is^$document
 ||www.hoteltarapoto.com^$document
+||www.hotspotshield.com^$document
 ||www.housekibako.info^$document
 ||www.houtkopenonline.com^$document
 ||www.hqbcghl.cn^$document
 ||www.hs-partner.hamburg^$document
+||www.hsselite.com^$document
 ||www.hybrid-analysis.com^$document
 ||www.ibaozhen.xyz^$document
 ||www.ichigo-macaron.com^$document
@@ -10004,6 +10011,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.mekan0.com^$document
 ||www.memuplay.com//how-to-use--on-pc.html^$document
 ||www.memuplay.com/how-to-use--download-on-pc.html^$document
+||www.memuplay.com^$document
 ||www.menuguildsystem.com^$document
 ||www.mercedesme.jp^$document
 ||www.mercure.jp^$document
@@ -10484,6 +10492,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.superdramatv.com^$document
 ||www.supergenji.jp^$document
 ||www.superstarpledis.jp^$document
+||www.supervpn.net^$document
 ||www.suunto.cn^$document
 ||www.suyamatakuji.com^$document
 ||www.suzuco.net^$document
