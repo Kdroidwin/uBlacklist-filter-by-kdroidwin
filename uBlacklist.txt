@@ -1,4 +1,15 @@
 *://*.000webhostapp.com/*
+*://www.memuplay.com/*
+*://memuplay.com/*
+*://hola.org/*
+*://supervpn-free-vpn-client.en.uptodown.com/*
+*://www.supervpn.net/*
+*://www.betternet.co/*
+*://www.hotspotshield.com/*
+*://www.hsselite.com/*
+*://apps.microsoft.com/detail/xpdnlrv08zch53*
+*://play.google.com/store/apps/details?id=hotspotshield.android.vpn*
+*://hotspot-shield-vpn.jp.uptodown.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
