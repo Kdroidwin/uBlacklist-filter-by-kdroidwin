@@ -388,9 +388,15 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ad-nex.com^
 ||ad5a0.cn^$document
 ||adathi-havicoco.com^$document
+||adblock-browser.jp.uptodown.com^$document
+||adblockbrowser.org^$document
 ||adblockluna.com^$document
+||adblockplus.org^$document
+||adblockpro.com^$document
+||adbpremium.slp-contents.com^$document
 ||addchannel.net^$document
 ||addness.co.jp^$document
+||addons.mozilla.org/ja/firefox/addon/adblock-plus^$document
 ||addspice.jp^$document
 ||ademas0719blog.com^$document
 ||aditaishitukaizen.com^$document
@@ -399,6 +405,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||adonisgreen.jp^$document
 ||adpeak.net^$document
 ||ads.google.cn^$document
+||adspamblock.com^$document
 ||adult-hkk.net^$document
 ||adult-manga.jp/for-you-free^$document
 ||adult-manga.net^$document
@@ -1591,6 +1598,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||christinacooks.com^$document
 ||christmas-bigsales.com^$document
 ||chrome.google.com/webstore/detail/revanced-extended-latest/hhbckenadhgffcgbacbalchajeccplmj^$document
+||chrome.google.com/webstore/detail/ublock^$document
 ||chrome.zzzmh.cn^$document
 ||chromewebstore.google.com/detail/revanced-extended-latest^$document
 ||chronictacos.jp^$document
@@ -2699,6 +2707,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||frchisworks.jp^$document
 ||freak-cafe.com^$document
 ||freak71l.cvs.com.my^$document
+||free-adblocker-browser.en.uptodown.com^$document
+||free-adblocker-browser.jp.aptoide.com^$document
+||free-adblocker-browser.jp.uptodown.com^$document
 ||free-and-natural.com^$document
 ||free-ero-doujin.kk36eroero.com^$document
 ||free-erobooks.com^$document
@@ -2706,6 +2717,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||free-learn.info^$document
 ||free-workstyle.com^$document
 ||free-your-iphone.co.uk^$document
+||freeadblockerbrowser.com^$document
 ||freeconsul.co.jp^$document
 ||freehentaitorrent.jp^$document
 ||freelife55.net^$document
@@ -2843,6 +2855,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||game-creators.camp^$document
 ||game.boom-app.com^$document
 ||gameapp-labo.jp^$document
+||gameappch.com^$document
 ||gameappli555.com^$document
 ||gamedva.com^$document
 ||gamefabrique.com^$document
@@ -2967,6 +2980,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||geronhaita.com^$document
 ||get-miles.ninja^$document
 ||get45.com^$document
+||getadblock.com^$document
 ||getagriponlighting.com^$document
 ||getapkgame.com^$document
 ||getbt.blog.2nt.com^$document
@@ -2993,6 +3007,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||gifslangen.com^$document
 ||giftpedia.jp^$document
 ||gifu-taikyo.jp^$document
+||gigazine.net/news/20150521-adblock-browser^$document
 ||gigotvmo.afibrake.com^$document
 ||gimon-sukkiri.jp^$document
 ||gineco.ru^$document
@@ -3350,6 +3365,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||heliumboss.xyz^$document
 ||hellofuture-inc.com^$document
 ||helloroomies-stkgz.com^$document
+||help.adblockbrowser.org^$document
 ||help.camp-fire.jp^$document
 ||help.cocoloni.jp^$document
 ||help.cybozu.cn^$document
@@ -3948,6 +3964,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jp-2.dogge.info^$document
 ||jp-nene.com^$document
 ||jp-yooho.com^$document
+||jp.adlock.com^$document
 ||jp.adorable-pet.com^$document
 ||jp.bignox.com/appcenter^$document
 ||jp.itopvpn.com^$document
@@ -4112,6 +4129,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||kazutobi.com^$document
 ||kazutoshinarita.com^$document
 ||kban.me^$document
+||kbm.slp-contents.com^$document
 ||kboard.jp^$document
 ||kchihua.xyz^$document
 ||kcsf-eco-ap.jp^$document
@@ -4785,6 +4803,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||manacomicmonster.com^$document
 ||manadia.jp^$document
 ||mandymcdanieldesigns.com^$document
+||manegica.jp^$document
 ||maneki-rus.ru^$document
 ||maneql.co.jp^$document
 ||manga-bang.com^$document
@@ -5537,6 +5556,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||news.eeany.cn^$document
 ||news.ganma.jp^$document
 ||news.guideme.jp^$document
+||news.mynavi.jp/article/20180421-chrome^$document
 ||news.mynavi.jp/securitysoft/recommended-vpn^$document
 ||news.mynavi.jp/securitysoft^$document
 ||news.vodfan.com^$document
@@ -8506,6 +8526,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||uat.newgarage.com^$document
 ||uberpartner.hatenablog.com^$document
 ||ublock-origin-lite.softonic.ru^$document
+||ublock.org^$document
 ||ublockdns.com^$document
 ||ublockorigin.com^$document
 ||ubulira.immunityassist.sk^$document
@@ -10476,6 +10497,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.sreemahadevgroup9.com^$document
 ||www.st-johnfisher.ealing.sch.uk^$document
 ||www.stackfinder.ru^$document
+||www.standsapp.org^$document
 ||www.stapletechinc.com^$document
 ||www.starblog.jp^$document
 ||www.starjohomagazine.com^$document

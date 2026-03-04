@@ -1,40 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://chrome.google.com/webstore/detail/ublock/*
-*://ublock.org/*
-*://freeadblockerbrowser.com/*
-title/Free Adblocker Browser:Adblock/
-*://adblockbrowser.org/*
-*://adblockplus.org/*
-*://getadblock.com/*
-*://help.adblockbrowser.org/*
-*://free-adblocker-browser.jp.uptodown.com/*
-title/Adblock Plus - free ad blocker - /
-*://free-adblocker-browser.jp.aptoide.com/*
-title/Adblock Browser：/
-title/Free Adblocker Browser - Adblock /
-*://www.standsapp.org/*
-*://adblock-browser.jp.uptodown.com/*
-title/AdBlock - ウェブ上の広告をブロック - /
-*://adspamblock.com/*
-*://adblockpro.com/*
-title/AdBlock Pro 広告ブロックアプリ - App Store/
-*://microsoftedge.microsoft.com/addons/detail/ndcileolkflehcjpmjnfbnaibdcgglog?*
-*://news.mynavi.jp/article/20180421-chrome/*
-*://addons.mozilla.org/ja/firefox/addon/adblock-plus/*
-*://free-adblocker-browser.en.uptodown.com/*
-title/Adblock Browser: Fast & Secure - Apps on Google Play/
-*://www.youtube.com/watch?v=KiHxZnVa0Q0
-title/AdBlock Browser: Fast & Secure - Google Play のアプリ/
-*://gigazine.net/news/20150521-adblock-browser/*
-title/ADB Browser - Faster Web/
-*://gameappch.com/*
-*://manegica.jp/*
-*://apps.apple.com/jp/app/adblock-for-mobile/id1036484810*
-*://kbm.slp-contents.com/*
-*://adbpremium.slp-contents.com/*
-*://jp.adlock.com/*
-*://app-liv.jp/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -16102,9 +16067,15 @@ title/ADB Browser - Faster Web/
 *://actualizate.ar/*
 *://ad5a0.cn/*
 *://adathi-havicoco.com/*
+*://adblock-browser.jp.uptodown.com/*
+*://adblockbrowser.org/*
 *://adblockluna.com/*
+*://adblockplus.org/*
+*://adblockpro.com/*
+*://adbpremium.slp-contents.com/*
 *://addchannel.net/*
 *://addness.co.jp/*
+*://addons.mozilla.org/ja/firefox/addon/adblock-plus/*
 *://addspice.jp/*
 *://ademas0719blog.com/*
 *://aditaishitukaizen.com/*
@@ -16112,6 +16083,7 @@ title/ADB Browser - Faster Web/
 *://adonisgreen.jp/*
 *://adpeak.net/*
 *://ads.google.cn/*
+*://adspamblock.com/*
 *://adult-hkk.net/*
 *://adult-manga.jp/for-you-free*
 *://adult-manga.net/*
@@ -16503,6 +16475,7 @@ title/ADB Browser - Faster Web/
 *://app-games-casmanuus.xyz/*
 *://app-games-outrundersele.xyz/*
 *://app-info.xyz/*
+*://app-liv.jp/*
 *://app-story.net/*
 *://app.famitsu.com/category/android-apps/android-recommend/*
 *://app.joinin.online/*
@@ -16527,6 +16500,7 @@ title/ADB Browser - Faster Web/
 *://apps.apple.com/au/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8C%E3%82%8Bvisa%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353*
 *://apps.apple.com/gb/app/vpn-proxy-unlimited-shield/id1370293473?l=ja*
 *://apps.apple.com/jp/app/%E3%83%8A%E3%83%83%E3%82%B8%E3%82%AB%E3%83%BC%E3%83%89-18%E6%AD%B3%E3%81%8B%E3%82%89%E3%82%AF%E3%83%AC%E3%82%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/id1577303353?platform=ipad*
+*://apps.apple.com/jp/app/adblock-for-mobile/id1036484810*
 *://apps.kepanjeneyecenter.com/*
 *://apps.microsoft.com/detail/avast-free-antivirus/xpdnzjfncr1b07?hl=ja-JP
 *://apps.microsoft.com/detail/xpdnlrv08zch53*
@@ -17255,6 +17229,7 @@ title/ADB Browser - Faster Web/
 *://christinacooks.com/*
 *://christmas-bigsales.com/*
 *://chrome.google.com/webstore/detail/revanced-extended-latest/hhbckenadhgffcgbacbalchajeccplmj*
+*://chrome.google.com/webstore/detail/ublock/*
 *://chrome.zzzmh.cn/*
 *://chromewebstore.google.com/detail/1vpn-free-vpn*
 *://chromewebstore.google.com/detail/revanced-extended-latest/*
@@ -18333,6 +18308,9 @@ title/ADB Browser - Faster Web/
 *://frchisworks.jp/*
 *://freak-cafe.com/*
 *://freak71l.cvs.com.my/*
+*://free-adblocker-browser.en.uptodown.com/*
+*://free-adblocker-browser.jp.aptoide.com/*
+*://free-adblocker-browser.jp.uptodown.com/*
 *://free-and-natural.com/*
 *://free-ero-doujin.kk36eroero.com/*
 *://free-erobooks.com/*
@@ -18340,6 +18318,7 @@ title/ADB Browser - Faster Web/
 *://free-learn.info/*
 *://free-workstyle.com/*
 *://free-your-iphone.co.uk/*
+*://freeadblockerbrowser.com/*
 *://freeconsul.co.jp/*
 *://freehentaitorrent.jp/*
 *://freelife55.net/*
@@ -18473,6 +18452,7 @@ title/ADB Browser - Faster Web/
 *://game-creators.camp/*
 *://game.boom-app.com/*
 *://gameapp-labo.jp/*
+*://gameappch.com/*
 *://gameappli555.com/*
 *://gamedva.com/*
 *://gamefabrique.com/*
@@ -18593,6 +18573,7 @@ title/ADB Browser - Faster Web/
 *://geronhaita.com/*
 *://get-miles.ninja/*
 *://get45.com/*
+*://getadblock.com/*
 *://getagriponlighting.com/*
 *://getapkgame.com/*
 *://getbt.blog.2nt.com/*
@@ -18618,6 +18599,7 @@ title/ADB Browser - Faster Web/
 *://gifslangen.com/*
 *://giftpedia.jp/*
 *://gifu-taikyo.jp/*
+*://gigazine.net/news/20150521-adblock-browser/*
 *://gigotvmo.afibrake.com/*
 *://gimon-sukkiri.jp/*
 *://gineco.ru/*
@@ -18968,6 +18950,7 @@ title/ADB Browser - Faster Web/
 *://heliumboss.xyz/*
 *://hellofuture-inc.com/*
 *://helloroomies-stkgz.com/*
+*://help.adblockbrowser.org/*
 *://help.camp-fire.jp/*
 *://help.cocoloni.jp/*
 *://help.cybozu.cn/*
@@ -19552,6 +19535,7 @@ title/ADB Browser - Faster Web/
 *://jp-2.dogge.info/*
 *://jp-nene.com/*
 *://jp-yooho.com/*
+*://jp.adlock.com/*
 *://jp.adorable-pet.com/*
 *://jp.bignox.com/appcenter/*
 *://jp.itopvpn.com/*
@@ -19712,6 +19696,7 @@ title/ADB Browser - Faster Web/
 *://kazutobi.com/*
 *://kazutoshinarita.com/*
 *://kban.me/*
+*://kbm.slp-contents.com/*
 *://kboard.jp/*
 *://kchihua.xyz/*
 *://kcsf-eco-ap.jp/*
@@ -20371,6 +20356,7 @@ title/ADB Browser - Faster Web/
 *://manacomicmonster.com/*
 *://manadia.jp/*
 *://mandymcdanieldesigns.com/*
+*://manegica.jp/*
 *://maneki-rus.ru/*
 *://manga-bang.com/*
 *://manga-comicoro.com/*
@@ -20620,6 +20606,7 @@ title/ADB Browser - Faster Web/
 *://microeducate.tech/*
 *://microg.net/*
 *://microphone-global.ru/*
+*://microsoftedge.microsoft.com/addons/detail/ndcileolkflehcjpmjnfbnaibdcgglog?*
 *://microsoftedge.microsoft.com/addons/detail/zenmate-free-vpn*
 *://microsoftstore.ru/*
 *://midorikiryu-navi.com/*
@@ -21097,6 +21084,7 @@ title/ADB Browser - Faster Web/
 *://news-news-news.net/*
 *://news-wakaru.com/*
 *://news.eeany.cn/*
+*://news.mynavi.jp/article/20180421-chrome/*
 *://news.mynavi.jp/securitysoft/*
 *://news.mynavi.jp/securitysoft/recommended-vpn/*
 *://news.vodfan.com/*
@@ -23889,6 +23877,7 @@ title/ADB Browser - Faster Web/
 *://uat.newgarage.com/*
 *://uberpartner.hatenablog.com/*
 *://ublock-origin-lite.softonic.ru/*
+*://ublock.org/*
 *://ublockdns.com/*
 *://ublockorigin.com/*
 *://ubulira.immunityassist.sk/*
@@ -25806,6 +25795,7 @@ title/ADB Browser - Faster Web/
 *://www.sreemahadevgroup9.com/*
 *://www.st-johnfisher.ealing.sch.uk/*
 *://www.stackfinder.ru/*
+*://www.standsapp.org/*
 *://www.stapletechinc.com/*
 *://www.starjohomagazine.com/*
 *://www.statewaterheatersme.com/*
@@ -26079,6 +26069,7 @@ title/ADB Browser - Faster Web/
 *://www.yoshimasa-hosoya.com/*
 *://www.youki8322.com/*
 *://www.youtube.com/user/hatimaki73*
+*://www.youtube.com/watch?v=KiHxZnVa0Q0
 *://www.youtube.com/watch?v=PMw5r4-4lhc*
 *://www.youtube.com/watch?v=eh0r02080tk*
 *://www.ysrcp.info/*
@@ -26610,7 +26601,16 @@ title/ADB Browser - Faster Web/
 title/(?:彼氏|彼女)(?:バレ|疑惑)|浮気|不倫|[0-9０-９一二三四五六七八九十壱弐参拾百千万萬億兆〇]+股|熱愛/
 title/(プロフ要確認)様/
 title/100%正規品/
+title/ADB Browser - Faster Web/
 title/Aazon/
+title/AdBlock - ウェブ上の広告をブロック - /
+title/AdBlock Browser: Fast & Secure - Google Play のアプリ/
+title/AdBlock Pro 広告ブロックアプリ - App Store/
+title/Adblock Browser: Fast & Secure - Apps on Google Play/
+title/Adblock Browser：/
+title/Adblock Plus - free ad blocker - /
+title/Free Adblocker Browser - Adblock /
+title/Free Adblocker Browser:Adblock/
 title/HOT !/
 title/HOT!/
 title/OFFでまとめ買/
