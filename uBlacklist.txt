@@ -1,6 +1,8 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://widget-club.com/ja/article/incredibly-useful-apps*
+*://monolabo.arcana-japan.co.jp/*
 title/Hotspot Shield:/
 title/HotspotShield VPN & Wifi Proxy - /
 *://feynman.co.jp/*
