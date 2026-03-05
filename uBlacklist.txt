@@ -20355,11 +20355,9 @@
 *://manga-comicoro.com/*
 *://manga-dl.pai-navi.com/*
 *://manga-ebookservice.com/*
-*://manga-games.com/*
 *://manga-ganma.com/*
 *://manga-heaven.net/*
 *://manga-legend.com/*
-*://manga-more.com/*
 *://manga-mura.com/*
 *://manga-raw.blog.jp/*
 *://manga-style.jp/*
