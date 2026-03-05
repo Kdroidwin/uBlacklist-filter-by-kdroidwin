@@ -1,6 +1,16 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://memuapp.net/*
+title/FastestVPN - /
+*://xvpn.io/*
+*://www.techspot.com/downloads/*
+title/Hotspot Shield: /
+title/HotspotShield VPN & Wifi Proxy - /
+title/Hotspot Shield VPN—/
+title/X-VPN - /
+title/X-VPN:/
+*://x-vpn-anti-track-and-unblock.jp.uptodown.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
