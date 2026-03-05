@@ -1564,7 +1564,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||chicagone.com^$document
 ||chichicafe.com^$document
 ||chiematome.com^$document
-||chigai-hikaku.com^$document
 ||chihirotokae.com^$document
 ||chii-memo.com^$document
 ||chiirosan.com^$document
@@ -2511,7 +2510,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||expression-of-gratitude.com^$document
 ||extendedrevanced.com^$document
 ||extendedrevanced.org^$document
-||extns.notion.site^$document
 ||extra-newspaper.com^$document
 ||ey43.com^$document
 ||eylamermer.5bweb.com^$document
@@ -11027,7 +11025,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yjojojo.info^$document
 ||yjtoraim.com^$document
 ||yk-bijin.com^$document
-||ymg-shk.go.jp^$document
 ||yo-mu-wa-inko.com^$document
 ||yo-san-chi.info^$document
 ||yo-shi-ka-nicopuro.com^$document
@@ -11053,7 +11050,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yoor.jp^$document
 ||yorozoonews.jp^$document
 ||yorozu-do.com^$document
-||yorozu-yamaguchi.go.jp^$document
 ||yosemi-7.com^$document
 ||yoshiblonet.com^$document
 ||yoshiemon-docodemopocket.com^$document
@@ -11081,7 +11077,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||your.happy-strike.com^$document
 ||yourclip.life^$document
 ||yousukeblog1115.com^$document
-||youthdanceweekend.org^$document
 ||youtube-guidance.com^$document
 ||youtube-jyoho.jp^$document
 ||youtube-lect.jp^$document
