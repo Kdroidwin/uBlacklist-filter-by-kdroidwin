@@ -1,4 +1,9 @@
 *://*.000webhostapp.com/*
+title/Pie Adblock - /
+*://www.pie.org/*
+title/Pie Adblock for Safari - /
+*://note.com/semisuke_life/*
+*://note.com/nicoi_junjun/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
