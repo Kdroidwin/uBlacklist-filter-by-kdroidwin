@@ -1,12 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://widget-club.com/ja/article/incredibly-useful-apps*
-*://monolabo.arcana-japan.co.jp/*
-title/Hotspot Shield:/
-title/HotspotShield VPN & Wifi Proxy - /
-*://feynman.co.jp/*
-title/Hotspot Shield VPN—/
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -18190,6 +18184,7 @@ title/Hotspot Shield VPN—/
 *://festy.jp/*
 *://feteenfolie.com/*
 *://fetishp.com/*
+*://feynman.co.jp/*
 *://fezyygqo.auslagerung-pastservice.de/*
 *://ffwpu.family/*
 *://ffwpu.jp/*
@@ -20799,6 +20794,7 @@ title/Hotspot Shield VPN—/
 *://mono-note.hatenablog.com/*
 *://mono-persons.com/*
 *://monokuro0210.com/*
+*://monolabo.arcana-japan.co.jp/*
 *://monologue-style.com/*
 *://monosola.com/*
 *://monpuran.com/*
@@ -24238,6 +24234,7 @@ title/Hotspot Shield VPN—/
 *://whozyan.net/*
 *://wichtel-alm.de/item.php?shop/*
 *://wickatop.com/*
+*://widget-club.com/ja/article/incredibly-useful-apps*
 *://wifi.inest-inc.co.jp/*
 *://wifi4games.net/*
 *://wifi4games.org/*
@@ -26629,6 +26626,7 @@ title/HOT !/
 title/HOT!/
 title/Hotspot Shield VPN—/
 title/Hotspot Shield: /
+title/Hotspot Shield:/
 title/HotspotShield VPN & Wifi Proxy - /
 title/OFFでまとめ買/
 title/Pie Adblock - /

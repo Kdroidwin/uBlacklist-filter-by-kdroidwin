@@ -2579,6 +2579,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||festy.jp^$document
 ||feteenfolie.com^$document
 ||fetishp.com^$document
+||feynman.co.jp^$document
 ||fezyygqo.auslagerung-pastservice.de^$document
 ||ffwpu.family^$document
 ||ffwpu.jp^$document
@@ -5251,6 +5252,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mono-note.hatenablog.com^$document
 ||mono-persons.com^$document
 ||monokuro0210.com^$document
+||monolabo.arcana-japan.co.jp^$document
 ||monologue-style.com^$document
 ||monosola.com^$document
 ||monpuran.com^$document
