@@ -5012,6 +5012,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||memomalog.com^$document
 ||memorog.com^$document
 ||memorylane-media.com^$document
+||memuapp.net^$document
 ||memuplay.com^$document
 ||menbouyuzu.hatenablog.com^$document
 ||mendakonews.com^$document
@@ -10557,6 +10558,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.teamviewer.cn^$document
 ||www.technopat.net^$document
 ||www.techopedia.com^$document
+||www.techspot.com/downloads^$document
 ||www.tedium-life.com^$document
 ||www.teflon.cn^$document
 ||www.tele-meditsine.online^$document
@@ -10823,6 +10825,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wyiiden.com^$document
 ||wzz.co.jp^$document
 ||x-border.co.jp^$document
+||x-vpn-anti-track-and-unblock.jp.uptodown.com^$document
 ||x.com/comic_checker^$document
 ||x.com/indiegogojp^$document
 ||x.com/kdroidwin15^$document
@@ -10956,6 +10959,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||xstack.us^$document
 ||xtmk.net^$document
 ||xtrust.jp^$document
+||xvpn.io^$document
 ||xvxv-min.com^$document
 ||xxkaiwai.com^$document
 ||xxx.report^$document

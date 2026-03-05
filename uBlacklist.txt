@@ -1,16 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://memuapp.net/*
-title/FastestVPN - /
-*://xvpn.io/*
-*://www.techspot.com/downloads/*
-title/Hotspot Shield: /
-title/HotspotShield VPN & Wifi Proxy - /
-title/Hotspot Shield VPN—/
-title/X-VPN - /
-title/X-VPN:/
-*://x-vpn-anti-track-and-unblock.jp.uptodown.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -20569,6 +20559,7 @@ title/X-VPN:/
 *://memomalog.com/*
 *://memorog.com/*
 *://memorylane-media.com/*
+*://memuapp.net/*
 *://memuplay.com/*
 *://menbouyuzu.hatenablog.com/*
 *://mendakonews.com/*
@@ -25861,6 +25852,7 @@ title/X-VPN:/
 *://www.teamviewer.cn/*
 *://www.technopat.net/*
 *://www.techopedia.com/*
+*://www.techspot.com/downloads/*
 *://www.tedium-life.com/*
 *://www.teflon.cn/*
 *://www.tele-meditsine.online/*
@@ -26122,6 +26114,7 @@ title/X-VPN:/
 *://wyiiden.com/*
 *://wzz.co.jp/*
 *://x-border.co.jp/*
+*://x-vpn-anti-track-and-unblock.jp.uptodown.com/*
 *://x.com/comic_checker*
 *://x.com/indiegogojp*
 *://x.com/kdroidwin15*
@@ -26250,6 +26243,7 @@ title/X-VPN:/
 *://xstack.us/*
 *://xtmk.net/*
 *://xtrust.jp/*
+*://xvpn.io/*
 *://xvxv-min.com/*
 *://xxkaiwai.com/*
 *://xxx.report/*
@@ -26622,16 +26616,22 @@ title/AdBlock Pro 広告ブロックアプリ - App Store/
 title/Adblock Browser: Fast & Secure - Apps on Google Play/
 title/Adblock Browser：/
 title/Adblock Plus - free ad blocker - /
+title/FastestVPN - /
 title/Free Adblocker Browser - Adblock /
 title/Free Adblocker Browser:Adblock/
 title/HOT !/
 title/HOT!/
+title/Hotspot Shield VPN—/
+title/Hotspot Shield: /
+title/HotspotShield VPN & Wifi Proxy - /
 title/OFFでまとめ買/
 title/Pie Adblock - /
 title/Pie Adblock for Safari - /
 title/SUNLOUNGE/
 title/Sign in - Google Accounts/
 title/Wiki経歴/
+title/X-VPN - /
+title/X-VPN:/
 title/\u0600-\u06FF]+/
 title/^(?=.*Amazon)(?=.*Premium Unlocked).*/
 title/^(?=.*Netflix)(?=.*Premium Unlocked).*/
