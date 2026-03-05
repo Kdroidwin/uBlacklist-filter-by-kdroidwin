@@ -125,6 +125,8 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 - 悪質なまとめサイト（多すぎるので一部の悪質なサイトのみ）
 - 誤った情報を多く含むサイト(AIのハルシネーション等)
 - 偽のダウンロードボタンリンク
+- 悪用率の高いTLD(best,click,top,cfd,cyou,sbs,win,cm,cf,my)
+- za.com sa.com ru.com
 
 <br>
 <br>
