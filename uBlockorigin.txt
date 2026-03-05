@@ -4809,11 +4809,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||manga-comicoro.com^$document
 ||manga-dl.pai-navi.com^$document
 ||manga-ebookservice.com^$document
-||manga-games.com^$document
 ||manga-ganma.com^$document
 ||manga-heaven.net^$document
 ||manga-legend.com^$document
-||manga-more.com^$document
 ||manga-mura.com^$document
 ||manga-raw.blog.jp^$document
 ||manga-style.jp^$document
