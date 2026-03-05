@@ -696,6 +696,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||anime-comic100.jp^$document
 ||anime-drama.jp^$document
 ||anime-kinjito.com^$document
+||anime-no-mikata.com^$document
 ||anime.akira4k.com^$document
 ||animeanime.jp/entertainment/vpn-recommend^$document
 ||animeculturejourney.com^$document
@@ -1989,6 +1990,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||different-cute-brain.glitch.me^$document
 ||digicamenote.com^$document
 ||digispacestudio.com^$document
+||digital-mediablo.com^$document
 ||digital-shift.jp^$document
 ||digitrain.ru^$document
 ||digitspring.com^$document
@@ -3356,6 +3358,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||healthistanbulgroup.com^$document
 ||healthykidshealthyfuture.org^$document
 ||heart-made-cafe.info^$document
+||heartfootprints.com^$document
 ||hedgehog.ryukyu/youtube-vanced^$document
 ||hedgehog.ryukyu^$document
 ||heibon-heyboom.com^$document
@@ -5528,6 +5531,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||netuai.net^$document
 ||neuron-x.co.jp^$document
 ||new-challenge123.com^$document
+||new-hibianime.com^$document
 ||new.artecpractice.com^$document
 ||new.cdsm.cl^$document
 ||newbalanlife.com^$document
@@ -8110,6 +8114,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||terakoya.sejuku.net^$document
 ||teratail.com^$document
 ||teresamoda.com^$document
+||terihat.com^$document
 ||terraboxpremiumapk.com^$document
 ||terryys-news.com^$document
 ||teshicage.today^$document
@@ -9141,6 +9146,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.animatashop.jp^$document
 ||www.animebugbodypillow.com^$document
 ||www.animespotsjp.com^$document
+||www.animiru-navi.com^$document
 ||www.anlogtimes.com^$document
 ||www.anon.me^$document
 ||www.anoniwa.jp^$document

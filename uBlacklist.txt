@@ -1,13 +1,7 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://www.animiru-navi.com/*
-*://new-hibianime.com/*
-*://heartfootprints.com/*
-*://anime-no-mikata.com/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://terihat.com/*
-*://digital-mediablo.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16356,6 +16350,7 @@
 *://anime-comic100.jp/*
 *://anime-drama.jp/*
 *://anime-kinjito.com/*
+*://anime-no-mikata.com/*
 *://anime.akira4k.com/*
 *://animeanime.jp/entertainment/vpn-recommend/*
 *://animeculturejourney.com/*
@@ -17611,6 +17606,7 @@
 *://different-cute-brain.glitch.me/*
 *://digicamenote.com/*
 *://digispacestudio.com/*
+*://digital-mediablo.com/*
 *://digital-shift.jp/*
 *://digitrain.ru/*
 *://digitspring.com/*
@@ -18941,6 +18937,7 @@
 *://healthistanbulgroup.com/*
 *://healthykidshealthyfuture.org/*
 *://heart-made-cafe.info/*
+*://heartfootprints.com/*
 *://hedgehog.ryukyu/*
 *://hedgehog.ryukyu/youtube-vanced/*
 *://heibon-heyboom.com/*
@@ -21062,6 +21059,7 @@
 *://netsurfnews.com/*
 *://netuai.net/*
 *://new-challenge123.com/*
+*://new-hibianime.com/*
 *://new.artecpractice.com/*
 *://new.cdsm.cl/*
 *://newbalanlife.com/*
@@ -23482,6 +23480,7 @@
 *://terakoya.sejuku.net/*
 *://teratail.com/*
 *://teresamoda.com/*
+*://terihat.com/*
 *://terraboxpremiumapk.com/*
 *://terryys-news.com/*
 *://teshicage.today/*
@@ -24447,6 +24446,7 @@
 *://www.animatashop.jp/*
 *://www.animebugbodypillow.com/*
 *://www.animespotsjp.com/*
+*://www.animiru-navi.com/*
 *://www.anlogtimes.com/*
 *://www.anon.me/*
 *://www.anoniwa.jp/*
