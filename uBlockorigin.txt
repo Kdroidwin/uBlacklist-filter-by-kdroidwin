@@ -8931,7 +8931,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||wilkoclosing.com^$document
 ||willbe07.blog.jp^$document
 ||win10.au^$document
-||win^$doc,domain=~greenfighters.win|~robotstimes.win|~everwin.win|~yeahnasumi.win|~togoigaku.win|~eda.win|~bullpen.win|~takumilight.win|~kuds.win|~hanabishi.win|~tsukuba-hakone.win|~www.fukurou.win|~tm-works.win|~www.sourire.win|~www.ibarakirobots.win|~mikuverse.win|~nikke.win|~web.kymg.win|~mcsv.win|~rthost.win|~hakurei.win|~2048game.win|~godk.win|~nanba-koumuten.win|~starlightprincess.win|~rankup.win|~dogsalon.win|~fp-kwm.win|~www.senkyo.win|~www.i-t.win|~kymg.win|~www.t-kfc.win|~www.forrexlapis.win|~aosuns.win|~ibarakirobots.win|~hanabishi.win|~activated.win
 ||wind2016.seesaa.net^$document
 ||windows-10-permanent-activator-ultimate.software.informer.com^$document
 ||windows-and-office-iso-downloader-premium-2021-2-2.updatestar.com^$document
