@@ -1,9 +1,4 @@
 *://*.000webhostapp.com/*
-title/Pie Adblock - /
-*://www.pie.org/*
-title/Pie Adblock for Safari - /
-*://note.com/semisuke_life/*
-*://note.com/nicoi_junjun/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -21430,6 +21425,7 @@ title/Pie Adblock for Safari - /
 *://note.com/nekoyorozu/*
 *://note.com/nester_sns/*
 *://note.com/nft_tactics/*
+*://note.com/nicoi_junjun/*
 *://note.com/nifty_cosmos4076/*
 *://note.com/nifty_poppy4842/*
 *://note.com/nifty_viper3044/*
@@ -21490,6 +21486,7 @@ title/Pie Adblock for Safari - /
 *://note.com/sayakablog/*
 *://note.com/sedori_sojoro/*
 *://note.com/sekinogen1/*
+*://note.com/semisuke_life/*
 *://note.com/shiba_inunosuke/*
 *://note.com/shin_kon/*
 *://note.com/shinko_joho_news/*
@@ -25536,6 +25533,7 @@ title/Pie Adblock for Safari - /
 *://www.piala.co.jp/*
 *://www.pickle.com/*
 *://www.pictoart.net/*
+*://www.pie.org/*
 *://www.pilutkiewicz.pl/*
 *://www.pincenter.com/*
 *://www.pipanic.com.ec/*
@@ -26619,6 +26617,8 @@ title/Free Adblocker Browser:Adblock/
 title/HOT !/
 title/HOT!/
 title/OFFでまとめ買/
+title/Pie Adblock - /
+title/Pie Adblock for Safari - /
 title/SUNLOUNGE/
 title/Sign in - Google Accounts/
 title/Wiki経歴/

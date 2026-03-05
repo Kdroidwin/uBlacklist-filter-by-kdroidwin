@@ -5913,6 +5913,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/nekoyorozu^$document
 ||note.com/nester_sns^$document
 ||note.com/nft_tactics^$document
+||note.com/nicoi_junjun^$document
 ||note.com/nifty_cosmos4076^$document
 ||note.com/nifty_poppy4842^$document
 ||note.com/nifty_viper3044^$document
@@ -5975,6 +5976,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/sayakablog^$document
 ||note.com/sedori_sojoro^$document
 ||note.com/sekinogen1^$document
+||note.com/semisuke_life^$document
 ||note.com/shiba_inunosuke^$document
 ||note.com/shin_kon^$document
 ||note.com/shinko_joho_news^$document
@@ -10230,6 +10232,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.piala.co.jp^$document
 ||www.pickle.com^$document
 ||www.pictoart.net^$document
+||www.pie.org^$document
 ||www.pilutkiewicz.pl^$document
 ||www.pincenter.com^$document
 ||www.pipanic.com.ec^$document
