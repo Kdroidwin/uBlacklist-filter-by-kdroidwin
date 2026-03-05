@@ -1,6 +1,10 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+title/Hotspot Shield:/
+title/HotspotShield VPN & Wifi Proxy - /
+*://feynman.co.jp/*
+title/Hotspot Shield VPN—/
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
