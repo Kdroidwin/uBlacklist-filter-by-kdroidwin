@@ -270,7 +270,6 @@
 *://*.am/?z=7*
 *://*.am/?z=8*
 *://*.am/?z=9*
-*://*.amazon.com.vn/*
 *://*.ambiify.cards/*
 *://*.andro.io/*
 *://*.anige-sokuhouvip.com/*
@@ -541,7 +540,6 @@
 *://*.app/?z=8*
 *://*.app/?z=9*
 *://*.app/ms/register?redirect=%2Findex.php?shopdetail/*
-*://*.apple.com.vn/*
 *://*.ar/?a=0*
 *://*.ar/?a=1*
 *://*.ar/?a=2*
@@ -8256,7 +8254,6 @@
 *://*.in/?z=8*
 *://*.in/?z=9*
 *://*.in/index.php?shop/*
-*://*.instagram.com.vn/*
 *://*.io/?a=0*
 *://*.io/?a=1*
 *://*.io/?a=2*
@@ -9083,7 +9080,6 @@
 *://*.la/?_g=*
 *://*.latestmodapks.com/*
 *://*.lifehack2ch.livedoor.biz/*
-*://*.linkedin.com.vn/*
 *://*.loan/*
 *://*.lt/?a=0*
 *://*.lt/?a=1*
@@ -10117,7 +10113,6 @@
 *://*.media/?z=7*
 *://*.media/?z=8*
 *://*.media/?z=9*
-*://*.microsoft.com.vn/*
 *://*.military38.com/*
 *://*.mlink.in/*
 *://*.modcombo.com/*
@@ -10370,7 +10365,6 @@
 *://*.net/index.php//?a=*
 *://*.net/index.php?shopping/*
 *://*.net/shop/*.shtm
-*://*.netflix.com.vn/*
 *://*.news/?a=0*
 *://*.news/?a=1*
 *://*.news/?a=2*
@@ -17195,7 +17189,6 @@
 *://chicagone.com/*
 *://chichicafe.com/*
 *://chiematome.com/*
-*://chigai-hikaku.com/*
 *://chihirotokae.com/*
 *://chii-memo.com/*
 *://chiirosan.com/*
@@ -18118,7 +18111,6 @@
 *://expression-of-gratitude.com/*
 *://extendedrevanced.com/*
 *://extendedrevanced.org/*
-*://extns.notion.site/*
 *://extra-newspaper.com/*
 *://ey43.com/*
 *://eylamermer.5bweb.com/*
@@ -26311,7 +26303,6 @@
 *://yjojojo.info/*
 *://yjtoraim.com/*
 *://yk-bijin.com/*
-*://ymg-shk.go.jp/*
 *://yo-mu-wa-inko.com/*
 *://yo-san-chi.info/*
 *://yo-shi-ka-nicopuro.com/*
@@ -26335,7 +26326,6 @@
 *://yoor.jp/*
 *://yorozoonews.jp/*
 *://yorozu-do.com/*
-*://yorozu-yamaguchi.go.jp/*
 *://yosemi-7.com/*
 *://yoshiblonet.com/*
 *://yoshiemon-docodemopocket.com/*
@@ -26362,7 +26352,6 @@
 *://your.happy-strike.com/*
 *://yourclip.life/*
 *://yousukeblog1115.com/*
-*://youthdanceweekend.org/*
 *://youtube-guidance.com/*
 *://youtube-jyoho.jp/*
 *://youtube-lect.jp/*
@@ -26636,7 +26625,6 @@ title/Sign in - Google Accounts/
 title/Wiki経歴/
 title/X-VPN - /
 title/X-VPN:/
-title/\u0600-\u06FF]+/
 title/^(?=.*Amazon)(?=.*Premium Unlocked).*/
 title/^(?=.*Netflix)(?=.*Premium Unlocked).*/
 title/^(?=.*漫画raw)(?=.*1001).*/
@@ -26660,7 +26648,6 @@ title/【正規品、未開封品】/
 title/【正規品】/
 title/【税込?送料無料】/
 title/【顔画像】/
-title/その 声 は 全部 愛 の 唄 に 聞こえる/
 title/で無料で読めるか調査/
 title/で読める？全巻無料/
 title/のアニメが無料視聴できる動画配信サービスは？サ/
@@ -26692,8 +26679,6 @@ title/全巻無料で読める/
 title/全巻無料で読めるアプリやサイトはある？/
 title/全話読めるかも調査/
 title/出身高校など学歴/
-title/前世は/
-title/前世は|転生も/
 title/動画を無料で観る方法 配信中/
 title/危険性の解説！/
 title/売り出し割引/
@@ -26739,7 +26724,6 @@ title/結婚して子供がいる？/
 title/結婚して子供もいる？/
 title/結婚事情は？/
 title/結婚相手はいるのか/
-title/職業？/
 title/芸能人速報/
 title/芸能速/
 title/読める？どこで読めるのか/
