@@ -1,6 +1,18 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
+*://squirrel-storage.jp/*
+title/VPN cat - /
+*://vpn-labo.com/*
+title/Cat VPN -/
+*://app-field.com/*
+*://kabeneko.biz/*
+*://enjoyhklife.com/*
+*://utilly.ne.jp/*
+*://compass-note.hatenablog.com/entry/osusume-vpn*
+*://sojapan.jp/*
+*://japananimetour.com/*
+*://yu.ivory.ne.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
