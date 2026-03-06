@@ -4909,6 +4909,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||masyuo.com^$document
 ||mata-ashita.com^$document
 ||matce.cn^$document
+||matching-affi.jp^$document
 ||matching-next.jp^$document
 ||matchingdays.com^$document
 ||matchingmesse.hatenadiary.com^$document

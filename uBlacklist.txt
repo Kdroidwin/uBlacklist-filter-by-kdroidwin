@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://matching-affi.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -20454,6 +20453,7 @@
 *://masyuo.com/*
 *://mata-ashita.com/*
 *://matce.cn/*
+*://matching-affi.jp/*
 *://matching-next.jp/*
 *://matchingdays.com/*
 *://matchingmesse.hatenadiary.com/*
