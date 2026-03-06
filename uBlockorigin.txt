@@ -823,6 +823,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||apktitan.com^$document
 ||apktodo.io^$document
 ||apkvision.org^$document
+||app-field.com^$document
 ||app-games-casmanuus.xyz^$document
 ||app-games-outrundersele.xyz^$document
 ||app-info.xyz^$document
@@ -2330,6 +2331,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||enjoy-blog07.com^$document
 ||enjoy-life-tomo.com^$document
 ||enjoybox0515.com^$document
+||enjoyhklife.com^$document
 ||enjoymediabox.com^$document
 ||enne-trends.com^$document
 ||ennuiner.sghscdhaka.edu.bd^$document
@@ -3871,6 +3873,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||japan-warriors.com^$document
 ||japan.icbc.com.cn^$document
 ||japan.zdnet.ex1.https.443.ipv6.faw.com.cn^$document
+||japananimetour.com^$document
 ||japanbaconfestival.jp^$document
 ||japanese-archery.hateblo.jp^$document
 ||japanese.beijingreview.com.cn^$document
@@ -4029,6 +4032,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ka-mato-ru.com^$document
 ||kab.uspu.ru^$document
 ||kabeeroptics.com^$document
+||kabeneko.biz^$document
 ||kabukist.com^$document
 ||kachilogy.com^$document
 ||kachinet.jp^$document
@@ -7589,6 +7593,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||soinside.com^$document
 ||soipp.fr^$document
 ||soivre.org^$document
+||sojapan.jp^$document
 ||sokutrend.com^$document
 ||sola-asy.com^$document
 ||solare-academy.com^$document
@@ -7716,6 +7721,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sqlite.in^$document
 ||squallchannel.com^$document
 ||squashsite.world^$document
+||squirrel-storage.jp^$document
 ||srcboat.fi^$document
 ||ssec.shop^$document
 ||ssfchubu.com^$document
@@ -8631,6 +8637,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||utakata.co.jp^$document
 ||utamonogatari.jp^$document
 ||utilly.ne.jp/article^$document
+||utilly.ne.jp^$document
 ||utina-ketumekko.com^$document
 ||utorrent.jp.uptodown.com^$document
 ||utqbffn.cn^$document
@@ -8759,6 +8766,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||voyderuta.com^$document
 ||vplayer.onelink.me^$document
 ||vpn-info.jp^$document
+||vpn-labo.com^$document
 ||vpn-magazine.com^$document
 ||vpn-sensei.com^$document
 ||vpn.hikakusite.co.jp^$document
@@ -11146,6 +11154,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||yu-check-news.com^$document
 ||yu-design51.com^$document
 ||yu-trend.com^$document
+||yu.ivory.ne.jp^$document
 ||yubbonnie.com^$document
 ||yucatblog.com^$document
 ||yudainews.com^$document

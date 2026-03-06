@@ -1,18 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://squirrel-storage.jp/*
-title/VPN cat - /
-*://vpn-labo.com/*
-title/Cat VPN -/
-*://app-field.com/*
-*://kabeneko.biz/*
-*://enjoyhklife.com/*
-*://utilly.ne.jp/*
-*://compass-note.hatenablog.com/entry/osusume-vpn*
-*://sojapan.jp/*
-*://japananimetour.com/*
-*://yu.ivory.ne.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -16479,6 +16467,7 @@ title/Cat VPN -/
 *://apktitan.com/*
 *://apktodo.io/*
 *://apkvision.org/*
+*://app-field.com/*
 *://app-games-casmanuus.xyz/*
 *://app-games-outrundersele.xyz/*
 *://app-info.xyz/*
@@ -17364,6 +17353,7 @@ title/Cat VPN -/
 *://community.fabric.microsoft.com/*
 *://community.tubebuddy.com/*
 *://comodohotel-oita.jp/*
+*://compass-note.hatenablog.com/entry/osusume-vpn*
 *://compass.stg-labbase.site/*
 *://componentscenter.com/*
 *://computershopify.azurewebsites.net/*
@@ -17949,6 +17939,7 @@ title/Cat VPN -/
 *://enjoy-blog07.com/*
 *://enjoy-life-tomo.com/*
 *://enjoybox0515.com/*
+*://enjoyhklife.com/*
 *://enjoymediabox.com/*
 *://enne-trends.com/*
 *://ent-n.com/*
@@ -19449,6 +19440,7 @@ title/Cat VPN -/
 *://japan-warriors.com/*
 *://japan.icbc.com.cn/*
 *://japan.zdnet.ex1.https.443.ipv6.faw.com.cn/*
+*://japananimetour.com/*
 *://japanbaconfestival.jp/*
 *://japanese-archery.hateblo.jp/*
 *://japanese.beijingreview.com.cn/*
@@ -19605,6 +19597,7 @@ title/Cat VPN -/
 *://k8s-gcr.comcloud.me/*
 *://kab.uspu.ru/*
 *://kabeeroptics.com/*
+*://kabeneko.biz/*
 *://kabukist.com/*
 *://kachilogy.com/*
 *://kachinet.jp/*
@@ -23006,6 +22999,7 @@ title/Cat VPN -/
 *://soilzoology.jp/*
 *://soipp.fr/*
 *://soivre.org/*
+*://sojapan.jp/*
 *://sokutrend.com/*
 *://sola-asy.com/*
 *://solare-academy.com/*
@@ -23128,6 +23122,7 @@ title/Cat VPN -/
 *://sprint1342.com/*
 *://sprucebogstudio.com/*
 *://squashsite.world/*
+*://squirrel-storage.jp/*
 *://srcboat.fi/*
 *://ssec.shop/*
 *://ssfchubu.com/*
@@ -23981,6 +23976,7 @@ title/Cat VPN -/
 *://utagejima.jp/*
 *://utakata.co.jp/*
 *://utamonogatari.jp/*
+*://utilly.ne.jp/*
 *://utilly.ne.jp/article/*
 *://utina-ketumekko.com/*
 *://utorrent.jp.uptodown.com/*
@@ -24106,6 +24102,7 @@ title/Cat VPN -/
 *://voyderuta.com/*
 *://vplayer.onelink.me/*
 *://vpn-info.jp/*
+*://vpn-labo.com/*
 *://vpn-magazine.com/*
 *://vpn-sensei.com/*
 *://vpn.hikakusite.co.jp/*
@@ -26433,6 +26430,7 @@ title/Cat VPN -/
 *://yu-check-news.com/*
 *://yu-design51.com/*
 *://yu-trend.com/*
+*://yu.ivory.ne.jp/*
 *://yubbonnie.com/*
 *://yucatblog.com/*
 *://yudainews.com/*
@@ -26623,6 +26621,7 @@ title/AdBlock Pro 広告ブロックアプリ - App Store/
 title/Adblock Browser: Fast & Secure - Apps on Google Play/
 title/Adblock Browser：/
 title/Adblock Plus - free ad blocker - /
+title/Cat VPN -/
 title/FastestVPN - /
 title/Free Adblocker Browser - Adblock /
 title/Free Adblocker Browser:Adblock/
@@ -26637,6 +26636,7 @@ title/Pie Adblock - /
 title/Pie Adblock for Safari - /
 title/SUNLOUNGE/
 title/Sign in - Google Accounts/
+title/VPN cat - /
 title/Wiki経歴/
 title/X-VPN - /
 title/X-VPN:/
