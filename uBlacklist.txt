@@ -25538,7 +25538,6 @@
 *://www.pincenter.com/*
 *://www.pipanic.com.ec/*
 *://www.pirelli.cn/*
-*://www.pixela.co.jp/*
 *://www.pixgenie.net/*
 *://www.planetpixmedia.com/*
 *://www.playstation.ru/*
