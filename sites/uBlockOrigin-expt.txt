@@ -1,5 +1,7 @@
 ! Title: Block malicious websites by Kdroidwin expt
 ! Homepage: https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin
+/^https?:\/\/(?![^\/]*\.zovo\.ink|www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|m\.|discovery\.|app\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.ink(\/|$)/$document
+/^https?:\/\/(?!www\.|ww2\.|api\.|mail\.|shop\.|store\.|ftp\.|webmail\.|admin\.|blog\.|dev\.|staging\.|jp\.|cdn\.|static\.|forum\.|community\.|mail2\.|secure\.|support\.|manga\.|video\.|sp\.|youreyes\.|discovery\.|werewolf\.|book\.|info\.|help\.|docs\.|about\.|news\.)[^\/]+\.[^\/]+\.mobi(\/|$)/$document
 ||icu^$doc,domain=~iroiro.icu|~masaki.icu|~orthopedic.icu|~honesty.icu|~culture.icu|~momoblog.icu|~www.axistechnologies.icu|~www.catalogue.icu|~aoi-gadget.icu|~www.chuo-medicalcl.icu|~www.e-hoiku.icu|~triplog.icu|~idol-seifuku.icu|~morian.icu|~www.tomoe.icu|~www.accessmaji.icu|~ito.naosel.icu|~lunar.icu
 ||men^$document,from=~inosho.men|~klmanga.men|~konaken.men|~nobushi.men|~oldergay.men|~www.brei.men|~kaikai.men|~hgame.men|~honban.men|~soutong.men|~edlab.men|~stmen.men|~meeh-meeh.men|~konjiki-tamago.men|~langtang.men|~galanterie.men|~www.sasaki-sei.men
 ||ad^$document,from=~unicef.ad|~penguin.ad|~onlinenotep.ad|~mcb.ad|~creandfundacio.ad|~bus.ad|~odiseo.ad|~ior.ad|~chalk.ad|~museucarmenthyssenandorra.ad|~hiverinfini.ad|~iad.ad|~gov.ad|~femboy.ad
