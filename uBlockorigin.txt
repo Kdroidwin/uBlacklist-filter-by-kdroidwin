@@ -331,8 +331,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||a8e2385.com^$document
 ||aa-educare.com^$document
 ||aaanews.net^$document
-||aabt.edu.au^$document
-||aahe.edu.au^$document
 ||aalhoyr.cn^$document
 ||aasc.or.jp^$document
 ||abc-co.ru^$document
@@ -391,7 +389,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ademas0719blog.com^$document
 ||aditaishitukaizen.com^$document
 ||admailmg.com^$document
-||admuseum.cuc.edu.cn^$document
 ||adonisgreen.jp^$document
 ||adpeak.net^$document
 ||ads.google.cn^$document
@@ -425,7 +422,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||aggiprose.com^$document
 ||agn-na.org^$document
 ||agoga.me^$document
-||agreet7i.sghscdhaka.edu.bd^$document
 ||ahaloshop.com^$document
 ||ahedou.com^$document
 ||ahgbtju.com^$document
@@ -920,7 +916,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||asoboolog.com^$document
 ||asotalk.com^$document
 ||asoworld.com^$document
-||aspaen.edu.co^$document
 ||assirobo.com^$document
 ||associazionerivieradelconero.com^$document
 ||asterisk0.jp^$document
@@ -1590,7 +1585,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cinemaparadiso1989.blog.fc2.com^$document
 ||cinnamon-hotel.com^$document
 ||cinonsan.com^$document
-||ciraa.zju.edu.cn^$document
 ||cirugiaplasticacbba.com^$document
 ||cityofchix.com^$document
 ||ciyoqprice.com^$document
@@ -1612,7 +1606,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||click.mail1.welcomebreak.online^$document
 ||click^$document,from=~am-videos.click|~birahijab.click|~buybox.click|~chattering.click|~cpstest.click|~fasty.click|~gamei.click|~kaitouyoushi.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~watchtv.click|~wmg.click|~cybernote.click|~kotake.click|~cookai.click|~noriyuki.click|~wawawa.click|~kikou.click|~kotoba.click|~hayato.click|~utenti.click|~tokai.click|~seichi.click|~taikosim.click|~trpgsession.click|~tobigeri.click|~hal51.click|~yakushima.click|~8823.click|~www.hotoke.click|~jp.asus.click|~japanesearchery.click|~osushi.click|~storymaker.click|~carinfo.click|~bichiku.click|~signpost.click|~www.hiroshima-nekobugyou.click|~wecima.click|~asus.click|~mugen.click|~creators.click|~www.mugen.click|~www.creators.click|~testspeed.click|~clickclickclick.click|~reactiontime.click|~map-click.click|~randompicker.click|~randomweb.click|~lizard.click|~vclock.click|~www.gress.click|~neoneo.click|~www.mcrypt.click|~doshisha.click|~11874.click|~sumai.click|~ff11-ls.jis.click|~web.kanrikun.click|~chiken.click|~gensi.click|~www.kaitouyoushi.click|~kagaku.click|~kenkolab.click|~science-hub.click|~ima.click|~sexvideo.click|~miraitips.click|~here2.click|~ptpclatter.click|~twooca.click|~hiroblog.click|~rakumob.click|~kitaro.click|~shinya.click|~home-theater.click|~msx.click|~nakagawa.click|~tech-review.click|~3channel.click|~jobswitch.click|~gohan.click|~kenpachi-life.click|~iphonejan.click|~lumina.click|~func-wallet.click|~sashimi.click|~2018fx.click|~pochiru.click|~koneta.click|~local-china.click|~white-star.click|~figure.click|~koyuki.click|~novelgamewizard.jis.click|~ushiushi.click|~blogruoh.click|~game-player.click|~manga-zip.click|~otakatu.koyuki.click|~bellwether.click|~fujita-clinic.click|~satoken.click|~gracha.click|~acortar.click|~acortar.click|~fatturapro.click|~hoteljanken.click|~clicknupload.click|~technote.click|~clickon.click|~links.click
 ||clickfordetayiso.online^$document
-||client.v.just.edu.cn^$document
 ||clientes.selecmoda.com^$document
 ||cloline.online^$document
 ||cloodnerw.com^$document
@@ -2122,7 +2115,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||drtraining-jiyugaoka.jp^$document
 ||ds-fabulous.com^$document
 ||ds.wteam.xyz^$document
-||dsxt.ustc.edu.cn^$document
 ||dtexapparel.com^$document
 ||dtioykqj1u8de.cloudfront.net^$document
 ||dubs.ru^$document
@@ -2134,7 +2126,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||dwpsraipur.com^$document
 ||dwz.365tol.top^$document
 ||dx.meiriyixue.cn^$document
-||dy.zyufl.edu.cn^$document
 ||dyakata.com^$document
 ||dylanblush.xyz^$document
 ||dylanduan.xyz^$document
@@ -2151,7 +2142,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||e-fugu.jp^$document
 ||e-news67.com^$document
 ||e-reikinet.jp^$document
-||e-service.jpdm.edu.bd^$document
 ||e-Tax.com^$document
 ||e-Tax.net^$document
 ||e025-subsc-bm.xyz^$document
@@ -2200,7 +2190,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||edobryggan.se^$document
 ||educacion.fecolsog.org^$document
 ||educationworlddirector.com^$document
-||edutec.edu.do^$document
 ||edwardsbike.com^$document
 ||effectivedutchlessons.nl^$document
 ||efire-matome.com^$document
@@ -2247,7 +2236,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||elle0211.com^$document
 ||elleetlui.org^$document
 ||elovafi.immunityassist.sk^$document
-||elroble.apde.edu.gt^$document
 ||eltonitokazu.com^$document
 ||elvar.ee^$document
 ||elysmexicangrill.online^$document
@@ -2300,7 +2288,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||enjoyhklife.com^$document
 ||enjoymediabox.com^$document
 ||enne-trends.com^$document
-||ennuiner.sghscdhaka.edu.bd^$document
 ||ent-n.com^$document
 ||enta-nikki.jp^$document
 ||entaentaenta.com^$document
@@ -2429,7 +2416,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||esdg.org^$document
 ||espacioapk.com/youtube-revanced^$document
 ||espacioapk.com^$document
-||espana.edu.bo^$document
 ||esportsplayer-pc.com^$document
 ||espotimod.pro^$document
 ||espritpress.com^$document
@@ -2438,7 +2424,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||estatesnm.com^$document
 ||estudioedelman.com^$document
 ||esunoentame.com^$document
-||etcnew.sdut.edu.cn^$document
 ||etsy.me^$document
 ||etwinternational.com^$document
 ||eudqk.ewaepaeb.biz^$document
@@ -2537,7 +2522,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||feeb.jp^$document
 ||feizeus.com^$document
 ||feizeus2.com^$document
-||fem.ecnu.edu.cn^$document
 ||femimatsu.com^$document
 ||fenergybd.com^$document
 ||ferquem.com^$document
@@ -2968,7 +2952,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||ghib-mori.com^$document
 ||ghostphone.co^$document
 ||gi-o.com^$document
-||gibed87e.sghscdhaka.edu.bd^$document
 ||gifslangen.com^$document
 ||giftpedia.jp^$document
 ||gifu-taikyo.jp^$document
@@ -3019,7 +3002,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||give-a-shot2020.com^$document
 ||gizmodo.com/download^$document
 ||gj.enova.top^$document
-||gjjl.ntu.edu.cn^$document
 ||gkfnyskp.run^$document
 ||gkt.me^$document
 ||gl.alteroffice.ru^$document
@@ -3564,7 +3546,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||i.instagram.com^$document
 ||i2ibycitipost.com^$document
 ||i711.com^$document
-||ias.tongji.edu.cn^$document
 ||iasbanenge.co.in^$document
 ||ib2056792.exblog.jp^$document
 ||ibaraki.dijifinex.online^$document
@@ -3647,7 +3628,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||imperiacondos.com^$document
 ||imperial-curse.de^$document
 ||imperva.jp^$document
-||impis6e5.sghscdhaka.edu.bd^$document
 ||impotentnomore.com^$document
 ||impression-life.com^$document
 ||imvely.jp^$document
@@ -5550,7 +5530,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||nginx.ru^$document
 ||ngo-jvc.info^$document
 ||nh-sports.jp^$document
-||nhaphoc.hmtu.edu.vn^$document
 ||nhaxephuonganhphanthiet.com^$document
 ||nhk-jyoshi.club^$document
 ||nhrenshou.cn^$document
@@ -6951,7 +6930,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||rk91v2nf.r.us-east-1.awstrack.me^$document
 ||rkelsey.com^$document
 ||rme-kaigo.jp^$document
-||rms.apollouniversity.edu.in^$document
 ||rn2z8o6fe.adrianodosanjos.de^$document
 ||roadel.xyz^$document
 ||robamimireport.com^$document
@@ -7077,7 +7055,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||sachiko-blog.com^$document
 ||sachimomo88.blog^$document
 ||sacksoenterprises.com^$document
-||saduni.edu.ge^$document
 ||saeriho.com^$document
 ||safety.t-com.ne.jp^$document
 ||safetydetectives.com^$document
@@ -9390,7 +9367,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.ecobulb.com^$document
 ||www.ecopowersecurities.com^$document
 ||www.ecsuchi.cn^$document
-||www.ecust.edu.cn^$document
 ||www.eden-emu.me^$document
 ||www.edion.com/special.html?identificationid=studentpc^$document
 ||www.edjx.io^$document
@@ -9518,7 +9494,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.garmin.cn^$document
 ||www.gatahime.com^$document
 ||www.gaten-yoake.com^$document
-||www.gcnm.edu.gh^$document
 ||www.gcpv.fr^$document
 ||www.gebiproducts.com^$document
 ||www.gecidq.com^$document
@@ -10181,7 +10156,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.querythreads.com^$document
 ||www.quick-drink.at^$document
 ||www.qygzknr.cn^$document
-||www.qztc.edu.cn^$document
 ||www.rabbanmoto.com^$document
 ||www.raca.marketing^$document
 ||www.radiobijelopolje.me^$document
@@ -10523,7 +10497,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.twitscoop.com^$document
 ||www.twlrnet.tw^$document
 ||www.tyo2l.uk^$document
-||www.uasb.edu.bo^$document
 ||www.uchina-web.co.jp^$document
 ||www.uhrcgeneva.org^$document
 ||www.underconnection.com^$document
