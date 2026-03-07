@@ -16064,7 +16064,6 @@
 *://adblock-browser.jp.uptodown.com/*
 *://adblockbrowser.org/*
 *://adblockluna.com/*
-*://adblockplus.org/*
 *://adblockpro.com/*
 *://adbpremium.slp-contents.com/*
 *://addchannel.net/*
