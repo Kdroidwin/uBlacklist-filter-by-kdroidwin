@@ -21806,7 +21806,6 @@
 *://p7fcbp7.r.ap-northeast-1.awstrack.me/*
 *://pachi-media.com/*
 *://pachimaga.com/*
-*://page.line.me/*
 *://paidy.onelink.me/*
 *://painsr96.datingagencyreviews.co.uk/*
 *://pairry.jp/*
@@ -21852,7 +21851,6 @@
 *://paultodd.com/*
 *://pawakichi.xyz/archives/38727680.html
 *://pawsandpower.hatenablog.com/*
-*://pay.line.me/*
 *://payment.on.your.account.rangdeindia.jp/*
 *://pblc.me/*
 *://pc-consultant.ru/*
