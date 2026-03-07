@@ -391,7 +391,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||adblock-browser.jp.uptodown.com^$document
 ||adblockbrowser.org^$document
 ||adblockluna.com^$document
-||adblockplus.org^$document
 ||adblockpro.com^$document
 ||adbpremium.slp-contents.com^$document
 ||addchannel.net^$document
