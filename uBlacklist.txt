@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://ojitopi.com/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -21625,6 +21624,7 @@
 *://oishiimomlife.com/*
 *://ojinabeblog.com/*
 *://ojisan-gyakushu.com/*
+*://ojitopi.com/*
 *://ojslj.com/*
 *://ok.45rina.com/*
 *://okabasyo.com/*
