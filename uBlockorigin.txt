@@ -6370,7 +6370,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||pentanews.net^$document
 ||pepms.icu^$document
 ||peppermint-angel.com^$document
-||peraichi.com^$document
 ||perfectworld.shop^$document
 ||performance-navi01.com^$document
 ||perla.si^$document
