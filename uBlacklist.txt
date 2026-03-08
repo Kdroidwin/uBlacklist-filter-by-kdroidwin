@@ -18565,7 +18565,6 @@
 *://gifu-taikyo.jp/*
 *://gigazine.net/news/20150521-adblock-browser/*
 *://gigotvmo.afibrake.com/*
-*://gimon-sukkiri.jp/*
 *://gineco.ru/*
 *://gingin.biz/*
 *://ginsalo.com/*
