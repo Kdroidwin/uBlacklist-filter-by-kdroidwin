@@ -2957,7 +2957,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||gifu-taikyo.jp^$document
 ||gigazine.net/news/20150521-adblock-browser^$document
 ||gigotvmo.afibrake.com^$document
-||gimon-sukkiri.jp^$document
 ||gineco.ru^$document
 ||gingin.biz^$document
 ||ginsalo.com^$document
