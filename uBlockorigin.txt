@@ -5692,7 +5692,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/fine_gerbil9006^$document
 ||note.com/fit_hyssop6243^$document
 ||note.com/fit_quince2164^$document
-||note.com/fond_clam2634^$document
 ||note.com/fuku_chie^$document
 ||note.com/fuku_chie^$document
 ||note.com/fukuzou^$document
