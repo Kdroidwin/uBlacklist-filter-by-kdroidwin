@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://rawmanga.jp/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -22223,6 +22222,7 @@
 *://rassry.com/*
 *://ratio.thyshopp.life/*
 *://rawapk.com/*
+*://rawmanga.jp/*
 *://rawmangaraw.com/*
 *://ray-terrace.co.jp/cheap-vpn/*
 *://razy.online/*
