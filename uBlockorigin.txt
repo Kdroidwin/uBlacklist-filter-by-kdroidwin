@@ -3472,6 +3472,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hop.online^$document
 ||hoper4em.styr.solutions^$document
 ||horeru.com^$document
+||horiemon.ai^$document
 ||horror-panic-manga.tokyo^$document
 ||hoshi-boutique.com^$document
 ||hoshi-hitomi.marouge.jp^$document
@@ -3902,6 +3903,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||joyuu-media.com^$document
 ||jp-2.dogge.info^$document
 ||jp-nene.com^$document
+||jp-yoo.com^$document
 ||jp-yooho.com^$document
 ||jp.adlock.com^$document
 ||jp.adorable-pet.com^$document
@@ -5070,6 +5072,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||mitkp.com^$document
 ||mitsubachi-enrai.jp^$document
 ||mitsukidayori.com^$document
+||mitsuowriting.blog.jp^$document
 ||mitylog.jp^$document
 ||miuki556happy.com^$document
 ||miuprierre.com^$document
@@ -6613,6 +6616,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||pvidx.com^$document
 ||pxle.me^$document
 ||pyby.eu^$document
+||pysubschool.net^$document
 ||python.engineering^$document
 ||python2.net^$document
 ||python5.com^$document
@@ -7000,6 +7004,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||runwearlifestyle.com^$document
 ||rupython.com^$document
 ||ruriiro-mylife.com^$document
+||rush-up.co.jp^$document
 ||rusonbe-son.blog^$document
 ||rust-docs.redwoodjs.cn^$document
 ||rutanewenleufu.cl^$document
@@ -8558,7 +8563,9 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||vadunasy.xyz^$document
 ||vagabr.online^$document
 ||valor0code.com^$document
+||vanced.app^$document
 ||vanced.com.co^$document
+||vanced.en.filerox.com^$document
 ||vanced.jp.uptodown.com^$document
 ||vanced.me^$document
 ||vanced.net^$document
@@ -8571,6 +8578,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||vancedmanager.org^$document
 ||vancedtube.com^$document
 ||vancedyoutube.org^$document
+||vancedyoutube.pk^$document
 ||vancouver-wp-3ekxbwgmwq-an.a.run.app^$document
 ||vanilla-boy.com^$document
 ||variety-fan.com^$document
@@ -10195,6 +10203,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.rere.jp/beginners/249062^$document
 ||www.rere.jp/beginners/268203^$document
 ||www.resonanciadomed.com^$document
+||www.revanced.cloud^$document
 ||www.revancedapp.download^$document
 ||www.revitapeel.ru^$document
 ||www.revolt.co.jp^$document
@@ -10949,14 +10958,17 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||youtuberpedia.com^$document
 ||youtubertrend.com^$document
 ||youtubevanced.app^$document
+||youtubevanced.com.in^$document
 ||youtubevanced.com^$document
 ||youtubevanced.gg^$document
 ||youtubevanced.muragon.com^$document
 ||youtubevanced.org^$document
 ||youtubevanced.su^$document
 ||youtubevanced.tools^$document
+||youtubevanced.tube^$document
 ||youtubevancedapk.io^$document
 ||youtubevancedapk.online^$document
+||youtubevancedapp.pk^$document
 ||youtubevanceds.com^$document
 ||youtubpremiummodapk.com^$document
 ||youtubvanced.org^$document
