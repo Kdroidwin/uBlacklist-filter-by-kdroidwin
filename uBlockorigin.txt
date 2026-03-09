@@ -9797,6 +9797,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.kumamero.net^$document
 ||www.kumibellejournal.com^$document
 ||www.kurakurakurarin.com^$document
+||www.kurashikiooya.com^$document
 ||www.kurisu.me^$document
 ||www.kusogakiblog.com^$document
 ||www.kutombawewe.net^$document

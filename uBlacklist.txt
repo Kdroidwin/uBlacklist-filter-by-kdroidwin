@@ -1,6 +1,3 @@
-title/Temu: /
-title/Official Temu App -/
-*://www.kurashikiooya.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -25122,6 +25119,7 @@ title/Official Temu App -/
 *://www.kumamero.net/*
 *://www.kumibellejournal.com/*
 *://www.kurakurakurarin.com/*
+*://www.kurashikiooya.com/*
 *://www.kurisu.me/*
 *://www.kusogakiblog.com/*
 *://www.kutombawewe.net/*
@@ -26507,11 +26505,13 @@ title/Hotspot Shield: /
 title/Hotspot Shield:/
 title/HotspotShield VPN & Wifi Proxy - /
 title/OFFでまとめ買/
+title/Official Temu App -/
 title/Pie Adblock - /
 title/Pie Adblock for Safari - /
 title/Revanced - Block Video Ads - Google Play /
 title/SUNLOUNGE/
 title/Sign in - Google Accounts/
+title/Temu: /
 title/VPN cat - /
 title/Wiki経歴/
 title/X-VPN - /
