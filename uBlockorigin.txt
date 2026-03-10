@@ -3370,6 +3370,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||hikari-iyashi.com^$document
 ||hikaribatake.com^$document
 ||hikeyblog.com^$document
+||hikikomori-toushika.com^$document
 ||hikitasan-gokainin.com^$document
 ||hikiyosesmith.hatenablog.com^$document
 ||hikohikoblog.com^$document
@@ -4486,6 +4487,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||lifetopiccom.com^$document
 ||lifunas.com^$document
 ||lightofhopealliance.org^$document
+||ligshtshot.site^$document
 ||liguelabatt.com^$document
 ||likklemai.com^$document
 ||likublog.com^$document
