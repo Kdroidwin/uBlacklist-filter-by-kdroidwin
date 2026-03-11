@@ -1,9 +1,4 @@
 *://*.000webhostapp.com/*
-*://steamrip.me.uk/*
-*://steam-rip.com.cv/*
-*://steamrip.buzz/*
-*://steamrip.link/*
-*://a9fm.github.io/lightshot/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -16013,6 +16008,7 @@
 *://a711.work/*
 *://a8.net/*
 *://a8e2385.com/*
+*://a9fm.github.io/lightshot/*
 *://aa-educare.com/*
 *://aaanews.net/*
 *://aalhoyr.cn/*
@@ -23107,7 +23103,11 @@
 *://static1-gutefrage.xyz/*
 *://stayatseven.com/*
 *://stbarthelemy-athle.com/*
+*://steam-rip.com.cv/*
 *://steamgamersenki.com/*
+*://steamrip.buzz/*
+*://steamrip.link/*
+*://steamrip.me.uk/*
 *://steamunlocked.net/*
 *://steckdosenessen.com/*
 *://stempark.projektinspire.co.tz/*

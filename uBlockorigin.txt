@@ -329,6 +329,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||a711.work^$document
 ||a8.net^$document
 ||a8e2385.com^$document
+||a9fm.github.io/lightshot^$document
 ||aa-educare.com^$document
 ||aaanews.net^$document
 ||aalhoyr.cn^$document
@@ -7686,7 +7687,11 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||stayatseven.com^$document
 ||stbarthelemy-athle.com^$document
 ||steakrecords.com^$document
+||steam-rip.com.cv^$document
 ||steamgamersenki.com^$document
+||steamrip.buzz^$document
+||steamrip.link^$document
+||steamrip.me.uk^$document
 ||steamunlocked.net^$document
 ||steckdosenessen.com^$document
 ||stempark.projektinspire.co.tz^$document
