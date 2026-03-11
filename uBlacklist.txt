@@ -1,4 +1,9 @@
 *://*.000webhostapp.com/*
+*://steamrip.me.uk/*
+*://steam-rip.com.cv/*
+*://steamrip.buzz/*
+*://steamrip.link/*
+*://a9fm.github.io/lightshot/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
