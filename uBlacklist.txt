@@ -1,7 +1,6 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
-*://fitgirl-repacks.pk/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
@@ -18196,6 +18195,7 @@
 *://fitgirl-repack.site/*
 *://fitgirl-repacks.cc/*
 *://fitgirl-repacks.in/*
+*://fitgirl-repacks.pk/*
 *://fitgirl-repacks.proxyninja.org/*
 *://fitgirl-repacks.theproxy.vip/*
 *://fitgirl-repacks.to/*

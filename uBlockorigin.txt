@@ -101,7 +101,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||115e.cn^$document
 ||11channel.jp^$document
 ||11kamone.com^$document
-||fitgirl-repacks.$document,from=~fitgirl-repacks.site
 ||120152.huobiglobal.online^$document
 ||1211092.slot19.online^$document
 ||1234arontoren.blog.fc2.com^$document
@@ -2576,8 +2575,10 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fitgirl-repack.net^$document
 ||fitgirl-repack.org^$document
 ||fitgirl-repack.site^$document
+||fitgirl-repacks.$document,from=~fitgirl-repacks.site
 ||fitgirl-repacks.cc^$document
 ||fitgirl-repacks.in^$document
+||fitgirl-repacks.pk^$document
 ||fitgirl-repacks.proxyninja.org^$document
 ||fitgirl-repacks.theproxy.vip^$document
 ||fitgirl-repacks.to^$document
