@@ -443,6 +443,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||aichansblog.com^$document
 ||aichi-sports-kenren.jp^$document
 ||aichi-waza.jp^$document
+||aiclaude.jp^$document
 ||aida-paris.net^$document
 ||aidarquitetura.com^$document
 ||aidoly.net^$document
@@ -2590,6 +2591,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||fitgirl.cc^$document
 ||fitgirlpack.site^$document
 ||fitgirlrepack.games^$document
+||fitgirlrepack.me^$document
 ||fitgirlrepacks.co^$document
 ||fitgirlrepacks.in^$document
 ||fitgirlrepacks.org^$document
@@ -3936,6 +3938,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||jukenz.com^$document
 ||juliatrofimenko.ru^$document
 ||jump-netabare.love^$document
+||jumpscare.link^$document
 ||jumpu2021.com^$document
 ||junabroadinfo.com^$document
 ||junchandream.com^$document

@@ -2,9 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://fitgirlrepack.me/*
-*://jumpscare.link/*
-*://aiclaude.jp/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -16122,6 +16119,7 @@
 *://aichansblog.com/*
 *://aichi-sports-kenren.jp/*
 *://aichi-waza.jp/*
+*://aiclaude.jp/*
 *://aida-paris.net/*
 *://aidarquitetura.com/*
 *://aidoly.net/*
@@ -18210,6 +18208,7 @@
 *://fitgirl.cc/*
 *://fitgirlpack.site/*
 *://fitgirlrepack.games/*
+*://fitgirlrepack.me/*
 *://fitgirlrepacks.co/*
 *://fitgirlrepacks.in/*
 *://fitgirlrepacks.org/*
@@ -19527,6 +19526,7 @@
 *://jukenz.com/*
 *://juliatrofimenko.ru/*
 *://jump-netabare.love/*
+*://jumpscare.link/*
 *://jumpu2021.com/*
 *://junabroadinfo.com/*
 *://junchandream.com/*
