@@ -95,13 +95,9 @@ https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/
 購読推奨
 ⚠検索結果には表示されますがリンクをクリックするとuBlock Originのポップアップが出ます。
 
-- uBlock Origin 用フィルター for SearXNG
-```
-https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/sites/uBO-note.txt
-```
-SearXNGの一部のインスタンスにしか対応していません。 更新頻度は低いです。（実験的）
 
 - Block specific note by Kdroidwin
+[購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt&title=Block%20specific%20note%20by%20Kdroidwin)
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlacklist_converted-foruBo.txt
 ```
