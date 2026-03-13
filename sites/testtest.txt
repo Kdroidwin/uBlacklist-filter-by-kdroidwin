@@ -1,0 +1,4 @@
+||linux.top^$document
+||zweryfikowac.pl^$document
+||zwcassrw.com^$document
+||blog.hatena.top^$document
