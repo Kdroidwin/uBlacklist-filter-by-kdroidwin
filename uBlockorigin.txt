@@ -7194,7 +7194,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||seacpac.com^$document
 ||seamaxastillero.com^$document
 ||sean-j.com^$document
-||search.app^$document
 ||search.google.sky4k.top^$document
 ||seasea.xyz^$document
 ||sebastianoarmelibattana.com^$document
