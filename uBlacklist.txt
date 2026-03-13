@@ -1,7 +1,5 @@
 *://*.000webhostapp.com/*
 *://*.16892.net/*
-*://xzmc.eotqvfnp.hair/*
-*://eotqvfnp.hair/*
 *://*.55276.net/*
 *://*.a3erf.com/*
 *://*.addness.co.jp/*
@@ -17967,6 +17965,7 @@
 *://entourageprod.com/*
 *://entrepreneur-state-of-africa.com/*
 *://enxgeki.com/*
+*://eotqvfnp.hair/*
 *://epicgames.co.uk/*
 *://epicmaterialdays.com/*
 *://eposexperts.com/*
@@ -26137,6 +26136,7 @@
 *://xxkaiwai.com/*
 *://xxx.report/*
 *://xxxyuxxxka.com/*
+*://xzmc.eotqvfnp.hair/*
 *://y3r710.r.eu-west-1.awstrack.me/*
 *://yachilog.com/*
 *://yagiasako.com/*
