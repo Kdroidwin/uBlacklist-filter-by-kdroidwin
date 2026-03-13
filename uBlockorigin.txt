@@ -1806,6 +1806,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||cyamatrend.com^$document
 ||cyberapp.ru^$document
 ||cyberbiatch.com^$document
+||cyberghost-vpn.jp.malavida.com^$document
 ||cyberpour.com^$document
 ||cybersecurity-jp.com/contents/internet^$document
 ||cybrigtejtreexrx.xyz^$document
@@ -5978,6 +5979,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||note.com/watechexplorers^$document
 ||note.com/webcommu_sub^$document
 ||note.com/wise_liger7796^$document
+||note.com/writer_syota^$document
 ||note.com/yamachan_5lc^$document
 ||note.com/yamaguchi3forza^$document
 ||note.com/yarunara_ima^$document
@@ -7721,6 +7723,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||storyoffilm-japan.com^$document
 ||storypick.net^$document
 ||storyweb.jp^$document
+||strate.biz^$document
 ||strategydata.cn^$document
 ||streamrental.com^$document
 ||strepgeroki.digital^$document
@@ -7908,6 +7911,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||taiofam.com^$document
 ||taisan.blog^$document
 ||taisetsuzan-ultratrail.com^$document
+||taitan-cookware.com^$document
 ||taiwebs.com^$document
 ||taiwebs.com^$document
 ||taji26.com^$document

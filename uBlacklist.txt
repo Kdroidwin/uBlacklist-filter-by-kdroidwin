@@ -2,10 +2,6 @@
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
-*://taitan-cookware.com/*
-*://note.com/writer_syota/*
-*://strate.biz/*
-*://cyberghost-vpn.jp.malavida.com/*
 *://*.addness.co.jp/*
 *://*.ajjnoj.blog.jp/*
 *://*.akachan-meimei.com/*
@@ -17439,6 +17435,7 @@
 *://cyamatrend.com/*
 *://cyberapp.ru/*
 *://cyberbiatch.com/*
+*://cyberghost-vpn.jp.malavida.com/*
 *://cyberpour.com/*
 *://cybersecurity-jp.com/contents/internet/*
 *://cybrigtejtreexrx.xyz/*
@@ -21505,6 +21502,7 @@
 *://note.com/watechexplorers/*
 *://note.com/webcommu_sub/*
 *://note.com/wise_liger7796/*
+*://note.com/writer_syota/*
 *://note.com/yamachan_5lc/*
 *://note.com/yamaguchi3forza*
 *://note.com/yarunara_ima/*
@@ -23139,6 +23137,7 @@
 *://stores.chaumet.cn/*
 *://storyoffilm-japan.com/*
 *://storypick.net/*
+*://strate.biz/*
 *://strategydata.cn/*
 *://streamrental.com/*
 *://strepgeroki.digital/*
@@ -23314,6 +23313,7 @@
 *://taiofam.com/*
 *://taisan.blog/*
 *://taisetsuzan-ultratrail.com/*
+*://taitan-cookware.com/*
 *://taiwebs.com/*
 *://taji26.com/*
 *://tajimi-akiyabank.jp/*
