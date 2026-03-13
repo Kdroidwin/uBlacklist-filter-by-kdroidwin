@@ -11196,7 +11196,6 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||zzaowbey.art^$document
 ||zzdusxkchhxzrbgs.com^$document
 ! 除外
-@@/^.*(tech|project|linux).*\.top(/[a-z0-9_-]?.*)?$/$doc
 @@://blog.*.top^$doc
 @@://pyrofork.*.top^$doc
 @@||masto*.top^$doc
