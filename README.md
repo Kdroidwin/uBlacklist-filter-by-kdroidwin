@@ -92,8 +92,8 @@ ABP形式のコンテンツブロッカーなどにも対応しています。
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
-購読推奨
-⚠検索結果には表示されますがリンクをクリックするとuBlock Originのポップアップが出ます。
+<br>
+<br>
 
 
 - Block specific note by Kdroidwin
