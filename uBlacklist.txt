@@ -1,40 +1,3 @@
-*://video.twimg.link/*
-*://newrhizomes.com/*
-*://tweetsoku.com/*
-*://note.com/totalnewsworld/*
-*://tsuisoku.com/*
-*://seijichishin.com/*
-*://www.dailymail.co.uk/*
-*://www.dailymail.com/*
-*://washingtontimes.jp/*
-*://www.washingtontimes.com/*
-*://www.epochtimes.jp/*
-*://mb.epochtimes.jp/*
-title/エポックタイムズ・ジャパン - Google Play /
-*://m.epochtimes.jp/*
-*://*.epochtimes.jp/*
-*://epochtimes.jp/*
-*://www.naturalnews.com/*
-*://www.infowars.com/*
-*://beforeitsnews.com/*
-*://www.thegatewaypundit.com/*
-*://www.breitbart.com/*
-*://nypost.com/*
-*://viltana.com/*
-*://tocana.jp/*
-*://www.zakzak.co.jp/*
-*://www.zak.jp/*
-*://www.news-postseven.com/*
-*://j7p.jp/*
-*://josei7.com/*
-*://news-vision.jp/*
-*://note.com/taka_matsu1/*
-*://mike-zakki.com/*
-*://tecn.apice-tec.co.jp/*
-*://nby.stylemap.co.jp/*
-*://aniwatchtv.to/*
-*://evisaentry.com/*
-*://oshi-gadgetlog.wk-lh.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
@@ -5143,6 +5106,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://*.ec/?z=7*
 *://*.ec/?z=8*
 *://*.ec/?z=9*
+*://*.epochtimes.jp/*
 *://*.es/comment.php?n=*
 *://*.eu/?a=0*
 *://*.eu/?a=1*
@@ -16386,6 +16350,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://animonogatari.com/*
 *://anincline.com/*
 *://anista-maga.com/*
+*://aniwatchtv.to/*
 *://ankoron.com/*
 *://ankororo.com/*
 *://annaishimasuyo.com/*
@@ -16768,6 +16733,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://bedrockinfra.com/*
 *://beelzeboulxxx.com/*
 *://beerprice.life/*
+*://beforeitsnews.com/*
 *://befree-life.com/*
 *://beginner-husband.com/*
 *://begood.solutions/*
@@ -18005,6 +17971,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://eotqvfnp.hair/*
 *://epicgames.co.uk/*
 *://epicmaterialdays.com/*
+*://epochtimes.jp/*
 *://eposexperts.com/*
 *://epsmic81.hatenablog.com/*
 *://epson.ru/*
@@ -18106,6 +18073,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://everydayissunday.livedoor.blog/*
 *://everypawday.com/*
 *://everythingiscurious.com/*
+*://evisaentry.com/*
 *://eviza.org/*
 *://evropskakuca.me/*
 *://eweekkorea.com/*
@@ -19419,6 +19387,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://izumino.jp/*
 *://j-inagaki.com/*
 *://j-rocklove.com/*
+*://j7p.jp/*
 *://ja-beta-reactjs-org.vercel.app/*
 *://ja.all10soft.com/*
 *://ja.copress.shop/*
@@ -19523,6 +19492,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://joi.isoss.net/*
 *://jonathan-movie.jp/*
 *://joqr70th-nogizaka.jp/*
+*://josei7.com/*
 *://joseiana.com/*
 *://josepr1.sg-host.com/*
 *://joshi-ryoku.jp/*
@@ -20252,6 +20222,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://m.cocobrandshop.jp/*
 *://m.cosprpr.com/*
 *://m.costsukuri.com/*
+*://m.epochtimes.jp/*
 *://m.hu60.cn/*
 *://m.ladymax.cn/*
 *://m.majorgeeks.com/files/details/ccleaner_portable.html*
@@ -20496,6 +20467,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://mayuponstyle.com/*
 *://mayuri.hatenadiary.com/*
 *://mayutan.com/*
+*://mb.epochtimes.jp/*
 *://mbp-shizuoka.com/*
 *://mcd-mop.onelink.me/*
 *://mce-rtworld.com/*
@@ -20616,6 +20588,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://mikanillust.work/*
 *://mikansan.xyz/*
 *://mikasroom17.com/*
+*://mike-zakki.com/*
 *://mikeshawenespanol.com/*
 *://miki333.com/*
 *://mikimane.com/*
@@ -21009,6 +20982,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://nazo-project.com/*
 *://nbqcfgar.ltd/*
 *://nbtkoshi.com/*
+*://nby.stylemap.co.jp/*
 *://ncgm-dm.webpage-creation-support.info/*
 *://necoarashi.com/*
 *://necocoto.com/*
@@ -21073,10 +21047,12 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://newpipe.online/*
 *://newpipe.schabi.org/*
 *://newrepublic.com/*
+*://newrhizomes.com/*
 *://news-box.tokyo/*
 *://news-hunter.net/*
 *://news-media-life.com/*
 *://news-news-news.net/*
+*://news-vision.jp/*
 *://news-wakaru.com/*
 *://news.eeany.cn/*
 *://news.mynavi.jp/article/20180421-chrome/*
@@ -21501,6 +21477,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://note.com/syashinsuki/*
 *://note.com/syuroriiman/*
 *://note.com/t1944h/*
+*://note.com/taka_matsu1/*
 *://note.com/takayanagi_koi/*
 *://note.com/takkxi/*
 *://note.com/takumi333/*
@@ -21521,6 +21498,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://note.com/tokotoko_2025/*
 *://note.com/tom485/*
 *://note.com/torataka50/*
+*://note.com/totalnewsworld/*
 *://note.com/toy_hobby/*
 *://note.com/travel_paya/*
 *://note.com/trivia_kingdom/*
@@ -21628,6 +21606,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://nyc-guitars.com/*
 *://nyfco.org/*
 *://nymtest.xyz/*
+*://nypost.com/*
 *://nznsms.jp/*
 *://o-ishimori.com/*
 *://o0o0o0.info/*
@@ -21777,6 +21756,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://osenblog.com/*
 *://oseti.club/*
 *://oshi-gadgetlog.hatenablog.com/*
+*://oshi-gadgetlog.wk-lh.com/*
 *://oshi-life.com/*
 *://oshikatsulife.blog.jp/*
 *://oshikeiblog.com/*
@@ -22696,6 +22676,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://seedo.augfund.biz/*
 *://seiai690152.ocnk.me/*
 *://seidentest.com/*
+*://seijichishin.com/*
 *://seijikanews.com/*
 *://seijikanojoho.com/*
 *://seikaku-bon.jp/*
@@ -23448,6 +23429,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://techshare.co.jp/*
 *://techylist.com/*
 *://techzapk.net/*
+*://tecn.apice-tec.co.jp/*
 *://tecnohumanismo.online/*
 *://tee1515.com/*
 *://teeeerapon.com/*
@@ -23613,6 +23595,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://tobe-life.com/*
 *://tobitateshizuoka.com/*
 *://tobuy.jp/*
+*://tocana.jp/*
 *://tocomama03.com/*
 *://todayeiga.com/*
 *://togashira7777.site/*
@@ -23801,6 +23784,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://trustcellar.com/*
 *://trx-mkt.com/*
 *://tsubakitaste.com/*
+*://tsuisoku.com/*
 *://tsuji-papa.com/*
 *://tsukae.ru/*
 *://tsuki-ai.co.jp/*
@@ -23839,6 +23823,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://tvbundleshubonline.com/*
 *://tvccochan.com/*
 *://tvreview.tokyo/*
+*://tweetsoku.com/*
 *://tweetsoku.news/*
 *://twemix.xyz/*
 *://twhite.me/*
@@ -24034,6 +24019,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://victorraulrr.info/*
 *://video-distribution.jp/*
 *://video-twimg-eroman.mystrikingly.com/*
+*://video.twimg.link/*
 *://videotwimgcom.atukan.com/*
 *://videotwimgcom.dayuh.net/*
 *://videotwin.ehoh.net/*
@@ -24043,6 +24029,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://vifox.aremove.shop/*
 *://vile.eosose.ink/*
 *://villaastori.com/detail/*
+*://viltana.com/*
 *://vin2chance.com/*
 *://vinyland45.com/*
 *://virginiacontractorspainters.com/*
@@ -24168,6 +24155,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://warriormetalcrafts.com/*
 *://wasabeafn.com/*
 *://wascorrectes.com/*
+*://washingtontimes.jp/*
 *://wasni.care/*
 *://wasshoi2024.com/*
 *://wasyoku2017.m.icoc.me/*
@@ -24559,6 +24547,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.brandnew-amy.com/*
 *://www.brandycampcrew.com/*
 *://www.breguet.cn/*
+*://www.breitbart.com/*
 *://www.brenzebra.com/*
 *://www.bright-sendai.com/*
 *://www.brighteazy.com/*
@@ -24683,6 +24672,8 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.cyberpatrolg.com/cpg/*
 *://www.cyberuk.uk/*
 *://www.czjmjd.cn/*
+*://www.dailymail.co.uk/*
+*://www.dailymail.com/*
 *://www.daizu-lab.jp/*
 *://www.dakimax.com/*
 *://www.danmurphys.me/*
@@ -24781,6 +24772,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.epicdigitalhub.com/*
 *://www.epicenlinea.com/*
 *://www.epiqglobal.cn/*
+*://www.epochtimes.jp/*
 *://www.epr.rw/products/*
 *://www.equistyle-magazine.com/*
 *://www.er92.top/*
@@ -25032,6 +25024,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.indigocowork.space/*
 *://www.infocart.jp/*
 *://www.infotop.jp/*
+*://www.infowars.com/*
 *://www.innocentcapitaltax.com/*
 *://www.inspiracionkohler.com/*
 *://www.insta360.cn/*
@@ -25377,6 +25370,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.napha.org/*
 *://www.narumiya-catalog.com/*
 *://www.natsunoroot.com/*
+*://www.naturalnews.com/*
 *://www.navidetouelakhbar.info/*
 *://www.nazra.net/*
 *://www.nb-cg.me/*
@@ -25389,6 +25383,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.networkmoaleji2024.online/*
 *://www.newcsl.cn/*
 *://www.newlifeconstruction.co.uk/*
+*://www.news-postseven.com/*
 *://www.newsroomtransparencytracker.com/*
 *://www.newsunpia.com/*
 *://www.nexusmods.com/*
@@ -25809,6 +25804,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.theapplestore.co.uk/*
 *://www.theclinic.jp/*
 *://www.theedgemalta.com/*
+*://www.thegatewaypundit.com/*
 *://www.thegioididong.com/*
 *://www.theglomma.com/*
 *://www.thelegalcourt.com/*
@@ -25944,6 +25940,7 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.wandoutv.cn/*
 *://www.warorince.com/*
 *://www.waruagake.work/*
+*://www.washingtontimes.com/*
 *://www.wastemanagers.africa/*
 *://www.wdf122333.online/*
 *://www.wearemoroccotravel.com/*
@@ -26021,6 +26018,8 @@ title/エポックタイムズ・ジャパン - Google Play /
 *://www.yurusupo.com/*
 *://www.yxssp.com/*
 *://www.yzw6.top/*
+*://www.zak.jp/*
+*://www.zakzak.co.jp/*
 *://www.zare-kiji-tukai.com/*
 *://www.zcastnmg.cn/*
 *://www.zebra.cn/*
@@ -26604,6 +26603,7 @@ title/は何者？年収/
 title/は無料で読める？/
 title/は無料で読める？海賊/
 title/を読む方法！最新刊も読める？/
+title/エポックタイムズ・ジャパン - Google Play /
 title/スキャンダル速報/
 title/スーパーコピー/
 title/バンクで読める？/
