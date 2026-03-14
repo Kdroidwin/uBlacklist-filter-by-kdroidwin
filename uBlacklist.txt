@@ -1,3 +1,12 @@
+*://video.twimg.link/*
+*://newrhizomes.com/*
+*://note.com/taka_matsu1/*
+*://mike-zakki.com/*
+*://tecn.apice-tec.co.jp/*
+*://nby.stylemap.co.jp/*
+*://aniwatchtv.to/*
+*://evisaentry.com/*
+*://oshi-gadgetlog.wk-lh.com/*
 *://*.000webhostapp.com/*
 *://*.16892.net/*
 *://*.55276.net/*
