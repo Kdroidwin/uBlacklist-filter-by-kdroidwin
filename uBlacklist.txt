@@ -1,8 +1,4 @@
 *://*.000webhostapp.com/*
-*://www.ivisa.com/*
-*://esta.visasyst.com/*
-*://www.visasyst.com/*
-*://visasyst.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
@@ -18054,6 +18050,7 @@
 *://espritpress.com/*
 *://essay-au.com/*
 *://est-pro.co.jp/*
+*://esta.visasyst.com/*
 *://estatesnm.com/*
 *://estudioedelman.com/*
 *://esunoentame.com/*
@@ -24041,6 +24038,7 @@
 *://virtualmeetingsolutions.online/*
 *://virtualviasa.top/*
 *://virtusan.xyz/*
+*://visasyst.com/*
 *://vision-digital.co/*
 *://visionvinylflooring.com/*
 *://visitlink.me/*
@@ -25059,6 +25057,7 @@
 *://www.itreview.jp/*
 *://www.itreview.jp/categories/vpn*
 *://www.itunes.co.uk/*
+*://www.ivisa.com/*
 *://www.ivlim.ru/*
 *://www.iwachu.info/*
 *://www.iwako-light.com/*
@@ -25925,6 +25924,7 @@
 *://www.vimaanaaero.com/*
 *://www.vinmethodenature.org/*
 *://www.virusboats.com/*
+*://www.visasyst.com/*
 *://www.vitalclinic.co.uk/*
 *://www.vivaanime.com/*
 *://www.viveroscaselas.com/*

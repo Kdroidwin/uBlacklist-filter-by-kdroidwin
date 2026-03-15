@@ -2428,6 +2428,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||espritpress.com^$document
 ||essay-au.com^$document
 ||est-pro.co.jp^$document
+||esta.visasyst.com^$document
 ||estatesnm.com^$document
 ||estudioedelman.com^$document
 ||esunoentame.com^$document
@@ -8673,6 +8674,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||virtualmeetingsolutions.online^$document
 ||virtualviasa.top^$document
 ||virtusan.xyz^$document
+||visasyst.com^$document
 ||vision-digital.co^$document
 ||visionvinylflooring.com^$document
 ||visitlink.me^$document
@@ -9734,6 +9736,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.itreview.jp/categories/vpn^$document
 ||www.itreview.jp^$document
 ||www.itunes.co.uk^$document
+||www.ivisa.com^$document
 ||www.ivlim.ru^$document
 ||www.iwachu.info^$document
 ||www.iwako-light.com^$document
@@ -10601,6 +10604,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||www.vimaanaaero.com^$document
 ||www.vinmethodenature.org^$document
 ||www.virusboats.com^$document
+||www.visasyst.com^$document
 ||www.vitalclinic.co.uk^$document
 ||www.vivaanime.com^$document
 ||www.viveroscaselas.com^$document
