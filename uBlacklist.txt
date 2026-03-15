@@ -1,4 +1,8 @@
 *://*.000webhostapp.com/*
+*://www.ivisa.com/*
+*://esta.visasyst.com/*
+*://www.visasyst.com/*
+*://visasyst.com/*
 *://*.16892.net/*
 *://*.55276.net/*
 *://*.a3erf.com/*
