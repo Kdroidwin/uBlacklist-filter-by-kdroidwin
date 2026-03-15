@@ -8191,6 +8191,7 @@ www.privacytools.io/secure-password-manager##div.container:nth-of-type(2)
 ||tits.fetishp.com^$document
 ||tk-create.com^$document
 ||tk-kmt.jp^$document
+||tk-production.xyz/yt-downloader-tk^$document
 ||tk196054.com^$document
 ||tklog.work^$document
 ||tkm-3.com^$document
